@@ -84,7 +84,7 @@ clinical-data-portfolio/
 
 ## 🚀 Featured Projects Index
 
-### 🛡️ [01. Clinical Trial Data Validation Engine](./projects/01_clinical_data_uality_engine/)
+### 🛡️ [01. Clinical Trial Data Validation Engine](./projects/01_clinical_data_quality_engine/)
 * **Objective:** Ensure source data validity, protocol compliance, and programmatic query tracking.
 * **Core Toolkit:** Python, Pandas, Clinical Data Management Rules.
 * **Key Deliverable:** An automated system evaluating 2,000+ relational rows (`patients`, `visits`, `adverse_events`) to catch chronological errors, severe blood pressure excursions, and unsafe adverse event contradictions, logging outliers immediately into a query report.
