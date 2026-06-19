@@ -1,5 +1,26 @@
+# 👋 Hi there, I’m **Sri Nithya!**
+<p align="center">
+  <a href="https://www.kaggle.com/auro15">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sri-nithya-s-0b47681a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:venkatsri1503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # Clinical Data Analytics & Biostatistics Portfolio
 Welcome to my portfolio repository. This repository showcases an end-to-end collection of data science, programming, and analytics projects tailored specifically to the **clinical trials, healthcare operations, and pharmaceutical** industries. 
+
+---
+
+## 📌 About Me
+
+I am an aspiring **Clinical & Healthcare Data Analyst** with a background in **Medical Biotechnology**, focused on transforming clinical and healthcare data into **regulatory-compliant, audit-ready insights**.
 
 ---
 
@@ -11,10 +32,36 @@ My core professional focus is to bridge the gap between complex health data and 
 
 ---
 
+## 👩‍🎓 Education
+
+🎓 **M.Tech in Medical Biotechnology**
+*Indian Institute of Technology, Hyderabad (2023–2025)*
+
+* 🧬 **Dissertation:** Comparative Genomics of Signal Transduction Genes across bacterial phylum
+* ⚙️ Executed end to end phylogenetics pipeline for **600+ microbial genomes** in order to assess its evolutionary trajectory and the functional complexity.
+* 📊 Performed large-scale analysis using  **shell scripting, Python (Pandas, NumPy), R(ggplot2, tidyverse), MS Excel**.
+* Bioinformatics Tools: BLAST,ClustalW, ProteinOrtho, IQTREE
+---
+
+## 💼 Experience
+
+### 🏢 **Data Science Intern (Healthcare & Analytics)**
+
+**Unified Mentor Pvt Ltd** | *Nov 2025 – Jan 2026*
+
+* Built **end-to-end analytical pipelines** across healthcare & business domains
+* Applied **data validation, feature engineering, and explainability (SHAP)**
+* Developed dashboards for **decision-making & operational insights**
+* Focused on **interpretable, audit-ready analytics**
+
+🔗 [Project Repository](https://github.com/Srinithya1503/UM-Projects)
+
+---
+
 ## 🛠️ Core Skillset & Domain Expertise
 
 * **Clinical Frameworks:** CDISC Standards (SDTM & ADaM implementation), ICH-GCP Guidelines, Trial Master File (TMF) Reference Model, Electronic Data Capture (EDC) workflows, FDA 21 CFR Part 11.
-* **Programming & Tools:** Python (Pandas, NumPy, Scikit-Learn, Pharmaverse), SAS (Base SAS, SAS Macro, PROC SQL, PROC LIFETEST), R, SQL, Git/GitHub.
+* **Programming & Tools:** Python (Pandas, NumPy, Seaborm, Matplotlib), SAS (Base SAS, SAS Macro), R, SQL, Git/GitHub.
 * **Methodologies:** Data Cleaning & Programmatic Validation, Survival Analysis (Kaplan-Meier), Adverse Event Summarization, Real-World Data (RWD) Modeling, Clinical Text Mining (NLP).
 
 ---
@@ -28,43 +75,20 @@ clinical-data-portfolio/
 ├── README.md                          # Portfolio landing page & career index
 ├── learning_resources/                 # Clinical definitions, regulatory frameworks, & cheat sheets
 ├── daily_practice/                    # Everyday mini-scripts, coding exercises, and macros
-└── projects/                          # Production-grade clinical domain projects
-    ├── 01_ct_document_analysis/       # NLP-driven protocol and CSR text mining
-    ├── 02_tmf_compliance/             # Trial Master File completeness & audit readiness
-    ├── 03_healthcare_patient_analytics/ # EHR analytics & Real-World Evidence (RWE) modeling
-    ├── 04_clinical_trial_analytics/   # EDC data validation, queries, & clinical safety flags
-    └── 05_biostat_sas_programming/    # SAS/Python CDISC pipelines & regulatory TLF generation
+└── projects/                          # Production-grade clinical domain projectsg
+    ├── 01_clinical_data_quality_engine/   # EDC data validation, queries, & clinical safety flags
+    └── 
 ```
 
 ---
 
 ## 🚀 Featured Projects Index
 
-### 🔍 [01. Clinical Trials Document Analysis](./projects/01_ct_document_analysis/)
-* **Objective:** Automate text extraction from dense clinical regulatory documents.
-* **Core Toolkit:** Python, NLP, Regular Expressions, PyPDF2.
-* **Key Deliverable:** A script that parses raw Clinical Study Reports (CSRs) to automatically extract and tabulate eligibility (inclusion/exclusion) criteria and trial endpoints.
-
-### 📋 [02. TMF Compliance Tracking](./projects/02_tmf_compliance/)
-* **Objective:** Monitor study operational health and audit readiness using metadata.
-* **Core Toolkit:** SQL, Data Auditing, Metadata Validation.
-* **Key Deliverable:** An audit pipeline evaluating Simulated Trial Master File (TMF) manifests to catch missing operational essentials (e.g., Form FDA 1572, IRB approvals) across multiple clinical sites.
-
-### 🏥 [03. Healthcare Patient Analytics (RWE)](./projects/03_healthcare_patient_analytics/)
-* **Objective:** Leverage Real-World Data (RWD) to identify patient outcomes and trends.
-* **Core Toolkit:** Python (Scikit-Learn), Electronic Health Records (EHR) parsing, Logistics Regression.
-* **Key Deliverable:** A predictive analysis model utilizing synthetic EHR data to evaluate 30-day hospital readmission risks and calculate baseline demographic correlations.
-
-### 🛡️ [04. Clinical Trial Data Validation Engine](./projects/04_clinical_trial_analytics/)
+### 🛡️ [01. Clinical Trial Data Validation Engine](./projects/01_clinical_data_uality_engine/)
 * **Objective:** Ensure source data validity, protocol compliance, and programmatic query tracking.
 * **Core Toolkit:** Python, Pandas, Clinical Data Management Rules.
 * **Key Deliverable:** An automated system evaluating 2,000+ relational rows (`patients`, `visits`, `adverse_events`) to catch chronological errors, severe blood pressure excursions, and unsafe adverse event contradictions, logging outliers immediately into a query report.
-
-### 📊 [05. Biostatistics & SAS Programming](./projects/05_biostat_sas_programming/)
-* **Objective:** Generate submission-ready data structures and statistical outputs.
-* **Core Toolkit:** SAS Base, SAS Macros, `pharmaverse` (Python/R), Matplotlib/ggplot2.
-* **Key Deliverable:** Production of regulatory-grade Tables, Listings, and Figures (TLFs)—specifically a Demographic Baseline Summary (Table) and a Time-to-Event Kaplan-Meier curve for clinical endpoints.
-
+  
 ---
 
 ## 📖 Continuous Learning Dashboard (`/daily_practice`)
@@ -78,6 +102,15 @@ To keep my technical toolkit sharp, the `daily_practice/` subfolder logs short, 
 ## ✉️ Let's Connect!
 I am actively seeking professional opportunities where I can apply this technical analytical stack to impact patient-centric medical clinical research. 
 
-* **LinkedIn:** [Your Name / Link]
-* **Email:** [Your Professional Email Address]
-* **Professional Blog/Portfolio Site:** [Optional Link]
+📧 [venkatsri1503@gmail.com](mailto:venkatsri1503@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sri-nithya-s-0b47681a4/)
+
+---
+
+## ⭐ Final Note
+
+This profile is continuously evolving as I build **real-world clinical data projects and regulatory-focused analytics systems**.
+
+---
+
+
