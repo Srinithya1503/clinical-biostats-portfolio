@@ -1,0 +1,410 @@
+AE_Number,Patient_ID,Side_Effect,Severity,Is_Serious,Start_Date,End_Date,Consent_Date,Outcome
+1,PT-001,Fever,Moderate,No,2023-07-08,2023-08-02,2023-05-30,Fatal
+2,PT-001,Nausea,Severe,Yes,2023-06-02,2023-06-07,2023-05-30,Still Recovering
+3,PT-002,Cough,Mild,No,2023-05-16,2023-05-22,2023-05-09,Not Recovered
+4,PT-004,Back Pain,Severe,Yes,2024-01-06,2024-01-14,2023-11-15,Recovered
+5,PT-004,Nausea,Moderate,No,2024-02-10,2024-03-02,2023-11-15,Still Recovering
+6,PT-004,Rash,Mild,No,2023-11-17,2023-12-07,2023-11-15,Recovered
+7,PT-005,Joint Pain,Moderate,No,2023-05-04,2023-05-07,2023-02-14,Not Recovered
+8,PT-005,Insomnia,Moderate,No,2023-03-17,2023-03-26,2023-02-14,Still Recovering
+9,PT-005,Rash,Moderate,No,2023-02-19,2023-03-09,2023-02-14,Recovered
+10,PT-005,Nausea,Mild,No,2023-04-25,2023-05-03,2023-02-14,Fatal
+11,PT-007,Fatigue,Moderate,No,2023-07-20,2023-07-24,2023-05-15,Recovered
+12,PT-007,Fatigue,Severe,Yes,2023-08-15,2023-08-19,2023-05-15,Recovered
+13,PT-007,Headache,Moderate,No,2023-05-21,2023-06-05,2023-05-15,Still Recovering
+14,PT-008,Insomnia,Severe,Yes,2023-08-21,2023-08-31,2023-06-20,Not Recovered
+15,PT-008,Headache,Severe,Yes,2023-07-13,2023-07-25,2023-06-20,Fatal
+16,PT-009,Stomach Ache,Moderate,No,2023-08-19,2023-10-04,2023-09-01,Still Recovering
+17,PT-009,Dizziness,Severe,Yes,2023-09-21,2023-10-18,2023-09-01,Fatal
+18,PT-009,Back Pain,Moderate,No,2023-10-16,2023-11-04,2023-09-01,Recovered
+19,PT-010,Headache,Mild,Yes,2023-05-11,2023-05-25,2023-03-21,Not Recovered
+20,PT-010,Nausea,Mild,No,2023-06-14,2023-06-29,2023-03-21,Fatal
+21,PT-010,Joint Pain,Moderate,No,2023-06-20,2023-07-09,2023-03-21,Recovered
+22,PT-011,Stomach Ache,Mild,No,2023-12-21,2024-01-16,2023-11-11,Recovered
+23,PT-011,Headache,Severe,Yes,2024-02-01,2024-02-28,2023-11-11,Not Recovered
+24,PT-012,Cough,Severe,Yes,2023-09-23,2023-09-26,2023-07-03,Still Recovering
+25,PT-012,Back Pain,Severe,Yes,2023-07-16,2023-07-30,2023-07-03,Not Recovered
+26,PT-012,Headache,Moderate,No,2023-08-03,2023-08-11,2023-07-03,Not Recovered
+27,PT-012,Dizziness,,Yes,2023-09-15,2023-10-04,2023-07-03,Not Recovered
+28,PT-013,Fatigue,Moderate,No,2023-11-29,2023-12-06,2023-11-26,Still Recovering
+29,PT-013,Fever,Mild,No,2023-12-03,2023-12-30,2023-11-26,Fatal
+30,PT-014,Nausea,Severe,Yes,2023-10-17,2023-10-29,2023-09-17,Recovered
+31,PT-014,Stomach Ache,Moderate,No,2023-09-27,2023-10-12,2023-09-17,Recovered
+32,PT-015,Rash,Severe,Yes,2023-09-24,2023-10-12,2023-09-15,Recovered
+33,PT-015,Nausea,Moderate,No,2023-11-20,2023-12-07,2023-09-15,Not Recovered
+34,PT-015,Fever,Moderate,No,2023-11-23,2023-11-05,2023-09-15,Recovered
+35,PT-015,Cough,Moderate,No,2023-10-08,2023-11-04,2023-09-15,Recovered
+36,PT-016,Nausea,Severe,Yes,2023-05-12,2023-05-29,2023-04-22,Recovered
+37,PT-016,Stomach Ache,Severe,Yes,2023-07-02,2023-07-31,2023-04-22,Fatal
+38,PT-016,Joint Pain,Moderate,No,2023-05-26,2023-05-28,2023-04-22,Recovered
+39,PT-018,Back Pain,Mild,No,2023-08-03,2023-09-01,2023-06-01,Recovered
+40,PT-018,Joint Pain,Severe,Yes,2023-07-13,2023-08-06,2023-06-01,Still Recovering
+41,PT-018,Joint Pain,Severe,Yes,2023-06-24,2023-07-04,2023-06-01,Fatal
+42,PT-018,Rash,,Yes,2023-07-20,2023-08-07,2023-06-01,Fatal
+43,PT-019,Fever,Moderate,No,2023-03-01,2023-03-06,2023-02-28,Fatal
+44,PT-019,Insomnia,Severe,No,2023-05-19,2023-06-02,2023-02-28,Fatal
+45,PT-019,Stomach Ache,Mild,No,2023-05-07,2023-05-30,2023-02-28,Fatal
+46,PT-020,Rash,Moderate,No,2023-09-17,2023-09-14,2023-07-02,Fatal
+47,PT-022,Nausea,Severe,Yes,2023-09-17,2023-10-09,2023-08-03,Still Recovering
+48,PT-023,Dry Mouth,Moderate,No,2023-12-20,2023-12-14,2023-10-21,Still Recovering
+49,PT-025,Insomnia,Severe,Yes,2023-06-30,2023-07-11,2023-05-10,Recovered
+50,PT-025,Rash,Moderate,No,2023-05-25,2023-06-14,2023-05-10,Not Recovered
+51,PT-026,Dry Mouth,Moderate,No,2023-08-09,2023-09-06,2023-06-19,Fatal
+52,PT-028,Fatigue,Severe,Yes,2023-06-15,2023-07-03,2023-03-31,Not Recovered
+53,PT-028,Dry Mouth,Mild,No,2023-06-09,2023-06-14,2023-03-31,Fatal
+54,PT-028,Fever,Mild,No,2023-06-18,2023-06-24,2023-03-31,Not Recovered
+55,PT-028,Fever,Moderate,No,2023-06-28,2023-07-17,2023-03-31,Still Recovering
+56,PT-029,Back Pain,Severe,Yes,2023-06-15,2023-07-14,2023-03-19,Not Recovered
+57,PT-029,Joint Pain,Mild,No,2023-06-19,2023-07-09,2023-03-19,Still Recovering
+58,PT-029,Cough,Moderate,No,2023-06-15,2023-06-17,2023-03-19,Fatal
+59,PT-029,Joint Pain,Severe,Yes,2023-04-17,2023-05-14,2023-03-19,Recovered
+60,PT-030,Insomnia,Mild,No,2023-12-12,2023-12-29,2023-11-30,Still Recovering
+61,PT-030,Back Pain,Moderate,Yes,2024-02-14,2024-03-06,2023-11-30,Recovered
+62,PT-030,Stomach Ache,Moderate,No,2024-01-17,2024-01-30,2023-11-30,Not Recovered
+63,PT-031,Stomach Ache,Moderate,No,2023-07-05,2023-07-16,2023-06-29,Fatal
+64,PT-031,Rash,Moderate,No,2023-08-30,2023-09-24,2023-06-29,Not Recovered
+65,PT-031,Cough,Moderate,No,2023-07-23,2023-08-18,2023-06-29,Still Recovering
+66,PT-031,Dizziness,Moderate,No,2023-08-16,2023-09-11,2023-06-29,Fatal
+67,PT-032,Dry Mouth,,Yes,2023-10-06,2023-10-17,2023-07-18,Fatal
+68,PT-032,Joint Pain,Moderate,No,2023-08-02,2023-08-08,2023-07-18,Still Recovering
+69,PT-033,Back Pain,Moderate,No,2023-06-05,2023-06-18,2023-04-27,Fatal
+70,PT-033,Headache,Mild,Yes,2023-07-26,2023-07-30,2023-04-27,Not Recovered
+71,PT-033,Rash,Severe,No,2023-05-04,2023-05-05,2023-04-27,Fatal
+72,PT-034,Stomach Ache,Severe,Yes,2023-06-10,2023-07-03,2023-04-10,Fatal
+73,PT-034,Stomach Ache,Severe,Yes,2023-06-05,2023-05-27,2023-04-10,Not Recovered
+74,PT-034,Back Pain,Moderate,No,2023-04-19,2023-04-24,2023-04-10,Fatal
+75,PT-035,Rash,Mild,No,2023-04-18,2023-04-26,2023-03-06,Fatal
+76,PT-035,Fever,Mild,No,2023-05-26,2023-06-01,2023-03-06,Not Recovered
+77,PT-035,Rash,Mild,No,2023-05-09,2023-05-20,2023-03-06,Still Recovering
+78,PT-035,Rash,Mild,Yes,2023-04-07,2023-04-17,2023-03-06,Fatal
+79,PT-036,Nausea,Mild,No,2023-05-07,2023-06-06,2023-04-18,Still Recovering
+80,PT-037,Dry Mouth,Severe,Yes,2023-08-18,2023-09-07,2023-05-23,Fatal
+81,PT-037,Back Pain,Mild,No,2023-08-13,2023-09-03,2023-05-23,Not Recovered
+82,PT-037,Dizziness,,Yes,2023-08-18,2023-08-24,2023-05-23,Fatal
+83,PT-037,Fever,Mild,No,2023-08-08,2023-09-03,2023-05-23,Recovered
+84,PT-038,Dry Mouth,Severe,Yes,2023-10-02,2023-10-15,2023-09-28,Still Recovering
+85,PT-038,Fever,Mild,No,2023-11-09,2023-12-07,2023-09-28,Still Recovering
+86,PT-040,Nausea,Severe,Yes,2023-08-05,2023-08-21,2023-06-10,Fatal
+87,PT-040,Fatigue,Moderate,No,2023-07-13,2023-07-22,2023-06-10,Not Recovered
+88,PT-040,Fever,Moderate,No,2023-08-26,2023-09-15,2023-06-10,Fatal
+89,PT-040,Headache,Severe,Yes,2023-07-10,2023-07-31,2023-06-10,Not Recovered
+90,PT-041,Fever,Severe,Yes,2023-03-30,2023-04-18,2023-01-10,Fatal
+91,PT-041,Dry Mouth,Severe,Yes,2023-02-18,2023-03-01,2023-01-10,Recovered
+92,PT-042,Joint Pain,Mild,No,2023-04-10,2023-05-06,2023-04-06,Still Recovering
+93,PT-042,Dry Mouth,Moderate,No,2023-05-10,2023-05-15,2023-04-06,Still Recovering
+94,PT-042,Stomach Ache,Moderate,No,2023-05-06,2023-05-25,2023-04-06,Still Recovering
+95,PT-043,Cough,Mild,No,2023-06-06,2023-06-13,2023-03-26,Still Recovering
+96,PT-043,Headache,Severe,No,2023-04-16,2023-04-21,2023-03-26,Fatal
+97,PT-043,Dizziness,Mild,No,2023-04-03,2023-04-26,2023-03-26,Recovered
+98,PT-043,Headache,Mild,No,2023-06-25,2023-07-08,2023-03-26,Fatal
+99,PT-044,Insomnia,Moderate,No,2023-08-01,2023-08-31,2023-07-25,Not Recovered
+100,PT-045,Joint Pain,Mild,No,2023-12-16,2024-01-02,2023-10-02,Recovered
+101,PT-045,Fever,Severe,Yes,2023-10-26,2023-11-06,2023-10-02,Still Recovering
+102,PT-049,Dry Mouth,Mild,No,2023-08-20,2023-08-21,2023-07-28,Fatal
+103,PT-050,Back Pain,Moderate,No,2023-08-14,2023-09-12,2023-08-12,Not Recovered
+104,PT-050,Joint Pain,Moderate,No,2023-08-21,2023-08-22,2023-08-12,Recovered
+105,PT-050,Nausea,,Yes,2023-11-10,2023-12-07,2023-08-12,Recovered
+106,PT-050,Cough,Severe,Yes,2023-08-24,2023-09-06,2023-08-12,Not Recovered
+107,PT-051,Headache,Severe,Yes,2023-05-02,2023-05-27,2023-03-16,Recovered
+108,PT-051,Fever,Mild,No,2023-04-05,2023-04-18,2023-03-16,Fatal
+109,PT-051,Fever,Moderate,No,2023-05-15,2023-06-01,2023-03-16,Recovered
+110,PT-052,Nausea,Moderate,Yes,2023-06-15,2023-06-27,2023-05-23,Fatal
+111,PT-052,Dry Mouth,Severe,Yes,2023-06-08,2023-06-09,2023-05-23,Still Recovering
+112,PT-052,Insomnia,Moderate,No,2023-07-10,2023-07-11,2023-05-23,Still Recovering
+113,PT-052,Stomach Ache,Moderate,No,2023-08-31,2023-09-15,2023-05-23,Recovered
+114,PT-054,Cough,Moderate,No,2023-08-09,2023-09-02,2023-05-16,Recovered
+115,PT-054,Nausea,Mild,No,2023-06-20,2023-06-23,2023-05-16,Still Recovering
+116,PT-054,Back Pain,Moderate,No,2023-08-01,2023-08-17,2023-05-16,Still Recovering
+117,PT-055,Dry Mouth,Severe,Yes,2023-08-20,2023-09-19,2023-07-17,Not Recovered
+118,PT-055,Cough,Mild,No,2023-07-17,2023-08-14,2023-07-17,Still Recovering
+119,PT-056,Headache,Severe,Yes,2023-09-19,2023-09-21,2023-06-18,Recovered
+120,PT-056,Back Pain,Moderate,No,2023-07-09,2023-07-16,2023-06-18,Fatal
+121,PT-056,Fatigue,,Yes,2023-08-28,2023-09-17,2023-06-18,Still Recovering
+122,PT-058,Fever,Severe,Yes,2023-07-23,2023-08-15,2023-07-03,Still Recovering
+123,PT-058,Nausea,Moderate,No,2023-07-03,2023-07-19,2023-07-03,Not Recovered
+124,PT-058,Joint Pain,Severe,Yes,2023-07-14,2023-07-18,2023-07-03,Recovered
+125,PT-061,Fatigue,Moderate,No,2023-08-01,2023-08-13,2023-04-28,Recovered
+126,PT-061,Headache,Severe,Yes,2023-04-23,2023-05-25,2023-04-28,Still Recovering
+127,PT-063,Rash,Severe,Yes,2023-07-17,2023-08-05,2023-05-14,Recovered
+128,PT-063,Joint Pain,Mild,No,2023-07-05,2023-07-24,2023-05-14,Fatal
+129,PT-063,Insomnia,Mild,No,2023-07-13,2023-08-07,2023-05-14,Not Recovered
+130,PT-064,Dry Mouth,Severe,Yes,2023-07-27,2023-08-03,2023-05-28,Still Recovering
+131,PT-064,Dry Mouth,Mild,Yes,2023-06-02,2023-06-07,2023-05-28,Not Recovered
+132,PT-064,Fatigue,Mild,No,2023-06-24,2023-07-23,2023-05-28,Not Recovered
+133,PT-064,Fever,Mild,No,2023-07-20,2023-08-06,2023-05-28,Still Recovering
+134,PT-065,Headache,Severe,Yes,2023-11-10,2023-11-17,2023-09-14,Fatal
+135,PT-065,Rash,Severe,Yes,2023-11-23,2023-12-03,2023-09-14,Still Recovering
+136,PT-065,Joint Pain,Moderate,No,2023-11-22,2023-11-24,2023-09-14,Still Recovering
+137,PT-066,Dry Mouth,Mild,No,2023-08-31,2023-09-11,2023-06-13,Fatal
+138,PT-066,Dizziness,Severe,Yes,2023-06-10,2023-10-11,2023-06-13,Still Recovering
+139,PT-069,Joint Pain,Severe,Yes,2023-11-12,2023-11-13,2023-08-11,Not Recovered
+140,PT-069,Nausea,Mild,No,2023-08-23,2023-08-12,2023-08-11,Fatal
+141,PT-069,Dry Mouth,Moderate,No,2023-11-06,2023-11-29,2023-08-11,Recovered
+142,PT-070,Insomnia,Mild,No,2024-02-20,2024-02-23,2023-11-23,Not Recovered
+143,PT-070,Joint Pain,Mild,No,2024-03-02,2024-03-28,2023-11-23,Not Recovered
+144,PT-070,Headache,Mild,No,2023-12-03,2023-12-14,2023-11-23,Recovered
+145,PT-070,Fatigue,Moderate,No,2024-01-18,2024-02-08,2023-11-23,Not Recovered
+146,PT-072,Nausea,Moderate,No,2023-04-15,2023-05-05,2023-02-15,Still Recovering
+147,PT-072,Stomach Ache,Severe,Yes,2023-05-08,2023-05-09,2023-02-15,Not Recovered
+148,PT-072,Back Pain,Moderate,No,2023-03-25,2023-04-19,2023-02-15,Still Recovering
+149,PT-075,Insomnia,Mild,No,2023-03-18,2023-03-20,2023-01-23,Still Recovering
+150,PT-075,Nausea,Mild,No,2023-02-20,2023-03-13,2023-01-23,Recovered
+151,PT-076,Insomnia,Moderate,No,2023-05-26,2023-06-17,2023-04-09,Still Recovering
+152,PT-076,Nausea,Mild,Yes,2023-04-07,2023-07-09,2023-04-09,Fatal
+153,PT-076,Fever,Mild,Yes,2023-07-09,2023-07-24,2023-04-09,Fatal
+154,PT-076,Cough,Severe,Yes,2023-07-06,2023-07-28,2023-04-09,Not Recovered
+155,PT-077,Rash,Severe,Yes,2023-06-05,2023-08-05,2023-07-07,Not Recovered
+156,PT-077,Insomnia,Moderate,Yes,2023-09-26,2023-10-08,2023-07-07,Still Recovering
+157,PT-078,Fatigue,Moderate,No,2023-03-27,2023-04-14,2023-01-28,Recovered
+158,PT-078,Joint Pain,,Yes,2023-02-25,2023-03-23,2023-01-28,Still Recovering
+159,PT-080,Headache,Severe,Yes,2023-08-31,2023-08-13,2023-06-06,Fatal
+160,PT-080,Rash,Mild,Yes,2023-06-17,2023-06-30,2023-06-06,Recovered
+161,PT-080,Rash,Severe,Yes,2023-08-03,2023-08-14,2023-06-06,Not Recovered
+162,PT-080,Cough,Moderate,No,2023-06-17,2023-06-23,2023-06-06,Still Recovering
+163,PT-081,Back Pain,Mild,No,2023-04-20,2023-05-12,2023-02-26,Fatal
+164,PT-082,Cough,Moderate,No,2023-06-07,2023-06-16,2023-05-29,Fatal
+165,PT-083,Fatigue,Mild,No,2023-06-11,2023-07-07,2023-05-31,Recovered
+166,PT-083,Fever,Mild,No,2023-08-28,2023-09-03,2023-05-31,Fatal
+167,PT-083,Fatigue,Mild,No,2023-08-05,2023-08-24,2023-05-31,Recovered
+168,PT-083,Stomach Ache,Mild,No,2023-08-03,2023-08-17,2023-05-31,Recovered
+169,PT-085,Insomnia,Severe,Yes,2023-08-05,2023-08-21,2023-05-09,Fatal
+170,PT-085,Dry Mouth,Mild,No,2023-06-08,2023-06-24,2023-05-09,Not Recovered
+171,PT-085,Dizziness,Mild,No,2023-07-25,2023-07-30,2023-05-09,Fatal
+172,PT-085,Fever,Moderate,No,2023-05-15,2023-06-06,2023-05-09,Not Recovered
+173,PT-086,Fatigue,Mild,Yes,2023-06-01,2023-06-11,2023-03-15,Still Recovering
+174,PT-086,Joint Pain,Mild,Yes,2023-04-19,2023-04-28,2023-03-15,Recovered
+175,PT-086,Dry Mouth,Severe,Yes,2023-03-23,2023-04-06,2023-03-15,Recovered
+176,PT-088,Dry Mouth,Severe,Yes,2023-10-26,2023-10-28,2023-10-10,Recovered
+177,PT-089,Dizziness,Mild,No,2023-08-08,2023-08-20,2023-06-06,Fatal
+178,PT-090,Insomnia,Severe,Yes,2023-02-07,2023-03-08,2023-02-02,Still Recovering
+179,PT-092,Rash,Moderate,No,2023-02-27,2023-03-22,2023-01-14,Recovered
+180,PT-092,Cough,Moderate,No,2023-04-02,2023-04-20,2023-01-14,Recovered
+181,PT-092,Joint Pain,Mild,No,2023-03-08,2023-03-30,2023-01-14,Recovered
+182,PT-093,Rash,Moderate,No,2023-09-20,2023-10-09,2023-08-31,Recovered
+183,PT-093,Headache,Moderate,No,2023-09-08,2023-09-28,2023-08-31,Not Recovered
+184,PT-093,Dizziness,Mild,No,2023-11-03,2023-11-05,2023-08-31,Recovered
+185,PT-094,Back Pain,Moderate,No,2023-03-11,2023-03-19,2023-01-21,Recovered
+186,PT-094,Fever,Moderate,No,2023-02-28,2023-03-19,2023-01-21,Recovered
+187,PT-094,Joint Pain,Mild,No,2023-03-12,2023-03-19,2023-01-21,Fatal
+188,PT-095,Stomach Ache,Moderate,No,2023-07-28,2023-08-17,2023-05-07,Not Recovered
+189,PT-096,Back Pain,Mild,No,2023-12-08,2023-12-18,2023-11-27,Recovered
+190,PT-097,Dry Mouth,Moderate,No,2023-04-21,2023-05-13,2023-03-18,Not Recovered
+191,PT-099,Dry Mouth,Moderate,No,2023-04-21,2023-05-11,2023-01-17,Recovered
+192,PT-099,Rash,Severe,Yes,2023-04-11,2023-05-01,2023-01-17,Recovered
+193,PT-099,Dizziness,Mild,No,2023-03-16,2023-03-22,2023-01-17,Not Recovered
+194,PT-099,Dizziness,Mild,No,2023-01-21,2023-02-16,2023-01-17,Still Recovering
+195,PT-100,Joint Pain,Severe,Yes,2023-06-29,2023-06-30,2023-05-09,Fatal
+196,PT-100,Dry Mouth,Moderate,No,2023-07-11,2023-07-22,2023-05-09,Not Recovered
+197,PT-101,Dry Mouth,Severe,Yes,2023-09-01,2023-09-13,2023-08-07,Not Recovered
+198,PT-101,Rash,Moderate,No,2023-08-15,2023-08-29,2023-08-07,Fatal
+199,PT-102,Rash,Moderate,Yes,2023-09-29,2023-10-10,2023-07-18,Recovered
+200,PT-102,Nausea,Moderate,No,2023-10-02,2023-10-07,2023-07-18,Fatal
+201,PT-103,Rash,Moderate,No,2023-07-19,2023-08-03,2023-07-18,Still Recovering
+202,PT-103,Dry Mouth,Severe,Yes,2023-08-21,2023-08-27,2023-07-18,Recovered
+203,PT-103,Rash,Severe,Yes,2023-08-18,2023-09-13,2023-07-18,Still Recovering
+204,PT-104,Rash,Mild,No,2023-07-27,2023-08-15,2023-05-31,Recovered
+205,PT-104,Nausea,Severe,Yes,2023-06-03,2023-06-21,2023-05-31,Recovered
+206,PT-105,Fatigue,Mild,No,2023-06-30,2023-07-24,2023-05-14,Recovered
+207,PT-105,Rash,Moderate,No,2023-08-06,2023-08-15,2023-05-14,Not Recovered
+208,PT-106,Cough,Moderate,No,2023-11-17,2023-11-21,2023-11-11,Fatal
+209,PT-106,Joint Pain,Severe,Yes,2024-02-07,2024-02-24,2023-11-11,Recovered
+210,PT-106,Cough,Moderate,No,2024-01-01,2024-01-23,2023-11-11,Fatal
+211,PT-106,Nausea,Moderate,No,2024-02-16,2024-03-08,2023-11-11,Recovered
+212,PT-107,Nausea,Mild,No,2023-08-22,2023-09-12,2023-07-12,Not Recovered
+213,PT-107,Fatigue,Moderate,No,2023-10-13,2023-10-18,2023-07-12,Still Recovering
+214,PT-107,Dizziness,Mild,No,2023-08-10,2023-08-29,2023-07-12,Not Recovered
+215,PT-107,Back Pain,Severe,Yes,2023-09-13,2023-09-19,2023-07-12,Recovered
+216,PT-108,Dry Mouth,Mild,No,2023-08-05,2023-09-04,2023-07-14,Fatal
+217,PT-108,Dry Mouth,Severe,Yes,2023-10-22,2023-10-30,2023-07-14,Fatal
+218,PT-109,Dizziness,Mild,No,2023-02-23,2023-03-18,2023-01-25,Fatal
+219,PT-110,Headache,Moderate,No,2023-06-22,2023-07-15,2023-03-26,Fatal
+220,PT-111,Dizziness,Mild,No,2023-11-26,2023-12-13,2023-11-15,Fatal
+221,PT-111,Headache,Severe,Yes,2023-11-20,2023-12-07,2023-11-15,Fatal
+222,PT-112,Fatigue,Mild,No,2023-05-07,2023-05-23,2023-05-06,Recovered
+223,PT-112,Fever,Mild,No,2023-08-04,2023-08-07,2023-05-06,Still Recovering
+224,PT-112,Joint Pain,Moderate,No,2023-07-13,2023-08-10,2023-05-06,Not Recovered
+225,PT-112,Cough,Moderate,No,2023-06-02,2023-06-25,2023-05-06,Still Recovering
+226,PT-113,Headache,Severe,Yes,2023-12-14,2024-01-03,2023-09-09,Recovered
+227,PT-113,Dry Mouth,Severe,Yes,2023-12-09,2024-01-05,2023-09-09,Still Recovering
+228,PT-113,Insomnia,Moderate,Yes,2023-11-27,2023-12-08,2023-09-09,Still Recovering
+229,PT-113,Joint Pain,Severe,Yes,2023-10-10,2023-10-13,2023-09-09,Fatal
+230,PT-114,Rash,Mild,No,2023-12-25,2024-01-16,2023-10-24,Recovered
+231,PT-114,Nausea,Severe,Yes,2023-11-12,2023-11-13,2023-10-24,Not Recovered
+232,PT-114,Joint Pain,Mild,No,2024-01-16,2024-01-29,2023-10-24,Not Recovered
+233,PT-115,Back Pain,Mild,No,2023-08-17,2023-08-19,2023-06-18,Not Recovered
+234,PT-115,Fatigue,Severe,Yes,2023-08-04,2023-08-07,2023-06-18,Recovered
+235,PT-116,Insomnia,Moderate,No,2024-01-11,2024-02-04,2023-10-30,Recovered
+236,PT-116,Cough,Severe,No,2023-12-14,2024-01-09,2023-10-30,Fatal
+237,PT-117,Headache,Moderate,No,2023-08-19,2023-08-20,2023-05-26,Still Recovering
+238,PT-118,Dry Mouth,Severe,Yes,2023-12-19,2023-12-29,2023-11-30,Recovered
+239,PT-119,Back Pain,Moderate,No,2024-01-01,2024-01-03,2023-11-11,Fatal
+240,PT-119,Fatigue,Moderate,No,2023-12-10,2023-12-13,2023-11-11,Fatal
+241,PT-119,Cough,Severe,Yes,2023-10-20,2024-03-01,2023-11-11,Fatal
+242,PT-119,Cough,Severe,Yes,2023-12-26,2024-01-03,2023-11-11,Fatal
+243,PT-120,Dizziness,Mild,No,2023-10-05,2023-10-15,2023-08-24,Fatal
+244,PT-120,Stomach Ache,Severe,Yes,2023-09-16,2023-09-24,2023-08-24,Not Recovered
+245,PT-122,Cough,Moderate,No,2023-05-23,2023-06-13,2023-03-12,Not Recovered
+246,PT-122,Dry Mouth,Mild,Yes,2023-05-22,2023-06-06,2023-03-12,Fatal
+247,PT-123,Rash,Severe,Yes,2023-04-16,2023-05-01,2023-01-31,Fatal
+248,PT-123,Back Pain,Moderate,No,2023-03-04,2023-02-24,2023-01-31,Recovered
+249,PT-123,Dry Mouth,Mild,No,2023-04-16,2023-05-10,2023-01-31,Recovered
+250,PT-124,Cough,Moderate,Yes,2023-08-22,2023-09-10,2023-08-05,Not Recovered
+251,PT-125,Cough,Severe,Yes,2023-06-05,2023-06-17,2023-05-14,Recovered
+252,PT-125,Dizziness,Moderate,No,2023-06-23,2023-07-13,2023-05-14,Recovered
+253,PT-125,Stomach Ache,Moderate,No,2023-06-19,2023-07-03,2023-05-14,Not Recovered
+254,PT-125,Rash,Moderate,No,2023-08-12,2023-08-21,2023-05-14,Not Recovered
+255,PT-127,Stomach Ache,Severe,Yes,2023-06-29,2023-07-19,2023-03-25,Still Recovering
+256,PT-127,Cough,Moderate,No,2023-02-04,2023-05-25,2023-03-25,Not Recovered
+257,PT-127,Fever,Mild,No,2023-06-08,2023-06-19,2023-03-25,Recovered
+258,PT-128,Stomach Ache,Severe,Yes,2023-11-14,2023-11-22,2023-11-02,Not Recovered
+259,PT-129,Fatigue,Mild,No,2023-10-24,2023-11-18,2023-08-24,Recovered
+260,PT-129,Fever,Moderate,No,2023-10-10,2023-10-21,2023-08-24,Fatal
+261,PT-129,Fatigue,Mild,No,2023-10-01,2023-10-10,2023-08-24,Recovered
+262,PT-131,Dry Mouth,Severe,Yes,2023-06-27,2023-06-29,2023-04-16,Still Recovering
+263,PT-132,Nausea,Mild,No,2023-05-20,2023-06-17,2023-04-08,Fatal
+264,PT-133,Dizziness,Moderate,No,2023-07-02,2023-07-20,2023-07-02,Fatal
+265,PT-133,Stomach Ache,Severe,Yes,2023-07-10,2023-07-19,2023-07-02,Still Recovering
+266,PT-133,Back Pain,Moderate,No,2023-07-30,2023-08-29,2023-07-02,Recovered
+267,PT-134,Fatigue,Mild,No,2024-01-28,2024-02-21,2023-11-04,Still Recovering
+268,PT-134,Cough,Moderate,No,2023-11-30,2023-12-21,2023-11-04,Fatal
+269,PT-135,Back Pain,Severe,Yes,2023-10-29,2023-10-11,2023-07-21,Fatal
+270,PT-135,Joint Pain,Moderate,No,2023-10-01,2023-10-29,2023-07-21,Still Recovering
+271,PT-135,Fatigue,Severe,Yes,2023-10-11,2023-11-02,2023-07-21,Recovered
+272,PT-135,Dizziness,Mild,No,2023-07-28,2023-08-02,2023-07-21,Not Recovered
+273,PT-137,Fatigue,Severe,Yes,2023-08-03,2023-08-16,2023-06-10,Not Recovered
+274,PT-138,Dizziness,Mild,No,2023-06-16,2023-07-12,2023-03-29,Still Recovering
+275,PT-139,Stomach Ache,Mild,No,2023-06-09,2023-06-10,2023-05-11,Recovered
+276,PT-139,Nausea,,Yes,2023-08-04,2023-09-02,2023-05-11,Recovered
+277,PT-139,Back Pain,Mild,No,2023-08-15,2023-09-11,2023-05-11,Not Recovered
+278,PT-140,Joint Pain,Moderate,No,2023-08-08,2023-09-07,2023-07-17,Recovered
+279,PT-140,Cough,Mild,No,2023-08-20,2023-09-12,2023-07-17,Still Recovering
+280,PT-141,Rash,Moderate,Yes,2023-04-01,2023-04-16,2023-03-21,Recovered
+281,PT-141,Headache,Moderate,Yes,2023-04-23,2023-05-15,2023-03-21,Fatal
+282,PT-141,Cough,Severe,Yes,2023-05-01,2023-05-28,2023-03-21,Fatal
+283,PT-141,Fatigue,Moderate,Yes,2023-06-10,2023-06-28,2023-03-21,Not Recovered
+284,PT-142,Joint Pain,Mild,No,2023-04-25,2023-04-30,2023-04-02,Recovered
+285,PT-142,Dry Mouth,Moderate,No,2023-07-02,2023-07-11,2023-04-02,Not Recovered
+286,PT-142,Dizziness,Moderate,No,2023-05-29,2023-06-17,2023-04-02,Still Recovering
+287,PT-143,Nausea,Mild,No,2023-04-14,2023-04-29,2023-02-06,Recovered
+288,PT-144,Back Pain,Severe,Yes,2023-09-23,2023-10-23,2023-06-30,Recovered
+289,PT-144,Cough,Moderate,No,2023-09-14,2023-09-19,2023-06-30,Still Recovering
+290,PT-144,Rash,Severe,Yes,2023-07-22,2023-08-11,2023-06-30,Not Recovered
+291,PT-144,Fatigue,Mild,No,2023-08-18,2023-09-11,2023-06-30,Fatal
+292,PT-145,Headache,Moderate,No,2023-03-09,2023-03-13,2023-02-19,Still Recovering
+293,PT-146,Stomach Ache,Severe,Yes,2023-04-06,2023-05-06,2023-03-13,Fatal
+294,PT-146,Dizziness,Moderate,No,2023-03-15,2023-03-25,2023-03-13,Fatal
+295,PT-147,Insomnia,Mild,No,2023-11-21,2023-11-22,2023-10-31,Recovered
+296,PT-147,Fever,Severe,Yes,2023-11-09,2023-11-29,2023-10-31,Not Recovered
+297,PT-147,Rash,Severe,Yes,2023-12-20,2024-01-03,2023-10-31,Still Recovering
+298,PT-147,Insomnia,Moderate,No,2023-12-27,2024-01-26,2023-10-31,Still Recovering
+299,PT-148,Stomach Ache,,Yes,2023-04-05,2023-04-17,2023-02-13,Recovered
+300,PT-148,Insomnia,Severe,Yes,2023-03-04,2023-03-23,2023-02-13,Still Recovering
+301,PT-149,Dizziness,Mild,No,2023-02-27,2023-03-24,2023-01-18,Not Recovered
+302,PT-149,Dizziness,Moderate,No,2023-04-10,2023-04-24,2023-01-18,Still Recovering
+303,PT-149,Fatigue,Mild,No,2023-03-01,2023-03-23,2023-01-18,Recovered
+304,PT-150,Insomnia,Mild,No,2023-08-06,2023-08-27,2023-07-09,Recovered
+305,PT-150,Stomach Ache,Severe,Yes,2023-10-07,2023-11-04,2023-07-09,Still Recovering
+306,PT-150,Nausea,Mild,No,2023-10-12,2023-10-22,2023-07-09,Not Recovered
+307,PT-150,Insomnia,Severe,Yes,2023-09-02,2023-09-20,2023-07-09,Still Recovering
+308,PT-152,Nausea,Severe,Yes,2023-05-20,2023-06-07,2023-04-17,Not Recovered
+309,PT-152,Joint Pain,Mild,Yes,2023-05-09,2023-05-28,2023-04-17,Fatal
+310,PT-152,Cough,Mild,No,2023-07-25,2023-08-18,2023-04-17,Not Recovered
+311,PT-152,Back Pain,Severe,Yes,2023-07-25,2023-08-18,2023-04-17,Not Recovered
+312,PT-153,Nausea,Severe,Yes,2023-11-22,2023-12-22,2023-08-23,Still Recovering
+313,PT-154,Dry Mouth,Mild,Yes,2023-05-08,2023-05-17,2023-02-19,Still Recovering
+314,PT-154,Fever,Severe,Yes,2023-03-02,2023-03-18,2023-02-19,Recovered
+315,PT-155,Stomach Ache,Severe,Yes,2023-10-28,2023-11-20,2023-08-16,Not Recovered
+316,PT-155,Dry Mouth,Severe,No,2023-08-23,2023-08-31,2023-08-16,Fatal
+317,PT-155,Dry Mouth,Severe,Yes,2023-11-14,2023-11-15,2023-08-16,Still Recovering
+318,PT-155,Insomnia,Mild,No,2023-08-28,2023-08-29,2023-08-16,Still Recovering
+319,PT-156,Dizziness,Severe,Yes,2023-01-25,2023-05-21,2023-02-17,Still Recovering
+320,PT-156,Stomach Ache,Mild,No,2023-02-24,2023-03-11,2023-02-17,Recovered
+321,PT-157,Back Pain,Mild,No,2023-04-25,2023-05-24,2023-02-13,Still Recovering
+322,PT-157,Back Pain,Severe,Yes,2023-03-12,2023-04-08,2023-02-13,Still Recovering
+323,PT-157,Nausea,Severe,Yes,2023-03-07,2023-03-20,2023-02-13,Fatal
+324,PT-161,Fatigue,Severe,Yes,2023-03-09,2023-04-07,2023-02-12,Still Recovering
+325,PT-162,Dry Mouth,Mild,No,2023-05-20,2023-06-13,2023-03-22,Still Recovering
+326,PT-162,Insomnia,Severe,Yes,2023-05-12,2023-06-10,2023-03-22,Recovered
+327,PT-162,Joint Pain,Severe,Yes,2023-01-23,2023-06-10,2023-03-22,Not Recovered
+328,PT-162,Rash,Mild,No,2023-05-20,2023-06-09,2023-03-22,Still Recovering
+329,PT-163,Dry Mouth,Mild,No,2023-10-14,2023-11-11,2023-08-01,Fatal
+330,PT-163,Insomnia,Severe,Yes,2023-08-23,2023-09-16,2023-08-01,Fatal
+331,PT-163,Back Pain,Moderate,No,2023-10-08,2023-10-21,2023-08-01,Fatal
+332,PT-163,Nausea,Mild,No,2023-09-09,2023-09-29,2023-08-01,Still Recovering
+333,PT-164,Insomnia,Mild,No,2023-09-02,2024-01-10,2023-10-01,Fatal
+334,PT-164,Stomach Ache,Severe,Yes,2023-11-26,2023-12-05,2023-10-01,Recovered
+335,PT-165,Nausea,Moderate,No,2023-05-15,2023-05-16,2023-03-14,Fatal
+336,PT-165,Rash,Severe,Yes,2023-04-15,2023-05-03,2023-03-14,Fatal
+337,PT-167,Dizziness,Severe,Yes,2023-12-09,2023-12-23,2023-11-25,Not Recovered
+338,PT-167,Insomnia,Mild,No,2024-01-12,2024-01-22,2023-11-25,Recovered
+339,PT-167,Insomnia,Mild,No,2024-02-17,2024-03-09,2023-11-25,Fatal
+340,PT-167,Fatigue,Mild,No,2023-12-15,2023-12-28,2023-11-25,Recovered
+341,PT-168,Fever,Severe,Yes,2023-10-31,2023-11-27,2023-10-29,Recovered
+342,PT-168,Nausea,Mild,Yes,2024-01-22,2024-02-17,2023-10-29,Still Recovering
+343,PT-169,Stomach Ache,Severe,Yes,2023-09-07,2023-10-04,2023-08-05,Fatal
+344,PT-170,Headache,Mild,No,2023-09-30,2023-10-12,2023-06-22,Fatal
+345,PT-171,Dry Mouth,Moderate,No,2023-04-05,2023-04-24,2023-03-23,Fatal
+346,PT-171,Dizziness,Mild,No,2023-05-11,2023-05-21,2023-03-23,Not Recovered
+347,PT-172,Fever,Severe,Yes,2023-12-26,2024-01-10,2023-11-01,Not Recovered
+348,PT-172,Headache,Severe,Yes,2024-01-07,2024-01-23,2023-11-01,Recovered
+349,PT-172,Joint Pain,Mild,No,2023-11-07,2023-11-15,2023-11-01,Recovered
+350,PT-173,Fatigue,Severe,Yes,2023-10-21,2023-11-06,2023-09-01,Recovered
+351,PT-173,Back Pain,Moderate,No,2023-10-19,2023-10-24,2023-09-01,Recovered
+352,PT-174,Stomach Ache,Severe,Yes,2023-03-16,2023-03-21,2023-01-14,Fatal
+353,PT-174,Fatigue,Mild,No,2023-02-13,2023-02-20,2023-01-14,Not Recovered
+354,PT-176,Cough,Moderate,No,2023-09-06,2023-09-24,2023-07-30,Fatal
+355,PT-176,Dizziness,Severe,Yes,2023-09-09,2023-09-15,2023-07-30,Fatal
+356,PT-178,Nausea,Mild,No,2023-12-18,2023-12-22,2023-11-21,Not Recovered
+357,PT-178,Headache,Mild,No,2023-12-07,2023-12-29,2023-11-21,Fatal
+358,PT-178,Dry Mouth,Moderate,No,2024-02-10,2024-02-25,2023-11-21,Still Recovering
+359,PT-179,Dry Mouth,Mild,No,2023-06-06,2023-06-28,2023-03-07,Not Recovered
+360,PT-179,Joint Pain,Moderate,No,2023-03-24,2023-04-16,2023-03-07,Not Recovered
+361,PT-179,Fever,Moderate,No,2023-05-03,2023-05-06,2023-03-07,Recovered
+362,PT-179,Joint Pain,Mild,No,2023-04-09,2023-04-24,2023-03-07,Recovered
+363,PT-180,Joint Pain,Mild,No,2023-12-12,2023-12-27,2023-11-04,Still Recovering
+364,PT-180,Rash,Mild,No,2023-11-19,2023-12-01,2023-11-04,Fatal
+365,PT-181,Dizziness,Moderate,No,2023-03-11,2023-03-22,2023-03-07,Still Recovering
+366,PT-181,Dizziness,Mild,No,2023-03-17,2023-04-14,2023-03-07,Fatal
+367,PT-181,Joint Pain,Severe,Yes,2023-02-04,2023-05-30,2023-03-07,Still Recovering
+368,PT-182,Nausea,Moderate,No,2023-04-20,2023-05-06,2023-02-10,Fatal
+369,PT-182,Fatigue,Moderate,No,2023-03-05,2023-03-09,2023-02-10,Not Recovered
+370,PT-182,Joint Pain,Mild,No,2023-04-12,2023-05-08,2023-02-10,Still Recovering
+371,PT-182,Stomach Ache,Mild,No,2023-03-06,2023-03-16,2023-02-10,Fatal
+372,PT-183,Cough,Severe,Yes,2023-07-24,2023-08-12,2023-07-04,Fatal
+373,PT-183,Dizziness,Moderate,No,2023-08-21,2023-09-11,2023-07-04,Not Recovered
+374,PT-183,Headache,Severe,Yes,2023-09-30,2023-10-02,2023-07-04,Recovered
+375,PT-184,Headache,Severe,Yes,2024-01-17,2024-02-09,2023-10-22,Still Recovering
+376,PT-184,Joint Pain,Severe,Yes,2023-11-27,2023-12-03,2023-10-22,Not Recovered
+377,PT-184,Fever,Moderate,No,2024-01-04,2024-01-16,2023-10-22,Fatal
+378,PT-184,Cough,Moderate,No,2024-01-26,2024-02-12,2023-10-22,Not Recovered
+379,PT-185,Headache,Mild,No,2024-01-26,2024-02-14,2023-10-23,Fatal
+380,PT-185,Joint Pain,Severe,Yes,2023-11-09,2023-11-19,2023-10-23,Recovered
+381,PT-185,Nausea,Moderate,Yes,2024-01-27,2024-02-15,2023-10-23,Not Recovered
+382,PT-185,Nausea,Moderate,No,2023-12-16,2024-01-01,2023-10-23,Still Recovering
+383,PT-186,Nausea,Mild,No,2023-08-26,2023-08-27,2023-06-06,Still Recovering
+384,PT-186,Fever,Mild,No,2023-08-23,2023-09-08,2023-06-06,Still Recovering
+385,PT-186,Insomnia,Severe,Yes,2023-06-08,2023-07-02,2023-06-06,Recovered
+386,PT-186,Stomach Ache,Severe,Yes,2023-06-19,2023-07-04,2023-06-06,Still Recovering
+387,PT-187,Back Pain,Severe,Yes,2023-12-19,2024-01-15,2023-11-21,Still Recovering
+388,PT-187,Fever,Severe,Yes,2024-02-25,2024-03-20,2023-11-21,Recovered
+389,PT-187,Dizziness,Mild,No,2024-02-24,2024-03-19,2023-11-21,Recovered
+390,PT-190,Fever,Mild,No,2023-05-19,2023-05-24,2023-04-10,Fatal
+391,PT-191,Headache,Severe,Yes,2024-01-23,2024-02-09,2023-10-27,Recovered
+392,PT-191,Nausea,Mild,No,2023-11-13,2023-11-23,2023-10-27,Recovered
+393,PT-191,Insomnia,Severe,Yes,2023-11-22,2023-12-05,2023-10-27,Fatal
+394,PT-192,Fever,Severe,Yes,2023-11-17,2023-11-25,2023-09-06,Fatal
+395,PT-192,Joint Pain,Moderate,No,2023-09-17,2023-09-29,2023-09-06,Fatal
+396,PT-194,Back Pain,Moderate,No,2023-06-25,2023-07-01,2023-04-14,Fatal
+397,PT-194,Back Pain,Moderate,No,2023-07-07,2023-07-12,2023-04-14,Recovered
+398,PT-195,Cough,Mild,No,2024-02-05,2024-01-28,2023-10-30,Fatal
+399,PT-196,Nausea,Moderate,No,2023-06-26,2023-07-23,2023-06-18,Not Recovered
+400,PT-196,Nausea,Severe,Yes,2023-07-29,2023-08-19,2023-06-18,Fatal
+401,PT-196,Rash,Moderate,No,2023-05-06,2023-08-08,2023-06-18,Fatal
+402,PT-196,Cough,Mild,Yes,2023-08-19,2023-09-02,2023-06-18,Still Recovering
+403,PT-197,Joint Pain,Moderate,No,2023-11-01,2023-11-18,2023-10-18,Fatal
+404,PT-197,Dizziness,Mild,No,2023-12-10,2023-12-26,2023-10-18,Recovered
+405,PT-198,Joint Pain,Severe,Yes,2023-12-18,2023-12-24,2023-10-07,Recovered
+406,PT-198,Fever,Moderate,No,2024-01-11,2024-01-23,2023-10-07,Not Recovered
+407,PT-198,Insomnia,,Yes,2023-10-24,2023-11-21,2023-10-07,Fatal
+408,PT-198,Back Pain,Severe,Yes,2024-01-15,2024-01-19,2023-10-07,Recovered
+409,PT-200,Rash,Mild,No,2023-10-13,2023-10-29,2023-08-10,Recovered
