@@ -6,7 +6,7 @@ This directory serves as a centralized knowledge repository containing structure
 
 ## 🗺️ Knowledge Map Index
 
-1. [ICH-GCP Guidelines & Regulatory Frameworks](#1-ich-gcp-guidelines--regulatory-frameworks)
+1. [ICH-GCP Guidelines & Regulatory Frameworks](#1-ich-gcp-guidelines--regulatory-framework)
 2. [Clinical Trial Phases & Lifecycles](#2-clinical-trial-phases--lifecycles)
 3. [Core Clinical Trial Documentation](#3-core-clinical-trial-documentation)
 4. [Trial Master File (TMF) Architecture](#4-trial-master-file-tmf-architecture)
