@@ -32,14 +32,14 @@ The project dataset populates three core relational tables:
 clinical-data-validation-engine/
 ├── edit_check_engine.py      
 ├── requirements.txt          
-├── dataset_manual.md 
 ├── issues_found.csv
 ├── .gitignore
 ├── README.md         
 └── data/                     
     ├── patients.csv
     ├── subject_visits.csv
-    └── adverse_events.csv
+    ├── adverse_events.csv
+    └── data_manual.md
 ```
 ---
 
