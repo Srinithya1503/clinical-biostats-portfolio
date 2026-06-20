@@ -1,10 +1,10 @@
-# 📖 Clinical Data Domain & Technical Reference Library
+# Clinical Data Domain & Technical Reference Library
 
 This directory serves as a centralized knowledge repository containing structured study notes, essential textbook recommendations, authoritative web resources, and industry standards documentation. It establishes the clinical and statistical foundation underpinning the technical projects in this portfolio.
 
 ---
 
-## 🗺️ Knowledge Map Index
+## Knowledge Map Index
 
 1. [ICH-GCP Guidelines & Regulatory Frameworks](#1-ich-gcp-guidelines--regulatory-framework)
 2. [Clinical Trial Phases & Lifecycles](#2-clinical-trial-phases--lifecycles)
