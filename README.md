@@ -28,7 +28,7 @@ I am an aspiring **Clinical & Healthcare Data Analyst** with a background in **M
 
 My core professional focus is to bridge the gap between complex health data and actionable clinical insights. I aim to leverage clinical domain knowledge alongside robust analytical frameworks to optimize clinical trial efficiency, ensure absolute data integrity, and accelerate the delivery of safe, life-saving therapies to patients.
 
-**Target Roles:** Clinical Data Analyst | Clinical Programmer (SAS/Python) | Statistical Programmer | Real-World Evidence (RWE) Analyst | Biostatistician
+**Target Roles:** CRA | CDC | eTMF Specialist | Statistical Programmer | Real-World Evidence (RWE) Analyst | Biostatistician
 
 ---
 
