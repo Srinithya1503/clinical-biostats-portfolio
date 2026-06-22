@@ -73,9 +73,11 @@ This repository is strictly organized by functional clinical domains, moving fro
 ```text
 clinical-data-portfolio/
 ├── README.md                          # Portfolio landing page & career index
-├── learning_resources/                 # Clinical definitions, regulatory frameworks, & cheat sheets
+├── clinical_roles.md                  # Clinical research and trials based job roles and its growth
+├── certificates/                      # Certificate based credentials of completed courses
 ├── daily_practice/                    # Everyday mini-scripts, coding exercises, and macros
-└── projects/                          # Production-grade clinical domain projectsg
+├── learning_resources/                # Clinical definitions, regulatory frameworks, & cheat sheets
+└── projects/                          # Production-grade clinical domain projects
     ├── 01_clinical_data_quality_engine/   # EDC data validation, queries, & clinical safety flags
     └── 
 ```
