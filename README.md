@@ -63,19 +63,26 @@ clinical-data-portfolio/
 ├── certificates/                      # Certificate based credentials of completed courses
 ├── daily_practice/                    # Everyday mini-scripts, coding exercises, and macros
 ├── learning_resources/                # Clinical definitions, regulatory frameworks, & cheat sheets
+├── presentations/                     # Professional grade presentations of completed projects.
 └── projects/                          # Production-grade clinical domain projects
     ├── 01_clinical_data_quality_engine/   # EDC data validation, queries, & clinical safety flags
-    └── 
+    └── 02_tmf_audit_metric_analysis/      # TMF Reconcialtion, site performance analytics.
 ```
 
 ---
 
 ## 🚀 Featured Projects Index
 
-### 🛡️ [01. Clinical Trial Data Validation Engine](./projects/01_clinical_data_quality_engine/)
+###  [01. Clinical Trial Data Validation Engine](./projects/01_clinical_data_quality_engine/)
 * **Objective:** Ensure source data validity, protocol compliance, and programmatic query tracking.
 * **Core Toolkit:** Python, Pandas, Clinical Data Management Rules.
 * **Key Deliverable:** An automated system evaluating 2,000+ relational rows (`patients`, `visits`, `adverse_events`) to catch chronological errors, severe blood pressure excursions, and unsafe adverse event contradictions, logging outliers immediately into a query report.
+
+###  [02. Oncology Clinical Trial TMF Reconciliation & Site Risk Analytics](./projects/02_tmf_audit_metric_analysis)
+
+* **Objective:** Improve clinical trial document compliance, inspection readiness, and operational oversight by analyzing Trial Master File (TMF) tracking data across global investigator sites.
+* **Core Toolkit:** Excel Data Validation, Clinical Data Management Principles, ICH-GCP Compliance Framework.
+* **Key Deliverable:** Developed a TMF reconciliation and site performance analytics workflow for **ONCO-2023-001 multi-national oncology trial data**, auditing document tracking manifests across **5 global regions (India, Germany, USA, Japan, UK)** against standardized ICH-GCP quality requirements.
   
 ---
 
