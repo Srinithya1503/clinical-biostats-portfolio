@@ -41,20 +41,6 @@ My core professional focus is to bridge the gap between complex health data and 
 * ⚙️ Executed end to end phylogenetics pipeline for **600+ microbial genomes** in order to assess its evolutionary trajectory and the functional complexity.
 * 📊 Performed large-scale analysis using  **shell scripting, Python (Pandas, NumPy), R(ggplot2, tidyverse), MS Excel**.
 * Bioinformatics Tools: BLAST,ClustalW, ProteinOrtho, IQTREE
----
-
-## 💼 Experience
-
-### 🏢 **Data Science Intern (Healthcare & Analytics)**
-
-**Unified Mentor Pvt Ltd** | *Nov 2025 – Jan 2026*
-
-* Built **end-to-end analytical pipelines** across healthcare & business domains
-* Applied **data validation, feature engineering, and explainability (SHAP)**
-* Developed dashboards for **decision-making & operational insights**
-* Focused on **interpretable, audit-ready analytics**
-
-🔗 [Project Repository](https://github.com/Srinithya1503/UM-Projects)
 
 ---
 
