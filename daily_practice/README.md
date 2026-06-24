@@ -2,7 +2,7 @@
 This directory logs my consistent, daily programming exercises, algorithmic problem-solving, and implementation micro-tasks. It demonstrates continuous skill development across SAS and R within a clinical data and biostatistics framework.
 
 ------------------------------
-## 🎯 Purpose & Methodology
+## Purpose & Methodology
 In biostatistics and clinical trial programming, writing clean, defensible, and validation-ready code is mandatory. This repository isolates real-world challenges—such as date processing, baseline shifts, safety tables, and survival analysis—using SAS (for data pipeline/CDISC/TLFs) and R (for advanced biostatistical modeling/graphics).
 
 ## Core Disciplines Tracked:
@@ -13,7 +13,7 @@ In biostatistics and clinical trial programming, writing clean, defensible, and 
 * Macro & Function Automation: Building reusable SAS macros and R functions to automate repetitive clinical workflows.
 
 ------------------------------
-## 📅 30-Day Project-Based Practice Log## Phase 1: Clinical Data Engineering & Base SAS Foundations (Days 1–10)
+## 30-Day Project-Based Practice Log## Phase 1: Clinical Data Engineering & Base SAS Foundations (Days 1–10)
 Target: Read, clean, and structure the raw ONCO-2026 files inside SAS and R.
 
 | Day | Focus Domain | Language | Project Task Description | Target Concept/Output |
@@ -66,7 +66,9 @@ Target: Transform your dataset into standardized CDISC domains and output submis
 ------------------------------
 ## Micro-Utility Snippets Directory
 This section functions as an active toolbox of reusable snippets used to quickly resolve routine clinical programming snags:
-##  Quick-Reference Snippets Index## 1. SAS Missing Value Coalesce (/snippets/sas_missing_handler.sas)
+
+##  Quick-Reference Snippets Index
+## 1. SAS Missing Value Coalesce (/snippets/sas_missing_handler.sas)
 Demonstrates clean usage of the COALESCE and COALESCEC functions to prevent missing value propagation when merging clinical records.
 
 data work.clean_lab;
