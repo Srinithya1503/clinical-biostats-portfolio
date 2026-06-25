@@ -180,7 +180,7 @@ TLFs
 
 ---
 
-# 08. Statistical Reporting
+### 08. Statistical Reporting
 **Topics:**
 - Statistical Analysis Plan
 - Tables Listings Figures
