@@ -70,6 +70,7 @@ Understand the compliance principles governing clinical research.
 - Trial lifecycle
 - Trial phases
 - Study team roles
+- Study Design
 - Essential documents
 
 ---
@@ -130,40 +131,41 @@ Understand clinical document compliance and inspection readiness.
 **Purpose:**
 Learn industry-standard clinical data structures.
 
-**1.CDASH** - Data collection standard
-**2.SDTM** - Regulatory submission tabulation model
-             Examples: DM - Demographics, AE - Adverse Events, LB - Laboratory Results
-**3.ADaM** - Analysis-ready datasets
-             Examples:ADSL, ADTTE
+- **1.CDASH** - Data collection standard
+- **2.SDTM** - Regulatory submission tabulation model
+               Examples: DM - Demographics, AE - Adverse Events, LB - Laboratory Results
+- **3.ADaM** - Analysis-ready datasets
+               Examples:ADSL, ADTTE
              
 ---
 
 ### 06. Biostatistics Foundations
 **Topics:**
-**1.Analysis Populations**
-ITT: All randomized subjects
-PP: Subjects completing protocol requirements
-Safety Population: Subjects receiving treatment
+- **1.Analysis Populations**
+* ITT: All randomized subjects
+* PP: Subjects completing protocol requirements
+* Safety Population: Subjects receiving treatment
 
-**2.Statistical Methods**
-Descriptive statistics
-Hypothesis testing
-ANOVA
-ANCOVA
-Regression
-Survival analysis
+- **2.Statistical Methods**
+* Descriptive statistics
+* Hypothesis testing
+* ANOVA
+* ANCOVA
+* Regression
+* Survival analysis
 
 ---
 
 ### 07. Clinical Statistical Programming
-**Languages:**
+- **Languages:**
 - SAS
 - R
 - Python
 
-**Topics:**
-**1.SAS:** DATA step, PROC procedures, Macros
-**2.Clinical Programming:**
+- **Topics:**
+- **1.SAS:** DATA step, PROC procedures, Macros
+- **2.Clinical Programming:**
+
 Raw Data
 
 ↓
@@ -181,7 +183,7 @@ TLFs
 ---
 
 ### 08. Statistical Reporting
-**Topics:**
+- **Topics:**
 - Statistical Analysis Plan
 - Tables Listings Figures
 - Clinical Study Report
