@@ -13,7 +13,68 @@ In biostatistics and clinical trial programming, writing clean, defensible, and 
 * Macro & Function Automation: Building reusable SAS macros and R functions to automate repetitive clinical workflows.
 
 ------------------------------
-## 30-Day Project-Based Practice Log## Phase 1: Clinical Data Engineering & Base SAS Foundations (Days 1–10)
+
+clinical-programming-daily-practice/
+
+```
+│
+├── README.md
+│
+├── datasets/
+│   │
+│   ├── raw/
+│   │   ├── raw_dm.csv
+│   │   ├── raw_lab.csv
+│   │   ├── raw_ae.csv
+│   │   └── raw_survival.csv
+│   │
+│   └── derived/
+│       ├── adam_adsl.csv
+│       ├── sdtm_dm.csv
+│       └── tlf_outputs/
+│
+│
+├── 01_base_sas_foundations/
+│
+│   ├── day01_data_import.sas
+│   ├── day02_date_conversion.sas
+│   ├── day03_missing_data.R
+│   └── README.md
+│
+│
+├── 02_biostatistics_analysis/
+│
+│   ├── day11_change_analysis.R
+│   ├── day15_ttest.sas
+│   ├── day20_kaplan_meier.R
+│   └── README.md
+│
+│
+├── 03_cdisc_programming/
+│
+│   ├── day21_sdtm_dm_mapping.sas
+│   ├── day24_adsl_creation.sas
+│   ├── day27_demographic_table.sas
+│   └── README.md
+│
+│
+├── snippets/
+│
+│   ├── sas_missing_handler.sas
+│   ├── survival_calc.R
+│   └── date_utilities.R
+│
+│
+└── documentation/
+
+    ├── programming_notes.md
+    ├── clinical_concepts.md
+    └── troubleshooting.md
+```
+----
+
+## 30-Day Project-Based Practice Log
+## Phase 1: Clinical Data Engineering & Base SAS Foundations (Days 1–10)
 Target: Read, clean, and structure the raw ONCO-2026 files inside SAS and R.
 
 | Day | Focus Domain | Language | Project Task Description | Target Concept/Output |
