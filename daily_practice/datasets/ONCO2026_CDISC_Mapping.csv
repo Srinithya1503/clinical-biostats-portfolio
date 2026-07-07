@@ -1,0 +1,60 @@
+Raw Dataset,Raw Variable,CDISC Domain,SDTM Variable,Notes
+raw_dm.csv,STUDYID,DM,STUDYID,Direct map
+raw_dm.csv,SITEID,DM,SITEID,Direct map
+raw_dm.csv,SUBJID,DM,USUBJID,Concatenate STUDYID + SUBJID
+raw_dm.csv,AGE,DM,AGE,Direct map
+raw_dm.csv,SEX,DM,SEX,Map M/F to M/F
+raw_dm.csv,RACE,DM,RACE,Controlled terminology
+raw_dm.csv,ETHNICITY,DM,ETHNIC,Controlled terminology
+raw_dm.csv,BIRTH_DATE,DM,BRTHDTC,ISO 8601 date format
+raw_dm.csv,COUNTRY,DM,COUNTRY,ISO 3166-1 Alpha-3
+raw_dm.csv,RAND_DATE,DM,RFICDTC,Randomization = IC date proxy
+raw_dm.csv,ARM,DM,ARM,ARM + ACTARM
+raw_dm.csv,TREATMENT_START_DATE,EX,EXSTDTC,First exposure start
+raw_dm.csv,HEIGHT_CM,VS,VSORRES,"VSTESTCD=HEIGHT, VSORRESU=cm"
+raw_dm.csv,WEIGHT_KG,VS,VSORRES,"VSTESTCD=WEIGHT, VSORRESU=kg"
+raw_dm.csv,BMI,VS,VSORRES,"VSTESTCD=BMI, VSORRESU=kg/m2"
+raw_lab.csv,SUBJID,LB,USUBJID,Concatenate STUDYID
+raw_lab.csv,VISIT,LB,VISIT,Map to VISITNUM
+raw_lab.csv,VISIT_DATE,LB,LBDTC,ISO 8601
+raw_lab.csv,TEST_CODE,LB,LBTESTCD,CDISC lab test controlled terminology
+raw_lab.csv,TEST_NAME,LB,LBTEST,CDISC controlled terminology
+raw_lab.csv,RESULT,LB,LBORRES + LBSTRESN,Char result + numeric
+raw_lab.csv,UNIT,LB,LBORRESU + LBSTRESU,Original + standardized unit
+raw_lab.csv,REFERENCE_LOW,LB,LBSTNRLO,Normal range low
+raw_lab.csv,REFERENCE_HIGH,LB,LBSTNRHI,Normal range high
+raw_lab.csv,ABNORMAL_FLAG,LB,LBNRIND,H/L/NORMAL
+raw_ae.csv,SUBJID,AE,USUBJID,
+raw_ae.csv,AE_TERM,AE,AETERM,Verbatim term; AEDECOD from MedDRA coding
+raw_ae.csv,AE_START_DATE,AE,AESTDTC,ISO 8601
+raw_ae.csv,AE_END_DATE,AE,AEENDTC,ISO 8601; null if ongoing
+raw_ae.csv,SEVERITY,AE,AESEV,Mild/Moderate/Severe → CTCAE Grade
+raw_ae.csv,SERIOUS_FLAG,AE,AESER,Y/N
+raw_ae.csv,RELATED_TO_TREATMENT,AE,AEREL,Y/N → POSSIBLE/NOT RELATED
+raw_ae.csv,OUTCOME,AE,AEOUT,CDISC controlled terminology
+raw_cm.csv,SUBJID,CM,USUBJID,
+raw_cm.csv,MEDICATION_NAME,CM,CMTRT,Verbatim; CMDECOD from WHODrug
+raw_cm.csv,START_DATE,CM,CMSTDTC,ISO 8601
+raw_cm.csv,END_DATE,CM,CMENDTC,ISO 8601; null if ongoing
+raw_cm.csv,DOSE,CM,CMDOSE + CMDOSU,Split numeric from unit
+raw_cm.csv,ROUTE,CM,CMROUTE,CDISC controlled terminology
+raw_cm.csv,INDICATION,CM,CMINDC,Free text indication
+raw_vitals.csv,SUBJID,VS,USUBJID,
+raw_vitals.csv,VISIT,VS,VISIT,
+raw_vitals.csv,VISIT_DATE,VS,VSDTC,ISO 8601
+raw_vitals.csv,SBP,VS,VSORRES (SYSBP),VSTESTCD=SYSBP
+raw_vitals.csv,DBP,VS,VSORRES (DIABP),VSTESTCD=DIABP
+raw_vitals.csv,HEART_RATE,VS,VSORRES (PULSE),VSTESTCD=PULSE
+raw_vitals.csv,TEMPERATURE,VS,VSORRES (TEMP),VSTESTCD=TEMP
+raw_tumor.csv,SUBJID,RS + TU,RS.USUBJID + TU.USUBJID,
+raw_tumor.csv,ASSESSMENT_DATE,RS,RSDTC,
+raw_tumor.csv,TARGET_LESION_SIZE,TU,TUURRES,Sum of target diameters
+raw_tumor.csv,RESPONSE_CATEGORY,RS,RSSTRESC,CR/PR/SD/PD per RECIST 1.1
+raw_survival.csv,SUBJID,DS + ADTTE,DS.USUBJID,
+raw_survival.csv,DEATH_DATE,DS,DSSTDTC,Death disposition date
+raw_survival.csv,LAST_FOLLOWUP_DATE,ADTTE,ADT,Used for censoring
+raw_survival.csv,EVENT_STATUS,ADTTE,CNSR,0=Event(death) / 1=Censored (inverted)
+raw_pd.csv,SUBJID,DV,USUBJID,
+raw_pd.csv,DEVIATION_CATEGORY,DV,DVCAT,Category of deviation
+raw_pd.csv,DESCRIPTION,DV,DVDECOD,Controlled term
+raw_pd.csv,DATE,DV,DVSTDTC,ISO 8601
