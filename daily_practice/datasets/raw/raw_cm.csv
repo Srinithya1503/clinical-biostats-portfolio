@@ -1,0 +1,1984 @@
+SUBJID,MEDICATION_NAME,START_DATE,END_DATE,DOSE,ROUTE,INDICATION
+SUBJ0001,Omeprazole,2024-08-03,2024-11-13,20 mg,ORAL,Gastric Protection
+SUBJ0001,Filgrastim,2025-01-25,2025-03-29,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0001,Lorazepam,2024-06-12,2024-08-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0001,Ibuprofen,2024-04-28,2024-10-17,400 mg,ORAL,Pain/Fever
+SUBJ0001,Prednisone,2025-01-05,2025-06-18,5 mg,ORAL,Steroid Therapy
+SUBJ0001,Erythropoietin,2024-11-15,2025-02-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0002,Lorazepam,2024-12-23,2025-06-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0002,Metoclopramide,2025-04-15,2025-09-25,10 mg,ORAL,Nausea
+SUBJ0002,Ondansetron,2025-01-14,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0002,Erythropoietin,2025-07-22,2025-11-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0003,Ondansetron,2024-08-01,2024-08-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0003,Prednisone,2024-09-03,,5 mg,ORAL,Steroid Therapy
+SUBJ0003,Morphine,2025-03-20,,10 mg,ORAL,Pain
+SUBJ0003,Filgrastim,2024-10-07,2025-01-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0004,Metoclopramide,2024-10-25,2025-04-18,10 mg,ORAL,Nausea
+SUBJ0004,Lorazepam,2024-02-09,2024-04-10,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0004,Dexamethasone,2024-06-26,2024-11-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0004,Prednisone,2024-07-27,2024-12-26,5 mg,ORAL,Steroid Therapy
+SUBJ0005,Morphine,2024-03-20,2024-04-19,10 mg,ORAL,Pain
+SUBJ0005,Dexamethasone,2024-05-20,2024-06-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0005,Ibuprofen,2024-10-18,2024-11-01,400 mg,ORAL,Pain/Fever
+SUBJ0005,Ondansetron,2024-04-04,2024-08-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0006,Lorazepam,2025-03-29,2025-05-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0006,Ondansetron,2024-09-21,2025-01-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0006,Erythropoietin,2024-10-10,2025-02-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0006,Morphine,2024-10-23,2025-03-04,10 mg,ORAL,Pain
+SUBJ0006,Prednisone,2024-08-22,,5 mg,ORAL,Steroid Therapy
+SUBJ0006,Metoclopramide,2025-02-18,2025-08-07,10 mg,ORAL,Nausea
+SUBJ0007,Lorazepam,2025-04-15,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0007,Erythropoietin,2025-03-04,2025-05-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0007,Ibuprofen,2025-05-03,2025-10-29,400 mg,ORAL,Pain/Fever
+SUBJ0007,Ondansetron,2025-01-04,2025-04-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0007,Filgrastim,2024-07-21,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0008,Metoclopramide,2024-10-02,,10 mg,ORAL,Nausea
+SUBJ0008,Ondansetron,2025-02-10,2025-03-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0008,Prednisone,2024-07-21,2024-07-29,5 mg,ORAL,Steroid Therapy
+SUBJ0009,Dexamethasone,2024-10-27,2025-02-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0009,Erythropoietin,2024-11-21,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0009,Metoclopramide,2024-09-20,2024-10-06,10 mg,ORAL,Nausea
+SUBJ0010,Metoclopramide,2025-06-21,2025-08-17,10 mg,ORAL,Nausea
+SUBJ0010,Omeprazole,2025-07-03,,20 mg,ORAL,Gastric Protection
+SUBJ0010,Erythropoietin,2025-03-19,2025-07-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0010,Prednisone,2025-05-28,2025-10-04,5 mg,ORAL,Steroid Therapy
+SUBJ0010,Morphine,2024-09-25,2024-10-30,10 mg,ORAL,Pain
+SUBJ0011,Ibuprofen,2024-05-21,2024-10-18,400 mg,ORAL,Pain/Fever
+SUBJ0011,Metoclopramide,2024-05-07,2024-08-14,10 mg,ORAL,Nausea
+SUBJ0011,Omeprazole,2024-09-02,2024-11-13,20 mg,ORAL,Gastric Protection
+SUBJ0011,Filgrastim,2024-12-18,2025-03-19,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0011,Morphine,2024-09-04,2024-10-12,10 mg,ORAL,Pain
+SUBJ0011,Lorazepam,2024-05-04,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0012,Lorazepam,2024-12-16,2025-02-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0012,Ondansetron,2025-05-02,2025-08-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0012,Dexamethasone,2024-07-20,2024-09-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0012,Filgrastim,2024-09-20,2024-10-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0013,Dexamethasone,2025-03-30,2025-08-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0013,Prednisone,2025-08-24,,5 mg,ORAL,Steroid Therapy
+SUBJ0013,Ibuprofen,2025-01-07,2025-03-30,400 mg,ORAL,Pain/Fever
+SUBJ0013,Omeprazole,2025-02-17,2025-08-09,20 mg,ORAL,Gastric Protection
+SUBJ0013,Lorazepam,2025-05-14,2025-07-15,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0013,Ondansetron,2025-04-21,2025-06-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0014,Lorazepam,2024-05-27,2024-07-22,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0014,Prednisone,2024-06-12,2024-06-23,5 mg,ORAL,Steroid Therapy
+SUBJ0014,Ibuprofen,2024-07-08,2024-12-19,400 mg,ORAL,Pain/Fever
+SUBJ0014,Erythropoietin,2024-05-30,2024-06-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0014,Morphine,2024-12-18,2025-04-10,10 mg,ORAL,Pain
+SUBJ0014,Omeprazole,2024-11-16,2025-02-02,20 mg,ORAL,Gastric Protection
+SUBJ0015,Dexamethasone,2025-02-03,2025-02-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0015,Erythropoietin,2024-08-03,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0015,Lorazepam,2024-09-26,2025-03-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0016,Ondansetron,2024-08-24,2024-12-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0016,Filgrastim,2024-07-19,2024-08-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0016,Omeprazole,2024-11-14,2025-03-12,20 mg,ORAL,Gastric Protection
+SUBJ0016,Morphine,2024-06-15,2024-11-25,10 mg,ORAL,Pain
+SUBJ0017,Ondansetron,2025-05-30,2025-08-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0017,Ibuprofen,2025-01-10,2025-06-29,400 mg,ORAL,Pain/Fever
+SUBJ0017,Lorazepam,2024-12-12,2025-03-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0017,Erythropoietin,2025-01-22,2025-05-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0017,Morphine,2024-09-28,2024-12-06,10 mg,ORAL,Pain
+SUBJ0017,Dexamethasone,2025-06-19,2025-10-19,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0018,Morphine,2024-03-16,2024-07-20,10 mg,ORAL,Pain
+SUBJ0018,Ibuprofen,2024-10-14,2024-12-14,400 mg,ORAL,Pain/Fever
+SUBJ0019,Dexamethasone,2025-05-07,2025-07-08,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0019,Omeprazole,2024-12-09,2025-04-14,20 mg,ORAL,Gastric Protection
+SUBJ0020,Filgrastim,2025-06-20,2025-12-05,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0020,Prednisone,2025-06-02,2025-08-26,5 mg,ORAL,Steroid Therapy
+SUBJ0020,Ibuprofen,2025-02-15,2025-06-11,400 mg,ORAL,Pain/Fever
+SUBJ0020,Erythropoietin,2025-03-14,2025-08-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0021,Ondansetron,2024-04-08,2024-05-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0021,Morphine,2024-08-25,2024-10-30,10 mg,ORAL,Pain
+SUBJ0021,Erythropoietin,2024-09-08,2025-02-06,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0022,Morphine,2024-10-28,2025-01-21,10 mg,ORAL,Pain
+SUBJ0022,Omeprazole,2024-12-10,2025-02-17,20 mg,ORAL,Gastric Protection
+SUBJ0022,Dexamethasone,2025-01-07,2025-04-30,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0022,Metoclopramide,2024-09-13,2024-10-23,10 mg,ORAL,Nausea
+SUBJ0022,Filgrastim,2025-03-18,2025-08-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0023,Filgrastim,2025-01-31,2025-04-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0023,Prednisone,2025-06-16,2025-07-31,5 mg,ORAL,Steroid Therapy
+SUBJ0023,Lorazepam,2024-11-17,2025-04-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0023,Omeprazole,2024-09-22,2024-11-19,20 mg,ORAL,Gastric Protection
+SUBJ0024,Lorazepam,2024-03-06,2024-06-14,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0024,Filgrastim,2024-09-29,2024-10-08,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0024,Metoclopramide,2024-07-04,2024-08-02,10 mg,ORAL,Nausea
+SUBJ0024,Omeprazole,2024-03-07,2024-06-13,20 mg,ORAL,Gastric Protection
+SUBJ0024,Ibuprofen,2024-10-23,2024-11-26,400 mg,ORAL,Pain/Fever
+SUBJ0025,Dexamethasone,2025-04-12,2025-06-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0025,Morphine,2024-07-11,2024-08-15,10 mg,ORAL,Pain
+SUBJ0025,Metoclopramide,2025-01-26,2025-05-16,10 mg,ORAL,Nausea
+SUBJ0025,Erythropoietin,2025-03-26,2025-04-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0025,Lorazepam,2025-04-07,2025-08-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0026,Prednisone,2025-04-06,2025-05-18,5 mg,ORAL,Steroid Therapy
+SUBJ0026,Ondansetron,2024-12-06,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0026,Erythropoietin,2025-04-05,2025-09-01,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0026,Morphine,2024-07-01,2024-07-15,10 mg,ORAL,Pain
+SUBJ0026,Lorazepam,2024-10-13,2025-01-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0027,Ondansetron,2024-06-18,2024-07-30,8 mg,ORAL,Nausea/Vomiting
+SUBJ0027,Dexamethasone,2024-09-03,2024-12-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0027,Lorazepam,2024-07-21,2024-09-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0027,Morphine,2024-09-22,2025-03-08,10 mg,ORAL,Pain
+SUBJ0028,Ondansetron,2024-12-09,2025-04-08,8 mg,ORAL,Nausea/Vomiting
+SUBJ0028,Omeprazole,2024-09-14,2025-03-04,20 mg,ORAL,Gastric Protection
+SUBJ0028,Dexamethasone,2024-10-27,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0028,Morphine,2024-06-22,2024-10-24,10 mg,ORAL,Pain
+SUBJ0028,Metoclopramide,2025-03-23,2025-08-05,10 mg,ORAL,Nausea
+SUBJ0028,Prednisone,2025-01-20,2025-02-16,5 mg,ORAL,Steroid Therapy
+SUBJ0029,Ibuprofen,2024-11-12,2025-04-19,400 mg,ORAL,Pain/Fever
+SUBJ0029,Dexamethasone,2025-03-16,2025-09-10,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0029,Filgrastim,2025-01-14,2025-04-28,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0029,Prednisone,2025-01-27,2025-03-25,5 mg,ORAL,Steroid Therapy
+SUBJ0029,Omeprazole,2024-12-17,2025-05-02,20 mg,ORAL,Gastric Protection
+SUBJ0030,Metoclopramide,2024-10-28,2024-12-08,10 mg,ORAL,Nausea
+SUBJ0030,Filgrastim,2025-03-28,2025-06-23,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0030,Lorazepam,2024-06-23,2024-09-29,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0031,Lorazepam,2025-05-13,2025-08-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0031,Ibuprofen,2025-01-07,2025-02-17,400 mg,ORAL,Pain/Fever
+SUBJ0031,Morphine,2025-05-16,2025-09-23,10 mg,ORAL,Pain
+SUBJ0031,Omeprazole,2024-10-09,2025-03-31,20 mg,ORAL,Gastric Protection
+SUBJ0032,Erythropoietin,2025-03-20,2025-08-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0032,Lorazepam,2025-03-10,2025-05-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0033,Ibuprofen,2025-01-04,,400 mg,ORAL,Pain/Fever
+SUBJ0033,Prednisone,2024-12-02,2025-01-16,5 mg,ORAL,Steroid Therapy
+SUBJ0034,Ondansetron,2025-03-16,2025-08-26,8 mg,ORAL,Nausea/Vomiting
+SUBJ0034,Metoclopramide,2024-07-13,2024-11-18,10 mg,ORAL,Nausea
+SUBJ0034,Ibuprofen,2024-10-29,2025-01-15,400 mg,ORAL,Pain/Fever
+SUBJ0034,Prednisone,2025-03-03,,5 mg,ORAL,Steroid Therapy
+SUBJ0035,Prednisone,2025-08-13,2026-01-06,5 mg,ORAL,Steroid Therapy
+SUBJ0035,Lorazepam,2024-12-04,2025-03-31,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0036,Morphine,2025-01-08,2025-02-16,10 mg,ORAL,Pain
+SUBJ0036,Erythropoietin,2024-08-19,2024-10-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0036,Prednisone,2024-05-25,2024-11-11,5 mg,ORAL,Steroid Therapy
+SUBJ0036,Filgrastim,2024-06-06,2024-10-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0036,Metoclopramide,2024-10-28,2025-04-24,10 mg,ORAL,Nausea
+SUBJ0036,Ondansetron,2024-04-16,2024-06-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0036,Ibuprofen,2024-05-12,2024-08-06,400 mg,ORAL,Pain/Fever
+SUBJ0037,Lorazepam,2024-05-27,2024-06-19,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0037,Ondansetron,2024-05-30,2024-10-09,8 mg,ORAL,Nausea/Vomiting
+SUBJ0037,Metoclopramide,2024-07-12,2024-10-20,10 mg,ORAL,Nausea
+SUBJ0037,Erythropoietin,2024-10-25,2024-12-07,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0037,Omeprazole,2025-01-11,2025-06-28,20 mg,ORAL,Gastric Protection
+SUBJ0038,Prednisone,2024-12-23,2025-03-19,5 mg,ORAL,Steroid Therapy
+SUBJ0038,Metoclopramide,2025-03-28,2025-08-22,10 mg,ORAL,Nausea
+SUBJ0038,Erythropoietin,2025-03-09,2025-04-02,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0038,Morphine,2025-05-25,2025-07-26,10 mg,ORAL,Pain
+SUBJ0038,Ibuprofen,2025-04-06,2025-09-09,400 mg,ORAL,Pain/Fever
+SUBJ0039,Ondansetron,2024-09-29,2024-12-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0039,Prednisone,2025-03-06,2025-05-06,5 mg,ORAL,Steroid Therapy
+SUBJ0039,Ibuprofen,2024-11-22,2025-01-18,400 mg,ORAL,Pain/Fever
+SUBJ0039,Lorazepam,2024-10-13,2024-11-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0040,Dexamethasone,2024-11-19,2025-04-17,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0040,Ondansetron,2024-11-17,2025-03-27,8 mg,ORAL,Nausea/Vomiting
+SUBJ0040,Erythropoietin,2024-08-29,2024-10-31,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0040,Ibuprofen,2024-11-01,,400 mg,ORAL,Pain/Fever
+SUBJ0040,Morphine,2025-01-17,2025-05-16,10 mg,ORAL,Pain
+SUBJ0040,Filgrastim,2024-09-18,2024-10-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0041,Filgrastim,2025-07-14,2025-10-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0041,Metoclopramide,2025-04-28,2025-09-14,10 mg,ORAL,Nausea
+SUBJ0041,Dexamethasone,2025-02-25,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0042,Ibuprofen,2024-09-06,2024-10-08,400 mg,ORAL,Pain/Fever
+SUBJ0042,Morphine,2024-07-05,2024-08-03,10 mg,ORAL,Pain
+SUBJ0043,Omeprazole,2024-12-18,2025-01-01,20 mg,ORAL,Gastric Protection
+SUBJ0043,Prednisone,2024-09-14,2024-10-16,5 mg,ORAL,Steroid Therapy
+SUBJ0044,Filgrastim,2025-04-25,2025-07-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0044,Ondansetron,2025-04-05,2025-05-13,8 mg,ORAL,Nausea/Vomiting
+SUBJ0044,Morphine,2024-12-24,2025-02-06,10 mg,ORAL,Pain
+SUBJ0044,Erythropoietin,2024-11-12,2025-03-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0045,Filgrastim,2024-01-16,2024-05-14,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0045,Metoclopramide,2024-04-17,2024-09-29,10 mg,ORAL,Nausea
+SUBJ0045,Morphine,2024-07-27,2024-08-23,10 mg,ORAL,Pain
+SUBJ0045,Prednisone,2024-05-12,2024-09-26,5 mg,ORAL,Steroid Therapy
+SUBJ0046,Prednisone,2024-10-25,,5 mg,ORAL,Steroid Therapy
+SUBJ0046,Ibuprofen,2025-01-13,2025-07-04,400 mg,ORAL,Pain/Fever
+SUBJ0047,Prednisone,2024-12-16,2025-03-21,5 mg,ORAL,Steroid Therapy
+SUBJ0047,Lorazepam,2025-01-26,2025-03-27,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0047,Omeprazole,2024-09-17,2024-11-14,20 mg,ORAL,Gastric Protection
+SUBJ0047,Morphine,2024-11-18,2025-01-20,10 mg,ORAL,Pain
+SUBJ0047,Dexamethasone,2024-09-16,2025-01-11,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0047,Ondansetron,2024-11-01,2025-03-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0047,Erythropoietin,2025-01-07,2025-05-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0048,Filgrastim,2024-05-01,2024-06-24,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0048,Ondansetron,2024-09-21,2024-10-03,8 mg,ORAL,Nausea/Vomiting
+SUBJ0048,Lorazepam,2024-10-14,2025-02-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0049,Filgrastim,2024-10-13,2025-02-06,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0049,Prednisone,2024-08-23,2024-12-15,5 mg,ORAL,Steroid Therapy
+SUBJ0049,Ondansetron,2025-02-24,2025-06-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0049,Ibuprofen,2024-11-14,2024-12-25,400 mg,ORAL,Pain/Fever
+SUBJ0049,Dexamethasone,2024-12-07,2025-04-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0050,Metoclopramide,2025-01-08,2025-07-06,10 mg,ORAL,Nausea
+SUBJ0050,Ibuprofen,2025-02-18,2025-04-16,400 mg,ORAL,Pain/Fever
+SUBJ0050,Erythropoietin,2025-07-01,2025-09-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0051,Morphine,2024-06-29,,10 mg,ORAL,Pain
+SUBJ0051,Prednisone,2024-07-08,2024-12-03,5 mg,ORAL,Steroid Therapy
+SUBJ0051,Filgrastim,2024-08-22,2024-08-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0052,Lorazepam,2024-11-28,2025-04-19,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0052,Metoclopramide,2024-10-11,2025-03-18,10 mg,ORAL,Nausea
+SUBJ0052,Filgrastim,2025-06-03,2025-11-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0052,Prednisone,2025-04-11,2025-05-08,5 mg,ORAL,Steroid Therapy
+SUBJ0053,Omeprazole,2025-02-27,,20 mg,ORAL,Gastric Protection
+SUBJ0053,Morphine,2025-04-25,2025-05-20,10 mg,ORAL,Pain
+SUBJ0053,Metoclopramide,2025-02-01,2025-06-04,10 mg,ORAL,Nausea
+SUBJ0053,Ibuprofen,2024-08-04,2024-09-06,400 mg,ORAL,Pain/Fever
+SUBJ0053,Filgrastim,2025-04-23,2025-08-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0053,Erythropoietin,2025-01-10,2025-02-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0053,Lorazepam,2024-10-06,2024-12-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0053,Ondansetron,2024-09-13,2024-12-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0054,Omeprazole,2024-10-29,2025-03-15,20 mg,ORAL,Gastric Protection
+SUBJ0054,Morphine,2025-02-26,2025-06-24,10 mg,ORAL,Pain
+SUBJ0055,Metoclopramide,2024-07-16,2024-08-11,10 mg,ORAL,Nausea
+SUBJ0055,Lorazepam,2025-02-13,2025-06-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0055,Omeprazole,2025-01-21,2025-03-31,20 mg,ORAL,Gastric Protection
+SUBJ0056,Prednisone,2025-02-25,2025-08-08,5 mg,ORAL,Steroid Therapy
+SUBJ0056,Dexamethasone,2025-05-12,2025-09-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0056,Lorazepam,2024-10-05,2024-11-04,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0056,Erythropoietin,2024-11-07,2025-02-04,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0056,Morphine,2025-04-08,2025-09-22,10 mg,ORAL,Pain
+SUBJ0056,Metoclopramide,2024-10-29,2025-02-11,10 mg,ORAL,Nausea
+SUBJ0056,Omeprazole,2024-10-29,2025-03-01,20 mg,ORAL,Gastric Protection
+SUBJ0057,Metoclopramide,2024-12-27,2025-05-19,10 mg,ORAL,Nausea
+SUBJ0057,Prednisone,2025-03-20,2025-05-10,5 mg,ORAL,Steroid Therapy
+SUBJ0058,Morphine,2024-03-27,2024-05-21,10 mg,ORAL,Pain
+SUBJ0058,Ibuprofen,2024-10-06,2024-10-16,400 mg,ORAL,Pain/Fever
+SUBJ0058,Metoclopramide,2024-08-21,2025-01-26,10 mg,ORAL,Nausea
+SUBJ0058,Lorazepam,2025-02-02,2025-06-18,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0058,Dexamethasone,2024-10-29,2025-01-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0059,Ibuprofen,2024-07-06,2024-09-15,400 mg,ORAL,Pain/Fever
+SUBJ0059,Filgrastim,2024-03-31,2024-08-16,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0059,Prednisone,2024-10-09,2024-12-10,5 mg,ORAL,Steroid Therapy
+SUBJ0060,Omeprazole,2024-07-19,2024-10-18,20 mg,ORAL,Gastric Protection
+SUBJ0060,Dexamethasone,2025-01-31,2025-06-26,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0060,Metoclopramide,2025-01-11,2025-03-30,10 mg,ORAL,Nausea
+SUBJ0060,Filgrastim,2024-11-10,2024-12-01,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0061,Metoclopramide,2024-12-20,2025-03-16,10 mg,ORAL,Nausea
+SUBJ0061,Prednisone,2025-03-18,,5 mg,ORAL,Steroid Therapy
+SUBJ0061,Erythropoietin,2025-04-05,2025-07-03,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0062,Erythropoietin,2025-02-15,2025-05-01,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0062,Filgrastim,2025-02-15,2025-03-14,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0062,Morphine,2024-07-23,2024-09-10,10 mg,ORAL,Pain
+SUBJ0062,Ibuprofen,2024-10-09,2025-03-29,400 mg,ORAL,Pain/Fever
+SUBJ0063,Morphine,2024-09-11,2024-12-21,10 mg,ORAL,Pain
+SUBJ0063,Ibuprofen,2024-04-16,2024-09-26,400 mg,ORAL,Pain/Fever
+SUBJ0063,Metoclopramide,2024-12-20,2025-04-20,10 mg,ORAL,Nausea
+SUBJ0063,Ondansetron,2024-08-20,2024-11-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0065,Dexamethasone,2025-02-08,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0065,Ondansetron,2024-09-26,2025-03-07,8 mg,ORAL,Nausea/Vomiting
+SUBJ0065,Filgrastim,2024-12-07,2025-04-05,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0066,Lorazepam,2024-04-26,2024-09-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0066,Erythropoietin,2025-02-02,2025-06-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0066,Ibuprofen,2024-06-05,2024-10-23,400 mg,ORAL,Pain/Fever
+SUBJ0066,Dexamethasone,2024-05-07,2024-05-17,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0066,Ondansetron,2024-08-27,2024-09-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0067,Morphine,2024-11-26,2025-01-01,10 mg,ORAL,Pain
+SUBJ0067,Prednisone,2024-11-30,2025-01-26,5 mg,ORAL,Steroid Therapy
+SUBJ0067,Dexamethasone,2024-06-04,2024-06-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0068,Ondansetron,2024-07-25,2024-11-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0068,Filgrastim,2024-04-21,2024-09-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0068,Omeprazole,2024-11-01,2025-03-18,20 mg,ORAL,Gastric Protection
+SUBJ0068,Morphine,2024-11-13,2025-05-03,10 mg,ORAL,Pain
+SUBJ0069,Omeprazole,2024-11-13,2025-02-19,20 mg,ORAL,Gastric Protection
+SUBJ0069,Erythropoietin,2024-10-24,2025-03-02,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0069,Ibuprofen,2024-05-29,2024-11-05,400 mg,ORAL,Pain/Fever
+SUBJ0069,Dexamethasone,2024-11-04,2025-01-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0069,Lorazepam,2024-11-09,2024-11-29,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0069,Morphine,2024-10-28,2024-12-19,10 mg,ORAL,Pain
+SUBJ0070,Erythropoietin,2024-02-29,2024-03-12,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0070,Prednisone,2024-04-24,2024-06-04,5 mg,ORAL,Steroid Therapy
+SUBJ0071,Omeprazole,2024-11-09,2025-02-24,20 mg,ORAL,Gastric Protection
+SUBJ0072,Filgrastim,2024-11-24,2025-03-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0072,Omeprazole,2025-02-06,2025-02-28,20 mg,ORAL,Gastric Protection
+SUBJ0072,Ibuprofen,2024-09-15,2024-12-12,400 mg,ORAL,Pain/Fever
+SUBJ0072,Metoclopramide,2025-01-01,2025-02-01,10 mg,ORAL,Nausea
+SUBJ0072,Ondansetron,2024-11-15,2024-12-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0072,Prednisone,2025-03-17,2025-06-27,5 mg,ORAL,Steroid Therapy
+SUBJ0072,Erythropoietin,2024-12-13,2025-02-13,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0073,Erythropoietin,2024-09-22,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0073,Ibuprofen,2024-12-10,2025-05-11,400 mg,ORAL,Pain/Fever
+SUBJ0073,Prednisone,2024-02-28,2024-03-13,5 mg,ORAL,Steroid Therapy
+SUBJ0074,Erythropoietin,2025-01-07,2025-04-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0074,Dexamethasone,2025-03-11,2025-08-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0074,Lorazepam,2024-09-10,2024-10-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0074,Ondansetron,2025-05-23,2025-09-21,8 mg,ORAL,Nausea/Vomiting
+SUBJ0075,Filgrastim,2025-01-09,2025-04-02,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0075,Dexamethasone,2025-02-13,2025-03-09,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0075,Metoclopramide,2024-11-15,2024-12-22,10 mg,ORAL,Nausea
+SUBJ0075,Prednisone,2024-10-31,2025-04-26,5 mg,ORAL,Steroid Therapy
+SUBJ0075,Lorazepam,2025-06-07,2025-08-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0076,Ibuprofen,2025-02-09,2025-03-04,400 mg,ORAL,Pain/Fever
+SUBJ0076,Omeprazole,2024-11-01,2024-11-16,20 mg,ORAL,Gastric Protection
+SUBJ0076,Prednisone,2025-03-25,2025-08-26,5 mg,ORAL,Steroid Therapy
+SUBJ0077,Ibuprofen,2024-04-12,2024-06-02,400 mg,ORAL,Pain/Fever
+SUBJ0077,Ondansetron,2024-11-13,2024-11-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0078,Ibuprofen,2024-10-18,2024-11-13,400 mg,ORAL,Pain/Fever
+SUBJ0078,Dexamethasone,2025-05-19,2025-07-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0078,Morphine,2024-11-25,2025-05-11,10 mg,ORAL,Pain
+SUBJ0078,Filgrastim,2025-03-18,2025-08-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0078,Lorazepam,2025-01-16,2025-03-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0078,Metoclopramide,2025-03-01,2025-07-06,10 mg,ORAL,Nausea
+SUBJ0079,Ibuprofen,2025-05-05,2025-06-15,400 mg,ORAL,Pain/Fever
+SUBJ0079,Dexamethasone,2025-01-08,2025-06-02,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0079,Omeprazole,2024-10-05,2025-01-07,20 mg,ORAL,Gastric Protection
+SUBJ0079,Ondansetron,2025-04-27,2025-07-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0079,Filgrastim,2025-05-03,2025-10-02,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0079,Prednisone,2024-10-05,2024-12-08,5 mg,ORAL,Steroid Therapy
+SUBJ0080,Ondansetron,2025-05-26,2025-09-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0080,Ibuprofen,2025-06-01,2025-08-28,400 mg,ORAL,Pain/Fever
+SUBJ0080,Filgrastim,2025-01-30,2025-05-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0080,Lorazepam,2024-08-28,2024-11-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0080,Erythropoietin,2024-08-07,2024-11-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0081,Omeprazole,2024-07-10,2024-09-09,20 mg,ORAL,Gastric Protection
+SUBJ0081,Filgrastim,2024-10-25,2025-02-23,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0081,Erythropoietin,2024-12-11,2025-01-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0082,Erythropoietin,2024-11-11,2025-02-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0082,Morphine,2024-11-03,2024-11-10,10 mg,ORAL,Pain
+SUBJ0082,Metoclopramide,2024-11-09,,10 mg,ORAL,Nausea
+SUBJ0084,Dexamethasone,2024-09-17,2024-11-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0084,Erythropoietin,2024-07-18,2024-10-19,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0084,Lorazepam,2024-10-28,2025-01-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0084,Ibuprofen,2024-02-13,2024-02-22,400 mg,ORAL,Pain/Fever
+SUBJ0085,Omeprazole,2025-02-27,2025-06-01,20 mg,ORAL,Gastric Protection
+SUBJ0085,Lorazepam,2024-12-30,2025-06-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0085,Ondansetron,2025-04-28,2025-08-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0085,Morphine,2024-12-28,2025-06-06,10 mg,ORAL,Pain
+SUBJ0085,Dexamethasone,2025-04-01,2025-06-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0086,Morphine,2025-01-16,2025-05-06,10 mg,ORAL,Pain
+SUBJ0086,Dexamethasone,2024-04-21,2024-10-10,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0086,Ondansetron,2024-12-04,2025-03-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0086,Metoclopramide,2024-12-15,2025-05-07,10 mg,ORAL,Nausea
+SUBJ0086,Prednisone,2024-09-01,2024-11-30,5 mg,ORAL,Steroid Therapy
+SUBJ0086,Ibuprofen,2024-10-22,2025-01-20,400 mg,ORAL,Pain/Fever
+SUBJ0086,Filgrastim,2025-01-29,2025-03-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0086,Lorazepam,2024-11-08,2025-01-27,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0086,Erythropoietin,2024-12-22,2025-01-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0087,Dexamethasone,2024-09-11,2025-01-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0087,Erythropoietin,2024-07-28,2024-08-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0088,Filgrastim,2025-01-12,2025-04-24,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0088,Erythropoietin,2024-09-13,2025-02-13,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0088,Ibuprofen,2025-02-20,2025-06-01,400 mg,ORAL,Pain/Fever
+SUBJ0089,Lorazepam,2025-03-16,2025-07-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0089,Morphine,2024-12-18,2025-04-29,10 mg,ORAL,Pain
+SUBJ0089,Metoclopramide,2024-08-12,2024-10-09,10 mg,ORAL,Nausea
+SUBJ0089,Dexamethasone,2024-10-27,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0089,Ibuprofen,2024-09-15,,400 mg,ORAL,Pain/Fever
+SUBJ0089,Erythropoietin,2024-12-19,2025-03-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0090,Omeprazole,2024-11-07,2025-01-14,20 mg,ORAL,Gastric Protection
+SUBJ0090,Filgrastim,2024-07-29,2025-01-08,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0090,Ibuprofen,2024-05-16,2024-11-07,400 mg,ORAL,Pain/Fever
+SUBJ0090,Ondansetron,2024-12-04,2025-02-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0090,Prednisone,2024-11-20,2025-01-17,5 mg,ORAL,Steroid Therapy
+SUBJ0090,Morphine,2024-04-21,2024-06-17,10 mg,ORAL,Pain
+SUBJ0091,Filgrastim,2025-04-20,2025-09-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0091,Omeprazole,2025-06-26,2025-08-10,20 mg,ORAL,Gastric Protection
+SUBJ0091,Morphine,2024-11-29,2025-03-30,10 mg,ORAL,Pain
+SUBJ0091,Ibuprofen,2025-05-08,2025-09-29,400 mg,ORAL,Pain/Fever
+SUBJ0092,Filgrastim,2024-12-29,2025-06-16,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0092,Prednisone,2025-03-11,2025-08-22,5 mg,ORAL,Steroid Therapy
+SUBJ0092,Dexamethasone,2025-01-25,2025-06-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0092,Omeprazole,2025-03-11,2025-06-18,20 mg,ORAL,Gastric Protection
+SUBJ0092,Metoclopramide,2025-02-12,2025-07-23,10 mg,ORAL,Nausea
+SUBJ0092,Erythropoietin,2024-10-31,2025-03-19,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0092,Lorazepam,2025-02-21,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0092,Ondansetron,2024-07-31,2024-09-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0093,Dexamethasone,2024-10-16,2024-12-01,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0093,Prednisone,2024-05-10,2024-08-29,5 mg,ORAL,Steroid Therapy
+SUBJ0093,Ondansetron,2024-10-01,2024-11-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0093,Ibuprofen,2024-03-21,2024-07-21,400 mg,ORAL,Pain/Fever
+SUBJ0093,Morphine,2024-10-12,2025-02-09,10 mg,ORAL,Pain
+SUBJ0094,Omeprazole,2024-09-15,2025-02-05,20 mg,ORAL,Gastric Protection
+SUBJ0094,Filgrastim,2025-06-15,2025-07-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0094,Lorazepam,2025-05-30,2025-09-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0094,Prednisone,2025-03-16,2025-07-29,5 mg,ORAL,Steroid Therapy
+SUBJ0094,Erythropoietin,2025-05-28,2025-10-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0094,Metoclopramide,2024-08-24,2024-12-01,10 mg,ORAL,Nausea
+SUBJ0094,Morphine,2025-04-13,,10 mg,ORAL,Pain
+SUBJ0095,Filgrastim,2024-04-29,2024-05-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0095,Dexamethasone,2024-07-01,2024-08-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0095,Ibuprofen,2024-12-09,2025-04-15,400 mg,ORAL,Pain/Fever
+SUBJ0095,Metoclopramide,2024-09-15,2024-12-20,10 mg,ORAL,Nausea
+SUBJ0095,Morphine,2024-11-29,2025-02-14,10 mg,ORAL,Pain
+SUBJ0096,Metoclopramide,2024-11-27,2025-01-09,10 mg,ORAL,Nausea
+SUBJ0096,Omeprazole,2024-08-21,2024-12-08,20 mg,ORAL,Gastric Protection
+SUBJ0096,Filgrastim,2025-02-13,2025-06-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0096,Lorazepam,2025-04-07,2025-07-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0096,Morphine,2025-06-13,2025-11-07,10 mg,ORAL,Pain
+SUBJ0096,Ondansetron,2024-10-25,2025-02-10,8 mg,ORAL,Nausea/Vomiting
+SUBJ0097,Omeprazole,2024-11-25,2025-04-22,20 mg,ORAL,Gastric Protection
+SUBJ0097,Prednisone,2025-02-15,2025-04-21,5 mg,ORAL,Steroid Therapy
+SUBJ0097,Ondansetron,2025-03-15,2025-08-03,8 mg,ORAL,Nausea/Vomiting
+SUBJ0097,Lorazepam,2024-09-19,2024-10-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0097,Morphine,2025-07-13,2025-11-27,10 mg,ORAL,Pain
+SUBJ0098,Erythropoietin,2025-02-18,2025-08-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0098,Dexamethasone,2025-03-13,2025-03-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0099,Metoclopramide,2024-10-13,,10 mg,ORAL,Nausea
+SUBJ0100,Omeprazole,2025-06-11,2025-10-20,20 mg,ORAL,Gastric Protection
+SUBJ0100,Lorazepam,2024-11-28,2025-02-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0100,Morphine,2025-01-16,2025-03-24,10 mg,ORAL,Pain
+SUBJ0100,Dexamethasone,2025-01-02,2025-06-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0100,Prednisone,2024-09-25,2024-10-17,5 mg,ORAL,Steroid Therapy
+SUBJ0102,Erythropoietin,2025-05-26,2025-11-11,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0103,Dexamethasone,2024-12-13,2025-01-30,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0104,Filgrastim,2024-09-16,2024-12-14,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0104,Ibuprofen,2024-12-03,,400 mg,ORAL,Pain/Fever
+SUBJ0104,Erythropoietin,2025-04-15,2025-04-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0104,Prednisone,2025-02-06,2025-02-28,5 mg,ORAL,Steroid Therapy
+SUBJ0105,Lorazepam,2025-01-15,2025-05-22,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0105,Filgrastim,2024-10-17,2025-03-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0106,Omeprazole,2024-09-04,2024-12-01,20 mg,ORAL,Gastric Protection
+SUBJ0107,Prednisone,2025-06-09,,5 mg,ORAL,Steroid Therapy
+SUBJ0107,Morphine,2025-03-19,2025-08-05,10 mg,ORAL,Pain
+SUBJ0107,Filgrastim,2024-09-14,2024-10-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0108,Ondansetron,2025-03-10,2025-08-22,8 mg,ORAL,Nausea/Vomiting
+SUBJ0108,Lorazepam,2024-10-26,2025-02-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0108,Prednisone,2024-10-25,2025-03-26,5 mg,ORAL,Steroid Therapy
+SUBJ0108,Filgrastim,2025-02-24,2025-08-19,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0108,Erythropoietin,2024-07-13,2024-09-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0108,Omeprazole,2024-10-30,2025-02-25,20 mg,ORAL,Gastric Protection
+SUBJ0108,Ibuprofen,2024-08-17,2024-10-09,400 mg,ORAL,Pain/Fever
+SUBJ0108,Metoclopramide,2024-10-03,2025-02-24,10 mg,ORAL,Nausea
+SUBJ0109,Ibuprofen,2025-02-10,2025-07-14,400 mg,ORAL,Pain/Fever
+SUBJ0109,Erythropoietin,2024-06-06,2024-10-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0109,Metoclopramide,2025-02-25,2025-04-23,10 mg,ORAL,Nausea
+SUBJ0109,Lorazepam,2024-05-20,2024-07-27,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0109,Omeprazole,2024-10-03,2025-01-29,20 mg,ORAL,Gastric Protection
+SUBJ0110,Erythropoietin,2024-11-05,2025-04-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0110,Ondansetron,2024-12-19,2025-05-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0110,Lorazepam,2024-06-13,2024-06-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0110,Omeprazole,2024-08-25,2024-12-15,20 mg,ORAL,Gastric Protection
+SUBJ0111,Metoclopramide,2025-06-03,2025-10-12,10 mg,ORAL,Nausea
+SUBJ0111,Dexamethasone,2025-05-26,2025-11-14,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0112,Lorazepam,2025-03-07,2025-08-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0112,Morphine,2024-12-22,2025-05-13,10 mg,ORAL,Pain
+SUBJ0112,Ondansetron,2025-01-15,2025-04-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0113,Lorazepam,2025-02-09,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0113,Omeprazole,2025-03-14,2025-05-07,20 mg,ORAL,Gastric Protection
+SUBJ0113,Filgrastim,2024-05-18,2024-08-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0113,Metoclopramide,2025-01-02,,10 mg,ORAL,Nausea
+SUBJ0113,Ibuprofen,2024-11-02,2024-11-22,400 mg,ORAL,Pain/Fever
+SUBJ0114,Morphine,2024-12-02,2024-12-22,10 mg,ORAL,Pain
+SUBJ0114,Metoclopramide,2025-02-10,2025-05-18,10 mg,ORAL,Nausea
+SUBJ0114,Omeprazole,2025-02-01,2025-07-03,20 mg,ORAL,Gastric Protection
+SUBJ0114,Lorazepam,2024-09-18,2025-02-28,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0114,Prednisone,2024-06-10,2024-11-04,5 mg,ORAL,Steroid Therapy
+SUBJ0115,Ibuprofen,2024-08-10,2025-01-16,400 mg,ORAL,Pain/Fever
+SUBJ0116,Omeprazole,2024-09-22,2024-10-16,20 mg,ORAL,Gastric Protection
+SUBJ0116,Filgrastim,2024-05-05,2024-09-16,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0116,Prednisone,2024-02-26,2024-06-07,5 mg,ORAL,Steroid Therapy
+SUBJ0116,Dexamethasone,2024-09-21,2024-12-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0117,Ondansetron,2024-10-30,2025-02-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0118,Morphine,2025-02-10,2025-08-02,10 mg,ORAL,Pain
+SUBJ0118,Ondansetron,2024-09-03,2025-02-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0118,Omeprazole,2024-06-11,,20 mg,ORAL,Gastric Protection
+SUBJ0118,Filgrastim,2024-06-05,2024-07-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0118,Dexamethasone,2024-08-08,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0118,Erythropoietin,2024-11-05,2025-04-21,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0118,Lorazepam,2024-10-26,2025-02-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0119,Prednisone,2024-05-19,2024-10-03,5 mg,ORAL,Steroid Therapy
+SUBJ0119,Ondansetron,2025-04-03,2025-07-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0119,Erythropoietin,2024-12-14,2025-03-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0119,Ibuprofen,2025-02-27,2025-04-29,400 mg,ORAL,Pain/Fever
+SUBJ0120,Lorazepam,2025-03-29,2025-06-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0121,Erythropoietin,2024-11-04,2025-03-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0122,Lorazepam,2024-11-02,2025-04-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0122,Dexamethasone,2025-04-07,2025-04-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0122,Ondansetron,2024-10-04,2024-11-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0122,Prednisone,2025-02-07,,5 mg,ORAL,Steroid Therapy
+SUBJ0122,Metoclopramide,2025-02-25,2025-04-20,10 mg,ORAL,Nausea
+SUBJ0122,Omeprazole,2025-01-15,2025-03-06,20 mg,ORAL,Gastric Protection
+SUBJ0122,Filgrastim,2024-10-29,2025-04-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0123,Dexamethasone,2024-09-05,2025-02-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0124,Dexamethasone,2024-06-07,2024-11-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0124,Morphine,2024-04-25,2024-06-27,10 mg,ORAL,Pain
+SUBJ0124,Lorazepam,2024-07-06,2024-07-14,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0124,Omeprazole,2024-12-01,2025-02-08,20 mg,ORAL,Gastric Protection
+SUBJ0125,Ibuprofen,2024-09-19,2024-11-20,400 mg,ORAL,Pain/Fever
+SUBJ0125,Prednisone,2024-06-06,2024-10-22,5 mg,ORAL,Steroid Therapy
+SUBJ0125,Dexamethasone,2025-01-24,2025-03-11,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0125,Metoclopramide,2024-10-05,2025-01-01,10 mg,ORAL,Nausea
+SUBJ0125,Morphine,2024-12-13,2025-03-30,10 mg,ORAL,Pain
+SUBJ0125,Erythropoietin,2024-12-03,2024-12-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0125,Ondansetron,2024-08-23,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0125,Omeprazole,2024-03-31,2024-07-08,20 mg,ORAL,Gastric Protection
+SUBJ0125,Filgrastim,2024-12-25,2025-06-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0126,Morphine,2024-09-26,2025-01-31,10 mg,ORAL,Pain
+SUBJ0126,Omeprazole,2024-05-09,2024-06-08,20 mg,ORAL,Gastric Protection
+SUBJ0126,Metoclopramide,2024-08-28,2024-10-30,10 mg,ORAL,Nausea
+SUBJ0127,Prednisone,2024-07-24,2024-12-01,5 mg,ORAL,Steroid Therapy
+SUBJ0127,Lorazepam,2024-11-16,2025-04-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0127,Metoclopramide,2024-08-22,2024-11-09,10 mg,ORAL,Nausea
+SUBJ0127,Ibuprofen,2025-03-22,2025-04-27,400 mg,ORAL,Pain/Fever
+SUBJ0127,Erythropoietin,2025-05-19,2025-06-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0128,Ibuprofen,2024-04-26,2024-10-02,400 mg,ORAL,Pain/Fever
+SUBJ0128,Filgrastim,2024-08-31,2024-11-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0128,Omeprazole,2024-04-26,,20 mg,ORAL,Gastric Protection
+SUBJ0129,Filgrastim,2024-10-10,2025-01-31,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0130,Filgrastim,2024-07-23,2024-10-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0130,Erythropoietin,2024-06-28,2024-12-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0130,Omeprazole,2024-12-09,2025-03-28,20 mg,ORAL,Gastric Protection
+SUBJ0130,Ibuprofen,2024-09-30,2025-01-23,400 mg,ORAL,Pain/Fever
+SUBJ0130,Lorazepam,2024-11-24,2025-05-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0131,Erythropoietin,2024-11-14,2025-01-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0131,Ondansetron,2024-09-25,2024-11-30,8 mg,ORAL,Nausea/Vomiting
+SUBJ0131,Dexamethasone,2025-05-03,2025-06-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0131,Prednisone,2024-10-20,2024-12-13,5 mg,ORAL,Steroid Therapy
+SUBJ0132,Ibuprofen,2024-09-01,2024-11-26,400 mg,ORAL,Pain/Fever
+SUBJ0132,Omeprazole,2024-10-04,2025-02-28,20 mg,ORAL,Gastric Protection
+SUBJ0132,Erythropoietin,2025-02-05,2025-04-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0132,Lorazepam,2025-04-15,2025-05-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0132,Prednisone,2024-10-27,2024-12-24,5 mg,ORAL,Steroid Therapy
+SUBJ0132,Ondansetron,2025-01-14,2025-02-11,8 mg,ORAL,Nausea/Vomiting
+SUBJ0132,Morphine,2024-08-22,2025-02-18,10 mg,ORAL,Pain
+SUBJ0133,Prednisone,2024-07-30,2024-11-27,5 mg,ORAL,Steroid Therapy
+SUBJ0133,Filgrastim,2024-08-27,2025-01-05,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0133,Metoclopramide,2025-02-03,2025-03-30,10 mg,ORAL,Nausea
+SUBJ0134,Lorazepam,2024-12-20,2025-02-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0134,Morphine,2024-11-17,2025-03-27,10 mg,ORAL,Pain
+SUBJ0134,Erythropoietin,2024-10-30,2025-04-11,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0134,Metoclopramide,2025-04-18,2025-09-14,10 mg,ORAL,Nausea
+SUBJ0135,Dexamethasone,2024-11-30,2025-05-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0135,Prednisone,2025-01-19,2025-06-01,5 mg,ORAL,Steroid Therapy
+SUBJ0135,Omeprazole,2025-05-09,2025-09-07,20 mg,ORAL,Gastric Protection
+SUBJ0135,Lorazepam,2024-12-30,2025-01-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0135,Ibuprofen,2024-11-19,2025-05-01,400 mg,ORAL,Pain/Fever
+SUBJ0135,Erythropoietin,2025-06-02,2025-11-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0135,Metoclopramide,2025-04-18,2025-07-22,10 mg,ORAL,Nausea
+SUBJ0135,Ondansetron,2025-03-24,2025-08-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0136,Ondansetron,2025-04-01,2025-06-09,8 mg,ORAL,Nausea/Vomiting
+SUBJ0136,Filgrastim,2024-11-27,2025-01-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0136,Metoclopramide,2024-08-29,,10 mg,ORAL,Nausea
+SUBJ0137,Prednisone,2024-11-10,2025-05-05,5 mg,ORAL,Steroid Therapy
+SUBJ0137,Ibuprofen,2024-03-09,2024-06-18,400 mg,ORAL,Pain/Fever
+SUBJ0137,Erythropoietin,2024-10-05,2025-01-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0137,Dexamethasone,2024-10-22,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0137,Ondansetron,2024-08-21,2024-09-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0138,Ondansetron,2024-08-06,2024-12-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0138,Filgrastim,2024-09-28,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0138,Ibuprofen,2024-10-04,2025-01-16,400 mg,ORAL,Pain/Fever
+SUBJ0138,Lorazepam,2024-08-22,2024-12-18,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0138,Erythropoietin,2024-05-28,2024-09-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0138,Dexamethasone,2024-09-02,2024-09-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0138,Omeprazole,2024-12-01,2025-02-04,20 mg,ORAL,Gastric Protection
+SUBJ0138,Metoclopramide,2024-11-06,2025-03-25,10 mg,ORAL,Nausea
+SUBJ0138,Prednisone,2025-02-13,2025-03-14,5 mg,ORAL,Steroid Therapy
+SUBJ0139,Metoclopramide,2025-06-06,2025-06-14,10 mg,ORAL,Nausea
+SUBJ0139,Lorazepam,2025-05-14,2025-08-24,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0139,Erythropoietin,2024-09-15,2025-03-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0139,Ondansetron,2025-01-17,2025-02-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0140,Prednisone,2025-03-31,2025-05-25,5 mg,ORAL,Steroid Therapy
+SUBJ0140,Metoclopramide,2024-10-18,2025-01-31,10 mg,ORAL,Nausea
+SUBJ0140,Ibuprofen,2025-02-26,2025-04-18,400 mg,ORAL,Pain/Fever
+SUBJ0140,Lorazepam,2025-02-05,2025-03-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0140,Erythropoietin,2025-03-23,2025-04-11,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0140,Dexamethasone,2024-11-02,2025-03-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0140,Filgrastim,2024-08-06,2024-11-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0141,Ibuprofen,2025-06-11,2025-07-31,400 mg,ORAL,Pain/Fever
+SUBJ0141,Omeprazole,2024-10-26,2025-04-03,20 mg,ORAL,Gastric Protection
+SUBJ0141,Dexamethasone,2025-06-05,2025-06-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0141,Filgrastim,2025-04-30,2025-07-16,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0142,Ondansetron,2024-07-08,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0142,Morphine,2024-06-28,2024-08-05,10 mg,ORAL,Pain
+SUBJ0142,Erythropoietin,2024-11-06,2024-11-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0142,Prednisone,2024-09-15,2025-01-22,5 mg,ORAL,Steroid Therapy
+SUBJ0142,Lorazepam,2024-01-24,2024-02-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0143,Filgrastim,2025-01-07,2025-02-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0143,Morphine,2025-06-17,2025-08-19,10 mg,ORAL,Pain
+SUBJ0143,Dexamethasone,2025-08-15,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0143,Erythropoietin,2025-01-20,2025-03-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0143,Omeprazole,2025-04-21,2025-05-09,20 mg,ORAL,Gastric Protection
+SUBJ0144,Ondansetron,2024-11-11,2025-03-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0145,Morphine,2025-02-24,2025-05-08,10 mg,ORAL,Pain
+SUBJ0145,Prednisone,2024-09-16,2024-12-20,5 mg,ORAL,Steroid Therapy
+SUBJ0145,Dexamethasone,2025-06-05,2025-10-09,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0145,Metoclopramide,2025-01-24,2025-05-05,10 mg,ORAL,Nausea
+SUBJ0145,Erythropoietin,2025-02-14,2025-07-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0146,Ibuprofen,2024-11-13,2025-02-25,400 mg,ORAL,Pain/Fever
+SUBJ0146,Dexamethasone,2024-01-07,2024-06-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0146,Filgrastim,2024-08-15,2024-10-01,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0146,Ondansetron,2023-12-30,2024-03-26,8 mg,ORAL,Nausea/Vomiting
+SUBJ0147,Morphine,2024-07-31,2024-08-24,10 mg,ORAL,Pain
+SUBJ0147,Metoclopramide,2024-07-30,2024-09-26,10 mg,ORAL,Nausea
+SUBJ0147,Filgrastim,2025-01-15,2025-04-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0147,Dexamethasone,2025-05-09,2025-06-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0148,Ibuprofen,2024-07-23,2024-12-15,400 mg,ORAL,Pain/Fever
+SUBJ0148,Dexamethasone,2025-03-09,2025-08-31,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0148,Filgrastim,2024-08-23,2025-01-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0148,Ondansetron,2024-11-19,2025-03-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0148,Lorazepam,2025-03-30,2025-05-24,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0148,Morphine,2025-03-20,2025-06-16,10 mg,ORAL,Pain
+SUBJ0149,Ibuprofen,2024-09-21,,400 mg,ORAL,Pain/Fever
+SUBJ0149,Prednisone,2025-03-08,2025-05-25,5 mg,ORAL,Steroid Therapy
+SUBJ0149,Dexamethasone,2024-12-15,2025-02-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0150,Erythropoietin,2025-01-19,2025-05-07,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0150,Lorazepam,2024-09-12,2024-10-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0150,Omeprazole,2025-04-10,2025-10-06,20 mg,ORAL,Gastric Protection
+SUBJ0151,Prednisone,2025-04-16,2025-08-09,5 mg,ORAL,Steroid Therapy
+SUBJ0151,Filgrastim,2025-05-10,2025-05-31,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0151,Morphine,2024-09-21,2024-10-18,10 mg,ORAL,Pain
+SUBJ0151,Ibuprofen,2025-08-07,2025-09-01,400 mg,ORAL,Pain/Fever
+SUBJ0151,Metoclopramide,2025-08-15,2026-01-01,10 mg,ORAL,Nausea
+SUBJ0151,Lorazepam,2025-01-05,2025-06-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0151,Omeprazole,2025-02-01,,20 mg,ORAL,Gastric Protection
+SUBJ0152,Ibuprofen,2025-03-12,2025-05-31,400 mg,ORAL,Pain/Fever
+SUBJ0152,Omeprazole,2025-03-10,2025-07-11,20 mg,ORAL,Gastric Protection
+SUBJ0152,Morphine,2025-06-08,2025-10-27,10 mg,ORAL,Pain
+SUBJ0153,Morphine,2024-06-14,2024-09-21,10 mg,ORAL,Pain
+SUBJ0153,Filgrastim,2024-09-03,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0153,Erythropoietin,2024-07-17,2024-10-19,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0153,Ibuprofen,2024-09-30,2024-11-20,400 mg,ORAL,Pain/Fever
+SUBJ0154,Prednisone,2025-05-05,2025-07-01,5 mg,ORAL,Steroid Therapy
+SUBJ0154,Metoclopramide,2025-01-21,2025-05-05,10 mg,ORAL,Nausea
+SUBJ0155,Ondansetron,2024-12-06,2025-01-08,8 mg,ORAL,Nausea/Vomiting
+SUBJ0155,Filgrastim,2024-12-09,2025-03-08,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0155,Dexamethasone,2024-06-02,2024-06-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0155,Prednisone,2024-05-19,2024-06-04,5 mg,ORAL,Steroid Therapy
+SUBJ0155,Lorazepam,2024-04-20,2024-06-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0156,Metoclopramide,2024-07-01,2024-08-22,10 mg,ORAL,Nausea
+SUBJ0156,Dexamethasone,2024-12-07,2025-05-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0156,Morphine,2024-07-16,2024-09-09,10 mg,ORAL,Pain
+SUBJ0156,Ibuprofen,2024-11-05,2025-01-17,400 mg,ORAL,Pain/Fever
+SUBJ0156,Omeprazole,2024-07-11,2024-08-29,20 mg,ORAL,Gastric Protection
+SUBJ0156,Prednisone,2024-09-03,2025-02-17,5 mg,ORAL,Steroid Therapy
+SUBJ0157,Dexamethasone,2024-12-25,2025-03-09,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0157,Metoclopramide,2025-03-27,2025-04-30,10 mg,ORAL,Nausea
+SUBJ0158,Ondansetron,2025-03-16,2025-07-26,8 mg,ORAL,Nausea/Vomiting
+SUBJ0158,Ibuprofen,2025-04-09,2025-08-20,400 mg,ORAL,Pain/Fever
+SUBJ0158,Prednisone,2024-09-12,2024-10-09,5 mg,ORAL,Steroid Therapy
+SUBJ0158,Erythropoietin,2025-07-20,2025-10-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0158,Omeprazole,2024-10-17,2024-12-16,20 mg,ORAL,Gastric Protection
+SUBJ0159,Omeprazole,2024-04-09,2024-05-30,20 mg,ORAL,Gastric Protection
+SUBJ0159,Ibuprofen,2024-07-19,2024-09-12,400 mg,ORAL,Pain/Fever
+SUBJ0159,Dexamethasone,2024-05-16,2024-09-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0160,Ondansetron,2025-01-18,2025-06-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0160,Morphine,2024-08-17,2024-09-01,10 mg,ORAL,Pain
+SUBJ0160,Omeprazole,2024-12-25,2025-04-24,20 mg,ORAL,Gastric Protection
+SUBJ0160,Prednisone,2025-02-21,2025-05-02,5 mg,ORAL,Steroid Therapy
+SUBJ0161,Omeprazole,2024-08-17,2024-12-18,20 mg,ORAL,Gastric Protection
+SUBJ0161,Metoclopramide,2025-03-21,2025-07-26,10 mg,ORAL,Nausea
+SUBJ0161,Prednisone,2024-08-29,2025-02-13,5 mg,ORAL,Steroid Therapy
+SUBJ0161,Dexamethasone,2024-09-09,2024-11-10,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0161,Filgrastim,2024-10-31,2024-11-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0161,Lorazepam,2025-04-02,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0163,Erythropoietin,2024-11-29,2025-05-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0163,Omeprazole,2025-01-15,,20 mg,ORAL,Gastric Protection
+SUBJ0163,Filgrastim,2024-12-26,2025-04-23,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0164,Erythropoietin,2025-05-07,2025-06-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0164,Filgrastim,2025-07-08,2025-08-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0164,Morphine,2025-06-29,2025-11-28,10 mg,ORAL,Pain
+SUBJ0164,Prednisone,2025-04-04,2025-06-19,5 mg,ORAL,Steroid Therapy
+SUBJ0165,Dexamethasone,2024-03-14,2024-04-26,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0165,Morphine,2024-08-28,2024-11-29,10 mg,ORAL,Pain
+SUBJ0165,Metoclopramide,2024-08-10,2024-12-28,10 mg,ORAL,Nausea
+SUBJ0165,Ibuprofen,2024-06-15,2024-10-15,400 mg,ORAL,Pain/Fever
+SUBJ0165,Prednisone,2024-06-08,2024-08-05,5 mg,ORAL,Steroid Therapy
+SUBJ0165,Ondansetron,2024-10-24,2024-11-08,8 mg,ORAL,Nausea/Vomiting
+SUBJ0166,Erythropoietin,2025-05-28,2025-09-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0166,Filgrastim,2025-06-13,2025-09-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0166,Omeprazole,2025-01-29,,20 mg,ORAL,Gastric Protection
+SUBJ0166,Morphine,2025-03-30,2025-05-17,10 mg,ORAL,Pain
+SUBJ0167,Ondansetron,2024-02-14,2024-05-09,8 mg,ORAL,Nausea/Vomiting
+SUBJ0167,Filgrastim,2024-05-10,2024-09-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0167,Prednisone,2024-11-11,2025-03-01,5 mg,ORAL,Steroid Therapy
+SUBJ0168,Ibuprofen,2025-01-02,2025-05-01,400 mg,ORAL,Pain/Fever
+SUBJ0168,Morphine,2024-07-28,2024-09-25,10 mg,ORAL,Pain
+SUBJ0168,Metoclopramide,2024-09-16,2025-01-19,10 mg,ORAL,Nausea
+SUBJ0168,Ondansetron,2025-02-02,2025-02-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0168,Dexamethasone,2025-05-23,2025-10-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0169,Prednisone,2025-08-14,2025-12-14,5 mg,ORAL,Steroid Therapy
+SUBJ0169,Omeprazole,2025-03-24,2025-08-11,20 mg,ORAL,Gastric Protection
+SUBJ0169,Filgrastim,2025-02-13,2025-04-02,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0170,Ibuprofen,2024-02-23,2024-04-13,400 mg,ORAL,Pain/Fever
+SUBJ0170,Erythropoietin,2024-10-09,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0170,Prednisone,2024-03-14,2024-09-01,5 mg,ORAL,Steroid Therapy
+SUBJ0170,Metoclopramide,2024-01-05,2024-06-19,10 mg,ORAL,Nausea
+SUBJ0171,Metoclopramide,2024-11-08,2024-11-26,10 mg,ORAL,Nausea
+SUBJ0172,Ondansetron,2024-09-19,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0172,Metoclopramide,2024-08-27,2025-01-23,10 mg,ORAL,Nausea
+SUBJ0172,Prednisone,2024-09-06,2024-11-13,5 mg,ORAL,Steroid Therapy
+SUBJ0172,Erythropoietin,2025-03-30,2025-09-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0172,Dexamethasone,2024-10-18,2025-03-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0173,Morphine,2024-04-04,2024-05-27,10 mg,ORAL,Pain
+SUBJ0173,Filgrastim,2024-09-25,2024-12-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0173,Ibuprofen,2024-08-09,2024-10-23,400 mg,ORAL,Pain/Fever
+SUBJ0174,Erythropoietin,2025-01-02,2025-04-06,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0174,Dexamethasone,2025-02-28,2025-03-10,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0175,Dexamethasone,2024-05-02,2024-09-02,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0175,Ibuprofen,2025-02-06,2025-04-24,400 mg,ORAL,Pain/Fever
+SUBJ0175,Ondansetron,2024-07-20,2024-12-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0175,Omeprazole,2024-10-11,2025-03-02,20 mg,ORAL,Gastric Protection
+SUBJ0176,Dexamethasone,2024-04-16,2024-04-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0176,Lorazepam,2024-10-23,2025-04-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0176,Filgrastim,2024-04-10,2024-05-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0176,Ibuprofen,2024-07-31,2024-11-14,400 mg,ORAL,Pain/Fever
+SUBJ0177,Ibuprofen,2025-01-01,2025-01-08,400 mg,ORAL,Pain/Fever
+SUBJ0177,Dexamethasone,2025-03-04,2025-07-08,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0177,Ondansetron,2024-05-04,2024-10-13,8 mg,ORAL,Nausea/Vomiting
+SUBJ0177,Erythropoietin,2024-08-31,2024-12-07,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0178,Metoclopramide,2024-12-11,,10 mg,ORAL,Nausea
+SUBJ0179,Lorazepam,2024-09-20,2024-11-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0179,Prednisone,2024-07-01,2024-08-11,5 mg,ORAL,Steroid Therapy
+SUBJ0180,Prednisone,2024-10-19,2024-11-08,5 mg,ORAL,Steroid Therapy
+SUBJ0180,Morphine,2024-08-01,2024-12-05,10 mg,ORAL,Pain
+SUBJ0180,Omeprazole,2024-09-26,2025-02-20,20 mg,ORAL,Gastric Protection
+SUBJ0180,Lorazepam,2024-10-08,2024-12-04,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0180,Ibuprofen,2024-12-11,,400 mg,ORAL,Pain/Fever
+SUBJ0180,Filgrastim,2024-05-31,2024-08-28,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0180,Ondansetron,2024-07-28,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0180,Dexamethasone,2024-07-07,2024-10-08,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0181,Erythropoietin,2024-12-28,2025-04-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0181,Filgrastim,2024-09-14,2024-11-08,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0182,Morphine,2025-04-12,2025-07-02,10 mg,ORAL,Pain
+SUBJ0182,Metoclopramide,2024-11-05,2024-12-22,10 mg,ORAL,Nausea
+SUBJ0182,Omeprazole,2025-01-11,2025-03-09,20 mg,ORAL,Gastric Protection
+SUBJ0182,Dexamethasone,2024-11-05,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0182,Ondansetron,2025-04-14,2025-04-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0182,Ibuprofen,2025-04-28,2025-10-19,400 mg,ORAL,Pain/Fever
+SUBJ0182,Erythropoietin,2025-03-22,2025-04-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0182,Filgrastim,2024-12-03,2025-03-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0182,Prednisone,2024-09-12,2024-12-25,5 mg,ORAL,Steroid Therapy
+SUBJ0183,Metoclopramide,2025-01-02,2025-03-28,10 mg,ORAL,Nausea
+SUBJ0183,Morphine,2024-09-19,2024-12-19,10 mg,ORAL,Pain
+SUBJ0184,Ibuprofen,2024-12-11,2025-01-30,400 mg,ORAL,Pain/Fever
+SUBJ0185,Dexamethasone,2024-08-24,2024-10-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0186,Morphine,2025-04-05,2025-09-27,10 mg,ORAL,Pain
+SUBJ0186,Ibuprofen,2024-10-21,2025-03-29,400 mg,ORAL,Pain/Fever
+SUBJ0187,Erythropoietin,2024-12-03,2025-04-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0187,Morphine,2024-08-23,2025-02-10,10 mg,ORAL,Pain
+SUBJ0187,Ibuprofen,2024-07-22,2024-08-28,400 mg,ORAL,Pain/Fever
+SUBJ0187,Lorazepam,2025-01-02,2025-01-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0187,Omeprazole,2024-11-07,,20 mg,ORAL,Gastric Protection
+SUBJ0187,Dexamethasone,2024-11-30,2025-02-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0188,Morphine,2024-07-13,,10 mg,ORAL,Pain
+SUBJ0188,Metoclopramide,2024-07-05,2024-09-16,10 mg,ORAL,Nausea
+SUBJ0189,Omeprazole,2024-08-26,2024-09-29,20 mg,ORAL,Gastric Protection
+SUBJ0189,Morphine,2024-10-30,2025-03-13,10 mg,ORAL,Pain
+SUBJ0189,Ondansetron,2024-11-24,2025-05-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0189,Erythropoietin,2024-10-16,2024-12-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0189,Dexamethasone,2024-08-27,2025-02-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0191,Filgrastim,2025-04-17,2025-07-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0191,Erythropoietin,2024-12-05,2024-12-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0191,Morphine,2025-04-13,2025-06-25,10 mg,ORAL,Pain
+SUBJ0191,Omeprazole,2025-02-10,2025-04-09,20 mg,ORAL,Gastric Protection
+SUBJ0192,Filgrastim,2024-08-22,2024-12-29,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0192,Omeprazole,2024-07-31,2024-12-07,20 mg,ORAL,Gastric Protection
+SUBJ0192,Lorazepam,2024-04-18,2024-08-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0192,Ibuprofen,2024-08-10,,400 mg,ORAL,Pain/Fever
+SUBJ0193,Metoclopramide,2025-04-24,2025-09-21,10 mg,ORAL,Nausea
+SUBJ0193,Morphine,2025-03-22,2025-05-02,10 mg,ORAL,Pain
+SUBJ0193,Omeprazole,2025-01-31,2025-02-07,20 mg,ORAL,Gastric Protection
+SUBJ0193,Erythropoietin,2025-01-13,2025-07-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0193,Filgrastim,2024-08-14,2025-01-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0193,Lorazepam,2024-07-20,2024-10-10,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0194,Ibuprofen,2024-09-18,2025-01-20,400 mg,ORAL,Pain/Fever
+SUBJ0194,Metoclopramide,2024-06-16,2024-10-07,10 mg,ORAL,Nausea
+SUBJ0194,Prednisone,2024-07-29,2024-12-22,5 mg,ORAL,Steroid Therapy
+SUBJ0194,Ondansetron,2024-09-28,2024-11-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0195,Filgrastim,2024-04-16,2024-08-29,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0195,Omeprazole,2024-07-05,,20 mg,ORAL,Gastric Protection
+SUBJ0195,Dexamethasone,2024-03-10,2024-03-19,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0196,Filgrastim,2024-07-16,2024-12-27,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0196,Erythropoietin,2024-04-16,2024-06-02,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0196,Metoclopramide,2024-08-28,2025-01-17,10 mg,ORAL,Nausea
+SUBJ0197,Omeprazole,2024-09-20,2024-12-21,20 mg,ORAL,Gastric Protection
+SUBJ0198,Ondansetron,2024-08-13,2024-11-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0198,Filgrastim,2024-12-25,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0198,Erythropoietin,2024-05-17,2024-06-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0198,Metoclopramide,2024-05-04,2024-10-24,10 mg,ORAL,Nausea
+SUBJ0198,Lorazepam,2024-08-19,2025-01-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0199,Prednisone,2024-06-12,2024-11-17,5 mg,ORAL,Steroid Therapy
+SUBJ0199,Erythropoietin,2024-04-20,2024-08-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0199,Metoclopramide,2024-07-11,2024-07-29,10 mg,ORAL,Nausea
+SUBJ0199,Omeprazole,2024-08-04,2024-11-14,20 mg,ORAL,Gastric Protection
+SUBJ0200,Dexamethasone,2024-04-18,2024-06-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0201,Erythropoietin,2024-09-09,2024-10-03,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0202,Metoclopramide,2025-02-24,2025-04-12,10 mg,ORAL,Nausea
+SUBJ0202,Morphine,2024-12-17,2025-04-02,10 mg,ORAL,Pain
+SUBJ0202,Lorazepam,2025-01-20,2025-03-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0202,Filgrastim,2024-04-25,2024-10-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0202,Prednisone,2024-09-19,2024-11-11,5 mg,ORAL,Steroid Therapy
+SUBJ0202,Omeprazole,2024-11-04,2025-02-23,20 mg,ORAL,Gastric Protection
+SUBJ0202,Erythropoietin,2024-09-24,2024-12-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0202,Dexamethasone,2025-01-07,2025-04-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0202,Ibuprofen,2024-09-07,,400 mg,ORAL,Pain/Fever
+SUBJ0203,Filgrastim,2024-03-26,2024-06-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0203,Dexamethasone,2024-12-03,2025-05-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0203,Ondansetron,2024-12-07,2025-05-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0203,Morphine,2024-12-18,2025-05-03,10 mg,ORAL,Pain
+SUBJ0203,Ibuprofen,2024-05-04,2024-05-23,400 mg,ORAL,Pain/Fever
+SUBJ0204,Erythropoietin,2025-05-04,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0205,Ondansetron,2024-06-17,2024-12-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0205,Erythropoietin,2024-04-18,2024-07-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0205,Ibuprofen,2024-12-09,2025-05-05,400 mg,ORAL,Pain/Fever
+SUBJ0206,Metoclopramide,2025-08-22,2025-12-19,10 mg,ORAL,Nausea
+SUBJ0207,Morphine,2024-09-02,2025-02-02,10 mg,ORAL,Pain
+SUBJ0207,Erythropoietin,2024-05-09,2024-07-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0207,Ondansetron,2024-07-08,2024-11-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0207,Prednisone,2025-02-08,2025-03-29,5 mg,ORAL,Steroid Therapy
+SUBJ0207,Dexamethasone,2024-04-15,2024-05-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0207,Lorazepam,2024-09-02,2025-02-22,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0207,Omeprazole,2024-06-08,2024-09-27,20 mg,ORAL,Gastric Protection
+SUBJ0208,Filgrastim,2024-11-16,2025-01-31,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0208,Morphine,2025-05-10,2025-09-28,10 mg,ORAL,Pain
+SUBJ0208,Erythropoietin,2024-10-14,2025-04-06,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0209,Morphine,2024-08-06,,10 mg,ORAL,Pain
+SUBJ0209,Dexamethasone,2024-10-08,2025-02-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0209,Erythropoietin,2024-09-25,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0209,Ibuprofen,2024-12-27,2025-04-18,400 mg,ORAL,Pain/Fever
+SUBJ0209,Ondansetron,2024-07-26,2024-11-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0210,Prednisone,2024-12-10,2025-01-18,5 mg,ORAL,Steroid Therapy
+SUBJ0210,Ibuprofen,2025-03-26,2025-05-25,400 mg,ORAL,Pain/Fever
+SUBJ0210,Metoclopramide,2024-08-07,2024-12-02,10 mg,ORAL,Nausea
+SUBJ0210,Erythropoietin,2025-03-05,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0211,Metoclopramide,2024-10-07,2025-02-19,10 mg,ORAL,Nausea
+SUBJ0211,Filgrastim,2024-11-11,2024-12-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0211,Ibuprofen,2024-06-06,,400 mg,ORAL,Pain/Fever
+SUBJ0211,Omeprazole,2024-05-01,2024-05-23,20 mg,ORAL,Gastric Protection
+SUBJ0211,Dexamethasone,2025-01-14,2025-07-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0211,Morphine,2024-08-31,2025-01-18,10 mg,ORAL,Pain
+SUBJ0212,Prednisone,2024-03-29,2024-05-05,5 mg,ORAL,Steroid Therapy
+SUBJ0212,Metoclopramide,2024-03-15,2024-04-15,10 mg,ORAL,Nausea
+SUBJ0212,Omeprazole,2024-03-11,2024-04-20,20 mg,ORAL,Gastric Protection
+SUBJ0212,Ibuprofen,2024-08-24,2024-11-02,400 mg,ORAL,Pain/Fever
+SUBJ0212,Dexamethasone,2025-01-06,2025-06-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0212,Filgrastim,2024-11-03,2024-12-21,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0213,Ondansetron,2024-12-13,2025-01-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0213,Metoclopramide,2024-07-15,2024-10-16,10 mg,ORAL,Nausea
+SUBJ0213,Ibuprofen,2024-04-23,2024-08-10,400 mg,ORAL,Pain/Fever
+SUBJ0213,Erythropoietin,2024-09-24,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0214,Lorazepam,2025-03-06,2025-08-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0214,Metoclopramide,2025-02-17,2025-08-05,10 mg,ORAL,Nausea
+SUBJ0214,Filgrastim,2024-10-10,2025-02-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0215,Lorazepam,2024-12-26,2025-02-21,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0215,Metoclopramide,2024-11-13,2025-01-17,10 mg,ORAL,Nausea
+SUBJ0215,Omeprazole,2024-09-29,2024-10-17,20 mg,ORAL,Gastric Protection
+SUBJ0216,Metoclopramide,2024-10-11,2025-03-27,10 mg,ORAL,Nausea
+SUBJ0216,Ondansetron,2025-01-13,2025-06-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0216,Ibuprofen,2024-11-28,2025-01-29,400 mg,ORAL,Pain/Fever
+SUBJ0216,Morphine,2024-11-20,2025-02-11,10 mg,ORAL,Pain
+SUBJ0216,Erythropoietin,2025-01-07,2025-04-03,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0217,Metoclopramide,2024-01-11,2024-03-28,10 mg,ORAL,Nausea
+SUBJ0217,Ibuprofen,2024-06-07,2024-09-19,400 mg,ORAL,Pain/Fever
+SUBJ0217,Morphine,2024-09-29,2025-03-15,10 mg,ORAL,Pain
+SUBJ0218,Dexamethasone,2024-09-14,2024-12-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0218,Prednisone,2024-06-01,2024-06-13,5 mg,ORAL,Steroid Therapy
+SUBJ0218,Filgrastim,2025-03-22,2025-07-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0219,Erythropoietin,2025-03-02,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0219,Morphine,2025-02-21,2025-03-26,10 mg,ORAL,Pain
+SUBJ0219,Omeprazole,2024-11-26,2025-05-22,20 mg,ORAL,Gastric Protection
+SUBJ0221,Ondansetron,2024-07-22,2024-11-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0221,Morphine,2025-01-24,2025-02-18,10 mg,ORAL,Pain
+SUBJ0222,Filgrastim,2024-10-23,2025-01-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0222,Metoclopramide,2024-12-26,2025-06-23,10 mg,ORAL,Nausea
+SUBJ0222,Erythropoietin,2025-02-17,2025-03-03,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0222,Prednisone,2024-12-18,2025-04-29,5 mg,ORAL,Steroid Therapy
+SUBJ0222,Lorazepam,2024-08-31,2025-01-18,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0222,Morphine,2024-05-01,2024-09-16,10 mg,ORAL,Pain
+SUBJ0222,Dexamethasone,2024-10-11,2025-03-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0223,Dexamethasone,2024-06-02,2024-06-23,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0223,Morphine,2024-09-04,2024-10-17,10 mg,ORAL,Pain
+SUBJ0223,Ibuprofen,2024-06-29,2024-11-10,400 mg,ORAL,Pain/Fever
+SUBJ0223,Erythropoietin,2024-04-19,2024-05-17,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0224,Erythropoietin,2024-11-18,2025-01-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0225,Filgrastim,2024-02-22,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0225,Dexamethasone,2024-02-12,2024-08-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0226,Erythropoietin,2024-08-08,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0226,Ibuprofen,2025-04-04,,400 mg,ORAL,Pain/Fever
+SUBJ0226,Metoclopramide,2024-06-17,2024-10-01,10 mg,ORAL,Nausea
+SUBJ0226,Morphine,2025-02-13,2025-05-27,10 mg,ORAL,Pain
+SUBJ0227,Lorazepam,2024-08-21,2025-01-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0227,Dexamethasone,2024-08-13,2024-12-29,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0227,Metoclopramide,2024-03-15,2024-06-08,10 mg,ORAL,Nausea
+SUBJ0227,Prednisone,2024-08-23,2024-12-24,5 mg,ORAL,Steroid Therapy
+SUBJ0227,Ibuprofen,2024-05-09,2024-08-30,400 mg,ORAL,Pain/Fever
+SUBJ0228,Prednisone,2025-04-15,2025-07-02,5 mg,ORAL,Steroid Therapy
+SUBJ0229,Filgrastim,2024-08-30,2024-09-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0229,Prednisone,2024-03-06,2024-04-03,5 mg,ORAL,Steroid Therapy
+SUBJ0229,Erythropoietin,2024-03-20,2024-04-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0229,Morphine,2024-01-18,2024-02-20,10 mg,ORAL,Pain
+SUBJ0229,Lorazepam,2024-01-18,2024-04-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0230,Erythropoietin,2025-01-15,2025-05-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0230,Morphine,2024-09-16,2025-01-05,10 mg,ORAL,Pain
+SUBJ0230,Prednisone,2024-12-03,2025-01-14,5 mg,ORAL,Steroid Therapy
+SUBJ0230,Ibuprofen,2025-01-14,2025-02-10,400 mg,ORAL,Pain/Fever
+SUBJ0231,Morphine,2025-07-23,2026-01-06,10 mg,ORAL,Pain
+SUBJ0231,Erythropoietin,2025-01-26,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0231,Prednisone,2025-06-07,,5 mg,ORAL,Steroid Therapy
+SUBJ0231,Filgrastim,2025-04-24,2025-10-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0232,Omeprazole,2024-10-09,2024-11-26,20 mg,ORAL,Gastric Protection
+SUBJ0232,Morphine,2025-04-06,2025-08-29,10 mg,ORAL,Pain
+SUBJ0232,Ondansetron,2024-10-01,2024-11-08,8 mg,ORAL,Nausea/Vomiting
+SUBJ0232,Filgrastim,2024-07-28,2024-08-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0232,Dexamethasone,2024-11-16,2025-04-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0232,Metoclopramide,2024-11-15,2024-11-24,10 mg,ORAL,Nausea
+SUBJ0232,Prednisone,2024-12-17,,5 mg,ORAL,Steroid Therapy
+SUBJ0233,Lorazepam,2025-01-25,2025-04-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0234,Erythropoietin,2024-08-28,2024-11-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0234,Ondansetron,2024-04-04,2024-07-10,8 mg,ORAL,Nausea/Vomiting
+SUBJ0234,Metoclopramide,2024-09-26,2024-10-12,10 mg,ORAL,Nausea
+SUBJ0234,Dexamethasone,2024-11-21,2024-12-09,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0234,Omeprazole,2024-11-27,2024-12-18,20 mg,ORAL,Gastric Protection
+SUBJ0234,Filgrastim,2024-09-12,2025-02-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0235,Ibuprofen,2025-03-25,2025-09-02,400 mg,ORAL,Pain/Fever
+SUBJ0235,Filgrastim,2025-07-05,2025-12-06,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0235,Morphine,2025-05-26,2025-07-21,10 mg,ORAL,Pain
+SUBJ0236,Filgrastim,2024-12-20,2025-01-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0236,Ibuprofen,2025-01-07,2025-02-03,400 mg,ORAL,Pain/Fever
+SUBJ0236,Morphine,2024-09-16,2024-12-31,10 mg,ORAL,Pain
+SUBJ0237,Lorazepam,2024-08-13,2024-12-15,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0237,Metoclopramide,2024-10-25,2025-02-14,10 mg,ORAL,Nausea
+SUBJ0238,Erythropoietin,2025-04-24,2025-10-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0238,Ibuprofen,2025-04-24,2025-09-17,400 mg,ORAL,Pain/Fever
+SUBJ0238,Dexamethasone,2025-06-12,2025-08-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0238,Prednisone,2024-09-30,2024-12-12,5 mg,ORAL,Steroid Therapy
+SUBJ0238,Morphine,2024-10-13,2025-02-10,10 mg,ORAL,Pain
+SUBJ0238,Omeprazole,2025-03-20,2025-04-05,20 mg,ORAL,Gastric Protection
+SUBJ0238,Ondansetron,2025-04-21,2025-08-26,8 mg,ORAL,Nausea/Vomiting
+SUBJ0238,Metoclopramide,2025-01-11,2025-01-28,10 mg,ORAL,Nausea
+SUBJ0238,Lorazepam,2024-10-13,2024-12-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0239,Omeprazole,2024-09-05,2024-10-07,20 mg,ORAL,Gastric Protection
+SUBJ0239,Metoclopramide,2025-06-13,2025-07-18,10 mg,ORAL,Nausea
+SUBJ0239,Filgrastim,2024-12-04,2025-04-24,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0239,Morphine,2025-04-05,2025-06-22,10 mg,ORAL,Pain
+SUBJ0239,Ibuprofen,2024-10-04,2024-12-26,400 mg,ORAL,Pain/Fever
+SUBJ0239,Prednisone,2024-09-04,2024-10-06,5 mg,ORAL,Steroid Therapy
+SUBJ0239,Dexamethasone,2025-07-09,2025-12-31,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0240,Ibuprofen,2024-07-17,2024-07-28,400 mg,ORAL,Pain/Fever
+SUBJ0240,Morphine,2024-05-09,2024-08-03,10 mg,ORAL,Pain
+SUBJ0240,Dexamethasone,2024-09-19,2024-11-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0240,Erythropoietin,2024-09-21,2024-11-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0240,Prednisone,2024-05-02,2024-09-09,5 mg,ORAL,Steroid Therapy
+SUBJ0240,Ondansetron,2024-06-07,2024-06-26,8 mg,ORAL,Nausea/Vomiting
+SUBJ0241,Erythropoietin,2025-01-03,2025-03-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0241,Ondansetron,2025-04-06,2025-06-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0241,Morphine,2024-11-28,2025-01-19,10 mg,ORAL,Pain
+SUBJ0241,Dexamethasone,2024-08-14,2025-01-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0242,Erythropoietin,2024-08-11,2024-12-20,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0242,Filgrastim,2024-09-24,2024-10-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0242,Omeprazole,2025-02-16,2025-07-17,20 mg,ORAL,Gastric Protection
+SUBJ0243,Erythropoietin,2025-05-26,2025-11-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0243,Metoclopramide,2025-06-27,2025-12-17,10 mg,ORAL,Nausea
+SUBJ0244,Omeprazole,2024-03-17,2024-08-23,20 mg,ORAL,Gastric Protection
+SUBJ0244,Ibuprofen,2024-05-07,2024-06-06,400 mg,ORAL,Pain/Fever
+SUBJ0244,Filgrastim,2024-06-26,2024-09-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0244,Morphine,2024-05-30,2024-08-26,10 mg,ORAL,Pain
+SUBJ0244,Lorazepam,2024-09-27,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0244,Ondansetron,2025-01-22,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0244,Prednisone,2024-12-02,2024-12-15,5 mg,ORAL,Steroid Therapy
+SUBJ0245,Erythropoietin,2024-08-09,2024-08-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0245,Prednisone,2024-12-27,,5 mg,ORAL,Steroid Therapy
+SUBJ0245,Omeprazole,2025-03-03,2025-06-15,20 mg,ORAL,Gastric Protection
+SUBJ0245,Ondansetron,2024-08-18,2024-11-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0246,Dexamethasone,2024-06-23,2024-07-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0246,Lorazepam,2024-11-05,2025-02-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0246,Prednisone,2024-06-19,2024-11-16,5 mg,ORAL,Steroid Therapy
+SUBJ0246,Morphine,2024-03-31,2024-06-28,10 mg,ORAL,Pain
+SUBJ0246,Metoclopramide,2024-04-03,2024-05-10,10 mg,ORAL,Nausea
+SUBJ0247,Lorazepam,2025-04-29,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0247,Filgrastim,2024-12-27,2025-02-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0247,Ondansetron,2025-01-28,2025-06-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0247,Prednisone,2024-12-15,2025-01-27,5 mg,ORAL,Steroid Therapy
+SUBJ0248,Lorazepam,2024-12-05,2025-04-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0248,Erythropoietin,2024-09-19,2024-12-31,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0248,Prednisone,2025-02-07,2025-05-08,5 mg,ORAL,Steroid Therapy
+SUBJ0249,Dexamethasone,2025-04-22,2025-10-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0249,Ibuprofen,2025-07-26,2025-12-10,400 mg,ORAL,Pain/Fever
+SUBJ0249,Metoclopramide,2024-10-08,2025-02-16,10 mg,ORAL,Nausea
+SUBJ0249,Filgrastim,2025-05-21,2025-11-06,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0249,Erythropoietin,2025-05-01,2025-08-04,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0249,Omeprazole,2025-05-02,2025-09-26,20 mg,ORAL,Gastric Protection
+SUBJ0249,Prednisone,2025-02-20,2025-05-31,5 mg,ORAL,Steroid Therapy
+SUBJ0249,Ondansetron,2025-07-14,2025-09-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0250,Lorazepam,2025-03-04,2025-07-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0250,Morphine,2025-06-30,2025-12-25,10 mg,ORAL,Pain
+SUBJ0250,Ibuprofen,2025-02-20,2025-03-22,400 mg,ORAL,Pain/Fever
+SUBJ0251,Dexamethasone,2024-11-26,2025-02-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0251,Erythropoietin,2025-05-20,2025-09-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0251,Lorazepam,2025-03-01,2025-05-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0252,Metoclopramide,2025-03-14,2025-06-05,10 mg,ORAL,Nausea
+SUBJ0252,Ibuprofen,2025-02-25,2025-04-23,400 mg,ORAL,Pain/Fever
+SUBJ0252,Omeprazole,2024-09-09,2024-09-20,20 mg,ORAL,Gastric Protection
+SUBJ0252,Lorazepam,2025-04-26,2025-09-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0252,Morphine,2024-10-31,2025-03-14,10 mg,ORAL,Pain
+SUBJ0252,Prednisone,2025-05-19,2025-09-10,5 mg,ORAL,Steroid Therapy
+SUBJ0253,Filgrastim,2024-09-23,2024-11-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0253,Omeprazole,2024-10-18,2024-11-01,20 mg,ORAL,Gastric Protection
+SUBJ0253,Erythropoietin,2024-10-15,2025-02-19,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0253,Morphine,2024-09-30,2025-01-18,10 mg,ORAL,Pain
+SUBJ0253,Prednisone,2024-06-06,2024-09-24,5 mg,ORAL,Steroid Therapy
+SUBJ0254,Filgrastim,2024-12-23,2025-03-21,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0254,Prednisone,2024-11-23,2025-01-28,5 mg,ORAL,Steroid Therapy
+SUBJ0254,Metoclopramide,2024-07-01,2024-09-21,10 mg,ORAL,Nausea
+SUBJ0254,Ibuprofen,2024-09-26,2025-02-13,400 mg,ORAL,Pain/Fever
+SUBJ0254,Omeprazole,2025-04-10,2025-08-23,20 mg,ORAL,Gastric Protection
+SUBJ0255,Lorazepam,2024-11-30,2025-02-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0255,Ondansetron,2025-03-19,2025-05-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0255,Filgrastim,2024-11-21,2024-12-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0255,Prednisone,2024-06-17,,5 mg,ORAL,Steroid Therapy
+SUBJ0255,Ibuprofen,2024-10-22,2025-03-23,400 mg,ORAL,Pain/Fever
+SUBJ0256,Filgrastim,2024-02-23,2024-03-28,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0256,Lorazepam,2024-07-25,2024-11-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0257,Dexamethasone,2024-07-18,2024-09-30,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0257,Erythropoietin,2024-11-18,2025-02-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0257,Filgrastim,2025-03-14,2025-06-21,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0257,Omeprazole,2025-02-22,2025-06-24,20 mg,ORAL,Gastric Protection
+SUBJ0257,Ondansetron,2024-08-19,2024-11-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0258,Omeprazole,2024-08-05,2024-09-27,20 mg,ORAL,Gastric Protection
+SUBJ0258,Morphine,2025-03-28,2025-05-05,10 mg,ORAL,Pain
+SUBJ0258,Dexamethasone,2024-09-13,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0259,Dexamethasone,2024-05-21,2024-06-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0259,Metoclopramide,2025-01-23,2025-04-05,10 mg,ORAL,Nausea
+SUBJ0259,Ibuprofen,2024-10-03,2025-01-03,400 mg,ORAL,Pain/Fever
+SUBJ0259,Lorazepam,2024-12-29,2025-03-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0259,Filgrastim,2025-03-21,2025-05-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0260,Dexamethasone,2025-03-12,2025-06-26,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0260,Morphine,2024-12-24,2025-06-08,10 mg,ORAL,Pain
+SUBJ0260,Metoclopramide,2025-02-11,2025-07-18,10 mg,ORAL,Nausea
+SUBJ0260,Lorazepam,2024-08-17,2025-01-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0260,Filgrastim,2025-06-15,2025-11-01,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0260,Ondansetron,2025-04-23,2025-06-21,8 mg,ORAL,Nausea/Vomiting
+SUBJ0260,Prednisone,2025-04-01,2025-06-27,5 mg,ORAL,Steroid Therapy
+SUBJ0261,Prednisone,2025-06-01,2025-07-05,5 mg,ORAL,Steroid Therapy
+SUBJ0261,Filgrastim,2025-01-07,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0261,Dexamethasone,2024-12-14,2025-02-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0262,Filgrastim,2025-04-15,2025-09-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0262,Omeprazole,2024-07-15,,20 mg,ORAL,Gastric Protection
+SUBJ0262,Ibuprofen,2025-01-21,2025-02-04,400 mg,ORAL,Pain/Fever
+SUBJ0262,Dexamethasone,2025-02-25,2025-07-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0263,Ondansetron,2024-11-28,2025-04-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0263,Filgrastim,2025-03-28,2025-09-02,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0263,Dexamethasone,2024-09-10,2024-11-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0263,Omeprazole,2024-11-12,2025-02-26,20 mg,ORAL,Gastric Protection
+SUBJ0263,Morphine,2024-10-14,2024-11-11,10 mg,ORAL,Pain
+SUBJ0263,Lorazepam,2025-03-10,2025-05-27,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0263,Prednisone,2024-07-03,2024-12-05,5 mg,ORAL,Steroid Therapy
+SUBJ0264,Lorazepam,2024-10-15,2024-11-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0264,Ibuprofen,2024-02-15,2024-03-13,400 mg,ORAL,Pain/Fever
+SUBJ0264,Morphine,2024-01-18,2024-03-11,10 mg,ORAL,Pain
+SUBJ0264,Prednisone,2024-02-05,2024-05-09,5 mg,ORAL,Steroid Therapy
+SUBJ0265,Dexamethasone,2025-03-09,2025-07-24,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0265,Omeprazole,2025-02-07,2025-04-29,20 mg,ORAL,Gastric Protection
+SUBJ0265,Prednisone,2025-03-11,2025-09-05,5 mg,ORAL,Steroid Therapy
+SUBJ0265,Ondansetron,2024-12-20,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0265,Metoclopramide,2025-05-27,2025-09-26,10 mg,ORAL,Nausea
+SUBJ0266,Prednisone,2025-04-16,2025-05-06,5 mg,ORAL,Steroid Therapy
+SUBJ0266,Metoclopramide,2024-09-19,2024-11-10,10 mg,ORAL,Nausea
+SUBJ0267,Filgrastim,2024-11-22,2025-01-29,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0267,Ondansetron,2024-11-16,2025-04-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0268,Morphine,2024-11-17,2025-03-13,10 mg,ORAL,Pain
+SUBJ0269,Ibuprofen,2024-07-18,2024-08-29,400 mg,ORAL,Pain/Fever
+SUBJ0269,Omeprazole,2024-07-30,2024-12-23,20 mg,ORAL,Gastric Protection
+SUBJ0269,Erythropoietin,2024-10-01,2024-12-12,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0269,Morphine,2024-11-11,2025-03-21,10 mg,ORAL,Pain
+SUBJ0269,Dexamethasone,2024-10-02,2025-02-26,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0269,Metoclopramide,2024-07-01,2024-07-27,10 mg,ORAL,Nausea
+SUBJ0269,Ondansetron,2024-08-23,2024-11-25,8 mg,ORAL,Nausea/Vomiting
+SUBJ0269,Filgrastim,2025-02-10,2025-06-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0270,Dexamethasone,2024-08-29,2025-02-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0270,Ibuprofen,2024-09-05,2024-12-12,400 mg,ORAL,Pain/Fever
+SUBJ0270,Morphine,2024-12-25,2025-05-09,10 mg,ORAL,Pain
+SUBJ0270,Ondansetron,2025-03-14,2025-05-10,8 mg,ORAL,Nausea/Vomiting
+SUBJ0271,Dexamethasone,2024-07-03,2024-09-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0271,Morphine,2024-10-18,,10 mg,ORAL,Pain
+SUBJ0271,Ondansetron,2024-11-30,2025-04-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0271,Omeprazole,2024-12-23,2025-05-06,20 mg,ORAL,Gastric Protection
+SUBJ0271,Ibuprofen,2024-08-06,2024-10-28,400 mg,ORAL,Pain/Fever
+SUBJ0272,Prednisone,2024-11-21,2025-05-14,5 mg,ORAL,Steroid Therapy
+SUBJ0272,Ibuprofen,2025-01-18,2025-02-11,400 mg,ORAL,Pain/Fever
+SUBJ0272,Lorazepam,2024-08-03,2024-11-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0273,Filgrastim,2024-07-13,2024-10-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0273,Omeprazole,2024-10-06,2025-01-02,20 mg,ORAL,Gastric Protection
+SUBJ0273,Lorazepam,2024-12-13,2025-02-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0273,Metoclopramide,2024-09-28,2025-01-22,10 mg,ORAL,Nausea
+SUBJ0273,Ondansetron,2024-11-14,2025-04-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0273,Prednisone,2024-06-27,2024-07-07,5 mg,ORAL,Steroid Therapy
+SUBJ0274,Ondansetron,2024-11-02,2025-03-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0274,Morphine,2024-07-18,2024-10-29,10 mg,ORAL,Pain
+SUBJ0274,Prednisone,2024-08-13,2024-12-19,5 mg,ORAL,Steroid Therapy
+SUBJ0274,Ibuprofen,2024-08-13,2024-12-23,400 mg,ORAL,Pain/Fever
+SUBJ0275,Erythropoietin,2024-12-15,2025-03-31,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0276,Metoclopramide,2024-09-28,2025-01-25,10 mg,ORAL,Nausea
+SUBJ0276,Ondansetron,2024-09-11,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0276,Dexamethasone,2024-04-27,2024-08-23,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0276,Erythropoietin,2024-11-12,2025-02-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0277,Lorazepam,2025-07-23,2025-10-18,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0277,Ondansetron,2025-07-21,2025-07-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0277,Filgrastim,2025-07-26,2025-08-31,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0278,Filgrastim,2024-07-26,2024-10-29,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0278,Ibuprofen,2024-06-30,2024-12-02,400 mg,ORAL,Pain/Fever
+SUBJ0278,Morphine,2024-04-08,,10 mg,ORAL,Pain
+SUBJ0279,Metoclopramide,2024-02-22,2024-07-15,10 mg,ORAL,Nausea
+SUBJ0279,Erythropoietin,2024-05-03,2024-06-11,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0279,Lorazepam,2024-08-03,2024-10-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0279,Ondansetron,2024-04-27,2024-05-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0279,Prednisone,2024-06-01,2024-11-02,5 mg,ORAL,Steroid Therapy
+SUBJ0279,Filgrastim,2024-08-16,2024-09-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0279,Ibuprofen,2024-10-29,2024-11-12,400 mg,ORAL,Pain/Fever
+SUBJ0280,Filgrastim,2024-06-21,2024-07-01,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0280,Metoclopramide,2024-09-16,2025-01-21,10 mg,ORAL,Nausea
+SUBJ0280,Lorazepam,2024-07-24,2024-10-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0281,Prednisone,2025-03-21,2025-05-16,5 mg,ORAL,Steroid Therapy
+SUBJ0281,Metoclopramide,2025-01-31,2025-05-25,10 mg,ORAL,Nausea
+SUBJ0281,Omeprazole,2025-02-06,2025-06-24,20 mg,ORAL,Gastric Protection
+SUBJ0282,Omeprazole,2024-09-17,2024-11-09,20 mg,ORAL,Gastric Protection
+SUBJ0282,Prednisone,2024-12-07,2025-01-14,5 mg,ORAL,Steroid Therapy
+SUBJ0282,Lorazepam,2024-12-29,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0282,Erythropoietin,2025-02-01,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0282,Morphine,2024-12-09,2025-01-17,10 mg,ORAL,Pain
+SUBJ0283,Ondansetron,2025-02-09,2025-07-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0283,Prednisone,2025-05-09,2025-07-31,5 mg,ORAL,Steroid Therapy
+SUBJ0283,Dexamethasone,2025-05-01,2025-08-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0283,Filgrastim,2025-08-22,2026-02-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0283,Lorazepam,2025-02-08,2025-05-31,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0283,Erythropoietin,2024-12-01,2025-02-17,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0283,Morphine,2025-06-16,,10 mg,ORAL,Pain
+SUBJ0283,Omeprazole,2024-10-03,2024-10-13,20 mg,ORAL,Gastric Protection
+SUBJ0284,Metoclopramide,2024-12-03,2025-04-19,10 mg,ORAL,Nausea
+SUBJ0284,Morphine,2024-06-06,2024-06-17,10 mg,ORAL,Pain
+SUBJ0284,Lorazepam,2024-08-19,2025-01-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0284,Dexamethasone,2024-07-24,2024-09-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0284,Erythropoietin,2025-01-20,2025-03-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0286,Filgrastim,2024-09-17,2024-10-23,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0286,Dexamethasone,2024-10-25,2025-03-01,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0286,Omeprazole,2025-03-02,2025-07-05,20 mg,ORAL,Gastric Protection
+SUBJ0286,Erythropoietin,2025-03-29,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0286,Metoclopramide,2024-09-20,,10 mg,ORAL,Nausea
+SUBJ0286,Prednisone,2025-02-21,2025-07-31,5 mg,ORAL,Steroid Therapy
+SUBJ0286,Lorazepam,2024-10-27,2025-03-18,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0286,Ibuprofen,2024-11-17,2025-05-07,400 mg,ORAL,Pain/Fever
+SUBJ0287,Lorazepam,2024-12-31,2025-01-21,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0287,Morphine,2025-06-04,2025-11-22,10 mg,ORAL,Pain
+SUBJ0287,Omeprazole,2024-11-30,2024-12-29,20 mg,ORAL,Gastric Protection
+SUBJ0287,Prednisone,2025-01-31,2025-07-19,5 mg,ORAL,Steroid Therapy
+SUBJ0287,Metoclopramide,2025-05-03,2025-05-22,10 mg,ORAL,Nausea
+SUBJ0287,Dexamethasone,2025-04-21,2025-08-29,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0287,Ondansetron,2025-01-27,2025-05-31,8 mg,ORAL,Nausea/Vomiting
+SUBJ0288,Morphine,2024-10-08,2024-11-18,10 mg,ORAL,Pain
+SUBJ0288,Metoclopramide,2024-09-07,2024-09-27,10 mg,ORAL,Nausea
+SUBJ0288,Erythropoietin,2024-10-01,2024-12-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0288,Prednisone,2024-07-16,2024-12-07,5 mg,ORAL,Steroid Therapy
+SUBJ0289,Prednisone,2024-05-15,2024-10-30,5 mg,ORAL,Steroid Therapy
+SUBJ0289,Ondansetron,2024-06-08,2024-10-22,8 mg,ORAL,Nausea/Vomiting
+SUBJ0289,Metoclopramide,2024-07-05,2024-08-08,10 mg,ORAL,Nausea
+SUBJ0289,Erythropoietin,2024-07-11,2024-09-01,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0290,Dexamethasone,2024-10-10,2025-01-07,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0290,Filgrastim,2024-06-22,2024-10-27,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0291,Lorazepam,2024-05-06,2024-08-29,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0291,Morphine,2024-11-03,2024-11-21,10 mg,ORAL,Pain
+SUBJ0291,Omeprazole,2025-01-26,2025-06-06,20 mg,ORAL,Gastric Protection
+SUBJ0291,Filgrastim,2024-12-10,2025-05-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0291,Erythropoietin,2025-02-27,2025-03-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0291,Ondansetron,2024-10-27,2024-12-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0291,Ibuprofen,2024-12-14,2025-04-19,400 mg,ORAL,Pain/Fever
+SUBJ0292,Erythropoietin,2025-02-24,2025-03-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0292,Ondansetron,2025-04-01,2025-07-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0293,Filgrastim,2024-06-06,2024-11-02,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0293,Ondansetron,2025-02-13,2025-03-25,8 mg,ORAL,Nausea/Vomiting
+SUBJ0293,Prednisone,2024-05-02,2024-09-09,5 mg,ORAL,Steroid Therapy
+SUBJ0293,Morphine,2024-11-30,2025-02-22,10 mg,ORAL,Pain
+SUBJ0293,Erythropoietin,2025-02-05,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0293,Omeprazole,2025-01-01,2025-03-31,20 mg,ORAL,Gastric Protection
+SUBJ0294,Morphine,2024-07-22,2024-10-04,10 mg,ORAL,Pain
+SUBJ0294,Filgrastim,2024-08-02,2024-12-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0294,Erythropoietin,2024-12-20,2025-05-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0295,Filgrastim,2025-03-21,2025-09-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0295,Metoclopramide,2025-05-18,2025-07-19,10 mg,ORAL,Nausea
+SUBJ0295,Lorazepam,2025-03-20,2025-09-11,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0296,Erythropoietin,2024-09-22,2024-10-06,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0296,Filgrastim,2025-04-12,2025-09-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0296,Ibuprofen,2024-12-16,2025-03-20,400 mg,ORAL,Pain/Fever
+SUBJ0296,Prednisone,2024-10-27,,5 mg,ORAL,Steroid Therapy
+SUBJ0296,Omeprazole,2024-12-22,,20 mg,ORAL,Gastric Protection
+SUBJ0296,Metoclopramide,2025-04-04,2025-08-06,10 mg,ORAL,Nausea
+SUBJ0297,Morphine,2024-10-08,2024-10-25,10 mg,ORAL,Pain
+SUBJ0297,Ibuprofen,2025-02-14,2025-04-21,400 mg,ORAL,Pain/Fever
+SUBJ0297,Omeprazole,2025-06-01,2025-10-25,20 mg,ORAL,Gastric Protection
+SUBJ0297,Lorazepam,2024-10-02,2025-03-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0298,Dexamethasone,2025-05-12,2025-06-29,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0299,Lorazepam,2025-07-11,2025-12-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0299,Omeprazole,2024-11-25,,20 mg,ORAL,Gastric Protection
+SUBJ0299,Morphine,2025-06-28,2025-07-27,10 mg,ORAL,Pain
+SUBJ0299,Dexamethasone,2025-05-16,2025-06-14,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0299,Ondansetron,2025-05-25,2025-09-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0299,Erythropoietin,2024-11-16,2024-11-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0300,Ondansetron,2025-01-23,2025-02-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0300,Dexamethasone,2024-11-24,2025-03-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0300,Erythropoietin,2024-10-25,2024-11-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0300,Morphine,2025-04-24,2025-05-17,10 mg,ORAL,Pain
+SUBJ0300,Metoclopramide,2025-05-07,,10 mg,ORAL,Nausea
+SUBJ0301,Ondansetron,2024-09-20,2024-12-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0301,Erythropoietin,2025-05-19,2025-05-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0301,Omeprazole,2024-07-26,2024-08-22,20 mg,ORAL,Gastric Protection
+SUBJ0301,Filgrastim,2024-11-25,2025-05-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0301,Lorazepam,2024-09-15,2024-12-21,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0301,Metoclopramide,2025-05-03,2025-05-29,10 mg,ORAL,Nausea
+SUBJ0301,Ibuprofen,2025-03-17,2025-07-27,400 mg,ORAL,Pain/Fever
+SUBJ0301,Prednisone,2024-12-05,2025-02-23,5 mg,ORAL,Steroid Therapy
+SUBJ0301,Dexamethasone,2025-03-08,2025-06-30,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0302,Prednisone,2025-05-05,2025-10-02,5 mg,ORAL,Steroid Therapy
+SUBJ0302,Filgrastim,2024-11-18,2025-02-28,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0302,Metoclopramide,2025-08-20,2026-01-13,10 mg,ORAL,Nausea
+SUBJ0302,Ibuprofen,2025-01-07,2025-03-07,400 mg,ORAL,Pain/Fever
+SUBJ0302,Erythropoietin,2025-03-16,2025-08-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0302,Dexamethasone,2025-03-06,2025-07-15,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0303,Erythropoietin,2025-02-21,2025-06-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0303,Metoclopramide,2024-08-02,2025-01-10,10 mg,ORAL,Nausea
+SUBJ0303,Ibuprofen,2025-04-10,2025-04-20,400 mg,ORAL,Pain/Fever
+SUBJ0304,Morphine,2024-10-06,2025-02-23,10 mg,ORAL,Pain
+SUBJ0305,Filgrastim,2025-05-22,2025-09-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0305,Prednisone,2025-05-29,2025-09-09,5 mg,ORAL,Steroid Therapy
+SUBJ0305,Erythropoietin,2024-09-10,2024-10-21,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0305,Ondansetron,2025-03-03,2025-08-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0306,Filgrastim,2024-12-20,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0306,Dexamethasone,2025-01-15,2025-07-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0306,Lorazepam,2024-11-11,2025-02-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0307,Ibuprofen,2024-11-05,2025-04-14,400 mg,ORAL,Pain/Fever
+SUBJ0307,Omeprazole,2025-01-18,2025-05-30,20 mg,ORAL,Gastric Protection
+SUBJ0307,Filgrastim,2024-09-12,2025-03-08,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0307,Dexamethasone,2025-04-11,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0307,Erythropoietin,2025-01-17,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0307,Morphine,2024-12-22,2025-05-12,10 mg,ORAL,Pain
+SUBJ0307,Prednisone,2024-09-30,2025-02-05,5 mg,ORAL,Steroid Therapy
+SUBJ0308,Morphine,2024-09-14,2024-10-14,10 mg,ORAL,Pain
+SUBJ0308,Erythropoietin,2024-07-21,2024-11-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0308,Ibuprofen,2025-01-04,2025-04-24,400 mg,ORAL,Pain/Fever
+SUBJ0308,Omeprazole,2024-12-08,2024-12-28,20 mg,ORAL,Gastric Protection
+SUBJ0309,Omeprazole,2024-11-09,2024-11-16,20 mg,ORAL,Gastric Protection
+SUBJ0309,Prednisone,2024-10-18,2024-12-03,5 mg,ORAL,Steroid Therapy
+SUBJ0309,Ibuprofen,2024-12-08,2025-02-06,400 mg,ORAL,Pain/Fever
+SUBJ0310,Morphine,2025-01-08,2025-04-10,10 mg,ORAL,Pain
+SUBJ0310,Erythropoietin,2024-09-28,2025-02-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0310,Ondansetron,2025-01-03,2025-05-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0311,Ondansetron,2025-01-18,2025-07-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0311,Dexamethasone,2024-09-09,2025-01-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0311,Omeprazole,2024-07-12,2024-08-02,20 mg,ORAL,Gastric Protection
+SUBJ0312,Omeprazole,2024-12-29,2025-02-06,20 mg,ORAL,Gastric Protection
+SUBJ0312,Morphine,2024-07-11,2024-10-14,10 mg,ORAL,Pain
+SUBJ0312,Lorazepam,2024-09-22,2024-12-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0312,Filgrastim,2024-07-09,2024-12-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0312,Prednisone,2024-11-04,,5 mg,ORAL,Steroid Therapy
+SUBJ0312,Ondansetron,2025-03-05,2025-05-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0312,Erythropoietin,2024-12-19,2025-04-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0312,Dexamethasone,2025-01-10,2025-02-26,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0312,Ibuprofen,2025-02-24,2025-08-11,400 mg,ORAL,Pain/Fever
+SUBJ0312,Metoclopramide,2025-03-25,2025-07-06,10 mg,ORAL,Nausea
+SUBJ0313,Morphine,2024-12-27,2025-03-08,10 mg,ORAL,Pain
+SUBJ0313,Filgrastim,2024-04-28,2024-10-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0313,Prednisone,2024-09-03,2025-01-04,5 mg,ORAL,Steroid Therapy
+SUBJ0313,Omeprazole,2024-02-21,2024-07-06,20 mg,ORAL,Gastric Protection
+SUBJ0313,Lorazepam,2024-05-09,2024-10-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0313,Ondansetron,2024-03-16,2024-04-13,8 mg,ORAL,Nausea/Vomiting
+SUBJ0314,Morphine,2025-04-26,,10 mg,ORAL,Pain
+SUBJ0314,Dexamethasone,2025-08-04,2025-08-30,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0314,Metoclopramide,2024-11-20,2025-03-25,10 mg,ORAL,Nausea
+SUBJ0314,Omeprazole,2025-02-05,2025-05-08,20 mg,ORAL,Gastric Protection
+SUBJ0314,Erythropoietin,2025-07-11,2025-12-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0315,Ondansetron,2024-05-03,2024-09-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0315,Lorazepam,2024-12-30,2025-06-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0316,Dexamethasone,2024-07-31,2024-09-02,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0316,Erythropoietin,2025-01-21,2025-07-12,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0316,Metoclopramide,2024-09-05,2024-09-20,10 mg,ORAL,Nausea
+SUBJ0317,Ibuprofen,2024-05-20,2024-09-27,400 mg,ORAL,Pain/Fever
+SUBJ0317,Filgrastim,2024-08-13,2024-09-11,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0317,Metoclopramide,2024-09-27,2025-01-05,10 mg,ORAL,Nausea
+SUBJ0317,Omeprazole,2024-05-17,2024-07-09,20 mg,ORAL,Gastric Protection
+SUBJ0317,Prednisone,2024-07-18,2024-10-20,5 mg,ORAL,Steroid Therapy
+SUBJ0317,Ondansetron,2024-05-12,2024-09-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0317,Morphine,2024-09-05,2025-02-17,10 mg,ORAL,Pain
+SUBJ0317,Erythropoietin,2024-10-31,2025-02-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0317,Lorazepam,2024-07-13,2024-10-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0318,Omeprazole,2025-02-09,,20 mg,ORAL,Gastric Protection
+SUBJ0318,Filgrastim,2025-01-20,2025-04-04,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0318,Ibuprofen,2024-11-22,2025-02-18,400 mg,ORAL,Pain/Fever
+SUBJ0318,Lorazepam,2024-08-23,2024-09-15,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0318,Morphine,2024-10-06,2025-01-26,10 mg,ORAL,Pain
+SUBJ0319,Filgrastim,2025-03-19,2025-07-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0319,Ibuprofen,2025-03-25,2025-09-21,400 mg,ORAL,Pain/Fever
+SUBJ0319,Lorazepam,2025-01-23,2025-07-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0319,Ondansetron,2024-08-23,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0319,Morphine,2024-10-31,2024-12-15,10 mg,ORAL,Pain
+SUBJ0319,Prednisone,2024-09-27,2025-02-21,5 mg,ORAL,Steroid Therapy
+SUBJ0320,Ibuprofen,2025-07-03,2025-07-14,400 mg,ORAL,Pain/Fever
+SUBJ0320,Metoclopramide,2024-12-23,2025-03-29,10 mg,ORAL,Nausea
+SUBJ0320,Prednisone,2024-10-22,2025-03-11,5 mg,ORAL,Steroid Therapy
+SUBJ0320,Omeprazole,2025-03-26,2025-05-25,20 mg,ORAL,Gastric Protection
+SUBJ0320,Dexamethasone,2025-07-18,2025-09-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0320,Ondansetron,2025-04-08,2025-07-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0321,Morphine,2024-05-26,2024-08-17,10 mg,ORAL,Pain
+SUBJ0321,Dexamethasone,2025-03-03,2025-04-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0321,Lorazepam,2024-12-14,2025-03-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0321,Ondansetron,2024-09-06,2025-01-23,8 mg,ORAL,Nausea/Vomiting
+SUBJ0321,Filgrastim,2025-01-05,2025-01-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0322,Omeprazole,2024-11-28,2025-01-14,20 mg,ORAL,Gastric Protection
+SUBJ0322,Metoclopramide,2024-08-11,2024-08-30,10 mg,ORAL,Nausea
+SUBJ0323,Metoclopramide,2024-07-26,2024-12-25,10 mg,ORAL,Nausea
+SUBJ0323,Filgrastim,2024-06-11,2024-12-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0323,Morphine,2024-10-12,2024-11-20,10 mg,ORAL,Pain
+SUBJ0324,Morphine,2024-07-29,2024-12-24,10 mg,ORAL,Pain
+SUBJ0325,Lorazepam,2025-02-18,2025-04-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0325,Metoclopramide,2025-01-31,2025-03-06,10 mg,ORAL,Nausea
+SUBJ0325,Omeprazole,2024-07-30,2024-08-06,20 mg,ORAL,Gastric Protection
+SUBJ0326,Filgrastim,2025-03-17,2025-04-21,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0326,Dexamethasone,2025-05-02,2025-06-21,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0326,Morphine,2024-08-16,2024-12-07,10 mg,ORAL,Pain
+SUBJ0327,Metoclopramide,2025-01-08,,10 mg,ORAL,Nausea
+SUBJ0327,Lorazepam,2025-02-01,2025-03-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0327,Omeprazole,2024-06-01,2024-11-11,20 mg,ORAL,Gastric Protection
+SUBJ0327,Morphine,2024-06-05,2024-08-11,10 mg,ORAL,Pain
+SUBJ0327,Ondansetron,2024-09-04,2025-02-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0328,Morphine,2024-07-04,2024-10-14,10 mg,ORAL,Pain
+SUBJ0328,Prednisone,2024-12-30,2025-02-17,5 mg,ORAL,Steroid Therapy
+SUBJ0328,Erythropoietin,2025-02-25,2025-06-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0329,Ibuprofen,2024-01-07,2024-06-09,400 mg,ORAL,Pain/Fever
+SUBJ0329,Prednisone,2024-05-08,2024-09-06,5 mg,ORAL,Steroid Therapy
+SUBJ0329,Ondansetron,2024-02-08,2024-06-03,8 mg,ORAL,Nausea/Vomiting
+SUBJ0329,Filgrastim,2024-09-21,2025-03-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0329,Dexamethasone,2024-03-21,2024-04-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0330,Dexamethasone,2025-06-25,2025-08-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0330,Ibuprofen,2024-11-06,2025-02-23,400 mg,ORAL,Pain/Fever
+SUBJ0330,Omeprazole,2024-11-23,2025-05-02,20 mg,ORAL,Gastric Protection
+SUBJ0330,Morphine,2025-01-04,2025-05-24,10 mg,ORAL,Pain
+SUBJ0331,Ibuprofen,2024-05-03,2024-06-20,400 mg,ORAL,Pain/Fever
+SUBJ0331,Lorazepam,2024-05-02,2024-06-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0331,Morphine,2024-09-29,2024-11-26,10 mg,ORAL,Pain
+SUBJ0333,Omeprazole,2024-07-27,2024-12-12,20 mg,ORAL,Gastric Protection
+SUBJ0333,Morphine,2024-03-29,2024-07-01,10 mg,ORAL,Pain
+SUBJ0334,Ibuprofen,2024-10-19,2025-01-05,400 mg,ORAL,Pain/Fever
+SUBJ0334,Prednisone,2024-11-23,2024-12-01,5 mg,ORAL,Steroid Therapy
+SUBJ0334,Dexamethasone,2024-09-10,2024-11-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0334,Erythropoietin,2024-08-29,2024-12-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0334,Morphine,2024-06-03,,10 mg,ORAL,Pain
+SUBJ0335,Prednisone,2024-10-11,2025-01-24,5 mg,ORAL,Steroid Therapy
+SUBJ0335,Lorazepam,2024-12-26,2025-04-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0335,Ibuprofen,2025-07-17,2025-09-25,400 mg,ORAL,Pain/Fever
+SUBJ0336,Ibuprofen,2025-02-14,2025-04-21,400 mg,ORAL,Pain/Fever
+SUBJ0336,Erythropoietin,2024-11-22,2024-12-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0336,Omeprazole,2025-03-11,2025-06-20,20 mg,ORAL,Gastric Protection
+SUBJ0336,Prednisone,2024-05-17,2024-10-11,5 mg,ORAL,Steroid Therapy
+SUBJ0337,Erythropoietin,2024-07-06,2024-11-16,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0337,Lorazepam,2024-11-26,2025-01-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0337,Omeprazole,2024-10-09,2024-10-23,20 mg,ORAL,Gastric Protection
+SUBJ0337,Dexamethasone,2024-09-25,2024-11-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0338,Ondansetron,2025-04-03,2025-05-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0338,Metoclopramide,2025-01-27,2025-03-24,10 mg,ORAL,Nausea
+SUBJ0339,Lorazepam,2024-12-20,2025-03-10,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0339,Erythropoietin,2024-10-11,2024-11-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0339,Metoclopramide,2024-06-18,2024-11-21,10 mg,ORAL,Nausea
+SUBJ0339,Dexamethasone,2024-09-17,2024-10-23,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0340,Omeprazole,2024-07-31,2024-12-25,20 mg,ORAL,Gastric Protection
+SUBJ0340,Morphine,2024-01-22,2024-06-20,10 mg,ORAL,Pain
+SUBJ0340,Ondansetron,2024-09-12,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0340,Dexamethasone,2024-08-25,2025-02-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0342,Ondansetron,2025-03-11,2025-07-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0343,Dexamethasone,2025-06-07,2025-07-17,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0343,Erythropoietin,2025-06-30,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0343,Ondansetron,2025-06-13,2025-08-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0344,Morphine,2025-05-01,2025-09-29,10 mg,ORAL,Pain
+SUBJ0344,Prednisone,2024-09-17,2024-11-03,5 mg,ORAL,Steroid Therapy
+SUBJ0344,Ibuprofen,2025-06-16,2025-07-26,400 mg,ORAL,Pain/Fever
+SUBJ0346,Erythropoietin,2024-09-02,2024-11-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0346,Ondansetron,2024-06-16,2024-12-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0347,Dexamethasone,2024-11-11,2025-04-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0347,Lorazepam,2025-01-05,2025-05-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0347,Erythropoietin,2024-07-23,2024-10-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0347,Filgrastim,2024-07-25,2024-09-24,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0347,Omeprazole,2024-04-05,2024-06-10,20 mg,ORAL,Gastric Protection
+SUBJ0348,Dexamethasone,2024-02-06,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0348,Ibuprofen,2024-09-07,2025-01-13,400 mg,ORAL,Pain/Fever
+SUBJ0349,Ondansetron,2024-08-23,2024-12-31,8 mg,ORAL,Nausea/Vomiting
+SUBJ0350,Metoclopramide,2025-02-15,2025-03-06,10 mg,ORAL,Nausea
+SUBJ0350,Lorazepam,2025-05-26,2025-08-24,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0350,Erythropoietin,2025-03-05,2025-03-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0351,Omeprazole,2024-03-14,2024-08-06,20 mg,ORAL,Gastric Protection
+SUBJ0351,Prednisone,2024-08-19,2024-09-16,5 mg,ORAL,Steroid Therapy
+SUBJ0351,Dexamethasone,2024-04-29,2024-10-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0352,Filgrastim,2024-11-18,2025-05-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0352,Erythropoietin,2024-06-21,2024-11-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0352,Ondansetron,2024-03-21,2024-04-23,8 mg,ORAL,Nausea/Vomiting
+SUBJ0352,Lorazepam,2024-03-21,2024-07-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0352,Ibuprofen,2024-02-25,2024-05-02,400 mg,ORAL,Pain/Fever
+SUBJ0353,Omeprazole,2025-01-05,2025-06-18,20 mg,ORAL,Gastric Protection
+SUBJ0353,Lorazepam,2024-07-23,2024-08-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0353,Morphine,2025-05-17,2025-10-18,10 mg,ORAL,Pain
+SUBJ0353,Erythropoietin,2024-12-02,2025-04-21,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0353,Metoclopramide,2024-11-27,2025-01-31,10 mg,ORAL,Nausea
+SUBJ0354,Erythropoietin,2024-10-02,2025-01-02,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0354,Lorazepam,2024-11-27,2025-04-28,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0354,Filgrastim,2025-02-14,2025-08-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0354,Prednisone,2025-06-25,2025-09-22,5 mg,ORAL,Steroid Therapy
+SUBJ0354,Morphine,2024-10-05,2025-03-09,10 mg,ORAL,Pain
+SUBJ0355,Lorazepam,2024-02-18,2024-06-23,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0355,Ondansetron,2024-11-29,2024-12-27,8 mg,ORAL,Nausea/Vomiting
+SUBJ0356,Ondansetron,2025-01-30,2025-05-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0356,Morphine,2025-04-06,2025-09-19,10 mg,ORAL,Pain
+SUBJ0356,Prednisone,2025-08-26,2025-12-31,5 mg,ORAL,Steroid Therapy
+SUBJ0356,Metoclopramide,2025-02-23,2025-03-04,10 mg,ORAL,Nausea
+SUBJ0357,Metoclopramide,2024-03-13,2024-09-04,10 mg,ORAL,Nausea
+SUBJ0357,Prednisone,2024-05-09,2024-10-01,5 mg,ORAL,Steroid Therapy
+SUBJ0357,Omeprazole,2024-07-27,,20 mg,ORAL,Gastric Protection
+SUBJ0357,Ibuprofen,2024-06-20,2024-08-03,400 mg,ORAL,Pain/Fever
+SUBJ0357,Lorazepam,2024-03-16,2024-04-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0357,Filgrastim,2024-10-10,2025-02-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0357,Morphine,2024-07-08,2024-12-18,10 mg,ORAL,Pain
+SUBJ0357,Erythropoietin,2024-03-15,2024-08-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0357,Ondansetron,2024-08-01,2024-10-30,8 mg,ORAL,Nausea/Vomiting
+SUBJ0358,Prednisone,2024-11-01,2024-12-30,5 mg,ORAL,Steroid Therapy
+SUBJ0358,Metoclopramide,2024-09-18,2025-01-11,10 mg,ORAL,Nausea
+SUBJ0359,Metoclopramide,2024-06-23,2024-07-22,10 mg,ORAL,Nausea
+SUBJ0359,Ibuprofen,2024-10-17,,400 mg,ORAL,Pain/Fever
+SUBJ0360,Ondansetron,2024-11-29,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0360,Metoclopramide,2025-04-28,2025-07-07,10 mg,ORAL,Nausea
+SUBJ0360,Erythropoietin,2025-01-01,2025-03-19,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0361,Morphine,2024-12-03,2025-03-08,10 mg,ORAL,Pain
+SUBJ0361,Dexamethasone,2025-03-08,2025-06-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0362,Omeprazole,2024-11-19,2025-03-30,20 mg,ORAL,Gastric Protection
+SUBJ0362,Erythropoietin,2024-07-15,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0362,Metoclopramide,2024-09-14,2025-02-21,10 mg,ORAL,Nausea
+SUBJ0362,Prednisone,2024-06-21,2024-08-28,5 mg,ORAL,Steroid Therapy
+SUBJ0363,Omeprazole,2025-02-20,,20 mg,ORAL,Gastric Protection
+SUBJ0363,Ondansetron,2024-09-14,2025-02-25,8 mg,ORAL,Nausea/Vomiting
+SUBJ0363,Morphine,2025-01-15,2025-02-02,10 mg,ORAL,Pain
+SUBJ0363,Dexamethasone,2024-05-27,2024-06-11,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0363,Filgrastim,2024-11-21,2025-04-27,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0363,Ibuprofen,2025-03-01,2025-07-24,400 mg,ORAL,Pain/Fever
+SUBJ0363,Prednisone,2025-01-21,2025-03-24,5 mg,ORAL,Steroid Therapy
+SUBJ0363,Lorazepam,2024-07-28,2024-08-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0364,Erythropoietin,2024-09-02,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0364,Dexamethasone,2024-06-18,2024-07-07,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0364,Filgrastim,2024-02-19,2024-05-22,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0364,Lorazepam,2024-12-08,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0365,Filgrastim,2024-10-13,2025-03-01,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0365,Ibuprofen,2025-04-13,2025-08-12,400 mg,ORAL,Pain/Fever
+SUBJ0366,Erythropoietin,2025-03-05,2025-08-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0366,Metoclopramide,2024-09-10,2024-09-21,10 mg,ORAL,Nausea
+SUBJ0367,Prednisone,2025-01-17,2025-05-01,5 mg,ORAL,Steroid Therapy
+SUBJ0367,Dexamethasone,2024-12-27,2025-03-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0367,Ondansetron,2024-10-14,2025-01-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0368,Morphine,2025-03-31,2025-07-01,10 mg,ORAL,Pain
+SUBJ0368,Erythropoietin,2025-07-01,2025-09-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0368,Metoclopramide,2025-05-09,2025-09-23,10 mg,ORAL,Nausea
+SUBJ0368,Ibuprofen,2024-11-29,2025-03-21,400 mg,ORAL,Pain/Fever
+SUBJ0368,Dexamethasone,2025-06-05,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0368,Omeprazole,2025-08-02,2026-01-17,20 mg,ORAL,Gastric Protection
+SUBJ0369,Filgrastim,2024-08-13,2025-01-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0369,Morphine,2025-05-20,,10 mg,ORAL,Pain
+SUBJ0369,Dexamethasone,2025-05-20,2025-10-08,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0369,Ondansetron,2025-02-04,2025-03-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0370,Dexamethasone,2025-05-04,2025-09-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0370,Prednisone,2025-06-20,2025-12-10,5 mg,ORAL,Steroid Therapy
+SUBJ0370,Omeprazole,2025-03-19,2025-07-22,20 mg,ORAL,Gastric Protection
+SUBJ0371,Prednisone,2025-05-07,2025-05-21,5 mg,ORAL,Steroid Therapy
+SUBJ0371,Metoclopramide,2025-04-15,2025-06-29,10 mg,ORAL,Nausea
+SUBJ0372,Ibuprofen,2024-12-02,2025-04-07,400 mg,ORAL,Pain/Fever
+SUBJ0373,Ondansetron,2024-08-27,2024-11-07,8 mg,ORAL,Nausea/Vomiting
+SUBJ0374,Dexamethasone,2024-11-03,2025-03-17,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0374,Prednisone,2024-11-15,2025-01-26,5 mg,ORAL,Steroid Therapy
+SUBJ0374,Lorazepam,2024-11-21,2025-04-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0374,Morphine,2025-01-06,2025-06-07,10 mg,ORAL,Pain
+SUBJ0375,Prednisone,2024-11-04,2025-01-15,5 mg,ORAL,Steroid Therapy
+SUBJ0375,Metoclopramide,2025-08-14,2025-08-25,10 mg,ORAL,Nausea
+SUBJ0375,Filgrastim,2024-11-06,2025-04-30,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0376,Ondansetron,2024-11-06,2025-03-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0376,Erythropoietin,2024-07-28,2024-09-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0376,Prednisone,2024-08-21,2024-11-25,5 mg,ORAL,Steroid Therapy
+SUBJ0376,Dexamethasone,2024-11-28,2025-03-31,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0376,Lorazepam,2024-05-09,2024-10-12,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0376,Filgrastim,2024-02-12,2024-06-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0376,Ibuprofen,2024-08-05,2024-11-22,400 mg,ORAL,Pain/Fever
+SUBJ0377,Dexamethasone,2024-10-14,2025-03-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0377,Ibuprofen,2024-02-15,2024-06-04,400 mg,ORAL,Pain/Fever
+SUBJ0377,Omeprazole,2024-08-06,,20 mg,ORAL,Gastric Protection
+SUBJ0377,Metoclopramide,2024-04-18,2024-07-05,10 mg,ORAL,Nausea
+SUBJ0377,Ondansetron,2024-03-11,2024-07-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0377,Filgrastim,2024-06-09,2024-10-05,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0377,Prednisone,2024-03-03,2024-08-29,5 mg,ORAL,Steroid Therapy
+SUBJ0377,Lorazepam,2024-09-13,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0378,Metoclopramide,2024-11-25,2025-01-01,10 mg,ORAL,Nausea
+SUBJ0378,Dexamethasone,2024-11-04,2025-02-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0378,Omeprazole,2025-02-08,2025-07-30,20 mg,ORAL,Gastric Protection
+SUBJ0379,Dexamethasone,2025-02-18,2025-06-19,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0379,Filgrastim,2024-11-01,2025-02-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0379,Ondansetron,2024-05-06,2024-07-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0379,Lorazepam,2024-11-10,2024-12-12,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0379,Morphine,2024-08-13,2024-09-23,10 mg,ORAL,Pain
+SUBJ0380,Ondansetron,2025-03-28,2025-05-07,8 mg,ORAL,Nausea/Vomiting
+SUBJ0380,Metoclopramide,2024-05-31,2024-06-20,10 mg,ORAL,Nausea
+SUBJ0380,Dexamethasone,2024-08-24,2024-09-11,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0380,Omeprazole,2024-11-22,2025-03-29,20 mg,ORAL,Gastric Protection
+SUBJ0380,Filgrastim,2024-05-10,2024-09-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0381,Prednisone,2024-05-23,2024-07-28,5 mg,ORAL,Steroid Therapy
+SUBJ0382,Metoclopramide,2024-08-03,2024-12-17,10 mg,ORAL,Nausea
+SUBJ0382,Prednisone,2024-10-03,2024-11-24,5 mg,ORAL,Steroid Therapy
+SUBJ0382,Filgrastim,2024-12-14,2025-04-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0383,Metoclopramide,2024-08-15,2024-10-21,10 mg,ORAL,Nausea
+SUBJ0383,Omeprazole,2025-01-29,2025-03-15,20 mg,ORAL,Gastric Protection
+SUBJ0383,Ibuprofen,2024-07-01,2024-12-05,400 mg,ORAL,Pain/Fever
+SUBJ0383,Lorazepam,2024-10-19,2025-03-08,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0384,Metoclopramide,2025-01-23,2025-03-24,10 mg,ORAL,Nausea
+SUBJ0384,Filgrastim,2024-06-30,2024-08-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0384,Omeprazole,2024-10-24,2025-03-21,20 mg,ORAL,Gastric Protection
+SUBJ0384,Erythropoietin,2024-12-03,2024-12-21,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0385,Metoclopramide,2025-06-16,2025-08-01,10 mg,ORAL,Nausea
+SUBJ0386,Metoclopramide,2024-10-02,2024-12-15,10 mg,ORAL,Nausea
+SUBJ0386,Prednisone,2024-03-10,2024-04-20,5 mg,ORAL,Steroid Therapy
+SUBJ0386,Omeprazole,2024-08-01,2024-09-02,20 mg,ORAL,Gastric Protection
+SUBJ0387,Omeprazole,2024-08-02,2024-08-12,20 mg,ORAL,Gastric Protection
+SUBJ0387,Erythropoietin,2024-04-15,2024-08-20,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0387,Morphine,2024-04-13,2024-09-18,10 mg,ORAL,Pain
+SUBJ0387,Prednisone,2024-07-21,2024-10-23,5 mg,ORAL,Steroid Therapy
+SUBJ0387,Metoclopramide,2024-11-04,2025-03-02,10 mg,ORAL,Nausea
+SUBJ0388,Erythropoietin,2024-03-07,2024-06-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0388,Filgrastim,2024-08-08,2024-09-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0389,Metoclopramide,2024-11-09,2025-02-02,10 mg,ORAL,Nausea
+SUBJ0389,Dexamethasone,2025-03-18,2025-06-01,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0389,Ondansetron,2025-02-28,2025-06-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0390,Erythropoietin,2024-08-31,2024-10-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0390,Dexamethasone,2024-11-06,2024-12-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0390,Morphine,2025-03-25,2025-04-24,10 mg,ORAL,Pain
+SUBJ0390,Ondansetron,2025-02-20,2025-05-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0391,Morphine,2024-09-25,2025-03-04,10 mg,ORAL,Pain
+SUBJ0391,Erythropoietin,2025-04-01,2025-09-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0391,Prednisone,2024-09-15,,5 mg,ORAL,Steroid Therapy
+SUBJ0392,Dexamethasone,2024-05-17,2024-10-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0392,Erythropoietin,2025-03-05,2025-05-05,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0392,Lorazepam,2024-12-14,2025-04-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0392,Filgrastim,2024-09-21,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0393,Metoclopramide,2024-02-15,,10 mg,ORAL,Nausea
+SUBJ0393,Erythropoietin,2024-11-16,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0393,Lorazepam,2024-05-21,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0393,Filgrastim,2024-06-25,2024-08-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0393,Prednisone,2024-01-31,2024-04-26,5 mg,ORAL,Steroid Therapy
+SUBJ0393,Omeprazole,2024-07-24,2024-11-14,20 mg,ORAL,Gastric Protection
+SUBJ0394,Filgrastim,2024-04-28,2024-06-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0394,Prednisone,2025-02-17,2025-05-26,5 mg,ORAL,Steroid Therapy
+SUBJ0394,Metoclopramide,2025-03-08,2025-04-30,10 mg,ORAL,Nausea
+SUBJ0395,Omeprazole,2024-05-17,2024-07-05,20 mg,ORAL,Gastric Protection
+SUBJ0395,Morphine,2024-08-30,2024-10-22,10 mg,ORAL,Pain
+SUBJ0395,Dexamethasone,2025-02-07,2025-07-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0395,Prednisone,2024-05-24,2024-10-03,5 mg,ORAL,Steroid Therapy
+SUBJ0395,Ibuprofen,2024-12-08,2025-05-17,400 mg,ORAL,Pain/Fever
+SUBJ0396,Filgrastim,2024-10-18,2025-01-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0396,Prednisone,2024-11-06,2025-04-14,5 mg,ORAL,Steroid Therapy
+SUBJ0396,Lorazepam,2025-02-17,2025-07-19,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0396,Morphine,2024-12-12,2025-02-17,10 mg,ORAL,Pain
+SUBJ0396,Erythropoietin,2024-08-03,2025-01-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0397,Prednisone,2024-12-20,2025-04-22,5 mg,ORAL,Steroid Therapy
+SUBJ0397,Morphine,2024-09-12,2024-10-08,10 mg,ORAL,Pain
+SUBJ0398,Omeprazole,2024-10-28,2024-12-04,20 mg,ORAL,Gastric Protection
+SUBJ0398,Ibuprofen,2024-04-07,2024-05-25,400 mg,ORAL,Pain/Fever
+SUBJ0398,Lorazepam,2024-06-08,2024-12-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0399,Erythropoietin,2024-09-19,2025-02-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0399,Ibuprofen,2024-10-16,2025-04-11,400 mg,ORAL,Pain/Fever
+SUBJ0399,Omeprazole,2025-03-01,2025-05-26,20 mg,ORAL,Gastric Protection
+SUBJ0399,Morphine,2024-10-03,2024-10-30,10 mg,ORAL,Pain
+SUBJ0400,Dexamethasone,2025-03-13,2025-08-17,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0400,Metoclopramide,2024-07-06,2024-10-18,10 mg,ORAL,Nausea
+SUBJ0400,Prednisone,2024-12-31,2025-01-23,5 mg,ORAL,Steroid Therapy
+SUBJ0400,Morphine,2025-02-20,2025-03-20,10 mg,ORAL,Pain
+SUBJ0400,Omeprazole,2025-01-28,2025-03-09,20 mg,ORAL,Gastric Protection
+SUBJ0401,Ibuprofen,2024-06-07,2024-08-07,400 mg,ORAL,Pain/Fever
+SUBJ0401,Filgrastim,2024-09-28,2024-12-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0401,Metoclopramide,2025-02-21,2025-04-06,10 mg,ORAL,Nausea
+SUBJ0402,Erythropoietin,2024-10-16,2024-10-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0402,Metoclopramide,2025-03-16,2025-07-13,10 mg,ORAL,Nausea
+SUBJ0402,Morphine,2024-11-08,2024-11-30,10 mg,ORAL,Pain
+SUBJ0402,Lorazepam,2025-03-12,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0403,Erythropoietin,2024-09-07,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0403,Morphine,2024-10-20,2025-01-22,10 mg,ORAL,Pain
+SUBJ0403,Ibuprofen,2024-06-05,2024-11-03,400 mg,ORAL,Pain/Fever
+SUBJ0403,Omeprazole,2024-12-20,2025-01-18,20 mg,ORAL,Gastric Protection
+SUBJ0403,Lorazepam,2025-01-10,2025-06-15,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0404,Omeprazole,2025-05-03,2025-07-09,20 mg,ORAL,Gastric Protection
+SUBJ0404,Dexamethasone,2025-02-21,2025-07-14,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0404,Metoclopramide,2025-03-02,,10 mg,ORAL,Nausea
+SUBJ0404,Ibuprofen,2024-10-07,2025-01-22,400 mg,ORAL,Pain/Fever
+SUBJ0404,Prednisone,2025-03-15,2025-04-15,5 mg,ORAL,Steroid Therapy
+SUBJ0404,Lorazepam,2025-02-01,2025-05-25,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0404,Erythropoietin,2025-06-03,2025-09-03,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0404,Ondansetron,2025-08-09,2025-11-28,8 mg,ORAL,Nausea/Vomiting
+SUBJ0405,Lorazepam,2024-07-07,2025-01-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0405,Filgrastim,2024-07-15,2024-10-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0406,Omeprazole,2024-05-04,2024-07-28,20 mg,ORAL,Gastric Protection
+SUBJ0407,Prednisone,2024-06-16,2024-08-30,5 mg,ORAL,Steroid Therapy
+SUBJ0407,Filgrastim,2024-12-22,2025-03-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0407,Erythropoietin,2024-05-22,2024-06-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0408,Filgrastim,2024-08-14,2024-11-12,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0408,Morphine,2024-03-04,2024-04-02,10 mg,ORAL,Pain
+SUBJ0408,Omeprazole,2024-05-14,,20 mg,ORAL,Gastric Protection
+SUBJ0408,Ibuprofen,2025-01-12,2025-06-01,400 mg,ORAL,Pain/Fever
+SUBJ0408,Dexamethasone,2024-11-15,2025-02-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0409,Morphine,2024-12-02,,10 mg,ORAL,Pain
+SUBJ0409,Metoclopramide,2024-11-15,2025-04-04,10 mg,ORAL,Nausea
+SUBJ0409,Dexamethasone,2024-05-25,2024-06-07,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0409,Ondansetron,2024-04-13,2024-10-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0409,Lorazepam,2024-04-13,2024-04-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0410,Ibuprofen,2024-10-02,2025-01-26,400 mg,ORAL,Pain/Fever
+SUBJ0410,Metoclopramide,2024-11-19,,10 mg,ORAL,Nausea
+SUBJ0411,Filgrastim,2024-06-02,2024-10-28,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0411,Omeprazole,2024-10-08,2025-02-06,20 mg,ORAL,Gastric Protection
+SUBJ0411,Morphine,2024-03-22,,10 mg,ORAL,Pain
+SUBJ0411,Prednisone,2024-11-14,2025-03-25,5 mg,ORAL,Steroid Therapy
+SUBJ0411,Ibuprofen,2024-08-10,2025-01-12,400 mg,ORAL,Pain/Fever
+SUBJ0412,Dexamethasone,2024-07-07,2024-09-07,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0412,Prednisone,2024-08-26,2024-09-15,5 mg,ORAL,Steroid Therapy
+SUBJ0412,Omeprazole,2024-11-11,2025-01-13,20 mg,ORAL,Gastric Protection
+SUBJ0412,Ibuprofen,2024-08-31,2024-12-26,400 mg,ORAL,Pain/Fever
+SUBJ0412,Ondansetron,2024-12-07,2025-04-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0412,Lorazepam,2025-01-15,2025-02-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0412,Metoclopramide,2025-04-11,2025-07-11,10 mg,ORAL,Nausea
+SUBJ0413,Ibuprofen,2024-11-21,2025-02-04,400 mg,ORAL,Pain/Fever
+SUBJ0413,Erythropoietin,2025-01-09,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0413,Ondansetron,2025-02-18,2025-05-20,8 mg,ORAL,Nausea/Vomiting
+SUBJ0413,Metoclopramide,2025-06-17,,10 mg,ORAL,Nausea
+SUBJ0413,Prednisone,2025-04-03,2025-07-14,5 mg,ORAL,Steroid Therapy
+SUBJ0414,Morphine,2024-11-30,2025-05-22,10 mg,ORAL,Pain
+SUBJ0414,Dexamethasone,2025-02-17,2025-05-18,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0414,Metoclopramide,2024-11-07,,10 mg,ORAL,Nausea
+SUBJ0415,Filgrastim,2025-02-17,2025-03-09,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0415,Ibuprofen,2024-10-16,2025-03-15,400 mg,ORAL,Pain/Fever
+SUBJ0415,Prednisone,2025-05-24,2025-10-25,5 mg,ORAL,Steroid Therapy
+SUBJ0415,Ondansetron,2025-05-24,2025-07-08,8 mg,ORAL,Nausea/Vomiting
+SUBJ0415,Dexamethasone,2025-04-30,2025-10-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0415,Omeprazole,2025-02-25,2025-06-11,20 mg,ORAL,Gastric Protection
+SUBJ0415,Metoclopramide,2025-04-28,2025-05-08,10 mg,ORAL,Nausea
+SUBJ0416,Filgrastim,2024-05-21,2024-10-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0416,Prednisone,2024-07-27,,5 mg,ORAL,Steroid Therapy
+SUBJ0417,Dexamethasone,2024-10-09,2024-12-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0417,Morphine,2024-10-05,2025-01-30,10 mg,ORAL,Pain
+SUBJ0417,Filgrastim,2024-12-15,2025-06-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0418,Lorazepam,2025-02-02,2025-04-16,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0418,Dexamethasone,2024-06-07,2024-06-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0419,Prednisone,2025-05-23,2025-08-13,5 mg,ORAL,Steroid Therapy
+SUBJ0419,Ondansetron,2024-07-12,2024-11-09,8 mg,ORAL,Nausea/Vomiting
+SUBJ0419,Dexamethasone,2024-11-03,2025-04-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0420,Lorazepam,2025-01-24,2025-05-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0420,Omeprazole,2024-11-03,,20 mg,ORAL,Gastric Protection
+SUBJ0420,Metoclopramide,2024-11-08,2025-01-21,10 mg,ORAL,Nausea
+SUBJ0420,Ondansetron,2024-10-07,2025-03-05,8 mg,ORAL,Nausea/Vomiting
+SUBJ0420,Dexamethasone,2025-01-31,2025-04-20,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0421,Ibuprofen,2025-02-02,2025-06-16,400 mg,ORAL,Pain/Fever
+SUBJ0421,Metoclopramide,2025-01-09,2025-01-17,10 mg,ORAL,Nausea
+SUBJ0422,Omeprazole,2025-05-27,2025-10-28,20 mg,ORAL,Gastric Protection
+SUBJ0422,Lorazepam,2024-10-29,2025-01-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0423,Filgrastim,2024-11-06,2025-04-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0423,Dexamethasone,2025-07-26,2025-09-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0424,Erythropoietin,2025-04-27,2025-07-15,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0424,Ondansetron,2025-01-06,2025-05-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0424,Metoclopramide,2024-11-30,,10 mg,ORAL,Nausea
+SUBJ0424,Morphine,2025-06-17,2025-11-19,10 mg,ORAL,Pain
+SUBJ0424,Ibuprofen,2025-06-26,2025-12-02,400 mg,ORAL,Pain/Fever
+SUBJ0425,Metoclopramide,2024-06-29,2024-08-10,10 mg,ORAL,Nausea
+SUBJ0425,Prednisone,2024-08-08,2024-12-18,5 mg,ORAL,Steroid Therapy
+SUBJ0425,Dexamethasone,2024-09-16,2024-12-03,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0425,Filgrastim,2024-07-17,2024-09-23,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0425,Ibuprofen,2024-06-18,2024-10-07,400 mg,ORAL,Pain/Fever
+SUBJ0426,Lorazepam,2024-07-04,2024-10-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0426,Omeprazole,2024-08-24,2024-09-25,20 mg,ORAL,Gastric Protection
+SUBJ0427,Morphine,2025-02-20,2025-07-09,10 mg,ORAL,Pain
+SUBJ0427,Filgrastim,2025-02-03,2025-03-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0427,Metoclopramide,2025-04-07,2025-05-14,10 mg,ORAL,Nausea
+SUBJ0427,Prednisone,2025-04-06,2025-06-29,5 mg,ORAL,Steroid Therapy
+SUBJ0427,Omeprazole,2024-10-19,2025-01-14,20 mg,ORAL,Gastric Protection
+SUBJ0427,Ondansetron,2024-12-01,2025-02-15,8 mg,ORAL,Nausea/Vomiting
+SUBJ0427,Ibuprofen,2024-11-09,2024-12-30,400 mg,ORAL,Pain/Fever
+SUBJ0428,Ondansetron,2024-08-02,2024-10-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0428,Metoclopramide,2024-07-07,,10 mg,ORAL,Nausea
+SUBJ0428,Omeprazole,2024-07-16,2024-08-14,20 mg,ORAL,Gastric Protection
+SUBJ0428,Erythropoietin,2024-06-26,2024-07-23,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0428,Lorazepam,2024-11-06,2025-03-12,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0428,Ibuprofen,2025-03-16,2025-04-15,400 mg,ORAL,Pain/Fever
+SUBJ0428,Prednisone,2025-02-01,2025-07-03,5 mg,ORAL,Steroid Therapy
+SUBJ0429,Erythropoietin,2024-07-30,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0429,Ibuprofen,2024-05-29,2024-07-19,400 mg,ORAL,Pain/Fever
+SUBJ0429,Dexamethasone,2025-01-25,2025-03-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0430,Lorazepam,2024-10-28,2024-12-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0430,Ondansetron,2024-11-27,2025-03-06,8 mg,ORAL,Nausea/Vomiting
+SUBJ0430,Omeprazole,2024-04-10,2024-07-30,20 mg,ORAL,Gastric Protection
+SUBJ0430,Prednisone,2024-03-26,2024-06-25,5 mg,ORAL,Steroid Therapy
+SUBJ0430,Morphine,2024-06-09,2024-12-06,10 mg,ORAL,Pain
+SUBJ0430,Erythropoietin,2024-03-31,2024-07-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0431,Metoclopramide,2024-08-27,2024-12-23,10 mg,ORAL,Nausea
+SUBJ0431,Prednisone,2024-04-09,2024-04-16,5 mg,ORAL,Steroid Therapy
+SUBJ0431,Ibuprofen,2024-05-01,2024-10-01,400 mg,ORAL,Pain/Fever
+SUBJ0431,Morphine,2024-04-09,2024-06-15,10 mg,ORAL,Pain
+SUBJ0432,Omeprazole,2024-11-08,2025-01-15,20 mg,ORAL,Gastric Protection
+SUBJ0432,Lorazepam,2024-09-13,2024-11-29,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0432,Ondansetron,2025-02-04,2025-06-03,8 mg,ORAL,Nausea/Vomiting
+SUBJ0432,Ibuprofen,2024-05-05,2024-09-29,400 mg,ORAL,Pain/Fever
+SUBJ0433,Ondansetron,2025-02-25,2025-03-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0433,Morphine,2024-12-23,2025-04-24,10 mg,ORAL,Pain
+SUBJ0433,Prednisone,2025-05-08,2025-06-17,5 mg,ORAL,Steroid Therapy
+SUBJ0433,Omeprazole,2025-07-15,2025-09-30,20 mg,ORAL,Gastric Protection
+SUBJ0433,Lorazepam,2025-03-06,2025-04-09,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0433,Ibuprofen,2025-03-05,2025-07-07,400 mg,ORAL,Pain/Fever
+SUBJ0433,Erythropoietin,2025-02-18,2025-05-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0433,Filgrastim,2024-11-16,2025-02-19,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0433,Metoclopramide,2025-06-14,2025-11-30,10 mg,ORAL,Nausea
+SUBJ0434,Filgrastim,2025-07-05,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0434,Ondansetron,2024-10-22,2024-11-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0434,Erythropoietin,2025-01-10,2025-06-18,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0434,Omeprazole,2024-10-18,2025-02-09,20 mg,ORAL,Gastric Protection
+SUBJ0434,Ibuprofen,2025-07-23,2025-09-03,400 mg,ORAL,Pain/Fever
+SUBJ0434,Metoclopramide,2025-05-18,2025-08-13,10 mg,ORAL,Nausea
+SUBJ0434,Prednisone,2025-01-25,2025-02-02,5 mg,ORAL,Steroid Therapy
+SUBJ0435,Dexamethasone,2024-09-19,2025-02-13,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0435,Erythropoietin,2024-11-14,2024-11-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0435,Omeprazole,2024-06-11,2024-11-02,20 mg,ORAL,Gastric Protection
+SUBJ0435,Ondansetron,2024-03-29,2024-05-13,8 mg,ORAL,Nausea/Vomiting
+SUBJ0435,Metoclopramide,2024-09-09,2024-10-22,10 mg,ORAL,Nausea
+SUBJ0436,Ibuprofen,2024-06-11,2024-09-26,400 mg,ORAL,Pain/Fever
+SUBJ0436,Dexamethasone,2025-01-25,2025-03-27,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0436,Erythropoietin,2025-03-31,2025-09-24,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0437,Omeprazole,2025-01-14,2025-02-22,20 mg,ORAL,Gastric Protection
+SUBJ0437,Ibuprofen,2025-03-11,2025-07-04,400 mg,ORAL,Pain/Fever
+SUBJ0437,Dexamethasone,2025-04-28,2025-06-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0437,Prednisone,2025-07-25,2025-11-22,5 mg,ORAL,Steroid Therapy
+SUBJ0437,Metoclopramide,2025-06-25,2025-07-26,10 mg,ORAL,Nausea
+SUBJ0437,Filgrastim,2025-04-30,2025-06-26,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0438,Metoclopramide,2024-06-18,2024-08-09,10 mg,ORAL,Nausea
+SUBJ0438,Morphine,2024-05-20,2024-08-23,10 mg,ORAL,Pain
+SUBJ0438,Omeprazole,2024-06-10,2024-08-21,20 mg,ORAL,Gastric Protection
+SUBJ0438,Lorazepam,2024-03-27,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0439,Ondansetron,2024-07-28,2024-12-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0440,Erythropoietin,2024-12-22,2025-02-09,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0440,Lorazepam,2025-02-05,2025-07-19,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0440,Ibuprofen,2025-04-02,,400 mg,ORAL,Pain/Fever
+SUBJ0441,Lorazepam,2025-01-17,2025-06-04,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0442,Prednisone,2025-04-26,2025-06-26,5 mg,ORAL,Steroid Therapy
+SUBJ0442,Ondansetron,2025-03-13,2025-05-27,8 mg,ORAL,Nausea/Vomiting
+SUBJ0443,Dexamethasone,2024-05-10,2024-10-29,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0443,Ondansetron,2024-09-11,2024-09-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0443,Omeprazole,2024-12-26,2025-05-06,20 mg,ORAL,Gastric Protection
+SUBJ0443,Morphine,2024-12-16,2025-06-11,10 mg,ORAL,Pain
+SUBJ0443,Prednisone,2024-11-10,2025-03-26,5 mg,ORAL,Steroid Therapy
+SUBJ0444,Omeprazole,2024-07-16,2024-10-16,20 mg,ORAL,Gastric Protection
+SUBJ0444,Lorazepam,2024-11-30,2025-01-30,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0444,Erythropoietin,2025-01-14,2025-01-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0444,Ondansetron,2024-12-17,2025-05-24,8 mg,ORAL,Nausea/Vomiting
+SUBJ0444,Prednisone,2024-08-15,,5 mg,ORAL,Steroid Therapy
+SUBJ0444,Dexamethasone,2024-10-28,2025-04-05,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0444,Morphine,2024-11-08,2025-02-20,10 mg,ORAL,Pain
+SUBJ0444,Filgrastim,2025-01-26,2025-03-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0444,Ibuprofen,2024-12-12,2025-01-18,400 mg,ORAL,Pain/Fever
+SUBJ0445,Ondansetron,2025-03-03,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0445,Lorazepam,2025-08-01,2026-01-12,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0445,Filgrastim,2024-12-31,2025-03-15,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0445,Metoclopramide,2025-05-31,2025-08-29,10 mg,ORAL,Nausea
+SUBJ0446,Lorazepam,2024-10-13,,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0446,Morphine,2024-08-08,2024-08-31,10 mg,ORAL,Pain
+SUBJ0446,Erythropoietin,2025-01-08,2025-06-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0447,Filgrastim,2025-01-27,2025-06-05,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0447,Lorazepam,2024-10-26,2024-11-13,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0447,Omeprazole,2025-04-19,2025-07-12,20 mg,ORAL,Gastric Protection
+SUBJ0447,Erythropoietin,2025-01-10,2025-06-20,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0448,Omeprazole,2024-08-29,2025-01-07,20 mg,ORAL,Gastric Protection
+SUBJ0448,Ondansetron,2024-10-29,,8 mg,ORAL,Nausea/Vomiting
+SUBJ0448,Lorazepam,2024-02-16,2024-04-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0448,Erythropoietin,2024-11-27,2025-01-07,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0448,Prednisone,2024-02-07,2024-02-16,5 mg,ORAL,Steroid Therapy
+SUBJ0449,Morphine,2025-04-21,2025-05-28,10 mg,ORAL,Pain
+SUBJ0449,Ibuprofen,2025-01-26,2025-02-06,400 mg,ORAL,Pain/Fever
+SUBJ0449,Metoclopramide,2024-11-27,2025-05-10,10 mg,ORAL,Nausea
+SUBJ0449,Omeprazole,2024-09-16,2024-11-20,20 mg,ORAL,Gastric Protection
+SUBJ0450,Ondansetron,2024-10-21,2025-02-17,8 mg,ORAL,Nausea/Vomiting
+SUBJ0450,Morphine,2024-08-10,2024-09-24,10 mg,ORAL,Pain
+SUBJ0450,Prednisone,2025-04-04,2025-07-14,5 mg,ORAL,Steroid Therapy
+SUBJ0450,Dexamethasone,2024-06-30,2024-09-14,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0450,Metoclopramide,2025-03-06,2025-08-20,10 mg,ORAL,Nausea
+SUBJ0450,Erythropoietin,2025-03-22,2025-04-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0451,Omeprazole,2025-05-02,2025-09-04,20 mg,ORAL,Gastric Protection
+SUBJ0451,Lorazepam,2024-10-15,2025-04-04,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0451,Prednisone,2025-03-20,,5 mg,ORAL,Steroid Therapy
+SUBJ0451,Ibuprofen,2025-05-15,2025-06-27,400 mg,ORAL,Pain/Fever
+SUBJ0452,Morphine,2024-09-20,2025-02-21,10 mg,ORAL,Pain
+SUBJ0452,Omeprazole,2024-06-24,2024-10-16,20 mg,ORAL,Gastric Protection
+SUBJ0452,Filgrastim,2024-10-24,2025-02-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0453,Omeprazole,2024-12-19,,20 mg,ORAL,Gastric Protection
+SUBJ0453,Filgrastim,2025-03-23,2025-06-03,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0453,Morphine,2025-02-04,2025-02-21,10 mg,ORAL,Pain
+SUBJ0453,Ondansetron,2024-12-15,2025-05-27,8 mg,ORAL,Nausea/Vomiting
+SUBJ0453,Metoclopramide,2024-12-29,2025-03-11,10 mg,ORAL,Nausea
+SUBJ0453,Ibuprofen,2024-10-22,,400 mg,ORAL,Pain/Fever
+SUBJ0453,Erythropoietin,2025-03-10,2025-06-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0454,Metoclopramide,2024-09-20,2024-11-10,10 mg,ORAL,Nausea
+SUBJ0454,Prednisone,2024-09-30,,5 mg,ORAL,Steroid Therapy
+SUBJ0454,Ibuprofen,2024-03-31,2024-08-14,400 mg,ORAL,Pain/Fever
+SUBJ0454,Omeprazole,2024-11-03,2025-03-16,20 mg,ORAL,Gastric Protection
+SUBJ0454,Erythropoietin,2024-10-22,2025-01-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0455,Morphine,2024-05-20,2024-07-07,10 mg,ORAL,Pain
+SUBJ0455,Ondansetron,2024-11-12,2025-01-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0456,Prednisone,2024-12-01,2025-01-20,5 mg,ORAL,Steroid Therapy
+SUBJ0456,Dexamethasone,2024-08-22,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0456,Metoclopramide,2024-08-08,2024-10-22,10 mg,ORAL,Nausea
+SUBJ0456,Erythropoietin,2024-07-12,2024-10-25,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0457,Morphine,2025-02-15,2025-06-20,10 mg,ORAL,Pain
+SUBJ0457,Omeprazole,2025-01-20,2025-06-25,20 mg,ORAL,Gastric Protection
+SUBJ0457,Dexamethasone,2025-03-12,2025-07-09,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0458,Erythropoietin,2025-01-16,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0458,Omeprazole,2024-12-03,2025-02-25,20 mg,ORAL,Gastric Protection
+SUBJ0459,Prednisone,2024-11-22,2025-04-15,5 mg,ORAL,Steroid Therapy
+SUBJ0459,Lorazepam,2025-02-08,2025-06-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0459,Ibuprofen,2025-03-11,2025-07-25,400 mg,ORAL,Pain/Fever
+SUBJ0459,Filgrastim,2024-12-15,2025-03-06,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0459,Ondansetron,2024-12-02,2025-01-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0459,Omeprazole,2025-02-24,2025-03-26,20 mg,ORAL,Gastric Protection
+SUBJ0460,Lorazepam,2024-07-22,2024-10-20,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0460,Morphine,2025-05-14,2025-05-21,10 mg,ORAL,Pain
+SUBJ0460,Filgrastim,2025-04-17,2025-05-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0461,Ondansetron,2024-10-09,2025-02-16,8 mg,ORAL,Nausea/Vomiting
+SUBJ0461,Erythropoietin,2025-05-22,2025-10-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0462,Metoclopramide,2024-08-03,2024-10-01,10 mg,ORAL,Nausea
+SUBJ0462,Omeprazole,2024-05-14,2024-06-08,20 mg,ORAL,Gastric Protection
+SUBJ0462,Dexamethasone,2024-09-11,2025-03-10,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0463,Morphine,2025-05-01,2025-05-30,10 mg,ORAL,Pain
+SUBJ0463,Dexamethasone,2024-12-07,2025-05-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0463,Omeprazole,2024-11-01,2025-03-09,20 mg,ORAL,Gastric Protection
+SUBJ0463,Lorazepam,2024-12-21,2025-06-12,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0463,Ondansetron,2025-02-16,2025-05-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0464,Prednisone,2024-09-20,2025-02-06,5 mg,ORAL,Steroid Therapy
+SUBJ0464,Ibuprofen,2024-12-09,2025-01-29,400 mg,ORAL,Pain/Fever
+SUBJ0464,Omeprazole,2024-09-17,2025-03-16,20 mg,ORAL,Gastric Protection
+SUBJ0464,Morphine,2024-09-28,2024-10-24,10 mg,ORAL,Pain
+SUBJ0464,Metoclopramide,2024-02-18,2024-06-08,10 mg,ORAL,Nausea
+SUBJ0465,Omeprazole,2024-05-27,2024-09-07,20 mg,ORAL,Gastric Protection
+SUBJ0465,Filgrastim,2025-01-21,2025-05-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0465,Lorazepam,2025-02-21,2025-04-11,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0465,Ibuprofen,2024-12-03,2024-12-31,400 mg,ORAL,Pain/Fever
+SUBJ0465,Erythropoietin,2024-07-31,2024-10-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0465,Dexamethasone,2025-03-30,2025-05-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0465,Metoclopramide,2025-02-27,2025-07-10,10 mg,ORAL,Nausea
+SUBJ0466,Lorazepam,2024-07-22,2024-12-04,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0466,Ondansetron,2024-07-22,2024-08-19,8 mg,ORAL,Nausea/Vomiting
+SUBJ0466,Metoclopramide,2024-11-16,2025-01-17,10 mg,ORAL,Nausea
+SUBJ0468,Omeprazole,2024-09-26,,20 mg,ORAL,Gastric Protection
+SUBJ0468,Metoclopramide,2024-05-15,2024-08-29,10 mg,ORAL,Nausea
+SUBJ0468,Prednisone,2024-08-01,2024-09-03,5 mg,ORAL,Steroid Therapy
+SUBJ0470,Morphine,2025-01-30,2025-04-21,10 mg,ORAL,Pain
+SUBJ0470,Prednisone,2024-12-07,2025-05-01,5 mg,ORAL,Steroid Therapy
+SUBJ0470,Filgrastim,2025-05-19,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0470,Metoclopramide,2024-10-25,2024-12-13,10 mg,ORAL,Nausea
+SUBJ0470,Ibuprofen,2024-11-11,,400 mg,ORAL,Pain/Fever
+SUBJ0471,Morphine,2024-01-26,2024-06-19,10 mg,ORAL,Pain
+SUBJ0471,Dexamethasone,2024-02-20,2024-04-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0471,Ondansetron,2024-11-02,2025-02-18,8 mg,ORAL,Nausea/Vomiting
+SUBJ0471,Ibuprofen,2024-07-29,2025-01-21,400 mg,ORAL,Pain/Fever
+SUBJ0472,Morphine,2024-12-20,2025-05-28,10 mg,ORAL,Pain
+SUBJ0472,Ondansetron,2024-10-20,2025-04-02,8 mg,ORAL,Nausea/Vomiting
+SUBJ0472,Erythropoietin,2025-05-26,2025-08-30,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0472,Omeprazole,2025-06-01,2025-09-22,20 mg,ORAL,Gastric Protection
+SUBJ0472,Lorazepam,2025-06-25,2025-09-06,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0473,Ibuprofen,2025-05-19,2025-08-08,400 mg,ORAL,Pain/Fever
+SUBJ0473,Metoclopramide,2024-09-11,2025-02-24,10 mg,ORAL,Nausea
+SUBJ0473,Filgrastim,2025-04-25,2025-07-10,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0473,Morphine,2025-03-14,2025-06-18,10 mg,ORAL,Pain
+SUBJ0473,Erythropoietin,2025-04-27,2025-07-29,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0473,Prednisone,2025-05-26,,5 mg,ORAL,Steroid Therapy
+SUBJ0473,Ondansetron,2025-03-02,2025-07-25,8 mg,ORAL,Nausea/Vomiting
+SUBJ0474,Prednisone,2024-08-14,2024-12-17,5 mg,ORAL,Steroid Therapy
+SUBJ0474,Morphine,2024-10-18,2025-03-14,10 mg,ORAL,Pain
+SUBJ0474,Ibuprofen,2025-05-28,2025-11-09,400 mg,ORAL,Pain/Fever
+SUBJ0474,Ondansetron,2024-09-30,2025-01-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0474,Filgrastim,2025-01-01,2025-01-20,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0475,Dexamethasone,2024-07-23,2024-10-06,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0475,Prednisone,2024-11-01,2025-02-09,5 mg,ORAL,Steroid Therapy
+SUBJ0475,Morphine,2024-11-30,2024-12-10,10 mg,ORAL,Pain
+SUBJ0475,Omeprazole,2024-01-21,2024-05-22,20 mg,ORAL,Gastric Protection
+SUBJ0475,Ondansetron,2024-10-20,2024-11-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0475,Metoclopramide,2024-08-21,2024-12-26,10 mg,ORAL,Nausea
+SUBJ0475,Ibuprofen,2024-03-31,2024-06-06,400 mg,ORAL,Pain/Fever
+SUBJ0475,Lorazepam,2024-08-28,2025-02-21,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0475,Filgrastim,2024-04-21,,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0476,Lorazepam,2024-10-20,2024-12-17,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0476,Prednisone,2024-10-17,2025-02-10,5 mg,ORAL,Steroid Therapy
+SUBJ0476,Metoclopramide,2024-11-28,2025-05-13,10 mg,ORAL,Nausea
+SUBJ0477,Ondansetron,2025-05-06,2025-07-05,8 mg,ORAL,Nausea/Vomiting
+SUBJ0477,Erythropoietin,2024-11-21,2025-01-10,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0478,Metoclopramide,2024-11-07,,10 mg,ORAL,Nausea
+SUBJ0478,Lorazepam,2025-01-10,2025-02-03,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0478,Filgrastim,2024-12-19,2025-03-13,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0479,Dexamethasone,2025-05-21,2025-08-07,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0479,Metoclopramide,2024-10-02,2025-03-21,10 mg,ORAL,Nausea
+SUBJ0479,Prednisone,2024-11-26,2025-01-04,5 mg,ORAL,Steroid Therapy
+SUBJ0479,Morphine,2025-02-10,,10 mg,ORAL,Pain
+SUBJ0479,Erythropoietin,2024-11-03,2024-12-14,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0479,Ondansetron,2024-12-24,2025-04-01,8 mg,ORAL,Nausea/Vomiting
+SUBJ0479,Lorazepam,2024-10-07,2025-04-01,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0480,Ibuprofen,2025-04-23,2025-10-09,400 mg,ORAL,Pain/Fever
+SUBJ0481,Filgrastim,2024-09-10,2024-09-18,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0481,Morphine,2024-05-25,2024-07-29,10 mg,ORAL,Pain
+SUBJ0481,Ondansetron,2024-03-05,2024-07-14,8 mg,ORAL,Nausea/Vomiting
+SUBJ0481,Dexamethasone,2024-04-19,2024-05-16,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0481,Ibuprofen,2024-08-15,2024-09-07,400 mg,ORAL,Pain/Fever
+SUBJ0481,Erythropoietin,2024-01-29,2024-06-22,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0481,Omeprazole,2024-05-25,2024-08-23,20 mg,ORAL,Gastric Protection
+SUBJ0481,Lorazepam,2024-12-07,2025-01-02,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0482,Ibuprofen,2024-07-03,2024-10-25,400 mg,ORAL,Pain/Fever
+SUBJ0482,Lorazepam,2024-12-29,2025-05-22,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0482,Filgrastim,2025-02-06,2025-06-17,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0482,Ondansetron,2024-09-21,2025-02-04,8 mg,ORAL,Nausea/Vomiting
+SUBJ0483,Morphine,2024-12-29,2025-06-05,10 mg,ORAL,Pain
+SUBJ0484,Lorazepam,2025-04-26,2025-09-11,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0484,Omeprazole,2025-08-09,2025-11-27,20 mg,ORAL,Gastric Protection
+SUBJ0484,Metoclopramide,2024-11-16,2025-04-19,10 mg,ORAL,Nausea
+SUBJ0484,Morphine,2025-06-10,2025-11-05,10 mg,ORAL,Pain
+SUBJ0484,Prednisone,2025-08-19,2025-11-11,5 mg,ORAL,Steroid Therapy
+SUBJ0485,Morphine,2025-01-13,2025-05-15,10 mg,ORAL,Pain
+SUBJ0485,Dexamethasone,2024-08-04,2024-10-25,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0485,Metoclopramide,2024-07-16,2024-11-22,10 mg,ORAL,Nausea
+SUBJ0485,Erythropoietin,2024-10-14,2024-10-26,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0486,Omeprazole,2024-11-03,2025-03-31,20 mg,ORAL,Gastric Protection
+SUBJ0486,Prednisone,2024-08-19,2024-11-13,5 mg,ORAL,Steroid Therapy
+SUBJ0487,Prednisone,2025-03-29,2025-07-07,5 mg,ORAL,Steroid Therapy
+SUBJ0487,Filgrastim,2024-09-08,2024-12-06,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0487,Ibuprofen,2024-10-18,2025-02-23,400 mg,ORAL,Pain/Fever
+SUBJ0487,Omeprazole,2024-09-15,2025-03-05,20 mg,ORAL,Gastric Protection
+SUBJ0487,Erythropoietin,2025-02-15,2025-04-04,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0487,Metoclopramide,2025-06-18,2025-11-16,10 mg,ORAL,Nausea
+SUBJ0487,Lorazepam,2025-05-06,2025-05-27,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0488,Dexamethasone,2025-02-09,2025-04-22,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0488,Lorazepam,2024-10-18,2025-02-10,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0488,Erythropoietin,2025-01-16,,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0488,Ondansetron,2025-03-20,2025-09-05,8 mg,ORAL,Nausea/Vomiting
+SUBJ0488,Filgrastim,2024-12-07,2025-01-24,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0488,Ibuprofen,2025-02-14,2025-05-16,400 mg,ORAL,Pain/Fever
+SUBJ0489,Omeprazole,2024-06-12,2024-08-16,20 mg,ORAL,Gastric Protection
+SUBJ0489,Morphine,2024-07-01,2024-12-03,10 mg,ORAL,Pain
+SUBJ0489,Erythropoietin,2024-05-07,2024-08-13,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0490,Omeprazole,2024-01-08,2024-04-24,20 mg,ORAL,Gastric Protection
+SUBJ0490,Prednisone,2024-06-16,2024-08-15,5 mg,ORAL,Steroid Therapy
+SUBJ0490,Dexamethasone,2024-11-11,2025-03-12,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0490,Ibuprofen,2024-02-17,2024-03-03,400 mg,ORAL,Pain/Fever
+SUBJ0490,Erythropoietin,2024-01-14,2024-02-28,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0490,Metoclopramide,2024-02-15,,10 mg,ORAL,Nausea
+SUBJ0491,Morphine,2024-11-16,2024-12-16,10 mg,ORAL,Pain
+SUBJ0491,Dexamethasone,2024-04-27,2024-09-11,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0491,Filgrastim,2024-11-14,2025-01-25,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0491,Erythropoietin,2025-03-06,2025-08-08,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0492,Filgrastim,2025-01-15,2025-04-07,300 mcg,SUBCUTANEOUS,Neutropenia Prophylaxis
+SUBJ0492,Dexamethasone,2024-05-31,,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0492,Lorazepam,2024-04-22,2024-06-07,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0492,Prednisone,2024-12-28,2025-02-02,5 mg,ORAL,Steroid Therapy
+SUBJ0492,Morphine,2024-06-21,2024-09-30,10 mg,ORAL,Pain
+SUBJ0492,Erythropoietin,2024-08-24,2025-01-27,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0492,Omeprazole,2024-05-29,,20 mg,ORAL,Gastric Protection
+SUBJ0492,Ondansetron,2025-01-07,2025-05-12,8 mg,ORAL,Nausea/Vomiting
+SUBJ0492,Ibuprofen,2024-09-27,2024-11-02,400 mg,ORAL,Pain/Fever
+SUBJ0493,Ibuprofen,2025-02-24,2025-03-09,400 mg,ORAL,Pain/Fever
+SUBJ0493,Dexamethasone,2024-06-22,2024-10-28,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0493,Morphine,2024-06-20,2024-07-26,10 mg,ORAL,Pain
+SUBJ0493,Metoclopramide,2024-10-26,2025-01-19,10 mg,ORAL,Nausea
+SUBJ0494,Omeprazole,2025-07-12,2025-10-23,20 mg,ORAL,Gastric Protection
+SUBJ0494,Morphine,2024-11-27,2025-04-07,10 mg,ORAL,Pain
+SUBJ0494,Ibuprofen,2024-10-03,2025-02-03,400 mg,ORAL,Pain/Fever
+SUBJ0495,Morphine,2024-02-14,2024-03-25,10 mg,ORAL,Pain
+SUBJ0496,Morphine,2025-01-16,2025-04-02,10 mg,ORAL,Pain
+SUBJ0496,Metoclopramide,2025-04-04,2025-05-25,10 mg,ORAL,Nausea
+SUBJ0496,Prednisone,2025-05-31,,5 mg,ORAL,Steroid Therapy
+SUBJ0497,Ondansetron,2024-09-07,2024-11-29,8 mg,ORAL,Nausea/Vomiting
+SUBJ0497,Morphine,2024-12-06,2025-05-05,10 mg,ORAL,Pain
+SUBJ0497,Lorazepam,2025-02-10,2025-05-26,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0497,Dexamethasone,2025-05-07,2025-10-04,4 mg,INTRAVENOUS,Anti-inflammatory/Prophylaxis
+SUBJ0498,Morphine,2024-04-08,2024-08-06,10 mg,ORAL,Pain
+SUBJ0498,Lorazepam,2024-02-18,2024-04-05,0.5 mg,ORAL,Anxiety/Nausea
+SUBJ0498,Erythropoietin,2024-06-29,2024-12-12,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0498,Prednisone,2024-08-31,2024-11-01,5 mg,ORAL,Steroid Therapy
+SUBJ0499,Prednisone,2024-04-22,2024-05-16,5 mg,ORAL,Steroid Therapy
+SUBJ0499,Erythropoietin,2025-02-15,2025-08-12,40000 IU,SUBCUTANEOUS,Anemia
+SUBJ0500,Metoclopramide,2024-04-19,2024-07-17,10 mg,ORAL,Nausea
+SUBJ0500,Ibuprofen,2024-08-03,2025-01-04,400 mg,ORAL,Pain/Fever
+SUBJ0500,Prednisone,2024-02-16,2024-03-15,5 mg,ORAL,Steroid Therapy

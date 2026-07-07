@@ -1,0 +1,497 @@
+SUBJID,DEVIATION_CATEGORY,DESCRIPTION,DATE
+SUBJ0001,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-07-29
+SUBJ0002,Prohibited Medication,Subject took prohibited concomitant medication,2026-05-30
+SUBJ0002,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-06-14
+SUBJ0007,Late AE Reporting,Adverse event reported outside the required timeframe,2025-05-29
+SUBJ0009,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-06-10
+SUBJ0010,Missed Visit,Subject missed scheduled study visit,2025-07-21
+SUBJ0011,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-05-05
+SUBJ0012,Consent Deviation,Informed consent form not signed prior to study procedures,2025-05-25
+SUBJ0012,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-21
+SUBJ0012,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-10-11
+SUBJ0013,Missed Visit,Subject missed scheduled study visit,2025-01-01
+SUBJ0013,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-04-01
+SUBJ0016,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-04-19
+SUBJ0016,Consent Deviation,Informed consent form not signed prior to study procedures,2025-04-14
+SUBJ0016,Equipment Calibration,Study equipment not calibrated per protocol,2024-07-16
+SUBJ0019,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-31
+SUBJ0019,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-08-17
+SUBJ0021,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-02-02
+SUBJ0022,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-11-09
+SUBJ0023,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-01
+SUBJ0023,Missed Visit,Subject missed scheduled study visit,2026-02-27
+SUBJ0024,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-01
+SUBJ0024,Late AE Reporting,Adverse event reported outside the required timeframe,2024-06-10
+SUBJ0024,Prohibited Medication,Subject took prohibited concomitant medication,2025-04-18
+SUBJ0025,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-10-31
+SUBJ0026,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-02-16
+SUBJ0026,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-07-25
+SUBJ0031,Equipment Calibration,Study equipment not calibrated per protocol,2025-08-24
+SUBJ0031,Equipment Calibration,Study equipment not calibrated per protocol,2025-05-26
+SUBJ0033,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-02-01
+SUBJ0034,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-11-19
+SUBJ0036,Equipment Calibration,Study equipment not calibrated per protocol,2025-06-04
+SUBJ0037,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-10
+SUBJ0038,Prohibited Medication,Subject took prohibited concomitant medication,2025-05-17
+SUBJ0038,Prohibited Medication,Subject took prohibited concomitant medication,2025-12-15
+SUBJ0039,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-02-03
+SUBJ0039,Late AE Reporting,Adverse event reported outside the required timeframe,2026-03-02
+SUBJ0041,Prohibited Medication,Subject took prohibited concomitant medication,2025-01-11
+SUBJ0041,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-12-30
+SUBJ0041,Prohibited Medication,Subject took prohibited concomitant medication,2024-12-14
+SUBJ0041,Missed Visit,Subject missed scheduled study visit,2026-04-10
+SUBJ0043,Late AE Reporting,Adverse event reported outside the required timeframe,2025-01-01
+SUBJ0044,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-09-18
+SUBJ0044,Consent Deviation,Informed consent form not signed prior to study procedures,2026-03-05
+SUBJ0044,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-08-12
+SUBJ0044,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-02-18
+SUBJ0047,Missed Visit,Subject missed scheduled study visit,2026-02-04
+SUBJ0048,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-07-26
+SUBJ0048,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-05
+SUBJ0050,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-04-10
+SUBJ0050,Consent Deviation,Informed consent form not signed prior to study procedures,2026-06-26
+SUBJ0052,Consent Deviation,Informed consent form not signed prior to study procedures,2025-05-01
+SUBJ0052,Consent Deviation,Informed consent form not signed prior to study procedures,2025-04-16
+SUBJ0054,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-06-25
+SUBJ0058,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-29
+SUBJ0059,Late AE Reporting,Adverse event reported outside the required timeframe,2025-05-01
+SUBJ0059,Late AE Reporting,Adverse event reported outside the required timeframe,2024-09-01
+SUBJ0060,Missed Visit,Subject missed scheduled study visit,2025-08-23
+SUBJ0060,Consent Deviation,Informed consent form not signed prior to study procedures,2025-07-20
+SUBJ0061,Late AE Reporting,Adverse event reported outside the required timeframe,2024-11-18
+SUBJ0063,Missed Visit,Subject missed scheduled study visit,2024-08-10
+SUBJ0063,Consent Deviation,Informed consent form not signed prior to study procedures,2025-01-13
+SUBJ0064,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-07-29
+SUBJ0064,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-17
+SUBJ0065,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-07-27
+SUBJ0066,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-05-11
+SUBJ0070,Missed Visit,Subject missed scheduled study visit,2024-07-17
+SUBJ0071,Late AE Reporting,Adverse event reported outside the required timeframe,2024-08-20
+SUBJ0071,Consent Deviation,Informed consent form not signed prior to study procedures,2025-06-02
+SUBJ0072,Prohibited Medication,Subject took prohibited concomitant medication,2025-02-21
+SUBJ0072,Equipment Calibration,Study equipment not calibrated per protocol,2025-12-20
+SUBJ0074,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-06-11
+SUBJ0076,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-12-29
+SUBJ0078,Prohibited Medication,Subject took prohibited concomitant medication,2025-07-30
+SUBJ0079,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-03-11
+SUBJ0080,Equipment Calibration,Study equipment not calibrated per protocol,2025-10-01
+SUBJ0080,Prohibited Medication,Subject took prohibited concomitant medication,2025-10-27
+SUBJ0084,Missed Visit,Subject missed scheduled study visit,2024-04-08
+SUBJ0087,Prohibited Medication,Subject took prohibited concomitant medication,2025-03-11
+SUBJ0087,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-05-11
+SUBJ0087,Missed Visit,Subject missed scheduled study visit,2025-03-26
+SUBJ0087,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-09-12
+SUBJ0089,Consent Deviation,Informed consent form not signed prior to study procedures,2025-07-07
+SUBJ0091,Late AE Reporting,Adverse event reported outside the required timeframe,2025-08-07
+SUBJ0093,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-10-15
+SUBJ0094,Equipment Calibration,Study equipment not calibrated per protocol,2025-02-02
+SUBJ0095,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-07-16
+SUBJ0095,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-09-17
+SUBJ0095,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-06-17
+SUBJ0095,Prohibited Medication,Subject took prohibited concomitant medication,2024-12-23
+SUBJ0097,Late AE Reporting,Adverse event reported outside the required timeframe,2025-06-06
+SUBJ0099,Late AE Reporting,Adverse event reported outside the required timeframe,2025-09-05
+SUBJ0101,Missed Visit,Subject missed scheduled study visit,2025-03-31
+SUBJ0103,Consent Deviation,Informed consent form not signed prior to study procedures,2025-11-08
+SUBJ0104,Prohibited Medication,Subject took prohibited concomitant medication,2026-03-14
+SUBJ0105,Consent Deviation,Informed consent form not signed prior to study procedures,2025-11-05
+SUBJ0108,Equipment Calibration,Study equipment not calibrated per protocol,2025-05-03
+SUBJ0111,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-12-06
+SUBJ0111,Consent Deviation,Informed consent form not signed prior to study procedures,2026-02-23
+SUBJ0112,Missed Visit,Subject missed scheduled study visit,2024-11-23
+SUBJ0112,Consent Deviation,Informed consent form not signed prior to study procedures,2025-11-20
+SUBJ0113,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-11-07
+SUBJ0114,Prohibited Medication,Subject took prohibited concomitant medication,2025-03-23
+SUBJ0115,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-01-29
+SUBJ0115,Missed Visit,Subject missed scheduled study visit,2026-03-10
+SUBJ0117,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-13
+SUBJ0119,Late AE Reporting,Adverse event reported outside the required timeframe,2024-07-22
+SUBJ0119,Late AE Reporting,Adverse event reported outside the required timeframe,2024-12-07
+SUBJ0120,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2026-02-07
+SUBJ0121,Consent Deviation,Informed consent form not signed prior to study procedures,2025-09-17
+SUBJ0121,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-01-15
+SUBJ0122,Late AE Reporting,Adverse event reported outside the required timeframe,2025-01-24
+SUBJ0122,Consent Deviation,Informed consent form not signed prior to study procedures,2025-02-02
+SUBJ0123,Missed Visit,Subject missed scheduled study visit,2024-03-03
+SUBJ0124,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-08-20
+SUBJ0126,Prohibited Medication,Subject took prohibited concomitant medication,2025-12-18
+SUBJ0127,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-12-03
+SUBJ0129,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-05-16
+SUBJ0129,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-13
+SUBJ0129,Late AE Reporting,Adverse event reported outside the required timeframe,2024-06-13
+SUBJ0129,Missed Visit,Subject missed scheduled study visit,2025-09-27
+SUBJ0130,Equipment Calibration,Study equipment not calibrated per protocol,2025-01-19
+SUBJ0130,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-24
+SUBJ0130,Consent Deviation,Informed consent form not signed prior to study procedures,2025-02-23
+SUBJ0130,Consent Deviation,Informed consent form not signed prior to study procedures,2025-03-19
+SUBJ0132,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-02-21
+SUBJ0134,Prohibited Medication,Subject took prohibited concomitant medication,2026-03-14
+SUBJ0135,Late AE Reporting,Adverse event reported outside the required timeframe,2025-07-24
+SUBJ0136,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-18
+SUBJ0136,Prohibited Medication,Subject took prohibited concomitant medication,2025-07-26
+SUBJ0138,Equipment Calibration,Study equipment not calibrated per protocol,2025-10-07
+SUBJ0138,Consent Deviation,Informed consent form not signed prior to study procedures,2024-05-10
+SUBJ0139,Consent Deviation,Informed consent form not signed prior to study procedures,2024-12-24
+SUBJ0139,Missed Visit,Subject missed scheduled study visit,2026-04-16
+SUBJ0140,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-02
+SUBJ0141,Consent Deviation,Informed consent form not signed prior to study procedures,2025-12-04
+SUBJ0142,Missed Visit,Subject missed scheduled study visit,2024-09-03
+SUBJ0143,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-12-09
+SUBJ0143,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-22
+SUBJ0144,Consent Deviation,Informed consent form not signed prior to study procedures,2024-11-07
+SUBJ0144,Missed Visit,Subject missed scheduled study visit,2025-03-26
+SUBJ0144,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-08-07
+SUBJ0144,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-08-25
+SUBJ0147,Equipment Calibration,Study equipment not calibrated per protocol,2024-08-18
+SUBJ0147,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-04
+SUBJ0148,Missed Visit,Subject missed scheduled study visit,2024-12-01
+SUBJ0149,Prohibited Medication,Subject took prohibited concomitant medication,2025-09-27
+SUBJ0151,Equipment Calibration,Study equipment not calibrated per protocol,2026-02-23
+SUBJ0152,Late AE Reporting,Adverse event reported outside the required timeframe,2025-12-26
+SUBJ0153,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-15
+SUBJ0154,Late AE Reporting,Adverse event reported outside the required timeframe,2025-07-24
+SUBJ0154,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-23
+SUBJ0155,Missed Visit,Subject missed scheduled study visit,2024-07-16
+SUBJ0155,Missed Visit,Subject missed scheduled study visit,2025-09-03
+SUBJ0155,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-12-07
+SUBJ0156,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-27
+SUBJ0156,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-12-04
+SUBJ0158,Prohibited Medication,Subject took prohibited concomitant medication,2026-03-19
+SUBJ0158,Consent Deviation,Informed consent form not signed prior to study procedures,2025-09-20
+SUBJ0159,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-01-13
+SUBJ0161,Equipment Calibration,Study equipment not calibrated per protocol,2024-08-13
+SUBJ0161,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-29
+SUBJ0162,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-05-31
+SUBJ0163,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-06
+SUBJ0164,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-01
+SUBJ0164,Missed Visit,Subject missed scheduled study visit,2025-05-07
+SUBJ0165,Consent Deviation,Informed consent form not signed prior to study procedures,2025-08-12
+SUBJ0166,Missed Visit,Subject missed scheduled study visit,2025-09-21
+SUBJ0166,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-05-26
+SUBJ0168,Prohibited Medication,Subject took prohibited concomitant medication,2025-05-18
+SUBJ0168,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-12-16
+SUBJ0173,Prohibited Medication,Subject took prohibited concomitant medication,2025-08-13
+SUBJ0173,Consent Deviation,Informed consent form not signed prior to study procedures,2024-05-28
+SUBJ0174,Late AE Reporting,Adverse event reported outside the required timeframe,2025-04-09
+SUBJ0178,Late AE Reporting,Adverse event reported outside the required timeframe,2026-02-23
+SUBJ0181,Consent Deviation,Informed consent form not signed prior to study procedures,2025-04-11
+SUBJ0181,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-02-11
+SUBJ0182,Late AE Reporting,Adverse event reported outside the required timeframe,2025-01-29
+SUBJ0182,Late AE Reporting,Adverse event reported outside the required timeframe,2026-02-20
+SUBJ0185,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-02-19
+SUBJ0185,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-08-11
+SUBJ0186,Consent Deviation,Informed consent form not signed prior to study procedures,2025-01-04
+SUBJ0186,Consent Deviation,Informed consent form not signed prior to study procedures,2025-10-19
+SUBJ0188,Prohibited Medication,Subject took prohibited concomitant medication,2024-06-11
+SUBJ0188,Late AE Reporting,Adverse event reported outside the required timeframe,2025-02-25
+SUBJ0188,Missed Visit,Subject missed scheduled study visit,2025-05-15
+SUBJ0190,Prohibited Medication,Subject took prohibited concomitant medication,2024-08-28
+SUBJ0192,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-03-10
+SUBJ0192,Consent Deviation,Informed consent form not signed prior to study procedures,2024-12-11
+SUBJ0192,Missed Visit,Subject missed scheduled study visit,2025-04-01
+SUBJ0194,Late AE Reporting,Adverse event reported outside the required timeframe,2025-05-27
+SUBJ0197,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-13
+SUBJ0197,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-03-05
+SUBJ0198,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-09-01
+SUBJ0198,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-05-04
+SUBJ0198,Late AE Reporting,Adverse event reported outside the required timeframe,2025-01-29
+SUBJ0198,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-06-28
+SUBJ0199,Missed Visit,Subject missed scheduled study visit,2025-12-18
+SUBJ0199,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-10-07
+SUBJ0199,Prohibited Medication,Subject took prohibited concomitant medication,2024-07-15
+SUBJ0199,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-08-30
+SUBJ0200,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-26
+SUBJ0200,Consent Deviation,Informed consent form not signed prior to study procedures,2025-01-20
+SUBJ0201,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-06-22
+SUBJ0201,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-12
+SUBJ0202,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-09-29
+SUBJ0202,Prohibited Medication,Subject took prohibited concomitant medication,2024-10-29
+SUBJ0202,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-05
+SUBJ0202,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-04
+SUBJ0206,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-06-18
+SUBJ0207,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-07-29
+SUBJ0207,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-07-15
+SUBJ0207,Missed Visit,Subject missed scheduled study visit,2025-12-24
+SUBJ0208,Equipment Calibration,Study equipment not calibrated per protocol,2024-10-26
+SUBJ0209,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-08
+SUBJ0210,Consent Deviation,Informed consent form not signed prior to study procedures,2025-08-02
+SUBJ0210,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-03-21
+SUBJ0211,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-05-04
+SUBJ0211,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-11-13
+SUBJ0211,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-16
+SUBJ0212,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-03
+SUBJ0213,Consent Deviation,Informed consent form not signed prior to study procedures,2025-02-08
+SUBJ0213,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-03
+SUBJ0213,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-04-21
+SUBJ0215,Equipment Calibration,Study equipment not calibrated per protocol,2025-03-15
+SUBJ0219,Late AE Reporting,Adverse event reported outside the required timeframe,2026-02-14
+SUBJ0219,Prohibited Medication,Subject took prohibited concomitant medication,2025-09-27
+SUBJ0219,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2026-03-02
+SUBJ0220,Equipment Calibration,Study equipment not calibrated per protocol,2024-08-31
+SUBJ0221,Late AE Reporting,Adverse event reported outside the required timeframe,2025-04-24
+SUBJ0223,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-07-10
+SUBJ0223,Consent Deviation,Informed consent form not signed prior to study procedures,2025-04-20
+SUBJ0223,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-07-26
+SUBJ0223,Consent Deviation,Informed consent form not signed prior to study procedures,2024-05-01
+SUBJ0224,Late AE Reporting,Adverse event reported outside the required timeframe,2024-06-21
+SUBJ0227,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-07-09
+SUBJ0227,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-05-23
+SUBJ0227,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-01-20
+SUBJ0227,Prohibited Medication,Subject took prohibited concomitant medication,2024-08-01
+SUBJ0228,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2026-05-08
+SUBJ0228,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-09-15
+SUBJ0228,Consent Deviation,Informed consent form not signed prior to study procedures,2025-08-09
+SUBJ0228,Missed Visit,Subject missed scheduled study visit,2025-07-08
+SUBJ0229,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-06-10
+SUBJ0230,Prohibited Medication,Subject took prohibited concomitant medication,2024-10-26
+SUBJ0231,Consent Deviation,Informed consent form not signed prior to study procedures,2025-07-03
+SUBJ0231,Late AE Reporting,Adverse event reported outside the required timeframe,2025-06-30
+SUBJ0231,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-03-23
+SUBJ0232,Consent Deviation,Informed consent form not signed prior to study procedures,2025-09-08
+SUBJ0233,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-12-10
+SUBJ0233,Equipment Calibration,Study equipment not calibrated per protocol,2024-10-07
+SUBJ0233,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-08-02
+SUBJ0234,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-24
+SUBJ0235,Prohibited Medication,Subject took prohibited concomitant medication,2024-12-23
+SUBJ0235,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-31
+SUBJ0235,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-20
+SUBJ0235,Equipment Calibration,Study equipment not calibrated per protocol,2026-03-08
+SUBJ0236,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-11-20
+SUBJ0237,Prohibited Medication,Subject took prohibited concomitant medication,2024-12-18
+SUBJ0239,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2026-03-10
+SUBJ0240,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-08-26
+SUBJ0240,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-05-28
+SUBJ0241,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-20
+SUBJ0242,Prohibited Medication,Subject took prohibited concomitant medication,2024-08-01
+SUBJ0244,Missed Visit,Subject missed scheduled study visit,2025-11-21
+SUBJ0244,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-06-14
+SUBJ0244,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-19
+SUBJ0244,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-08-01
+SUBJ0245,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-11-12
+SUBJ0248,Consent Deviation,Informed consent form not signed prior to study procedures,2024-08-30
+SUBJ0248,Prohibited Medication,Subject took prohibited concomitant medication,2025-09-23
+SUBJ0249,Prohibited Medication,Subject took prohibited concomitant medication,2025-07-12
+SUBJ0252,Missed Visit,Subject missed scheduled study visit,2024-11-02
+SUBJ0252,Missed Visit,Subject missed scheduled study visit,2025-07-22
+SUBJ0252,Prohibited Medication,Subject took prohibited concomitant medication,2025-05-13
+SUBJ0253,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-13
+SUBJ0253,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-11-15
+SUBJ0253,Late AE Reporting,Adverse event reported outside the required timeframe,2025-04-03
+SUBJ0257,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-01-22
+SUBJ0257,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-09-05
+SUBJ0261,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-09-01
+SUBJ0261,Prohibited Medication,Subject took prohibited concomitant medication,2025-11-03
+SUBJ0261,Missed Visit,Subject missed scheduled study visit,2025-06-16
+SUBJ0262,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-06-07
+SUBJ0263,Equipment Calibration,Study equipment not calibrated per protocol,2025-09-19
+SUBJ0264,Prohibited Medication,Subject took prohibited concomitant medication,2025-09-18
+SUBJ0264,Consent Deviation,Informed consent form not signed prior to study procedures,2024-08-03
+SUBJ0265,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-02-25
+SUBJ0266,Consent Deviation,Informed consent form not signed prior to study procedures,2025-01-26
+SUBJ0266,Equipment Calibration,Study equipment not calibrated per protocol,2025-11-04
+SUBJ0268,Prohibited Medication,Subject took prohibited concomitant medication,2025-03-29
+SUBJ0269,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-06-28
+SUBJ0269,Equipment Calibration,Study equipment not calibrated per protocol,2024-07-06
+SUBJ0270,Late AE Reporting,Adverse event reported outside the required timeframe,2025-05-11
+SUBJ0273,Prohibited Medication,Subject took prohibited concomitant medication,2025-02-09
+SUBJ0273,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-09
+SUBJ0273,Prohibited Medication,Subject took prohibited concomitant medication,2025-06-09
+SUBJ0273,Prohibited Medication,Subject took prohibited concomitant medication,2025-07-26
+SUBJ0274,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-07-13
+SUBJ0275,Missed Visit,Subject missed scheduled study visit,2025-09-22
+SUBJ0276,Consent Deviation,Informed consent form not signed prior to study procedures,2024-09-11
+SUBJ0279,Consent Deviation,Informed consent form not signed prior to study procedures,2025-03-01
+SUBJ0280,Consent Deviation,Informed consent form not signed prior to study procedures,2025-11-28
+SUBJ0281,Consent Deviation,Informed consent form not signed prior to study procedures,2026-03-22
+SUBJ0281,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-02-07
+SUBJ0291,Missed Visit,Subject missed scheduled study visit,2024-12-23
+SUBJ0292,Prohibited Medication,Subject took prohibited concomitant medication,2025-12-12
+SUBJ0294,Equipment Calibration,Study equipment not calibrated per protocol,2025-03-10
+SUBJ0295,Prohibited Medication,Subject took prohibited concomitant medication,2026-06-22
+SUBJ0295,Consent Deviation,Informed consent form not signed prior to study procedures,2026-05-30
+SUBJ0297,Consent Deviation,Informed consent form not signed prior to study procedures,2025-04-23
+SUBJ0297,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-01-23
+SUBJ0297,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-05-05
+SUBJ0302,Missed Visit,Subject missed scheduled study visit,2026-04-27
+SUBJ0304,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-12-09
+SUBJ0304,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-01-20
+SUBJ0305,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-11-15
+SUBJ0305,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-12-11
+SUBJ0306,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-22
+SUBJ0307,Consent Deviation,Informed consent form not signed prior to study procedures,2024-09-26
+SUBJ0308,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-20
+SUBJ0314,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-20
+SUBJ0315,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-10-04
+SUBJ0320,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-05-25
+SUBJ0327,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-09-13
+SUBJ0329,Late AE Reporting,Adverse event reported outside the required timeframe,2024-12-21
+SUBJ0329,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-06-18
+SUBJ0330,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-10-19
+SUBJ0336,Missed Visit,Subject missed scheduled study visit,2025-09-12
+SUBJ0338,Prohibited Medication,Subject took prohibited concomitant medication,2026-04-08
+SUBJ0338,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-12
+SUBJ0338,Missed Visit,Subject missed scheduled study visit,2025-09-25
+SUBJ0339,Prohibited Medication,Subject took prohibited concomitant medication,2025-08-29
+SUBJ0339,Prohibited Medication,Subject took prohibited concomitant medication,2024-04-18
+SUBJ0339,Prohibited Medication,Subject took prohibited concomitant medication,2024-11-18
+SUBJ0339,Missed Visit,Subject missed scheduled study visit,2024-05-09
+SUBJ0340,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-19
+SUBJ0341,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-07
+SUBJ0341,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-09-21
+SUBJ0343,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-05-25
+SUBJ0345,Late AE Reporting,Adverse event reported outside the required timeframe,2025-02-03
+SUBJ0345,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-05-02
+SUBJ0345,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-31
+SUBJ0345,Late AE Reporting,Adverse event reported outside the required timeframe,2025-06-06
+SUBJ0346,Late AE Reporting,Adverse event reported outside the required timeframe,2026-02-15
+SUBJ0348,Consent Deviation,Informed consent form not signed prior to study procedures,2024-11-10
+SUBJ0348,Prohibited Medication,Subject took prohibited concomitant medication,2025-04-27
+SUBJ0351,Consent Deviation,Informed consent form not signed prior to study procedures,2025-10-16
+SUBJ0351,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-04-03
+SUBJ0351,Consent Deviation,Informed consent form not signed prior to study procedures,2025-01-20
+SUBJ0353,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-03
+SUBJ0356,Equipment Calibration,Study equipment not calibrated per protocol,2025-06-14
+SUBJ0356,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-11-21
+SUBJ0357,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-15
+SUBJ0357,Late AE Reporting,Adverse event reported outside the required timeframe,2024-08-23
+SUBJ0357,Missed Visit,Subject missed scheduled study visit,2025-06-22
+SUBJ0360,Equipment Calibration,Study equipment not calibrated per protocol,2025-04-18
+SUBJ0361,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-29
+SUBJ0362,Consent Deviation,Informed consent form not signed prior to study procedures,2024-09-04
+SUBJ0363,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-10-01
+SUBJ0363,Missed Visit,Subject missed scheduled study visit,2025-07-10
+SUBJ0364,Late AE Reporting,Adverse event reported outside the required timeframe,2024-08-15
+SUBJ0364,Equipment Calibration,Study equipment not calibrated per protocol,2024-08-02
+SUBJ0365,Consent Deviation,Informed consent form not signed prior to study procedures,2024-12-06
+SUBJ0368,Equipment Calibration,Study equipment not calibrated per protocol,2024-10-26
+SUBJ0369,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-12-18
+SUBJ0369,Missed Visit,Subject missed scheduled study visit,2024-08-14
+SUBJ0369,Prohibited Medication,Subject took prohibited concomitant medication,2024-09-17
+SUBJ0370,Equipment Calibration,Study equipment not calibrated per protocol,2025-09-14
+SUBJ0371,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-01-11
+SUBJ0372,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-10-19
+SUBJ0372,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-05-01
+SUBJ0376,Consent Deviation,Informed consent form not signed prior to study procedures,2024-10-04
+SUBJ0376,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-08
+SUBJ0376,Consent Deviation,Informed consent form not signed prior to study procedures,2025-07-19
+SUBJ0376,Equipment Calibration,Study equipment not calibrated per protocol,2025-07-19
+SUBJ0377,Equipment Calibration,Study equipment not calibrated per protocol,2024-10-08
+SUBJ0377,Prohibited Medication,Subject took prohibited concomitant medication,2024-05-05
+SUBJ0378,Consent Deviation,Informed consent form not signed prior to study procedures,2024-12-28
+SUBJ0380,Late AE Reporting,Adverse event reported outside the required timeframe,2025-10-04
+SUBJ0382,Late AE Reporting,Adverse event reported outside the required timeframe,2025-06-27
+SUBJ0383,Equipment Calibration,Study equipment not calibrated per protocol,2024-05-28
+SUBJ0386,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-07-01
+SUBJ0387,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-07-02
+SUBJ0389,Late AE Reporting,Adverse event reported outside the required timeframe,2025-12-14
+SUBJ0389,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-03-06
+SUBJ0390,Missed Visit,Subject missed scheduled study visit,2025-04-01
+SUBJ0390,Late AE Reporting,Adverse event reported outside the required timeframe,2025-12-03
+SUBJ0391,Late Lab Collection,Laboratory samples collected outside the allowed window,2026-04-23
+SUBJ0391,Prohibited Medication,Subject took prohibited concomitant medication,2025-10-30
+SUBJ0392,Consent Deviation,Informed consent form not signed prior to study procedures,2024-07-15
+SUBJ0394,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-11-24
+SUBJ0394,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-04-27
+SUBJ0394,Equipment Calibration,Study equipment not calibrated per protocol,2025-11-07
+SUBJ0397,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-03-06
+SUBJ0399,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-02-20
+SUBJ0399,Equipment Calibration,Study equipment not calibrated per protocol,2024-06-24
+SUBJ0399,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-27
+SUBJ0400,Missed Visit,Subject missed scheduled study visit,2025-08-18
+SUBJ0402,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-09-08
+SUBJ0402,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-08-31
+SUBJ0402,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-09-28
+SUBJ0403,Prohibited Medication,Subject took prohibited concomitant medication,2025-01-29
+SUBJ0404,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-23
+SUBJ0406,Equipment Calibration,Study equipment not calibrated per protocol,2025-08-15
+SUBJ0406,Equipment Calibration,Study equipment not calibrated per protocol,2025-01-26
+SUBJ0409,Consent Deviation,Informed consent form not signed prior to study procedures,2025-10-01
+SUBJ0410,Prohibited Medication,Subject took prohibited concomitant medication,2024-06-23
+SUBJ0410,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-14
+SUBJ0410,Missed Visit,Subject missed scheduled study visit,2025-08-27
+SUBJ0413,Missed Visit,Subject missed scheduled study visit,2026-06-30
+SUBJ0413,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-04-26
+SUBJ0414,Missed Visit,Subject missed scheduled study visit,2025-09-02
+SUBJ0414,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-28
+SUBJ0415,Prohibited Medication,Subject took prohibited concomitant medication,2026-02-21
+SUBJ0416,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-20
+SUBJ0416,Consent Deviation,Informed consent form not signed prior to study procedures,2025-03-18
+SUBJ0419,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-07-18
+SUBJ0424,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-11-07
+SUBJ0425,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-02-19
+SUBJ0426,Consent Deviation,Informed consent form not signed prior to study procedures,2024-06-30
+SUBJ0428,Consent Deviation,Informed consent form not signed prior to study procedures,2024-07-31
+SUBJ0429,Missed Visit,Subject missed scheduled study visit,2024-12-08
+SUBJ0429,Missed Visit,Subject missed scheduled study visit,2025-12-03
+SUBJ0429,Equipment Calibration,Study equipment not calibrated per protocol,2024-12-16
+SUBJ0430,Equipment Calibration,Study equipment not calibrated per protocol,2025-03-27
+SUBJ0431,Missed Visit,Subject missed scheduled study visit,2024-08-28
+SUBJ0431,Equipment Calibration,Study equipment not calibrated per protocol,2025-08-15
+SUBJ0435,Equipment Calibration,Study equipment not calibrated per protocol,2024-03-27
+SUBJ0436,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-02-15
+SUBJ0437,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-03-03
+SUBJ0437,Consent Deviation,Informed consent form not signed prior to study procedures,2026-04-03
+SUBJ0438,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-03-26
+SUBJ0438,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-03-18
+SUBJ0439,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-08-20
+SUBJ0439,Consent Deviation,Informed consent form not signed prior to study procedures,2025-10-03
+SUBJ0439,Late AE Reporting,Adverse event reported outside the required timeframe,2025-08-03
+SUBJ0441,Prohibited Medication,Subject took prohibited concomitant medication,2025-05-27
+SUBJ0441,Late AE Reporting,Adverse event reported outside the required timeframe,2024-11-02
+SUBJ0442,Prohibited Medication,Subject took prohibited concomitant medication,2026-01-28
+SUBJ0444,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-12-21
+SUBJ0445,Late AE Reporting,Adverse event reported outside the required timeframe,2025-03-30
+SUBJ0448,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-05-31
+SUBJ0451,Consent Deviation,Informed consent form not signed prior to study procedures,2024-08-22
+SUBJ0451,Late AE Reporting,Adverse event reported outside the required timeframe,2024-09-25
+SUBJ0452,Prohibited Medication,Subject took prohibited concomitant medication,2025-10-23
+SUBJ0454,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-09-07
+SUBJ0455,Missed Visit,Subject missed scheduled study visit,2025-05-17
+SUBJ0455,Consent Deviation,Informed consent form not signed prior to study procedures,2024-06-25
+SUBJ0458,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-12-23
+SUBJ0458,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-07-07
+SUBJ0460,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-03-13
+SUBJ0461,Late AE Reporting,Adverse event reported outside the required timeframe,2026-01-24
+SUBJ0462,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-02-21
+SUBJ0463,Equipment Calibration,Study equipment not calibrated per protocol,2025-05-26
+SUBJ0463,Late AE Reporting,Adverse event reported outside the required timeframe,2026-03-25
+SUBJ0464,Late AE Reporting,Adverse event reported outside the required timeframe,2024-10-02
+SUBJ0464,Late AE Reporting,Adverse event reported outside the required timeframe,2025-01-04
+SUBJ0464,Late AE Reporting,Adverse event reported outside the required timeframe,2024-05-24
+SUBJ0464,Missed Visit,Subject missed scheduled study visit,2025-06-16
+SUBJ0465,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-12-16
+SUBJ0465,Equipment Calibration,Study equipment not calibrated per protocol,2025-10-04
+SUBJ0468,Prohibited Medication,Subject took prohibited concomitant medication,2024-07-21
+SUBJ0469,Equipment Calibration,Study equipment not calibrated per protocol,2025-10-17
+SUBJ0470,Consent Deviation,Informed consent form not signed prior to study procedures,2025-08-28
+SUBJ0471,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-09-02
+SUBJ0471,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-03-15
+SUBJ0471,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-05-29
+SUBJ0475,Missed Visit,Subject missed scheduled study visit,2024-12-10
+SUBJ0475,Late Lab Collection,Laboratory samples collected outside the allowed window,2024-12-01
+SUBJ0476,Late Lab Collection,Laboratory samples collected outside the allowed window,2025-10-11
+SUBJ0478,Consent Deviation,Informed consent form not signed prior to study procedures,2025-09-19
+SUBJ0478,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-03-20
+SUBJ0482,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-11-30
+SUBJ0482,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-08-23
+SUBJ0482,Late AE Reporting,Adverse event reported outside the required timeframe,2025-09-25
+SUBJ0483,Wrong Dose Administered,Subject received incorrect dose of study medication,2026-01-15
+SUBJ0483,Missed Visit,Subject missed scheduled study visit,2024-07-05
+SUBJ0483,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2025-09-06
+SUBJ0486,Wrong Dose Administered,Subject received incorrect dose of study medication,2025-04-23
+SUBJ0487,Equipment Calibration,Study equipment not calibrated per protocol,2024-11-01
+SUBJ0488,Prohibited Medication,Subject took prohibited concomitant medication,2025-01-25
+SUBJ0489,Consent Deviation,Informed consent form not signed prior to study procedures,2024-06-15
+SUBJ0490,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2024-03-27
+SUBJ0491,Equipment Calibration,Study equipment not calibrated per protocol,2025-03-21
+SUBJ0491,Consent Deviation,Informed consent form not signed prior to study procedures,2025-05-31
+SUBJ0491,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-06-25
+SUBJ0492,Missed Visit,Subject missed scheduled study visit,2024-10-28
+SUBJ0492,Consent Deviation,Informed consent form not signed prior to study procedures,2024-09-29
+SUBJ0494,Missed Visit,Subject missed scheduled study visit,2025-11-08
+SUBJ0496,Equipment Calibration,Study equipment not calibrated per protocol,2024-11-26
+SUBJ0497,Inclusion/Exclusion Criteria Violation,Subject enrolled despite not meeting eligibility criteria,2026-04-02
+SUBJ0498,Wrong Dose Administered,Subject received incorrect dose of study medication,2024-08-08
+SUBJ0498,Late AE Reporting,Adverse event reported outside the required timeframe,2024-11-05
+SUBJ0500,Missed Visit,Subject missed scheduled study visit,2024-10-10
+SUBJ0500,Missed Visit,Subject missed scheduled study visit,2025-08-04
