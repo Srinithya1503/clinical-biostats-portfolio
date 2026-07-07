@@ -94,6 +94,20 @@ A full data dictionary is included as `ONCO2026_DataDictionary.xlsx` with:
 - Covers all 8 raw domains across 9 Excel tabs
 
 ---
+### `ONCO2026_DataDictionary.xlsx` — Data Dictionary
+> 9-tab Excel workbook. Summary tab lists all datasets with row counts. Each subsequent tab covers one domain with variable name, data type, label, description, example values, and CDISC SDTM mapping column.
+
+### `ONCO2026_CDISC_Mapping.csv` — CDISC Crosswalk
+| Column | Description |
+|---|---|
+| Raw Dataset | Source CSV filename |
+| Raw Variable | Variable name in the raw file |
+| CDISC Domain | Target SDTM domain (DM, LB, AE, CM, VS, TU, RS, DS, DV) |
+| SDTM Variable | Target SDTM variable name |
+| Notes | Transformation notes (ISO 8601 dates, controlled terminology, derivations) |
+
+---
+
 ## Who Is This For?
 
 | Role | What to Practice |
