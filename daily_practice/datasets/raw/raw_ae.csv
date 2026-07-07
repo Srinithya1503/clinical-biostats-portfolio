@@ -1,0 +1,2693 @@
+SUBJID,AE_TERM,AE_START_DATE,AE_END_DATE,SEVERITY,SERIOUS_FLAG,RELATED_TO_TREATMENT,OUTCOME
+SUBJ0001,Nausea,2024-10-31,2025-01-16,Mild,N,Y,Recovered/Resolved
+SUBJ0001,Fatigue,2025-01-27,2025-02-26,Mild,N,N,Recovering/Resolving
+SUBJ0001,Hypertension,2024-12-09,2025-01-28,Mild,N,Y,Recovered/Resolved
+SUBJ0002,Stomatitis,2025-01-31,2025-02-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0002,Injection Site Reaction,2025-11-15,2025-12-23,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0002,Neutropenia,2026-02-07,2026-03-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0002,Fatigue,2025-06-02,2025-07-30,Severe,Y,Y,Recovered/Resolved
+SUBJ0002,Stomatitis,2025-07-06,2025-09-13,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0002,Neutropenia,2025-04-21,2025-05-04,Mild,N,Y,Recovering/Resolving
+SUBJ0002,Pyrexia,2025-02-03,2025-03-31,Mild,N,N,Recovered/Resolved
+SUBJ0002,Nausea,2025-09-19,2025-12-02,Mild,N,Y,Recovered/Resolved
+SUBJ0002,Injection Site Reaction,2025-02-23,2025-05-17,Mild,N,Y,Recovered/Resolved
+SUBJ0002,Injection Site Reaction,2025-12-19,2026-01-14,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0002,Nausea,2025-10-15,2025-11-28,Moderate,Y,Y,Not Recovered/Not Resolved
+SUBJ0003,Alopecia,2024-10-11,2024-12-15,Moderate,N,N,Recovered/Resolved
+SUBJ0003,Constipation,2025-01-15,2025-01-23,Mild,N,N,Recovered/Resolved
+SUBJ0003,Constipation,2025-04-09,2025-06-11,Mild,Y,Y,Not Recovered/Not Resolved
+SUBJ0003,Anemia,2024-06-13,2024-09-05,Severe,Y,Y,Recovered/Resolved
+SUBJ0003,Nausea,2024-11-21,2025-01-26,Mild,N,N,Recovered/Resolved
+SUBJ0004,Fatigue,2024-10-22,2024-11-12,Moderate,N,N,Recovering/Resolving
+SUBJ0004,Constipation,2024-06-14,2024-07-02,Severe,Y,N,Fatal
+SUBJ0004,Hypertension,2024-11-17,,Moderate,N,N,Recovered/Resolved
+SUBJ0004,Neutropenia,2024-03-14,2024-04-08,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0004,Diarrhea,2024-11-10,,Mild,N,N,Recovered/Resolved
+SUBJ0004,Nausea,2024-05-12,,Mild,Y,N,Recovering/Resolving
+SUBJ0004,Constipation,2025-01-02,,Moderate,N,N,Recovered/Resolved
+SUBJ0004,Fatigue,2024-10-03,2024-10-10,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0004,Pyrexia,2025-04-25,2025-06-21,Severe,Y,N,Recovered/Resolved
+SUBJ0005,Anemia,2025-01-31,2025-04-26,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0005,Vomiting,2025-05-13,,Moderate,N,Y,Unknown
+SUBJ0005,Thrombocytopenia,2024-08-14,2024-10-23,Moderate,N,N,Recovering/Resolving
+SUBJ0005,Thrombocytopenia,2024-12-06,,Mild,N,N,Recovered/Resolved
+SUBJ0005,Pyrexia,2025-07-13,2025-08-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0005,Pyrexia,2025-03-05,,Mild,N,Y,Fatal
+SUBJ0005,Decreased Appetite,2024-09-04,,Severe,Y,Y,Recovered/Resolved
+SUBJ0006,Constipation,2024-09-17,2024-11-29,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0006,Injection Site Reaction,2024-10-06,2024-12-07,Mild,N,N,Recovered/Resolved
+SUBJ0007,Neutropenia,2025-10-11,2025-10-31,Severe,N,Y,Recovered/Resolved
+SUBJ0007,Anemia,2024-12-19,2025-02-15,Mild,N,Y,Recovered/Resolved
+SUBJ0007,Neutropenia,2024-12-28,2025-01-22,Moderate,N,Y,Fatal
+SUBJ0007,Thrombocytopenia,2025-05-13,2025-08-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0007,Alopecia,2025-03-15,2025-04-15,Mild,N,Y,Recovered/Resolved
+SUBJ0007,Constipation,2025-11-18,2025-12-10,Moderate,N,N,Recovering/Resolving
+SUBJ0007,Thrombocytopenia,2025-07-22,2025-09-04,Moderate,N,N,Recovered/Resolved
+SUBJ0007,Neutropenia,2025-07-09,2025-08-11,Mild,Y,N,Recovered/Resolved
+SUBJ0008,Alopecia,2025-01-22,2025-04-18,Moderate,N,N,Recovering/Resolving
+SUBJ0008,Vomiting,2025-07-28,2025-09-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0008,Constipation,2024-11-05,2025-01-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0008,Pyrexia,2025-06-12,,Moderate,N,Y,Recovering/Resolving
+SUBJ0008,Hypertension,2025-04-10,2025-06-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0008,Neutropenia,2025-02-28,2025-04-01,Mild,N,N,Recovered/Resolved
+SUBJ0008,Anemia,2025-09-12,2025-10-22,Moderate,N,N,Recovered/Resolved
+SUBJ0008,Nausea,2025-09-10,2025-09-24,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0008,Nausea,2024-08-29,2024-10-02,Mild,N,Y,Recovering/Resolving
+SUBJ0009,Hypertension,2024-12-11,2025-01-13,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0009,Anemia,2025-03-26,2025-04-17,Mild,N,N,Recovered/Resolved
+SUBJ0009,Stomatitis,2024-12-22,2025-01-16,Mild,N,Y,Recovering/Resolving
+SUBJ0009,Injection Site Reaction,2025-03-06,2025-03-22,Moderate,N,N,Recovered/Resolved
+SUBJ0009,Anemia,2025-01-18,2025-02-25,Mild,N,Y,Recovered/Resolved
+SUBJ0010,Injection Site Reaction,2025-02-18,2025-05-03,Mild,N,N,Recovered/Resolved
+SUBJ0010,Thrombocytopenia,2025-03-02,2025-03-24,Mild,N,Y,Recovering/Resolving
+SUBJ0010,Hypertension,2025-03-08,2025-03-31,Moderate,N,N,Recovered/Resolved
+SUBJ0010,Alopecia,2024-12-01,2025-01-17,Mild,N,Y,Recovered/Resolved
+SUBJ0010,Stomatitis,2025-05-02,2025-06-06,Mild,N,Y,Recovering/Resolving
+SUBJ0011,Vomiting,2025-02-23,2025-04-14,Mild,N,Y,Recovered/Resolved
+SUBJ0011,Constipation,2024-06-18,2024-07-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0011,Stomatitis,2025-02-03,2025-04-24,Severe,Y,Y,Recovering/Resolving
+SUBJ0011,Peripheral Neuropathy,2025-05-11,,Severe,Y,N,Recovered/Resolved
+SUBJ0011,Injection Site Reaction,2025-05-10,2025-05-26,Moderate,N,N,Recovered/Resolved
+SUBJ0011,Pyrexia,2024-12-17,2025-01-15,Mild,N,Y,Fatal
+SUBJ0012,Stomatitis,2025-07-19,2025-08-19,Mild,Y,N,Recovered/Resolved
+SUBJ0012,Alopecia,2024-10-28,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0012,Hypertension,2025-04-16,2025-04-28,Mild,N,N,Recovered/Resolved
+SUBJ0012,Anemia,2025-08-17,2025-10-18,Mild,N,N,Recovered/Resolved
+SUBJ0012,Neutropenia,2025-01-06,2025-02-02,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0013,Stomatitis,2025-03-29,2025-06-18,Mild,N,Y,Recovered/Resolved
+SUBJ0013,Peripheral Neuropathy,2025-05-30,2025-06-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0013,Thrombocytopenia,2025-06-11,2025-07-13,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0013,Stomatitis,2026-01-01,2026-01-20,Moderate,N,N,Recovered/Resolved
+SUBJ0013,Constipation,2025-09-14,,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0013,Pyrexia,2025-03-28,2025-05-24,Severe,Y,Y,Fatal
+SUBJ0013,Stomatitis,2025-02-04,2025-03-17,Mild,Y,N,Recovering/Resolving
+SUBJ0013,Diarrhea,2024-12-04,2024-12-05,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0014,Constipation,2024-07-18,2024-09-28,Mild,N,Y,Recovered/Resolved
+SUBJ0014,Decreased Appetite,2025-01-11,2025-02-10,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0014,Stomatitis,2024-06-04,2024-07-08,Mild,N,Y,Recovered/Resolved
+SUBJ0014,Injection Site Reaction,2024-05-13,2024-07-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0014,Decreased Appetite,2025-03-16,,Moderate,N,Y,Recovered/Resolved
+SUBJ0014,Nausea,2025-03-22,2025-03-31,Mild,N,Y,Fatal
+SUBJ0014,Vomiting,2024-11-11,2024-11-13,Mild,N,Y,Recovered/Resolved
+SUBJ0014,Anemia,2025-04-21,2025-06-29,Moderate,N,Y,Unknown
+SUBJ0014,Peripheral Neuropathy,2024-10-30,2024-11-21,Moderate,N,N,Recovering/Resolving
+SUBJ0015,Peripheral Neuropathy,2025-05-24,2025-08-09,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0015,Hypertension,2025-01-05,2025-02-02,Mild,N,N,Recovered/Resolved
+SUBJ0015,Peripheral Neuropathy,2025-02-08,2025-03-02,Moderate,N,Y,Recovering/Resolving
+SUBJ0016,Constipation,2024-11-28,2025-01-28,Moderate,N,N,Recovered/Resolved
+SUBJ0016,Decreased Appetite,2024-05-24,2024-07-13,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0016,Thrombocytopenia,2024-03-30,2024-04-05,Mild,N,Y,Recovered/Resolved
+SUBJ0016,Thrombocytopenia,2024-11-08,2024-11-22,Mild,N,N,Unknown
+SUBJ0016,Anemia,2024-11-25,2024-12-03,Mild,N,N,Recovering/Resolving
+SUBJ0017,Hypertension,2024-09-12,2024-09-30,Mild,N,N,Recovered/Resolved
+SUBJ0017,Peripheral Neuropathy,2025-07-19,2025-09-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0017,Anemia,2025-02-28,2025-04-09,Mild,N,N,Recovered/Resolved
+SUBJ0017,Stomatitis,2025-05-05,,Mild,N,N,Recovered/Resolved
+SUBJ0017,Fatigue,2025-05-13,2025-06-20,Mild,N,Y,Recovering/Resolving
+SUBJ0018,Vomiting,2025-03-26,,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0018,Pyrexia,2024-03-28,2024-05-03,Moderate,N,Y,Fatal
+SUBJ0019,Pyrexia,2025-08-19,2025-11-09,Mild,N,N,Recovered/Resolved
+SUBJ0019,Neutropenia,2025-11-27,2026-01-02,Moderate,N,N,Recovered/Resolved
+SUBJ0020,Hypertension,2026-02-16,2026-05-03,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0020,Diarrhea,2026-02-04,2026-05-03,Mild,N,N,Unknown
+SUBJ0020,Stomatitis,2025-02-12,2025-04-16,Mild,N,Y,Recovered/Resolved
+SUBJ0020,Pyrexia,2025-10-28,2025-12-13,Severe,N,N,Fatal
+SUBJ0020,Injection Site Reaction,2026-02-13,2026-04-25,Moderate,N,N,Recovered/Resolved
+SUBJ0021,Decreased Appetite,2025-03-18,2025-03-25,Moderate,N,N,Recovering/Resolving
+SUBJ0021,Neutropenia,2025-07-05,2025-07-26,Mild,N,N,Fatal
+SUBJ0021,Neutropenia,2025-03-09,2025-04-14,Mild,N,N,Recovered/Resolved
+SUBJ0022,Injection Site Reaction,2025-10-16,2025-11-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0022,Thrombocytopenia,2025-10-14,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0022,Nausea,2025-09-16,,Mild,N,Y,Recovered/Resolved
+SUBJ0022,Nausea,2024-08-23,2024-11-03,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0022,Fatigue,2025-11-17,2025-12-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0022,Constipation,2025-10-22,2025-12-02,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0022,Hypertension,2024-11-04,2025-01-30,Moderate,N,N,Recovered/Resolved
+SUBJ0022,Anemia,2025-01-10,2025-01-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0022,Hypertension,2025-03-03,2025-03-25,Mild,Y,Y,Recovered/Resolved
+SUBJ0022,Nausea,2025-02-12,,Mild,N,N,Recovered/Resolved
+SUBJ0022,Alopecia,2025-05-26,2025-07-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0022,Neutropenia,2025-06-22,2025-08-10,Moderate,N,N,Recovering/Resolving
+SUBJ0023,Anemia,2025-07-30,2025-08-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0023,Peripheral Neuropathy,2024-09-29,2024-11-30,Mild,N,N,Recovering/Resolving
+SUBJ0023,Anemia,2024-12-08,2025-03-05,Severe,Y,N,Recovered/Resolved
+SUBJ0023,Vomiting,2024-10-10,2024-12-17,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0024,Decreased Appetite,2024-10-04,2024-10-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0024,Stomatitis,2024-06-07,2024-06-19,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0024,Hypertension,2024-05-18,2024-08-14,Severe,Y,Y,Recovered/Resolved
+SUBJ0025,Hypertension,2025-11-16,2026-01-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0025,Anemia,2025-09-14,2025-11-07,Moderate,N,N,Fatal
+SUBJ0026,Injection Site Reaction,2024-12-26,2025-02-03,Mild,N,N,Recovered/Resolved
+SUBJ0026,Stomatitis,2025-11-05,2026-01-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0026,Vomiting,2024-10-12,2024-11-27,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0026,Nausea,2024-09-10,2024-10-29,Mild,N,Y,Recovered/Resolved
+SUBJ0026,Anemia,2025-08-26,2025-09-02,Moderate,N,N,Recovered/Resolved
+SUBJ0026,Hypertension,2024-11-05,2024-11-30,Mild,N,N,Recovering/Resolving
+SUBJ0027,Thrombocytopenia,2025-04-11,2025-04-20,Severe,Y,N,Recovered/Resolved
+SUBJ0027,Hypertension,2025-05-02,2025-05-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0027,Diarrhea,2024-06-04,2024-07-29,Mild,Y,N,Recovering/Resolving
+SUBJ0028,Injection Site Reaction,2025-05-11,2025-05-27,Mild,N,Y,Recovered/Resolved
+SUBJ0028,Constipation,2025-01-31,2025-02-21,Severe,Y,N,Recovered/Resolved
+SUBJ0028,Vomiting,2025-04-05,2025-05-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0028,Hypertension,2025-09-14,2025-11-28,Moderate,N,Y,Recovering/Resolving
+SUBJ0028,Nausea,2025-01-31,2025-04-14,Moderate,N,Y,Fatal
+SUBJ0028,Neutropenia,2025-05-29,2025-06-03,Mild,N,N,Recovered/Resolved
+SUBJ0029,Injection Site Reaction,2025-06-22,2025-09-10,Mild,N,N,Recovering/Resolving
+SUBJ0029,Injection Site Reaction,2025-07-12,2025-08-05,Mild,N,N,Recovering/Resolving
+SUBJ0029,Peripheral Neuropathy,2026-01-06,2026-01-17,Mild,N,N,Recovered/Resolved
+SUBJ0029,Vomiting,2025-12-05,2026-02-21,Mild,N,Y,Unknown
+SUBJ0029,Injection Site Reaction,2025-08-21,2025-11-04,Moderate,N,N,Recovered/Resolved
+SUBJ0030,Injection Site Reaction,2025-08-30,2025-10-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0030,Vomiting,2025-07-25,,Severe,Y,N,Recovered/Resolved
+SUBJ0030,Vomiting,2024-08-04,2024-09-21,Moderate,N,N,Recovered/Resolved
+SUBJ0030,Stomatitis,2025-09-08,2025-11-15,Mild,N,Y,Recovered/Resolved
+SUBJ0030,Constipation,2025-09-26,2025-09-28,Mild,N,Y,Recovered/Resolved
+SUBJ0030,Constipation,2025-04-30,2025-07-27,Severe,Y,Y,Recovered/Resolved
+SUBJ0030,Vomiting,2025-01-06,2025-03-05,Moderate,N,N,Recovered/Resolved
+SUBJ0030,Pyrexia,2024-10-22,2024-12-16,Moderate,N,N,Recovered/Resolved
+SUBJ0030,Stomatitis,2024-07-20,,Moderate,N,Y,Recovered/Resolved
+SUBJ0030,Hypertension,2024-12-03,2025-02-27,Mild,N,Y,Recovered/Resolved
+SUBJ0030,Decreased Appetite,2025-05-19,2025-07-22,Mild,N,N,Recovered/Resolved
+SUBJ0031,Thrombocytopenia,2024-12-24,2025-01-07,Mild,N,Y,Recovered/Resolved
+SUBJ0031,Hypertension,2025-04-25,2025-07-10,Moderate,N,N,Recovered/Resolved
+SUBJ0031,Diarrhea,2025-11-15,2025-12-20,Moderate,N,Y,Recovering/Resolving
+SUBJ0032,Injection Site Reaction,2024-11-30,2025-02-21,Mild,N,N,Unknown
+SUBJ0032,Decreased Appetite,2024-10-17,2024-11-03,Moderate,N,N,Recovered/Resolved
+SUBJ0032,Stomatitis,2025-03-20,2025-05-03,Mild,N,N,Recovered/Resolved
+SUBJ0032,Diarrhea,2025-10-13,2025-12-03,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0032,Hypertension,2025-03-02,2025-03-17,Moderate,N,N,Recovered/Resolved
+SUBJ0033,Diarrhea,2024-09-22,2024-11-15,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0033,Nausea,2025-05-28,2025-06-28,Mild,N,N,Recovering/Resolving
+SUBJ0033,Diarrhea,2025-07-05,2025-07-07,Severe,Y,N,Fatal
+SUBJ0033,Hypertension,2025-03-11,2025-03-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0033,Injection Site Reaction,2025-03-12,2025-04-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0033,Fatigue,2025-04-30,,Severe,Y,Y,Recovered/Resolved
+SUBJ0033,Neutropenia,2024-09-22,2024-10-11,Moderate,N,Y,Recovering/Resolving
+SUBJ0033,Decreased Appetite,2025-08-25,2025-10-04,Moderate,N,N,Recovered/Resolved
+SUBJ0034,Peripheral Neuropathy,2025-02-21,2025-05-03,Mild,N,N,Unknown
+SUBJ0034,Alopecia,2025-05-05,,Moderate,N,N,Recovering/Resolving
+SUBJ0035,Diarrhea,2026-02-19,2026-03-20,Mild,N,Y,Recovered/Resolved
+SUBJ0035,Vomiting,2025-10-28,2025-11-24,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0035,Neutropenia,2025-11-25,2026-01-09,Mild,N,N,Recovered/Resolved
+SUBJ0035,Neutropenia,2025-02-28,2025-03-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0035,Peripheral Neuropathy,2026-02-12,2026-02-14,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0035,Pyrexia,2025-09-06,2025-09-18,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0035,Constipation,2025-10-15,2026-01-07,Mild,Y,Y,Recovered/Resolved
+SUBJ0035,Anemia,2025-12-20,2026-02-08,Mild,Y,N,Recovered/Resolved
+SUBJ0035,Nausea,2025-05-30,2025-06-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0035,Injection Site Reaction,2025-07-09,2025-09-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0035,Pyrexia,2025-09-07,2025-11-13,Mild,N,Y,Recovered/Resolved
+SUBJ0036,Stomatitis,2024-03-28,2024-04-02,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0036,Nausea,2024-07-13,2024-07-30,Mild,N,N,Recovered/Resolved
+SUBJ0036,Vomiting,2025-06-09,2025-09-06,Mild,N,Y,Recovered/Resolved
+SUBJ0036,Neutropenia,2025-03-08,,Moderate,N,N,Recovered/Resolved
+SUBJ0036,Alopecia,2024-12-12,2025-03-11,Mild,N,Y,Recovered/Resolved
+SUBJ0036,Alopecia,2024-03-25,2024-06-21,Moderate,N,N,Recovering/Resolving
+SUBJ0036,Hypertension,2025-01-16,2025-02-28,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0037,Thrombocytopenia,2024-06-02,2024-08-13,Mild,N,N,Recovered/Resolved
+SUBJ0037,Decreased Appetite,2024-05-31,2024-06-14,Mild,N,N,Recovered/Resolved
+SUBJ0037,Fatigue,2024-12-23,2025-02-24,Mild,N,Y,Fatal
+SUBJ0037,Thrombocytopenia,2024-11-15,2025-01-09,Mild,N,Y,Unknown
+SUBJ0037,Peripheral Neuropathy,2024-10-01,2024-12-02,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0038,Diarrhea,2025-12-18,,Moderate,N,Y,Recovered/Resolved
+SUBJ0038,Anemia,2025-08-03,2025-10-05,Moderate,N,N,Recovered/Resolved
+SUBJ0038,Peripheral Neuropathy,2025-01-07,2025-01-11,Severe,N,Y,Recovered/Resolved
+SUBJ0038,Anemia,2025-07-25,2025-08-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0038,Injection Site Reaction,2024-10-21,2025-01-18,Mild,N,Y,Recovered/Resolved
+SUBJ0038,Decreased Appetite,2024-10-07,2024-12-21,Mild,N,Y,Recovering/Resolving
+SUBJ0038,Pyrexia,2025-08-27,2025-09-28,Mild,N,Y,Recovered/Resolved
+SUBJ0038,Nausea,2025-04-08,2025-04-17,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0038,Neutropenia,2025-01-10,,Mild,N,Y,Recovered/Resolved
+SUBJ0039,Injection Site Reaction,2024-10-22,2025-01-07,Mild,N,Y,Fatal
+SUBJ0039,Neutropenia,2025-11-10,2025-11-11,Mild,N,Y,Recovering/Resolving
+SUBJ0039,Peripheral Neuropathy,2025-03-29,,Mild,N,Y,Recovered/Resolved
+SUBJ0039,Diarrhea,2025-08-08,2025-08-19,Moderate,N,N,Recovered/Resolved
+SUBJ0039,Injection Site Reaction,2024-10-11,2024-12-16,Moderate,N,Y,Recovering/Resolving
+SUBJ0039,Pyrexia,2025-08-21,2025-10-10,Moderate,N,N,Recovered/Resolved
+SUBJ0039,Vomiting,2025-07-30,2025-10-11,Severe,Y,N,Recovering/Resolving
+SUBJ0040,Vomiting,2025-02-02,2025-03-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0040,Hypertension,2025-06-11,2025-07-14,Mild,N,N,Recovered/Resolved
+SUBJ0040,Pyrexia,2024-11-16,2025-01-06,Severe,Y,N,Recovered/Resolved
+SUBJ0041,Alopecia,2026-01-14,2026-03-11,Moderate,N,Y,Unknown
+SUBJ0041,Stomatitis,2026-02-19,2026-02-24,Severe,N,Y,Recovered/Resolved
+SUBJ0041,Injection Site Reaction,2025-11-11,2026-01-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0041,Anemia,2025-08-23,2025-11-21,Moderate,N,N,Recovered/Resolved
+SUBJ0041,Stomatitis,2025-11-30,,Mild,N,Y,Recovered/Resolved
+SUBJ0041,Fatigue,2025-08-31,,Moderate,N,Y,Recovered/Resolved
+SUBJ0041,Diarrhea,2025-01-01,2025-03-14,Mild,N,Y,Recovered/Resolved
+SUBJ0041,Hypertension,2025-08-06,2025-10-09,Severe,Y,N,Recovering/Resolving
+SUBJ0042,Nausea,2025-06-01,2025-06-19,Mild,Y,N,Recovered/Resolved
+SUBJ0042,Thrombocytopenia,2025-06-23,2025-07-21,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0042,Neutropenia,2024-06-29,2024-09-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0042,Anemia,2025-02-05,2025-02-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0042,Vomiting,2025-07-25,2025-08-27,Severe,Y,N,Recovered/Resolved
+SUBJ0042,Diarrhea,2025-02-26,2025-02-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0042,Nausea,2024-12-18,2025-02-08,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0042,Decreased Appetite,2025-09-08,,Mild,N,Y,Fatal
+SUBJ0043,Vomiting,2025-02-28,2025-04-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0043,Hypertension,2025-06-13,2025-06-14,Moderate,N,N,Recovered/Resolved
+SUBJ0043,Diarrhea,2025-11-12,2026-01-22,Moderate,N,N,Recovered/Resolved
+SUBJ0043,Hypertension,2025-07-16,2025-07-23,Mild,N,N,Unknown
+SUBJ0043,Alopecia,2024-10-14,2024-10-22,Moderate,N,N,Unknown
+SUBJ0043,Neutropenia,2025-12-20,2026-03-06,Mild,N,N,Recovering/Resolving
+SUBJ0043,Neutropenia,2025-01-20,2025-02-24,Moderate,N,N,Recovering/Resolving
+SUBJ0043,Thrombocytopenia,2024-08-28,,Mild,N,Y,Recovered/Resolved
+SUBJ0044,Fatigue,2025-12-02,2026-01-09,Severe,Y,N,Recovered/Resolved
+SUBJ0044,Constipation,2025-11-26,2025-11-28,Moderate,Y,Y,Recovered/Resolved
+SUBJ0044,Nausea,2026-03-07,2026-03-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0044,Vomiting,2025-05-17,2025-07-13,Mild,N,N,Recovering/Resolving
+SUBJ0044,Hypertension,2025-07-10,2025-08-16,Mild,N,N,Fatal
+SUBJ0044,Decreased Appetite,2025-08-18,2025-11-08,Severe,N,Y,Recovered/Resolved
+SUBJ0044,Peripheral Neuropathy,2025-07-27,,Mild,N,N,Recovering/Resolving
+SUBJ0045,Anemia,2024-03-29,2024-04-12,Mild,N,Y,Recovered/Resolved
+SUBJ0045,Stomatitis,2024-12-19,2025-02-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0045,Injection Site Reaction,2024-12-03,2024-12-12,Mild,N,N,Recovering/Resolving
+SUBJ0045,Nausea,2024-04-25,2024-06-10,Severe,N,Y,Recovered/Resolved
+SUBJ0046,Thrombocytopenia,2025-04-12,2025-05-19,Moderate,N,Y,Recovering/Resolving
+SUBJ0046,Peripheral Neuropathy,2025-05-06,2025-07-21,Mild,Y,N,Unknown
+SUBJ0046,Neutropenia,2024-10-25,2025-01-05,Moderate,N,N,Recovered/Resolved
+SUBJ0047,Constipation,2024-12-31,2025-02-25,Mild,Y,N,Recovered/Resolved
+SUBJ0048,Decreased Appetite,2025-05-10,2025-07-17,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0048,Fatigue,2025-08-03,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0048,Anemia,2025-02-15,2025-05-05,Severe,N,Y,Recovering/Resolving
+SUBJ0048,Vomiting,2025-04-10,,Mild,N,Y,Recovered/Resolved
+SUBJ0049,Anemia,2025-03-26,2025-04-26,Severe,Y,N,Recovering/Resolving
+SUBJ0049,Thrombocytopenia,2025-07-15,2025-10-11,Mild,N,N,Unknown
+SUBJ0049,Pyrexia,2025-03-13,2025-04-14,Severe,Y,N,Recovered/Resolved
+SUBJ0049,Injection Site Reaction,2025-12-20,2026-01-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0049,Anemia,2025-10-26,2025-11-09,Mild,N,Y,Recovered/Resolved
+SUBJ0049,Injection Site Reaction,2025-04-11,,Moderate,N,Y,Recovered/Resolved
+SUBJ0049,Neutropenia,2025-08-25,2025-11-19,Mild,N,Y,Recovering/Resolving
+SUBJ0050,Decreased Appetite,2025-03-04,2025-03-12,Mild,N,N,Recovered/Resolved
+SUBJ0051,Constipation,2024-12-15,2025-02-10,Mild,N,N,Fatal
+SUBJ0051,Stomatitis,2024-10-08,2024-11-08,Mild,N,Y,Recovering/Resolving
+SUBJ0051,Diarrhea,2025-02-14,2025-04-18,Mild,N,Y,Recovered/Resolved
+SUBJ0052,Neutropenia,2025-01-24,2025-04-11,Severe,Y,N,Recovered/Resolved
+SUBJ0052,Injection Site Reaction,2025-09-29,2025-11-28,Mild,N,N,Recovered/Resolved
+SUBJ0052,Decreased Appetite,2025-04-10,,Mild,N,N,Recovered/Resolved
+SUBJ0052,Hypertension,2025-02-15,2025-03-28,Moderate,N,N,Recovered/Resolved
+SUBJ0052,Constipation,2025-09-13,2025-10-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0053,Decreased Appetite,2025-05-23,2025-07-31,Mild,N,N,Recovered/Resolved
+SUBJ0053,Diarrhea,2025-08-01,2025-10-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0053,Alopecia,2025-03-06,2025-03-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0053,Hypertension,2025-04-09,2025-06-09,Severe,N,Y,Recovered/Resolved
+SUBJ0053,Injection Site Reaction,2025-04-23,2025-06-17,Mild,N,Y,Recovered/Resolved
+SUBJ0053,Thrombocytopenia,2025-03-07,2025-03-15,Mild,N,N,Recovering/Resolving
+SUBJ0054,Alopecia,2024-09-08,2024-11-25,Mild,N,N,Recovered/Resolved
+SUBJ0054,Fatigue,2025-11-18,2026-02-01,Mild,N,N,Recovered/Resolved
+SUBJ0054,Neutropenia,2025-09-27,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0054,Stomatitis,2025-07-21,2025-08-29,Severe,N,N,Recovered/Resolved
+SUBJ0054,Decreased Appetite,2024-12-18,2025-02-26,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0054,Stomatitis,2025-03-07,,Severe,Y,N,Recovered/Resolved
+SUBJ0055,Fatigue,2024-10-15,2024-11-28,Moderate,N,N,Recovered/Resolved
+SUBJ0055,Thrombocytopenia,2024-07-13,2024-09-03,Mild,N,N,Recovered/Resolved
+SUBJ0055,Anemia,2025-06-21,2025-07-13,Severe,N,N,Unknown
+SUBJ0055,Constipation,2024-06-20,2024-08-08,Moderate,N,N,Recovered/Resolved
+SUBJ0055,Pyrexia,2024-07-27,2024-10-24,Mild,N,N,Recovered/Resolved
+SUBJ0056,Constipation,2026-02-06,2026-03-11,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0056,Stomatitis,2025-01-22,2025-04-13,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0057,Thrombocytopenia,2025-02-10,2025-04-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0057,Neutropenia,2025-04-20,2025-06-27,Severe,Y,N,Recovered/Resolved
+SUBJ0057,Fatigue,2025-11-02,2026-01-20,Mild,N,N,Unknown
+SUBJ0057,Fatigue,2025-10-21,2025-11-13,Moderate,N,N,Recovering/Resolving
+SUBJ0058,Pyrexia,2025-04-06,2025-04-07,Mild,N,N,Recovered/Resolved
+SUBJ0058,Neutropenia,2024-10-10,2024-11-10,Mild,N,Y,Recovered/Resolved
+SUBJ0059,Stomatitis,2024-11-15,,Moderate,N,N,Recovered/Resolved
+SUBJ0059,Alopecia,2025-01-11,2025-02-02,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0059,Stomatitis,2024-07-04,2024-07-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0060,Injection Site Reaction,2025-01-06,2025-02-04,Mild,Y,N,Recovering/Resolving
+SUBJ0060,Neutropenia,2025-01-21,2025-03-23,Mild,N,Y,Recovered/Resolved
+SUBJ0060,Nausea,2024-11-19,2025-01-16,Mild,N,N,Recovered/Resolved
+SUBJ0060,Injection Site Reaction,2025-01-27,2025-02-09,Mild,N,N,Recovering/Resolving
+SUBJ0060,Diarrhea,2025-05-15,2025-06-02,Moderate,N,Y,Unknown
+SUBJ0060,Injection Site Reaction,2024-07-15,2024-09-21,Moderate,N,N,Recovering/Resolving
+SUBJ0060,Alopecia,2024-11-22,2025-01-11,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0061,Diarrhea,2024-10-31,2025-01-27,Severe,N,N,Recovered/Resolved
+SUBJ0061,Nausea,2025-07-28,2025-08-19,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0061,Peripheral Neuropathy,2025-11-15,2026-02-07,Mild,N,N,Unknown
+SUBJ0062,Thrombocytopenia,2024-10-27,2024-12-17,Mild,N,Y,Recovered/Resolved
+SUBJ0062,Decreased Appetite,2025-04-19,2025-05-27,Severe,Y,Y,Recovered/Resolved
+SUBJ0062,Diarrhea,2025-11-17,2025-12-07,Mild,N,Y,Recovering/Resolving
+SUBJ0062,Hypertension,2025-10-08,2025-11-29,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0062,Vomiting,2025-08-14,2025-11-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0062,Diarrhea,2025-08-27,2025-09-27,Mild,N,Y,Unknown
+SUBJ0062,Thrombocytopenia,2024-07-27,,Severe,N,N,Recovering/Resolving
+SUBJ0063,Diarrhea,2024-07-07,2024-08-25,Mild,N,N,Recovered/Resolved
+SUBJ0063,Alopecia,2024-07-27,2024-09-12,Mild,N,N,Unknown
+SUBJ0063,Nausea,2024-12-07,2025-02-27,Mild,N,N,Recovered/Resolved
+SUBJ0063,Diarrhea,2024-05-25,2024-06-15,Severe,N,N,Recovered/Resolved
+SUBJ0063,Nausea,2024-11-25,2025-01-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0063,Pyrexia,2024-10-07,2024-10-13,Mild,N,N,Recovering/Resolving
+SUBJ0063,Diarrhea,2025-06-08,2025-06-09,Severe,Y,N,Recovered/Resolved
+SUBJ0064,Constipation,2024-10-01,2024-12-19,Mild,N,Y,Recovered/Resolved
+SUBJ0064,Peripheral Neuropathy,2024-07-13,2024-08-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0064,Fatigue,2025-09-25,2025-09-29,Severe,Y,Y,Recovered/Resolved
+SUBJ0064,Vomiting,2024-10-30,2024-12-30,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0064,Stomatitis,2024-06-27,2024-08-22,Mild,N,N,Fatal
+SUBJ0064,Vomiting,2024-08-06,2024-09-03,Mild,N,Y,Recovered/Resolved
+SUBJ0064,Hypertension,2024-09-27,2024-09-29,Mild,N,N,Recovered/Resolved
+SUBJ0064,Nausea,2025-05-06,2025-07-05,Mild,N,Y,Recovered/Resolved
+SUBJ0065,Neutropenia,2024-10-31,2025-01-24,Mild,N,N,Recovered/Resolved
+SUBJ0065,Hypertension,2024-07-14,2024-09-07,Mild,N,Y,Recovered/Resolved
+SUBJ0066,Anemia,2025-08-29,,Severe,N,N,Recovered/Resolved
+SUBJ0066,Constipation,2025-02-28,,Mild,N,N,Recovered/Resolved
+SUBJ0066,Peripheral Neuropathy,2025-08-23,2025-11-02,Severe,N,N,Recovering/Resolving
+SUBJ0066,Nausea,2025-07-04,2025-07-28,Mild,N,N,Recovered/Resolved
+SUBJ0067,Injection Site Reaction,2025-06-03,2025-08-26,Mild,N,N,Fatal
+SUBJ0067,Thrombocytopenia,2024-10-25,2024-11-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0067,Nausea,2024-06-27,2024-07-18,Moderate,N,N,Unknown
+SUBJ0067,Nausea,2025-07-06,2025-08-17,Severe,N,Y,Recovered/Resolved
+SUBJ0067,Vomiting,2025-05-15,2025-07-31,Mild,N,N,Recovering/Resolving
+SUBJ0068,Nausea,2024-08-07,2024-11-04,Severe,N,N,Recovering/Resolving
+SUBJ0068,Vomiting,2025-02-04,2025-03-27,Moderate,N,N,Recovering/Resolving
+SUBJ0068,Anemia,2024-12-17,2025-01-23,Mild,N,N,Recovered/Resolved
+SUBJ0068,Thrombocytopenia,2025-06-06,2025-07-06,Mild,N,Y,Unknown
+SUBJ0068,Peripheral Neuropathy,2025-01-27,2025-04-13,Mild,N,N,Recovered/Resolved
+SUBJ0068,Injection Site Reaction,2025-04-15,,Moderate,Y,Y,Recovered/Resolved
+SUBJ0068,Diarrhea,2025-02-24,2025-03-29,Mild,N,Y,Recovered/Resolved
+SUBJ0068,Anemia,2025-06-01,2025-06-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0068,Nausea,2024-09-20,2024-09-28,Mild,N,Y,Recovered/Resolved
+SUBJ0069,Decreased Appetite,2024-10-11,2025-01-04,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0069,Fatigue,2024-11-12,2024-11-29,Mild,N,N,Recovered/Resolved
+SUBJ0069,Nausea,2024-12-11,2024-12-18,Severe,Y,Y,Recovered/Resolved
+SUBJ0069,Hypertension,2024-05-29,2024-08-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0070,Vomiting,2025-04-23,2025-04-25,Moderate,Y,N,Recovered/Resolved
+SUBJ0070,Alopecia,2025-01-23,2025-03-29,Mild,N,N,Recovered/Resolved
+SUBJ0070,Injection Site Reaction,2025-01-21,2025-03-25,Moderate,N,N,Recovered/Resolved
+SUBJ0071,Peripheral Neuropathy,2024-11-30,2025-01-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0071,Diarrhea,2024-11-30,2024-12-08,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0071,Neutropenia,2024-05-24,2024-08-04,Mild,N,Y,Recovered/Resolved
+SUBJ0071,Peripheral Neuropathy,2024-09-05,2024-11-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0071,Pyrexia,2025-02-18,,Moderate,N,Y,Recovered/Resolved
+SUBJ0071,Anemia,2025-03-14,,Mild,N,Y,Recovering/Resolving
+SUBJ0071,Diarrhea,2025-03-28,2025-05-10,Severe,Y,Y,Recovered/Resolved
+SUBJ0071,Stomatitis,2024-12-27,2025-02-19,Moderate,N,N,Recovered/Resolved
+SUBJ0072,Anemia,2025-08-28,2025-09-10,Moderate,N,Y,Recovering/Resolving
+SUBJ0072,Constipation,2025-03-01,,Mild,N,Y,Recovered/Resolved
+SUBJ0072,Injection Site Reaction,2025-01-23,2025-03-27,Mild,N,Y,Recovered/Resolved
+SUBJ0072,Stomatitis,2026-01-18,,Mild,N,Y,Recovered/Resolved
+SUBJ0072,Peripheral Neuropathy,2025-10-16,2025-12-01,Moderate,N,Y,Fatal
+SUBJ0072,Stomatitis,2025-11-29,2026-01-19,Mild,Y,Y,Recovered/Resolved
+SUBJ0072,Anemia,2024-12-22,2025-03-09,Moderate,N,N,Unknown
+SUBJ0073,Vomiting,2025-02-17,2025-02-21,Severe,Y,Y,Recovered/Resolved
+SUBJ0073,Constipation,2025-04-25,2025-06-03,Severe,Y,N,Recovered/Resolved
+SUBJ0073,Anemia,2025-02-01,2025-04-26,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0073,Peripheral Neuropathy,2025-06-24,2025-09-11,Moderate,Y,N,Recovering/Resolving
+SUBJ0074,Fatigue,2025-07-11,2025-08-20,Severe,Y,N,Recovering/Resolving
+SUBJ0074,Injection Site Reaction,2025-06-27,2025-08-28,Moderate,N,Y,Unknown
+SUBJ0074,Pyrexia,2025-12-25,2025-12-30,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0074,Anemia,2025-12-15,2026-02-05,Mild,N,N,Recovered/Resolved
+SUBJ0074,Stomatitis,2024-10-02,2024-12-08,Moderate,N,Y,Recovering/Resolving
+SUBJ0074,Hypertension,2025-08-17,2025-10-20,Mild,N,Y,Recovered/Resolved
+SUBJ0074,Vomiting,2025-12-05,2026-01-02,Mild,Y,N,Not Recovered/Not Resolved
+SUBJ0075,Pyrexia,2024-10-14,2025-01-10,Moderate,N,N,Recovered/Resolved
+SUBJ0075,Constipation,2025-10-06,2025-10-15,Mild,N,N,Recovered/Resolved
+SUBJ0075,Peripheral Neuropathy,2024-10-12,2024-12-01,Mild,N,N,Recovered/Resolved
+SUBJ0075,Anemia,2025-01-26,2025-02-04,Mild,N,Y,Recovered/Resolved
+SUBJ0075,Constipation,2025-06-02,2025-07-26,Mild,N,N,Recovered/Resolved
+SUBJ0076,Diarrhea,2025-04-23,,Mild,N,N,Recovered/Resolved
+SUBJ0076,Neutropenia,2026-01-11,2026-03-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0076,Alopecia,2025-09-22,2025-12-14,Severe,N,N,Recovered/Resolved
+SUBJ0076,Peripheral Neuropathy,2026-03-11,2026-06-06,Severe,Y,N,Unknown
+SUBJ0076,Thrombocytopenia,2025-08-05,2025-09-12,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0076,Alopecia,2025-12-10,2026-01-22,Mild,N,Y,Recovering/Resolving
+SUBJ0077,Nausea,2025-04-24,2025-05-30,Mild,N,N,Recovered/Resolved
+SUBJ0077,Alopecia,2024-10-09,,Mild,N,N,Recovering/Resolving
+SUBJ0077,Decreased Appetite,2024-06-30,2024-08-25,Moderate,N,N,Recovering/Resolving
+SUBJ0077,Hypertension,2025-08-13,,Severe,Y,N,Recovered/Resolved
+SUBJ0078,Hypertension,2025-08-09,2025-09-13,Mild,Y,Y,Recovered/Resolved
+SUBJ0078,Neutropenia,2024-11-29,2024-12-15,Mild,N,Y,Recovered/Resolved
+SUBJ0078,Nausea,2025-03-14,2025-05-31,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0078,Neutropenia,2024-10-28,2025-01-08,Severe,Y,N,Recovered/Resolved
+SUBJ0078,Vomiting,2024-10-16,2024-12-14,Moderate,N,N,Unknown
+SUBJ0079,Peripheral Neuropathy,2025-09-24,2025-11-26,Severe,Y,N,Unknown
+SUBJ0079,Decreased Appetite,2025-04-04,2025-04-19,Mild,N,Y,Unknown
+SUBJ0079,Hypertension,2025-01-02,2025-02-24,Mild,N,N,Recovering/Resolving
+SUBJ0079,Vomiting,2025-05-11,2025-06-27,Mild,N,N,Recovered/Resolved
+SUBJ0079,Hypertension,2026-01-19,2026-04-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0081,Stomatitis,2024-06-22,2024-06-30,Moderate,N,N,Recovered/Resolved
+SUBJ0081,Hypertension,2025-05-10,,Mild,N,N,Recovered/Resolved
+SUBJ0081,Diarrhea,2025-05-08,2025-07-11,Moderate,N,N,Recovered/Resolved
+SUBJ0082,Diarrhea,2024-04-05,2024-06-26,Mild,N,Y,Recovered/Resolved
+SUBJ0082,Nausea,2024-08-13,2024-08-21,Moderate,N,Y,Unknown
+SUBJ0082,Pyrexia,2024-05-04,,Mild,N,Y,Recovered/Resolved
+SUBJ0082,Thrombocytopenia,2024-10-24,2024-12-27,Mild,N,Y,Recovered/Resolved
+SUBJ0082,Nausea,2024-11-14,2024-11-29,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0082,Hypertension,2025-04-15,2025-07-13,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0083,Injection Site Reaction,2024-01-27,2024-03-20,Mild,N,N,Recovered/Resolved
+SUBJ0083,Hypertension,2024-09-13,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0083,Vomiting,2024-05-09,2024-07-14,Mild,N,Y,Recovering/Resolving
+SUBJ0084,Diarrhea,2024-11-06,2024-12-27,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0084,Constipation,2024-04-01,2024-04-20,Moderate,N,Y,Unknown
+SUBJ0084,Diarrhea,2025-02-05,2025-03-07,Mild,N,Y,Recovered/Resolved
+SUBJ0084,Diarrhea,2024-08-01,2024-10-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0084,Diarrhea,2025-05-02,2025-07-01,Mild,N,Y,Recovered/Resolved
+SUBJ0084,Nausea,2025-02-27,2025-03-26,Severe,Y,Y,Recovered/Resolved
+SUBJ0084,Fatigue,2024-08-25,2024-11-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0084,Stomatitis,2024-04-17,2024-05-18,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0085,Constipation,2024-12-19,2024-12-31,Mild,N,Y,Recovering/Resolving
+SUBJ0085,Nausea,2025-10-17,2025-12-12,Mild,N,Y,Recovered/Resolved
+SUBJ0085,Vomiting,2025-07-27,2025-07-28,Severe,Y,N,Fatal
+SUBJ0085,Neutropenia,2025-07-13,2025-10-05,Severe,Y,N,Recovered/Resolved
+SUBJ0085,Vomiting,2024-12-17,2025-01-29,Severe,Y,Y,Recovering/Resolving
+SUBJ0086,Hypertension,2024-12-17,2024-12-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0086,Stomatitis,2024-06-12,2024-07-13,Severe,N,N,Recovering/Resolving
+SUBJ0086,Neutropenia,2024-07-07,2024-08-05,Mild,N,N,Recovered/Resolved
+SUBJ0086,Pyrexia,2025-08-30,2025-11-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0086,Injection Site Reaction,2024-07-16,2024-09-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0086,Hypertension,2024-11-03,2025-01-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0087,Neutropenia,2025-03-02,2025-04-19,Mild,Y,Y,Recovered/Resolved
+SUBJ0087,Pyrexia,2024-09-01,2024-10-09,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0087,Thrombocytopenia,2025-02-12,2025-04-28,Mild,N,N,Recovered/Resolved
+SUBJ0087,Diarrhea,2025-03-19,2025-04-11,Severe,N,Y,Recovered/Resolved
+SUBJ0087,Diarrhea,2024-08-22,2024-10-02,Mild,N,Y,Recovered/Resolved
+SUBJ0087,Injection Site Reaction,2025-03-24,2025-05-08,Mild,N,Y,Recovered/Resolved
+SUBJ0087,Peripheral Neuropathy,2025-07-08,2025-09-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0087,Anemia,2024-12-17,,Severe,Y,Y,Recovered/Resolved
+SUBJ0088,Neutropenia,2025-06-02,2025-06-28,Moderate,N,N,Unknown
+SUBJ0088,Injection Site Reaction,2025-07-11,2025-10-02,Moderate,Y,Y,Recovered/Resolved
+SUBJ0088,Diarrhea,2025-09-30,2025-10-21,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0088,Fatigue,2025-05-04,2025-06-09,Mild,N,Y,Recovering/Resolving
+SUBJ0088,Hypertension,2025-11-28,2026-01-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0088,Neutropenia,2025-12-20,2026-03-17,Moderate,N,N,Recovered/Resolved
+SUBJ0089,Nausea,2025-09-25,,Mild,N,N,Recovered/Resolved
+SUBJ0089,Vomiting,2025-06-08,2025-09-05,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0089,Peripheral Neuropathy,2025-06-23,2025-08-31,Mild,N,N,Recovered/Resolved
+SUBJ0089,Stomatitis,2026-01-19,2026-04-14,Mild,N,Y,Recovered/Resolved
+SUBJ0089,Vomiting,2025-06-21,2025-09-15,Moderate,N,N,Recovered/Resolved
+SUBJ0089,Hypertension,2025-12-06,2025-12-22,Moderate,N,N,Fatal
+SUBJ0089,Constipation,2025-10-02,2025-12-18,Severe,Y,N,Recovered/Resolved
+SUBJ0089,Nausea,2025-02-23,2025-04-30,Moderate,N,Y,Fatal
+SUBJ0089,Injection Site Reaction,2025-11-21,2026-02-13,Mild,N,Y,Recovered/Resolved
+SUBJ0089,Vomiting,2024-09-19,,Severe,Y,N,Recovered/Resolved
+SUBJ0090,Nausea,2024-11-21,2024-12-06,Mild,N,N,Recovered/Resolved
+SUBJ0090,Hypertension,2024-06-04,2024-07-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0090,Diarrhea,2025-04-01,2025-06-16,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0090,Pyrexia,2024-06-11,2024-06-20,Mild,N,N,Recovered/Resolved
+SUBJ0090,Diarrhea,2024-02-23,2024-03-12,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0090,Stomatitis,2024-09-19,2024-11-16,Mild,N,N,Recovering/Resolving
+SUBJ0090,Fatigue,2024-04-28,2024-07-25,Mild,N,Y,Recovered/Resolved
+SUBJ0091,Anemia,2025-05-20,2025-06-10,Mild,N,N,Recovered/Resolved
+SUBJ0091,Alopecia,2025-12-24,2026-03-06,Mild,N,Y,Recovered/Resolved
+SUBJ0091,Hypertension,2025-04-11,,Mild,N,Y,Unknown
+SUBJ0091,Peripheral Neuropathy,2025-01-13,2025-01-14,Severe,Y,Y,Recovered/Resolved
+SUBJ0091,Hypertension,2025-06-07,2025-07-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0091,Stomatitis,2026-01-18,2026-02-03,Mild,N,Y,Fatal
+SUBJ0092,Decreased Appetite,2025-09-05,2025-11-10,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0092,Peripheral Neuropathy,2025-04-07,2025-05-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0092,Peripheral Neuropathy,2025-05-03,2025-06-23,Mild,N,Y,Recovered/Resolved
+SUBJ0092,Nausea,2025-02-17,2025-04-08,Mild,N,N,Recovered/Resolved
+SUBJ0092,Stomatitis,2024-11-04,2024-11-29,Mild,N,Y,Recovered/Resolved
+SUBJ0092,Anemia,2024-06-03,2024-08-03,Severe,N,N,Recovered/Resolved
+SUBJ0092,Alopecia,2025-09-04,2025-11-06,Mild,N,Y,Recovered/Resolved
+SUBJ0092,Fatigue,2025-08-23,2025-09-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0093,Stomatitis,2025-04-26,2025-06-12,Mild,N,Y,Unknown
+SUBJ0093,Alopecia,2025-04-09,2025-04-11,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0093,Anemia,2024-08-30,2024-09-04,Severe,Y,Y,Recovering/Resolving
+SUBJ0093,Stomatitis,2024-08-13,2024-09-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0093,Peripheral Neuropathy,2024-12-28,2025-03-04,Severe,Y,Y,Recovered/Resolved
+SUBJ0093,Diarrhea,2024-09-30,2024-11-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0093,Peripheral Neuropathy,2024-10-22,2024-11-10,Mild,N,Y,Recovered/Resolved
+SUBJ0094,Anemia,2025-04-08,2025-06-16,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0094,Anemia,2025-12-15,2026-01-17,Mild,N,Y,Recovered/Resolved
+SUBJ0094,Hypertension,2025-09-28,2025-11-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0094,Alopecia,2025-11-02,2025-11-07,Moderate,N,N,Recovered/Resolved
+SUBJ0095,Decreased Appetite,2025-06-06,2025-06-24,Mild,N,Y,Recovered/Resolved
+SUBJ0095,Constipation,2024-05-11,2024-08-06,Moderate,N,N,Recovered/Resolved
+SUBJ0095,Injection Site Reaction,2025-06-18,2025-06-21,Mild,N,N,Recovered/Resolved
+SUBJ0095,Vomiting,2024-08-14,2024-10-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0095,Fatigue,2025-06-24,,Moderate,N,Y,Recovered/Resolved
+SUBJ0095,Hypertension,2024-07-20,2024-08-13,Severe,N,Y,Recovering/Resolving
+SUBJ0095,Decreased Appetite,2025-03-05,2025-04-29,Moderate,N,N,Recovering/Resolving
+SUBJ0095,Stomatitis,2024-11-03,2024-12-28,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0095,Thrombocytopenia,2024-06-08,2024-06-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0095,Nausea,2024-08-29,2024-08-30,Moderate,N,N,Recovering/Resolving
+SUBJ0095,Constipation,2025-06-07,,Moderate,N,Y,Recovered/Resolved
+SUBJ0096,Alopecia,2025-04-27,2025-06-27,Mild,N,N,Recovered/Resolved
+SUBJ0096,Thrombocytopenia,2025-01-02,2025-01-27,Moderate,N,N,Fatal
+SUBJ0096,Neutropenia,2025-02-24,2025-03-24,Mild,N,N,Recovered/Resolved
+SUBJ0096,Vomiting,2024-11-15,2025-01-01,Moderate,N,Y,Unknown
+SUBJ0096,Neutropenia,2025-05-02,2025-06-30,Severe,Y,Y,Recovered/Resolved
+SUBJ0096,Neutropenia,2024-11-04,2025-01-28,Mild,N,Y,Recovered/Resolved
+SUBJ0097,Fatigue,2024-12-06,,Mild,N,Y,Recovered/Resolved
+SUBJ0097,Hypertension,2025-04-27,2025-05-22,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0097,Pyrexia,2025-07-16,2025-09-17,Mild,N,Y,Recovering/Resolving
+SUBJ0097,Pyrexia,2025-11-21,2025-11-24,Mild,N,N,Recovered/Resolved
+SUBJ0097,Injection Site Reaction,2026-01-19,2026-04-18,Moderate,N,N,Unknown
+SUBJ0097,Anemia,2025-04-22,2025-07-16,Mild,N,Y,Unknown
+SUBJ0098,Constipation,2024-12-02,2025-01-21,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0098,Thrombocytopenia,2025-09-01,2025-09-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0098,Nausea,2025-01-19,2025-03-01,Severe,Y,Y,Recovered/Resolved
+SUBJ0098,Thrombocytopenia,2025-10-30,2026-01-21,Moderate,N,N,Fatal
+SUBJ0098,Constipation,2025-09-30,2025-11-27,Moderate,N,N,Recovered/Resolved
+SUBJ0098,Pyrexia,2025-08-22,2025-10-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0098,Stomatitis,2024-12-14,2025-01-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0099,Pyrexia,2025-05-22,2025-07-03,Mild,N,Y,Recovered/Resolved
+SUBJ0099,Fatigue,2024-08-27,2024-11-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0099,Thrombocytopenia,2024-12-17,2025-03-08,Mild,N,Y,Recovered/Resolved
+SUBJ0099,Constipation,2025-03-06,2025-05-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0099,Stomatitis,2025-08-04,2025-10-18,Mild,N,N,Recovering/Resolving
+SUBJ0100,Peripheral Neuropathy,2026-01-01,2026-03-22,Severe,N,Y,Recovered/Resolved
+SUBJ0100,Alopecia,2025-07-23,2025-10-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0100,Nausea,2025-06-13,,Severe,Y,N,Recovering/Resolving
+SUBJ0100,Vomiting,2024-12-05,2025-02-08,Mild,N,Y,Recovered/Resolved
+SUBJ0100,Diarrhea,2024-12-07,2025-01-17,Mild,N,Y,Recovering/Resolving
+SUBJ0100,Fatigue,2025-01-12,2025-03-28,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0101,Diarrhea,2025-05-19,2025-06-01,Mild,N,N,Recovered/Resolved
+SUBJ0101,Nausea,2025-09-08,2025-11-13,Mild,Y,N,Recovered/Resolved
+SUBJ0101,Injection Site Reaction,2025-06-24,2025-09-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0101,Neutropenia,2025-06-08,2025-09-03,Mild,N,Y,Recovered/Resolved
+SUBJ0101,Hypertension,2025-08-01,2025-09-21,Mild,N,N,Recovered/Resolved
+SUBJ0101,Vomiting,2025-11-25,2026-01-31,Severe,Y,Y,Recovered/Resolved
+SUBJ0101,Fatigue,2025-05-25,2025-06-10,Mild,N,Y,Recovered/Resolved
+SUBJ0102,Neutropenia,2025-07-21,2025-08-18,Mild,N,Y,Recovered/Resolved
+SUBJ0102,Anemia,2025-02-04,2025-03-06,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0102,Thrombocytopenia,2025-04-25,2025-06-28,Mild,N,Y,Recovered/Resolved
+SUBJ0102,Decreased Appetite,2024-10-26,2024-12-15,Mild,N,N,Recovered/Resolved
+SUBJ0102,Constipation,2025-02-02,2025-02-09,Severe,Y,Y,Recovered/Resolved
+SUBJ0103,Thrombocytopenia,2025-08-27,2025-10-23,Mild,N,Y,Recovered/Resolved
+SUBJ0103,Constipation,2024-12-06,2025-02-25,Mild,N,N,Recovered/Resolved
+SUBJ0104,Nausea,2026-01-06,2026-02-28,Mild,N,N,Unknown
+SUBJ0104,Nausea,2025-05-08,2025-06-11,Mild,N,N,Recovering/Resolving
+SUBJ0105,Diarrhea,2025-02-11,2025-04-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0105,Decreased Appetite,2025-07-11,2025-07-23,Mild,N,N,Recovering/Resolving
+SUBJ0105,Pyrexia,2024-08-03,2024-09-20,Severe,Y,N,Unknown
+SUBJ0105,Pyrexia,2025-04-19,2025-04-26,Mild,N,N,Unknown
+SUBJ0105,Stomatitis,2025-06-15,2025-08-28,Mild,N,Y,Recovered/Resolved
+SUBJ0105,Alopecia,2024-11-22,,Moderate,N,N,Recovering/Resolving
+SUBJ0106,Alopecia,2025-10-09,2025-10-21,Moderate,N,N,Recovered/Resolved
+SUBJ0106,Hypertension,2025-01-08,2025-04-02,Moderate,N,N,Recovered/Resolved
+SUBJ0106,Vomiting,2026-01-14,,Mild,N,N,Recovered/Resolved
+SUBJ0106,Thrombocytopenia,2025-03-28,2025-04-09,Mild,N,N,Recovering/Resolving
+SUBJ0106,Anemia,2025-08-18,2025-10-09,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0106,Diarrhea,2024-12-15,2025-02-10,Moderate,N,N,Recovered/Resolved
+SUBJ0107,Peripheral Neuropathy,2025-11-27,2025-12-02,Mild,N,Y,Fatal
+SUBJ0107,Injection Site Reaction,2025-03-29,2025-05-20,Mild,N,Y,Recovering/Resolving
+SUBJ0107,Anemia,2025-03-27,2025-04-15,Mild,N,Y,Recovered/Resolved
+SUBJ0107,Injection Site Reaction,2025-08-22,2025-09-01,Mild,N,Y,Recovering/Resolving
+SUBJ0107,Decreased Appetite,2025-09-23,2025-12-15,Mild,N,N,Recovered/Resolved
+SUBJ0107,Fatigue,2024-10-25,2024-11-21,Moderate,N,N,Recovered/Resolved
+SUBJ0108,Pyrexia,2024-09-09,2024-12-07,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0108,Thrombocytopenia,2024-10-05,2024-12-22,Severe,Y,N,Recovered/Resolved
+SUBJ0108,Thrombocytopenia,2025-08-29,2025-09-19,Mild,N,N,Recovered/Resolved
+SUBJ0108,Alopecia,2024-12-18,2025-02-13,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0108,Vomiting,2025-02-20,2025-05-07,Moderate,N,N,Recovered/Resolved
+SUBJ0109,Neutropenia,2025-05-15,2025-07-30,Mild,N,Y,Recovering/Resolving
+SUBJ0109,Stomatitis,2024-07-13,2024-08-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0109,Constipation,2024-05-29,2024-06-05,Mild,N,Y,Recovering/Resolving
+SUBJ0109,Hypertension,2025-07-21,2025-08-04,Mild,N,Y,Recovered/Resolved
+SUBJ0109,Anemia,2025-01-21,2025-02-24,Mild,N,Y,Recovering/Resolving
+SUBJ0109,Pyrexia,2025-02-28,2025-05-08,Mild,N,Y,Recovered/Resolved
+SUBJ0109,Hypertension,2024-08-02,2024-10-19,Mild,N,Y,Recovered/Resolved
+SUBJ0109,Thrombocytopenia,2025-04-20,2025-06-07,Mild,N,Y,Recovering/Resolving
+SUBJ0110,Pyrexia,2024-07-24,2024-09-23,Severe,Y,N,Recovered/Resolved
+SUBJ0110,Alopecia,2025-04-14,2025-05-05,Moderate,N,N,Fatal
+SUBJ0110,Neutropenia,2025-05-30,,Moderate,N,N,Recovered/Resolved
+SUBJ0111,Stomatitis,2025-05-23,2025-06-17,Moderate,Y,N,Recovering/Resolving
+SUBJ0112,Alopecia,2025-10-30,2025-11-22,Mild,N,Y,Recovering/Resolving
+SUBJ0112,Neutropenia,2025-07-02,2025-08-28,Mild,N,Y,Recovered/Resolved
+SUBJ0112,Stomatitis,2025-01-04,2025-02-18,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0112,Constipation,2026-01-22,2026-02-12,Mild,N,Y,Recovered/Resolved
+SUBJ0113,Constipation,2024-10-04,,Mild,N,N,Recovered/Resolved
+SUBJ0113,Thrombocytopenia,2024-08-06,2024-10-12,Moderate,N,N,Recovered/Resolved
+SUBJ0113,Fatigue,2025-02-26,2025-04-13,Mild,N,Y,Recovered/Resolved
+SUBJ0113,Stomatitis,2025-02-21,2025-04-24,Mild,N,N,Recovered/Resolved
+SUBJ0113,Injection Site Reaction,2025-06-09,,Severe,N,Y,Recovering/Resolving
+SUBJ0113,Alopecia,2024-05-26,2024-06-09,Mild,Y,N,Recovered/Resolved
+SUBJ0113,Thrombocytopenia,2025-07-16,2025-09-08,Mild,N,N,Recovering/Resolving
+SUBJ0114,Vomiting,2025-02-17,2025-04-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0114,Pyrexia,2025-06-15,2025-08-25,Mild,N,N,Recovered/Resolved
+SUBJ0114,Pyrexia,2025-04-27,2025-06-04,Mild,N,N,Recovered/Resolved
+SUBJ0114,Anemia,2024-11-07,2025-01-03,Severe,Y,N,Recovering/Resolving
+SUBJ0114,Anemia,2024-09-16,2024-11-17,Moderate,N,N,Recovered/Resolved
+SUBJ0114,Decreased Appetite,2025-09-26,2025-12-24,Moderate,N,N,Unknown
+SUBJ0114,Peripheral Neuropathy,2025-09-23,2025-10-03,Mild,N,Y,Recovering/Resolving
+SUBJ0115,Anemia,2025-06-11,2025-09-01,Mild,N,Y,Recovered/Resolved
+SUBJ0115,Injection Site Reaction,2026-01-09,2026-01-31,Mild,N,Y,Recovered/Resolved
+SUBJ0115,Thrombocytopenia,2024-09-04,,Moderate,N,N,Recovered/Resolved
+SUBJ0115,Constipation,2025-11-19,,Severe,Y,Y,Recovered/Resolved
+SUBJ0115,Injection Site Reaction,2026-01-02,2026-03-19,Mild,N,Y,Recovering/Resolving
+SUBJ0116,Diarrhea,2024-03-10,2024-05-23,Moderate,N,N,Fatal
+SUBJ0116,Fatigue,2025-01-06,2025-03-19,Moderate,N,N,Unknown
+SUBJ0116,Hypertension,2024-06-28,2024-08-17,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0116,Alopecia,2024-11-26,2025-01-10,Mild,N,N,Recovered/Resolved
+SUBJ0116,Peripheral Neuropathy,2025-02-14,2025-05-13,Severe,Y,N,Recovering/Resolving
+SUBJ0117,Fatigue,2024-10-14,2024-10-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0117,Vomiting,2024-10-24,2025-01-09,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0117,Decreased Appetite,2025-03-27,2025-05-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0117,Constipation,2024-10-31,2024-12-01,Mild,N,Y,Recovering/Resolving
+SUBJ0117,Alopecia,2024-10-29,2025-01-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0118,Fatigue,2025-06-24,2025-09-12,Mild,N,N,Recovered/Resolved
+SUBJ0118,Alopecia,2025-01-13,2025-02-25,Mild,N,N,Recovered/Resolved
+SUBJ0118,Decreased Appetite,2025-09-28,2025-10-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0118,Thrombocytopenia,2025-06-20,2025-06-24,Severe,N,Y,Recovering/Resolving
+SUBJ0119,Hypertension,2024-08-06,2024-10-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0119,Nausea,2024-11-21,2025-02-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0119,Neutropenia,2024-11-04,2024-12-27,Severe,Y,Y,Recovered/Resolved
+SUBJ0119,Fatigue,2024-08-16,,Severe,N,N,Recovered/Resolved
+SUBJ0119,Pyrexia,2025-01-03,2025-02-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0119,Stomatitis,2025-06-09,2025-07-27,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0119,Decreased Appetite,2025-04-04,2025-06-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0119,Neutropenia,2025-02-21,2025-03-17,Moderate,N,Y,Recovered/Resolved
+SUBJ0119,Nausea,2025-03-04,2025-05-06,Mild,N,N,Recovered/Resolved
+SUBJ0119,Constipation,2025-02-22,2025-05-17,Mild,N,Y,Recovering/Resolving
+SUBJ0120,Constipation,2024-10-15,2024-12-14,Severe,N,Y,Unknown
+SUBJ0120,Constipation,2024-10-30,2025-01-13,Mild,N,Y,Recovered/Resolved
+SUBJ0120,Diarrhea,2025-09-15,2025-11-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0120,Constipation,2025-03-24,2025-05-05,Mild,N,N,Recovering/Resolving
+SUBJ0120,Pyrexia,2024-08-07,2024-11-03,Mild,N,Y,Recovered/Resolved
+SUBJ0120,Nausea,2025-02-22,2025-03-12,Severe,N,Y,Recovering/Resolving
+SUBJ0120,Pyrexia,2025-07-24,2025-07-28,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0120,Neutropenia,2025-06-28,2025-07-17,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0120,Injection Site Reaction,2024-12-05,2025-01-24,Mild,N,Y,Recovering/Resolving
+SUBJ0120,Fatigue,2025-07-22,2025-09-05,Moderate,N,Y,Recovering/Resolving
+SUBJ0121,Injection Site Reaction,2024-10-13,2024-12-27,Moderate,N,N,Unknown
+SUBJ0121,Pyrexia,2025-02-12,2025-03-06,Severe,Y,N,Recovered/Resolved
+SUBJ0122,Hypertension,2026-01-15,2026-04-01,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0123,Nausea,2024-11-11,2025-02-05,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0123,Injection Site Reaction,2025-03-23,2025-04-18,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0123,Hypertension,2024-09-13,2024-10-27,Moderate,N,N,Recovered/Resolved
+SUBJ0124,Anemia,2025-06-20,2025-09-08,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0125,Hypertension,2025-08-17,2025-08-21,Mild,N,N,Recovered/Resolved
+SUBJ0125,Diarrhea,2025-02-10,2025-04-05,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0125,Fatigue,2024-09-15,2024-11-04,Moderate,N,N,Recovered/Resolved
+SUBJ0126,Decreased Appetite,2025-09-01,2025-09-25,Mild,N,N,Recovering/Resolving
+SUBJ0126,Anemia,2024-12-29,2025-03-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0127,Vomiting,2025-12-03,2026-02-15,Severe,Y,Y,Recovered/Resolved
+SUBJ0127,Constipation,2024-11-30,,Severe,N,Y,Recovered/Resolved
+SUBJ0127,Alopecia,2025-02-05,2025-04-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0127,Stomatitis,2025-04-12,2025-05-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0127,Alopecia,2025-11-17,2025-12-03,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0128,Diarrhea,2024-09-29,2024-12-24,Moderate,N,N,Recovered/Resolved
+SUBJ0128,Injection Site Reaction,2025-08-01,2025-09-15,Mild,N,N,Recovering/Resolving
+SUBJ0128,Stomatitis,2025-04-30,2025-06-11,Mild,N,N,Recovered/Resolved
+SUBJ0129,Hypertension,2025-05-30,2025-08-20,Severe,N,N,Recovered/Resolved
+SUBJ0129,Nausea,2024-10-05,2024-10-11,Mild,N,N,Recovering/Resolving
+SUBJ0130,Alopecia,2025-01-18,,Moderate,N,Y,Recovering/Resolving
+SUBJ0130,Alopecia,2025-05-31,2025-07-11,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0130,Injection Site Reaction,2024-10-25,2024-12-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0130,Neutropenia,2024-03-14,2024-05-21,Mild,Y,Y,Recovered/Resolved
+SUBJ0130,Pyrexia,2024-07-15,2024-07-26,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0131,Stomatitis,2025-09-14,2025-10-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0131,Alopecia,2025-07-29,2025-08-14,Mild,N,Y,Unknown
+SUBJ0131,Injection Site Reaction,2025-07-11,,Moderate,N,N,Recovered/Resolved
+SUBJ0131,Thrombocytopenia,2025-01-12,2025-01-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0131,Nausea,2024-09-10,,Severe,N,Y,Fatal
+SUBJ0132,Thrombocytopenia,2025-05-24,,Moderate,N,Y,Recovered/Resolved
+SUBJ0132,Decreased Appetite,2025-11-13,2026-01-26,Mild,N,Y,Recovering/Resolving
+SUBJ0132,Vomiting,2025-06-20,2025-07-30,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0132,Hypertension,2025-08-05,2025-10-28,Mild,N,N,Recovered/Resolved
+SUBJ0132,Anemia,2025-09-21,2025-12-14,Mild,N,Y,Unknown
+SUBJ0133,Constipation,2024-09-15,2024-10-07,Mild,N,Y,Recovered/Resolved
+SUBJ0133,Hypertension,2024-08-24,2024-10-26,Mild,Y,N,Unknown
+SUBJ0133,Fatigue,2025-08-10,2025-09-17,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0133,Thrombocytopenia,2025-05-27,2025-08-14,Moderate,N,N,Recovered/Resolved
+SUBJ0133,Anemia,2025-06-14,,Mild,Y,Y,Recovered/Resolved
+SUBJ0133,Injection Site Reaction,2024-10-22,,Mild,N,N,Recovered/Resolved
+SUBJ0133,Hypertension,2025-11-16,2026-01-26,Mild,N,Y,Recovering/Resolving
+SUBJ0133,Constipation,2025-05-25,,Moderate,N,Y,Recovered/Resolved
+SUBJ0133,Peripheral Neuropathy,2025-01-14,2025-01-29,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0134,Constipation,2025-02-07,2025-02-17,Severe,Y,Y,Recovered/Resolved
+SUBJ0134,Fatigue,2026-01-20,2026-03-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0134,Fatigue,2025-02-14,2025-02-17,Severe,Y,Y,Recovering/Resolving
+SUBJ0134,Peripheral Neuropathy,2024-12-17,,Mild,N,Y,Recovered/Resolved
+SUBJ0134,Diarrhea,2025-03-01,2025-04-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0134,Injection Site Reaction,2025-06-04,2025-07-04,Mild,N,N,Recovered/Resolved
+SUBJ0134,Fatigue,2024-12-27,2025-02-22,Severe,Y,Y,Recovered/Resolved
+SUBJ0135,Pyrexia,2025-11-29,2025-12-20,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0135,Stomatitis,2025-05-25,2025-08-15,Moderate,N,N,Recovering/Resolving
+SUBJ0135,Nausea,2025-06-23,2025-07-01,Mild,N,N,Recovered/Resolved
+SUBJ0135,Constipation,2024-11-12,2025-01-11,Severe,N,Y,Recovered/Resolved
+SUBJ0135,Constipation,2024-10-30,2024-12-24,Moderate,Y,Y,Recovered/Resolved
+SUBJ0135,Decreased Appetite,2024-10-24,2024-11-27,Severe,N,N,Fatal
+SUBJ0136,Injection Site Reaction,2024-09-03,2024-10-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0136,Vomiting,2025-01-08,2025-02-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0136,Peripheral Neuropathy,2025-11-21,2026-01-14,Mild,N,Y,Recovered/Resolved
+SUBJ0136,Vomiting,2024-09-29,2024-12-23,Moderate,N,Y,Recovering/Resolving
+SUBJ0137,Decreased Appetite,2024-06-07,2024-08-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0137,Decreased Appetite,2024-09-22,2024-10-10,Mild,Y,Y,Recovering/Resolving
+SUBJ0137,Anemia,2024-09-30,2024-11-01,Mild,N,N,Recovered/Resolved
+SUBJ0137,Vomiting,2025-05-21,,Mild,N,Y,Recovered/Resolved
+SUBJ0137,Pyrexia,2024-10-21,2024-11-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0137,Decreased Appetite,2025-03-12,2025-04-16,Severe,Y,Y,Recovering/Resolving
+SUBJ0138,Anemia,2024-10-31,2024-11-25,Moderate,N,N,Recovered/Resolved
+SUBJ0138,Fatigue,2025-02-13,2025-03-11,Mild,N,N,Recovered/Resolved
+SUBJ0139,Decreased Appetite,2024-10-09,2024-11-05,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0139,Injection Site Reaction,2025-02-17,2025-02-27,Mild,N,Y,Recovered/Resolved
+SUBJ0139,Stomatitis,2024-10-31,2025-01-20,Severe,Y,Y,Recovered/Resolved
+SUBJ0139,Nausea,2025-03-01,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0139,Stomatitis,2025-01-12,2025-04-05,Mild,N,N,Recovered/Resolved
+SUBJ0139,Constipation,2024-11-13,2025-01-13,Moderate,N,Y,Recovering/Resolving
+SUBJ0139,Nausea,2025-08-14,2025-11-07,Mild,N,Y,Recovered/Resolved
+SUBJ0139,Stomatitis,2024-10-17,2024-11-18,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0139,Anemia,2024-11-12,2025-01-04,Mild,N,Y,Fatal
+SUBJ0140,Constipation,2024-12-29,2025-02-23,Moderate,N,N,Recovered/Resolved
+SUBJ0140,Alopecia,2025-10-16,2025-11-01,Mild,N,N,Recovering/Resolving
+SUBJ0140,Alopecia,2025-12-11,2026-02-07,Mild,N,N,Recovering/Resolving
+SUBJ0140,Thrombocytopenia,2024-10-18,2024-12-31,Mild,N,N,Recovered/Resolved
+SUBJ0141,Fatigue,2025-02-26,2025-04-21,Mild,N,Y,Recovered/Resolved
+SUBJ0141,Decreased Appetite,2026-01-13,2026-03-06,Mild,N,Y,Recovered/Resolved
+SUBJ0141,Stomatitis,2024-11-17,2025-02-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0141,Constipation,2025-10-11,2025-12-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0141,Diarrhea,2025-01-17,2025-02-13,Mild,N,Y,Recovered/Resolved
+SUBJ0141,Injection Site Reaction,2025-03-19,2025-04-27,Moderate,Y,Y,Recovered/Resolved
+SUBJ0141,Anemia,2025-02-19,2025-03-17,Mild,N,Y,Recovering/Resolving
+SUBJ0142,Stomatitis,2025-02-03,2025-02-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0142,Alopecia,2025-03-21,2025-03-23,Moderate,N,Y,Recovering/Resolving
+SUBJ0142,Decreased Appetite,2024-03-29,2024-06-14,Severe,Y,Y,Recovered/Resolved
+SUBJ0143,Stomatitis,2025-09-16,,Moderate,N,N,Recovered/Resolved
+SUBJ0143,Injection Site Reaction,2025-03-27,,Severe,N,Y,Recovered/Resolved
+SUBJ0143,Constipation,2025-03-11,2025-04-14,Moderate,N,N,Recovered/Resolved
+SUBJ0143,Fatigue,2024-11-17,2025-02-12,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0143,Decreased Appetite,2025-02-07,2025-03-10,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0143,Nausea,2026-03-07,2026-03-26,Mild,N,N,Fatal
+SUBJ0143,Neutropenia,2025-04-14,2025-06-17,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0144,Stomatitis,2025-12-05,2026-01-18,Moderate,N,N,Recovered/Resolved
+SUBJ0144,Neutropenia,2025-10-19,2025-12-13,Mild,N,Y,Unknown
+SUBJ0144,Anemia,2025-01-20,2025-01-26,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0145,Fatigue,2025-03-05,2025-05-06,Mild,N,N,Unknown
+SUBJ0145,Thrombocytopenia,2024-09-30,2024-11-20,Mild,N,N,Recovering/Resolving
+SUBJ0145,Nausea,2025-07-06,2025-09-23,Mild,N,N,Recovering/Resolving
+SUBJ0145,Diarrhea,2025-06-19,2025-08-09,Moderate,N,N,Recovering/Resolving
+SUBJ0145,Anemia,2025-04-23,2025-07-03,Moderate,N,N,Recovered/Resolved
+SUBJ0145,Thrombocytopenia,2026-01-11,2026-02-01,Moderate,N,Y,Fatal
+SUBJ0145,Constipation,2024-12-30,,Mild,N,N,Recovered/Resolved
+SUBJ0145,Vomiting,2025-10-12,,Mild,N,Y,Fatal
+SUBJ0146,Stomatitis,2025-05-27,2025-06-16,Mild,Y,Y,Recovered/Resolved
+SUBJ0146,Hypertension,2024-12-30,2025-02-19,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0146,Thrombocytopenia,2024-04-24,2024-07-17,Mild,N,Y,Recovered/Resolved
+SUBJ0146,Injection Site Reaction,2025-04-26,2025-07-19,Mild,N,Y,Recovered/Resolved
+SUBJ0146,Alopecia,2024-12-05,2024-12-27,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0146,Fatigue,2025-04-24,2025-06-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0146,Anemia,2024-04-22,2024-05-10,Mild,N,Y,Recovered/Resolved
+SUBJ0146,Pyrexia,2024-07-10,2024-08-12,Severe,Y,Y,Recovering/Resolving
+SUBJ0146,Thrombocytopenia,2024-05-31,2024-08-10,Mild,N,N,Recovered/Resolved
+SUBJ0147,Pyrexia,2025-10-11,2025-11-28,Mild,N,N,Recovering/Resolving
+SUBJ0147,Diarrhea,2025-08-23,2025-10-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0147,Nausea,2025-03-16,2025-06-05,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0147,Vomiting,2025-08-05,2025-09-29,Mild,N,N,Recovered/Resolved
+SUBJ0147,Alopecia,2024-11-16,2025-01-17,Mild,N,N,Recovering/Resolving
+SUBJ0148,Injection Site Reaction,2025-05-16,2025-05-19,Moderate,N,N,Recovering/Resolving
+SUBJ0148,Alopecia,2025-02-26,2025-04-14,Severe,Y,N,Recovered/Resolved
+SUBJ0148,Constipation,2025-10-28,2025-11-02,Moderate,N,Y,Recovering/Resolving
+SUBJ0149,Constipation,2025-09-12,2025-10-01,Mild,N,N,Recovered/Resolved
+SUBJ0150,Pyrexia,2025-02-23,2025-05-10,Mild,N,Y,Recovered/Resolved
+SUBJ0150,Anemia,2024-10-17,2024-12-04,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0150,Fatigue,2024-09-15,2024-09-26,Mild,N,Y,Unknown
+SUBJ0150,Thrombocytopenia,2024-12-02,2024-12-29,Mild,N,Y,Unknown
+SUBJ0150,Neutropenia,2024-11-19,,Moderate,N,Y,Recovering/Resolving
+SUBJ0150,Diarrhea,2025-09-06,2025-10-12,Mild,N,Y,Recovering/Resolving
+SUBJ0150,Anemia,2024-12-18,2025-01-02,Severe,Y,Y,Recovered/Resolved
+SUBJ0150,Neutropenia,2024-11-27,2024-12-11,Mild,Y,Y,Recovered/Resolved
+SUBJ0150,Fatigue,2025-06-26,2025-09-09,Mild,N,Y,Recovered/Resolved
+SUBJ0150,Nausea,2025-02-09,2025-02-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0150,Alopecia,2024-09-28,2024-12-14,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0151,Pyrexia,2025-12-11,2026-01-23,Mild,N,N,Recovered/Resolved
+SUBJ0151,Thrombocytopenia,2025-04-22,2025-05-13,Severe,N,N,Recovering/Resolving
+SUBJ0151,Constipation,2025-12-04,2026-01-29,Mild,N,Y,Recovered/Resolved
+SUBJ0152,Thrombocytopenia,2026-02-18,2026-02-22,Mild,N,Y,Recovering/Resolving
+SUBJ0152,Alopecia,2025-11-28,2026-01-16,Mild,N,Y,Recovering/Resolving
+SUBJ0152,Injection Site Reaction,2025-11-07,2026-01-01,Mild,Y,Y,Recovering/Resolving
+SUBJ0152,Anemia,2025-04-28,2025-06-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0152,Peripheral Neuropathy,2024-11-14,2025-01-01,Moderate,N,N,Recovered/Resolved
+SUBJ0152,Neutropenia,2025-10-23,2025-12-26,Mild,N,N,Recovered/Resolved
+SUBJ0153,Decreased Appetite,2025-01-18,2025-04-17,Moderate,N,N,Recovered/Resolved
+SUBJ0154,Fatigue,2025-03-08,2025-05-15,Mild,N,N,Recovered/Resolved
+SUBJ0154,Stomatitis,2025-12-04,2026-02-10,Severe,Y,N,Recovered/Resolved
+SUBJ0154,Hypertension,2025-07-08,2025-08-09,Moderate,N,N,Unknown
+SUBJ0154,Fatigue,2024-11-14,2024-11-23,Moderate,N,N,Recovered/Resolved
+SUBJ0155,Vomiting,2025-05-05,2025-07-09,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0155,Diarrhea,2024-12-22,2025-01-19,Moderate,N,Y,Recovering/Resolving
+SUBJ0155,Fatigue,2025-08-26,2025-10-26,Mild,N,N,Recovered/Resolved
+SUBJ0155,Peripheral Neuropathy,2025-08-10,2025-08-11,Moderate,N,Y,Fatal
+SUBJ0155,Stomatitis,2025-09-06,2025-10-17,Mild,N,Y,Recovered/Resolved
+SUBJ0155,Decreased Appetite,2024-05-13,2024-06-07,Moderate,N,N,Recovering/Resolving
+SUBJ0155,Pyrexia,2024-06-26,2024-08-29,Moderate,N,N,Recovered/Resolved
+SUBJ0155,Diarrhea,2024-07-03,2024-07-30,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0155,Neutropenia,2024-12-28,2025-01-25,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0155,Alopecia,2025-03-30,2025-06-22,Mild,N,Y,Unknown
+SUBJ0155,Injection Site Reaction,2025-01-06,2025-03-23,Moderate,N,N,Recovered/Resolved
+SUBJ0155,Nausea,2024-05-26,2024-06-04,Severe,Y,Y,Fatal
+SUBJ0156,Stomatitis,2025-06-19,2025-07-30,Moderate,N,Y,Recovered/Resolved
+SUBJ0156,Nausea,2025-06-06,2025-08-02,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0156,Fatigue,2024-08-09,2024-10-02,Mild,N,Y,Recovering/Resolving
+SUBJ0156,Neutropenia,2024-11-10,2025-02-03,Moderate,N,N,Recovering/Resolving
+SUBJ0156,Vomiting,2025-08-31,2025-10-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0156,Diarrhea,2024-08-20,2024-09-25,Mild,N,Y,Recovered/Resolved
+SUBJ0156,Decreased Appetite,2024-07-09,2024-09-30,Moderate,N,N,Recovered/Resolved
+SUBJ0156,Hypertension,2024-07-15,2024-07-26,Mild,N,Y,Recovered/Resolved
+SUBJ0156,Anemia,2025-02-28,2025-05-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0157,Peripheral Neuropathy,2024-11-11,2024-12-12,Mild,N,Y,Unknown
+SUBJ0157,Neutropenia,2024-09-29,2024-12-02,Mild,N,Y,Recovering/Resolving
+SUBJ0157,Stomatitis,2024-12-24,2025-01-06,Mild,N,N,Recovered/Resolved
+SUBJ0157,Pyrexia,2025-02-04,2025-02-06,Moderate,N,N,Fatal
+SUBJ0157,Vomiting,2024-10-18,2024-10-31,Mild,N,Y,Recovering/Resolving
+SUBJ0157,Stomatitis,2025-07-27,2025-08-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0158,Diarrhea,2025-10-12,,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0158,Constipation,2025-07-02,2025-09-17,Mild,N,Y,Recovered/Resolved
+SUBJ0158,Diarrhea,2025-07-19,2025-10-15,Severe,N,Y,Recovered/Resolved
+SUBJ0158,Pyrexia,2025-10-24,2025-12-31,Moderate,N,Y,Recovering/Resolving
+SUBJ0158,Thrombocytopenia,2025-03-11,2025-06-01,Moderate,N,Y,Fatal
+SUBJ0158,Vomiting,2025-11-29,2026-02-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0158,Thrombocytopenia,2025-11-25,2026-02-17,Mild,N,Y,Recovered/Resolved
+SUBJ0158,Peripheral Neuropathy,2025-05-29,2025-06-03,Mild,N,Y,Fatal
+SUBJ0159,Neutropenia,2025-04-03,2025-05-20,Mild,N,Y,Recovered/Resolved
+SUBJ0159,Hypertension,2024-10-04,2024-11-14,Mild,Y,N,Not Recovered/Not Resolved
+SUBJ0159,Anemia,2024-09-29,2024-10-02,Moderate,N,N,Recovered/Resolved
+SUBJ0159,Peripheral Neuropathy,2024-08-21,2024-11-01,Mild,N,Y,Recovered/Resolved
+SUBJ0159,Hypertension,2024-12-13,2025-01-28,Mild,N,Y,Recovered/Resolved
+SUBJ0159,Thrombocytopenia,2025-05-25,2025-07-10,Mild,Y,Y,Recovering/Resolving
+SUBJ0159,Neutropenia,2024-10-14,2024-10-23,Mild,N,Y,Unknown
+SUBJ0159,Diarrhea,2024-10-15,2024-10-22,Mild,N,Y,Recovering/Resolving
+SUBJ0159,Peripheral Neuropathy,2024-12-21,2025-01-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0160,Fatigue,2025-06-05,2025-07-20,Mild,N,Y,Recovered/Resolved
+SUBJ0160,Hypertension,2025-11-19,2026-02-09,Mild,N,N,Recovered/Resolved
+SUBJ0160,Constipation,2025-04-23,2025-07-15,Mild,N,N,Recovered/Resolved
+SUBJ0161,Alopecia,2025-07-20,2025-10-12,Mild,N,N,Recovered/Resolved
+SUBJ0161,Pyrexia,2024-09-09,2024-09-29,Moderate,N,N,Recovered/Resolved
+SUBJ0161,Peripheral Neuropathy,2024-12-26,2025-03-14,Moderate,N,N,Recovering/Resolving
+SUBJ0161,Stomatitis,2024-09-29,2024-10-26,Severe,Y,Y,Recovered/Resolved
+SUBJ0162,Constipation,2025-04-28,2025-05-16,Mild,N,N,Fatal
+SUBJ0163,Anemia,2025-01-04,2025-02-18,Mild,N,N,Recovered/Resolved
+SUBJ0163,Neutropenia,2025-04-01,2025-05-30,Moderate,N,N,Unknown
+SUBJ0163,Anemia,2024-09-03,2024-09-26,Moderate,N,N,Recovered/Resolved
+SUBJ0164,Anemia,2025-02-20,2025-05-15,Mild,N,Y,Recovered/Resolved
+SUBJ0164,Neutropenia,2025-12-20,2026-01-02,Severe,N,Y,Recovered/Resolved
+SUBJ0164,Neutropenia,2024-09-29,2024-11-25,Mild,N,N,Recovered/Resolved
+SUBJ0164,Injection Site Reaction,2025-08-10,2025-10-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0165,Neutropenia,2024-09-18,2024-09-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0165,Neutropenia,2025-03-01,2025-04-13,Moderate,N,N,Recovered/Resolved
+SUBJ0165,Stomatitis,2024-03-28,2024-06-10,Mild,N,Y,Recovered/Resolved
+SUBJ0165,Alopecia,2024-12-03,2025-02-05,Severe,N,Y,Recovered/Resolved
+SUBJ0165,Thrombocytopenia,2025-05-02,2025-05-26,Moderate,N,Y,Recovering/Resolving
+SUBJ0165,Neutropenia,2024-07-18,2024-09-23,Moderate,N,Y,Recovering/Resolving
+SUBJ0165,Pyrexia,2025-07-03,2025-07-13,Mild,N,Y,Recovering/Resolving
+SUBJ0165,Fatigue,2024-05-18,2024-08-11,Moderate,N,Y,Recovering/Resolving
+SUBJ0165,Nausea,2024-05-20,2024-05-24,Mild,N,Y,Recovered/Resolved
+SUBJ0166,Thrombocytopenia,2024-11-06,2024-11-29,Mild,N,N,Recovered/Resolved
+SUBJ0166,Alopecia,2025-12-15,2026-01-21,Severe,N,Y,Recovered/Resolved
+SUBJ0166,Hypertension,2024-12-18,,Mild,N,Y,Recovered/Resolved
+SUBJ0166,Constipation,2025-11-21,2025-12-23,Mild,N,N,Fatal
+SUBJ0167,Pyrexia,2024-10-01,2024-10-09,Moderate,N,N,Recovering/Resolving
+SUBJ0167,Vomiting,2024-05-18,2024-08-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0167,Alopecia,2025-06-15,2025-07-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0167,Constipation,2024-12-14,2025-01-05,Moderate,N,N,Recovered/Resolved
+SUBJ0167,Decreased Appetite,2025-05-31,,Moderate,N,Y,Recovered/Resolved
+SUBJ0167,Nausea,2024-12-14,2025-03-01,Mild,N,Y,Recovered/Resolved
+SUBJ0167,Anemia,2024-03-11,2024-05-08,Mild,N,Y,Recovered/Resolved
+SUBJ0167,Alopecia,2024-11-14,2024-12-16,Mild,N,Y,Unknown
+SUBJ0167,Thrombocytopenia,2024-09-13,2024-10-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0168,Constipation,2024-09-05,2024-11-30,Severe,Y,Y,Recovered/Resolved
+SUBJ0168,Decreased Appetite,2025-02-08,2025-03-21,Mild,N,Y,Recovering/Resolving
+SUBJ0168,Nausea,2024-08-12,2024-09-23,Severe,N,Y,Recovering/Resolving
+SUBJ0168,Alopecia,2024-10-10,2024-11-06,Mild,N,Y,Recovered/Resolved
+SUBJ0168,Fatigue,2025-09-07,2025-11-12,Severe,Y,Y,Recovered/Resolved
+SUBJ0168,Thrombocytopenia,2025-08-21,2025-09-20,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0169,Neutropenia,2025-11-14,2026-01-22,Mild,N,Y,Recovering/Resolving
+SUBJ0169,Pyrexia,2025-01-29,2025-03-14,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0169,Fatigue,2025-05-15,2025-07-09,Mild,N,Y,Recovered/Resolved
+SUBJ0169,Pyrexia,2026-03-05,2026-04-05,Moderate,N,Y,Recovering/Resolving
+SUBJ0169,Diarrhea,2025-06-04,2025-07-28,Mild,N,Y,Recovering/Resolving
+SUBJ0169,Thrombocytopenia,2025-10-29,,Mild,N,N,Recovered/Resolved
+SUBJ0169,Peripheral Neuropathy,2025-12-14,2025-12-23,Mild,N,Y,Recovering/Resolving
+SUBJ0169,Peripheral Neuropathy,2025-04-25,2025-06-08,Mild,N,Y,Fatal
+SUBJ0169,Anemia,2025-11-12,,Moderate,N,Y,Recovered/Resolved
+SUBJ0169,Constipation,2025-07-16,2025-10-04,Mild,N,Y,Recovered/Resolved
+SUBJ0170,Anemia,2024-10-08,2024-12-21,Mild,N,Y,Unknown
+SUBJ0170,Pyrexia,2024-11-04,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0170,Stomatitis,2024-08-10,2024-10-16,Mild,N,Y,Recovered/Resolved
+SUBJ0170,Diarrhea,2024-05-06,2024-06-10,Mild,N,Y,Recovered/Resolved
+SUBJ0170,Diarrhea,2024-11-15,2024-12-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0170,Pyrexia,2025-05-19,2025-06-30,Severe,Y,Y,Unknown
+SUBJ0171,Neutropenia,2024-12-21,2025-03-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0171,Diarrhea,2025-04-19,,Mild,N,Y,Recovered/Resolved
+SUBJ0171,Constipation,2024-05-22,2024-05-27,Mild,N,Y,Recovered/Resolved
+SUBJ0171,Peripheral Neuropathy,2024-03-13,2024-04-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0171,Stomatitis,2024-12-02,2024-12-15,Severe,Y,N,Recovering/Resolving
+SUBJ0171,Decreased Appetite,2024-09-30,2024-12-09,Severe,N,N,Recovering/Resolving
+SUBJ0171,Diarrhea,2024-08-16,2024-10-13,Severe,N,N,Recovered/Resolved
+SUBJ0171,Decreased Appetite,2025-03-10,,Mild,N,N,Unknown
+SUBJ0172,Injection Site Reaction,2025-01-08,2025-01-16,Mild,N,Y,Fatal
+SUBJ0172,Stomatitis,2025-12-12,2026-01-29,Moderate,N,Y,Fatal
+SUBJ0172,Pyrexia,2025-01-18,2025-01-20,Mild,N,Y,Fatal
+SUBJ0172,Diarrhea,2025-07-24,2025-09-26,Mild,N,Y,Recovered/Resolved
+SUBJ0172,Anemia,2024-09-15,2024-09-19,Mild,N,N,Unknown
+SUBJ0172,Fatigue,2025-01-30,,Mild,N,Y,Recovered/Resolved
+SUBJ0174,Thrombocytopenia,2025-05-12,2025-05-15,Severe,Y,N,Recovered/Resolved
+SUBJ0174,Vomiting,2026-01-10,,Moderate,N,N,Recovering/Resolving
+SUBJ0174,Nausea,2024-09-15,2024-09-21,Mild,N,Y,Recovered/Resolved
+SUBJ0174,Diarrhea,2025-01-17,2025-03-04,Mild,N,N,Recovered/Resolved
+SUBJ0174,Anemia,2025-02-07,2025-04-17,Moderate,N,N,Unknown
+SUBJ0174,Nausea,2025-01-31,2025-04-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0174,Diarrhea,2024-11-16,2024-12-27,Mild,N,Y,Recovered/Resolved
+SUBJ0175,Alopecia,2024-05-11,,Severe,Y,Y,Recovered/Resolved
+SUBJ0175,Alopecia,2024-06-17,2024-07-09,Mild,N,Y,Fatal
+SUBJ0175,Injection Site Reaction,2024-07-20,2024-10-16,Mild,N,Y,Recovered/Resolved
+SUBJ0175,Injection Site Reaction,2025-02-04,2025-03-19,Mild,N,Y,Recovered/Resolved
+SUBJ0175,Nausea,2024-12-01,2024-12-11,Mild,N,Y,Recovered/Resolved
+SUBJ0175,Thrombocytopenia,2024-09-08,2024-11-09,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0175,Hypertension,2025-03-25,2025-05-14,Mild,N,N,Recovering/Resolving
+SUBJ0175,Fatigue,2025-03-07,2025-03-13,Mild,N,N,Recovering/Resolving
+SUBJ0175,Neutropenia,2025-04-14,2025-05-16,Mild,N,Y,Recovering/Resolving
+SUBJ0176,Neutropenia,2024-08-20,2024-09-29,Moderate,N,Y,Recovering/Resolving
+SUBJ0176,Stomatitis,2024-07-15,2024-08-20,Mild,N,N,Recovered/Resolved
+SUBJ0176,Thrombocytopenia,2024-11-01,,Severe,N,N,Recovered/Resolved
+SUBJ0176,Thrombocytopenia,2024-11-20,,Severe,Y,N,Recovering/Resolving
+SUBJ0177,Fatigue,2025-08-09,2025-09-09,Moderate,N,N,Recovered/Resolved
+SUBJ0178,Hypertension,2025-07-17,2025-10-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0178,Decreased Appetite,2025-07-31,2025-08-21,Mild,N,Y,Recovered/Resolved
+SUBJ0178,Peripheral Neuropathy,2024-09-18,2024-10-23,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0178,Stomatitis,2025-05-23,2025-07-02,Moderate,Y,Y,Recovered/Resolved
+SUBJ0178,Diarrhea,2025-01-22,2025-04-02,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0178,Pyrexia,2025-05-25,2025-06-14,Mild,N,Y,Recovering/Resolving
+SUBJ0178,Pyrexia,2025-04-16,2025-06-19,Moderate,N,Y,Recovering/Resolving
+SUBJ0178,Anemia,2025-04-03,2025-05-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0179,Pyrexia,2024-11-11,2025-01-24,Severe,Y,Y,Recovered/Resolved
+SUBJ0179,Injection Site Reaction,2024-11-08,2024-12-14,Mild,N,N,Recovered/Resolved
+SUBJ0179,Decreased Appetite,2025-04-05,2025-06-03,Mild,N,Y,Recovered/Resolved
+SUBJ0179,Constipation,2024-12-07,2025-02-02,Moderate,N,N,Recovered/Resolved
+SUBJ0180,Diarrhea,2025-05-24,2025-06-01,Mild,N,Y,Recovered/Resolved
+SUBJ0180,Anemia,2025-08-04,2025-09-20,Moderate,N,N,Unknown
+SUBJ0180,Peripheral Neuropathy,2025-04-05,2025-06-28,Mild,N,Y,Recovered/Resolved
+SUBJ0180,Peripheral Neuropathy,2025-01-13,2025-01-15,Moderate,N,N,Recovered/Resolved
+SUBJ0180,Constipation,2024-10-14,2024-12-27,Severe,Y,N,Recovered/Resolved
+SUBJ0180,Diarrhea,2025-05-14,2025-06-11,Mild,N,N,Fatal
+SUBJ0181,Decreased Appetite,2025-04-11,2025-06-13,Moderate,Y,Y,Recovered/Resolved
+SUBJ0181,Constipation,2025-05-13,2025-07-14,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0181,Injection Site Reaction,2025-10-28,2025-12-25,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0181,Neutropenia,2026-01-20,2026-03-08,Mild,N,N,Recovered/Resolved
+SUBJ0181,Injection Site Reaction,2025-03-18,2025-04-24,Moderate,N,Y,Unknown
+SUBJ0181,Pyrexia,2025-07-25,2025-10-22,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0181,Injection Site Reaction,2025-03-29,2025-06-18,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0181,Stomatitis,2025-09-28,2025-12-08,Mild,N,Y,Recovered/Resolved
+SUBJ0181,Thrombocytopenia,2025-08-12,2025-10-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0181,Diarrhea,2024-12-27,2025-01-27,Mild,N,Y,Recovered/Resolved
+SUBJ0181,Nausea,2025-09-08,2025-10-21,Mild,Y,Y,Recovered/Resolved
+SUBJ0181,Anemia,2025-10-15,2025-10-17,Severe,N,N,Recovered/Resolved
+SUBJ0181,Alopecia,2025-07-28,2025-10-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0182,Thrombocytopenia,2025-03-21,2025-06-01,Moderate,N,N,Recovered/Resolved
+SUBJ0182,Vomiting,2025-09-08,2025-09-29,Moderate,N,N,Unknown
+SUBJ0183,Diarrhea,2024-07-23,2024-08-23,Moderate,N,N,Recovered/Resolved
+SUBJ0184,Nausea,2025-09-05,2025-11-26,Mild,N,N,Recovered/Resolved
+SUBJ0184,Vomiting,2024-12-11,2025-02-19,Mild,N,N,Recovered/Resolved
+SUBJ0184,Decreased Appetite,2025-09-13,,Moderate,N,N,Recovered/Resolved
+SUBJ0184,Constipation,2025-06-02,2025-07-23,Mild,N,N,Recovered/Resolved
+SUBJ0186,Constipation,2025-11-06,2026-01-05,Mild,N,Y,Fatal
+SUBJ0186,Fatigue,2025-03-21,2025-04-27,Mild,N,Y,Recovered/Resolved
+SUBJ0186,Anemia,2025-12-14,2026-03-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0187,Thrombocytopenia,2025-01-20,,Mild,N,Y,Recovered/Resolved
+SUBJ0187,Diarrhea,2025-03-30,2025-04-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0187,Constipation,2025-04-08,2025-06-13,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0187,Nausea,2025-02-16,2025-02-25,Mild,N,N,Recovered/Resolved
+SUBJ0187,Decreased Appetite,2025-06-05,2025-08-19,Severe,Y,Y,Recovering/Resolving
+SUBJ0187,Vomiting,2024-09-19,2024-10-12,Mild,N,Y,Recovered/Resolved
+SUBJ0187,Neutropenia,2025-06-16,,Moderate,N,Y,Recovered/Resolved
+SUBJ0187,Hypertension,2024-12-04,2025-03-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0187,Fatigue,2024-07-23,2024-10-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0188,Stomatitis,2024-07-13,2024-07-19,Severe,Y,N,Recovered/Resolved
+SUBJ0188,Alopecia,2024-10-23,2025-01-08,Mild,N,Y,Recovered/Resolved
+SUBJ0188,Peripheral Neuropathy,2024-08-26,,Mild,N,N,Recovering/Resolving
+SUBJ0188,Anemia,2025-04-28,2025-05-28,Mild,N,N,Recovered/Resolved
+SUBJ0188,Injection Site Reaction,2025-01-03,2025-02-22,Mild,N,N,Recovered/Resolved
+SUBJ0189,Vomiting,2024-12-06,2025-01-03,Mild,N,N,Recovering/Resolving
+SUBJ0189,Alopecia,2025-08-30,2025-09-26,Mild,N,N,Recovered/Resolved
+SUBJ0189,Hypertension,2025-12-16,2026-01-22,Mild,N,N,Recovered/Resolved
+SUBJ0189,Anemia,2025-05-19,2025-07-20,Mild,N,N,Unknown
+SUBJ0189,Injection Site Reaction,2024-10-16,2024-11-17,Mild,Y,N,Recovering/Resolving
+SUBJ0190,Constipation,2024-09-25,2024-10-13,Severe,N,Y,Recovered/Resolved
+SUBJ0190,Fatigue,2024-08-18,2024-09-08,Moderate,N,N,Recovered/Resolved
+SUBJ0190,Anemia,2024-04-15,2024-06-09,Moderate,N,Y,Recovering/Resolving
+SUBJ0190,Decreased Appetite,2024-12-26,2025-03-18,Mild,N,N,Recovered/Resolved
+SUBJ0190,Hypertension,2024-09-20,2024-10-09,Mild,N,Y,Recovered/Resolved
+SUBJ0190,Hypertension,2024-10-01,2024-12-16,Moderate,N,N,Recovered/Resolved
+SUBJ0190,Alopecia,2024-11-12,2024-12-17,Moderate,N,Y,Recovering/Resolving
+SUBJ0190,Alopecia,2025-06-04,2025-07-30,Mild,N,Y,Unknown
+SUBJ0190,Constipation,2025-03-04,,Moderate,N,Y,Recovered/Resolved
+SUBJ0190,Nausea,2024-09-08,2024-10-27,Mild,N,N,Recovered/Resolved
+SUBJ0191,Diarrhea,2026-01-05,2026-03-26,Mild,N,Y,Recovering/Resolving
+SUBJ0191,Hypertension,2025-03-12,2025-03-25,Severe,N,Y,Unknown
+SUBJ0191,Neutropenia,2024-10-28,2024-12-04,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0191,Constipation,2025-12-05,2025-12-19,Mild,N,Y,Recovered/Resolved
+SUBJ0192,Vomiting,2024-06-20,2024-09-17,Mild,N,Y,Recovered/Resolved
+SUBJ0192,Diarrhea,2024-08-18,2024-10-14,Mild,N,Y,Unknown
+SUBJ0192,Anemia,2025-03-29,2025-05-14,Mild,N,Y,Recovered/Resolved
+SUBJ0192,Anemia,2025-05-21,2025-05-30,Mild,N,Y,Recovered/Resolved
+SUBJ0192,Injection Site Reaction,2024-11-01,2024-12-10,Mild,N,N,Recovered/Resolved
+SUBJ0193,Stomatitis,2024-08-30,2024-09-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0194,Hypertension,2024-06-17,2024-09-11,Severe,N,Y,Recovered/Resolved
+SUBJ0194,Constipation,2024-11-15,2025-01-08,Mild,N,N,Recovered/Resolved
+SUBJ0195,Nausea,2024-05-31,2024-06-14,Mild,N,N,Recovered/Resolved
+SUBJ0195,Constipation,2024-06-15,2024-08-13,Moderate,N,N,Recovering/Resolving
+SUBJ0195,Thrombocytopenia,2025-01-29,,Moderate,N,N,Recovering/Resolving
+SUBJ0195,Thrombocytopenia,2025-05-23,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0195,Pyrexia,2024-12-05,2025-02-22,Mild,N,N,Recovered/Resolved
+SUBJ0195,Hypertension,2025-02-07,,Mild,Y,Y,Recovered/Resolved
+SUBJ0195,Alopecia,2024-09-09,2024-10-22,Moderate,N,Y,Recovering/Resolving
+SUBJ0195,Diarrhea,2024-03-25,,Moderate,N,Y,Recovered/Resolved
+SUBJ0196,Vomiting,2024-06-16,2024-07-30,Mild,N,Y,Recovered/Resolved
+SUBJ0196,Constipation,2024-03-23,,Mild,N,N,Recovering/Resolving
+SUBJ0196,Pyrexia,2024-02-26,2024-04-05,Severe,Y,Y,Recovered/Resolved
+SUBJ0196,Anemia,2025-05-27,2025-06-05,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0196,Stomatitis,2025-05-12,2025-08-01,Mild,N,N,Recovered/Resolved
+SUBJ0196,Diarrhea,2024-12-13,2025-01-07,Severe,N,Y,Fatal
+SUBJ0196,Pyrexia,2024-10-20,2024-12-22,Moderate,N,N,Recovered/Resolved
+SUBJ0197,Vomiting,2025-05-18,2025-07-22,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0197,Constipation,2024-08-03,2024-08-05,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0198,Decreased Appetite,2024-10-03,2024-10-11,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0198,Hypertension,2025-02-03,2025-03-29,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0199,Vomiting,2025-07-27,2025-08-10,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0199,Fatigue,2025-06-13,2025-06-28,Mild,N,Y,Recovered/Resolved
+SUBJ0199,Diarrhea,2024-05-31,,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0199,Constipation,2025-04-11,2025-05-24,Moderate,N,Y,Fatal
+SUBJ0199,Diarrhea,2025-01-09,2025-03-21,Severe,Y,N,Recovering/Resolving
+SUBJ0199,Vomiting,2024-09-18,2024-10-26,Mild,N,Y,Recovered/Resolved
+SUBJ0199,Hypertension,2024-07-12,2024-09-30,Mild,N,Y,Recovering/Resolving
+SUBJ0199,Diarrhea,2025-01-10,2025-04-01,Moderate,Y,Y,Recovered/Resolved
+SUBJ0200,Decreased Appetite,2024-02-18,2024-02-27,Severe,Y,Y,Recovered/Resolved
+SUBJ0200,Alopecia,2024-12-28,2025-02-20,Mild,N,N,Recovering/Resolving
+SUBJ0200,Vomiting,2025-04-20,2025-07-09,Mild,N,Y,Recovered/Resolved
+SUBJ0200,Vomiting,2024-02-28,2024-04-21,Mild,N,Y,Recovering/Resolving
+SUBJ0200,Neutropenia,2025-04-18,2025-04-19,Severe,Y,Y,Recovered/Resolved
+SUBJ0200,Constipation,2024-12-26,2024-12-28,Moderate,Y,Y,Recovered/Resolved
+SUBJ0201,Anemia,2024-11-14,2024-12-31,Severe,Y,Y,Recovered/Resolved
+SUBJ0202,Peripheral Neuropathy,2025-06-10,2025-09-02,Mild,N,N,Recovered/Resolved
+SUBJ0202,Thrombocytopenia,2024-06-16,2024-07-27,Moderate,N,N,Recovered/Resolved
+SUBJ0202,Injection Site Reaction,2024-06-11,,Mild,N,N,Unknown
+SUBJ0202,Decreased Appetite,2025-08-11,2025-10-09,Mild,N,N,Recovered/Resolved
+SUBJ0202,Alopecia,2025-08-16,2025-08-17,Severe,Y,N,Recovered/Resolved
+SUBJ0202,Vomiting,2024-08-22,2024-10-26,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0203,Fatigue,2024-12-20,2025-03-11,Mild,N,Y,Recovered/Resolved
+SUBJ0203,Diarrhea,2024-10-29,2024-12-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0203,Pyrexia,2025-05-21,2025-06-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0203,Fatigue,2024-08-03,2024-08-30,Mild,Y,Y,Recovered/Resolved
+SUBJ0203,Fatigue,2024-09-25,2024-10-16,Mild,N,Y,Recovered/Resolved
+SUBJ0204,Constipation,2025-06-14,2025-07-13,Moderate,N,N,Unknown
+SUBJ0204,Vomiting,2025-10-20,2026-01-17,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0204,Neutropenia,2025-08-31,2025-09-06,Mild,N,Y,Recovered/Resolved
+SUBJ0204,Vomiting,2025-09-01,2025-10-31,Mild,N,N,Recovered/Resolved
+SUBJ0204,Decreased Appetite,2025-06-14,2025-08-23,Moderate,Y,Y,Recovered/Resolved
+SUBJ0204,Injection Site Reaction,2025-10-05,2025-11-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0204,Fatigue,2025-09-29,2025-10-01,Mild,N,Y,Recovered/Resolved
+SUBJ0204,Constipation,2025-11-09,2026-02-02,Mild,Y,Y,Recovered/Resolved
+SUBJ0205,Thrombocytopenia,2024-06-13,2024-06-20,Moderate,N,N,Recovered/Resolved
+SUBJ0205,Nausea,2024-07-12,2024-08-29,Moderate,N,N,Recovered/Resolved
+SUBJ0205,Peripheral Neuropathy,2024-05-12,2024-06-22,Moderate,N,N,Recovering/Resolving
+SUBJ0205,Fatigue,2024-10-28,2024-12-20,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0206,Injection Site Reaction,2025-08-06,2025-09-26,Mild,N,N,Recovered/Resolved
+SUBJ0206,Nausea,2025-01-08,2025-02-24,Moderate,N,N,Recovered/Resolved
+SUBJ0206,Anemia,2026-02-19,2026-03-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0206,Decreased Appetite,2025-03-23,2025-05-09,Mild,Y,Y,Recovered/Resolved
+SUBJ0206,Nausea,2025-05-19,2025-08-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0206,Stomatitis,2025-06-27,2025-07-24,Mild,N,N,Recovered/Resolved
+SUBJ0206,Constipation,2026-02-11,2026-02-24,Mild,N,Y,Recovered/Resolved
+SUBJ0206,Stomatitis,2025-03-29,2025-04-14,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0206,Diarrhea,2025-05-20,2025-07-01,Mild,N,Y,Recovered/Resolved
+SUBJ0207,Anemia,2025-07-23,,Mild,N,Y,Recovering/Resolving
+SUBJ0207,Diarrhea,2024-06-13,2024-07-12,Severe,N,N,Recovering/Resolving
+SUBJ0207,Hypertension,2025-02-10,,Severe,N,N,Recovered/Resolved
+SUBJ0207,Vomiting,2025-02-26,2025-05-25,Severe,Y,N,Recovered/Resolved
+SUBJ0208,Vomiting,2025-02-08,2025-04-09,Moderate,N,N,Recovered/Resolved
+SUBJ0208,Injection Site Reaction,2025-10-04,2025-12-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0208,Neutropenia,2025-05-25,2025-08-17,Moderate,N,Y,Recovering/Resolving
+SUBJ0208,Diarrhea,2025-01-29,2025-03-18,Mild,N,Y,Recovered/Resolved
+SUBJ0208,Pyrexia,2024-10-11,2024-11-22,Mild,N,N,Recovered/Resolved
+SUBJ0208,Fatigue,2025-12-19,2026-03-09,Moderate,N,N,Recovered/Resolved
+SUBJ0208,Injection Site Reaction,2025-02-16,2025-04-19,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0209,Alopecia,2024-10-20,2024-11-13,Moderate,N,Y,Recovering/Resolving
+SUBJ0210,Neutropenia,2025-04-09,2025-05-21,Moderate,N,Y,Recovering/Resolving
+SUBJ0210,Anemia,2024-10-29,2024-10-31,Mild,N,Y,Recovered/Resolved
+SUBJ0211,Fatigue,2024-09-21,2024-11-08,Mild,N,Y,Recovering/Resolving
+SUBJ0211,Vomiting,2024-12-06,2024-12-17,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0211,Thrombocytopenia,2025-05-05,2025-06-19,Moderate,Y,Y,Recovered/Resolved
+SUBJ0211,Decreased Appetite,2025-02-23,2025-05-23,Mild,N,Y,Recovering/Resolving
+SUBJ0211,Alopecia,2024-04-23,2024-06-08,Moderate,N,N,Recovering/Resolving
+SUBJ0211,Nausea,2025-08-19,,Severe,Y,Y,Recovered/Resolved
+SUBJ0211,Vomiting,2025-04-22,2025-06-09,Mild,N,Y,Fatal
+SUBJ0211,Decreased Appetite,2024-07-28,2024-08-25,Mild,N,Y,Recovering/Resolving
+SUBJ0211,Peripheral Neuropathy,2024-06-24,2024-08-12,Severe,Y,N,Recovered/Resolved
+SUBJ0211,Constipation,2024-08-04,,Moderate,N,Y,Recovered/Resolved
+SUBJ0211,Stomatitis,2024-06-27,2024-09-22,Moderate,N,N,Recovered/Resolved
+SUBJ0212,Diarrhea,2024-04-14,,Mild,N,Y,Recovered/Resolved
+SUBJ0212,Fatigue,2024-06-03,2024-07-12,Mild,N,N,Fatal
+SUBJ0212,Anemia,2025-01-25,2025-03-05,Mild,N,Y,Fatal
+SUBJ0212,Decreased Appetite,2024-04-23,2024-07-05,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0212,Decreased Appetite,2024-06-24,2024-08-19,Moderate,N,N,Recovered/Resolved
+SUBJ0212,Hypertension,2024-06-26,2024-07-07,Mild,N,N,Recovered/Resolved
+SUBJ0212,Hypertension,2025-07-28,2025-10-13,Mild,N,Y,Recovered/Resolved
+SUBJ0212,Alopecia,2025-04-12,2025-04-28,Mild,N,N,Recovered/Resolved
+SUBJ0212,Fatigue,2025-07-01,2025-08-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0212,Fatigue,2024-12-17,2025-02-13,Moderate,N,Y,Unknown
+SUBJ0212,Pyrexia,2024-07-13,2024-08-13,Mild,N,N,Recovered/Resolved
+SUBJ0213,Nausea,2024-09-03,2024-09-23,Mild,N,Y,Recovered/Resolved
+SUBJ0213,Hypertension,2025-01-03,2025-03-12,Moderate,N,Y,Recovering/Resolving
+SUBJ0213,Diarrhea,2024-04-15,2024-05-04,Severe,Y,N,Fatal
+SUBJ0214,Neutropenia,2025-03-03,2025-03-06,Mild,N,Y,Recovered/Resolved
+SUBJ0214,Pyrexia,2025-08-24,2025-11-02,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0214,Vomiting,2025-02-17,2025-02-23,Severe,N,Y,Recovered/Resolved
+SUBJ0214,Constipation,2024-12-01,2025-02-01,Mild,N,Y,Recovered/Resolved
+SUBJ0215,Anemia,2024-10-14,2024-12-18,Moderate,Y,Y,Recovered/Resolved
+SUBJ0215,Anemia,2024-12-13,2024-12-21,Severe,N,N,Recovered/Resolved
+SUBJ0215,Anemia,2025-06-12,2025-06-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0215,Peripheral Neuropathy,2024-12-19,2025-01-10,Mild,N,N,Recovering/Resolving
+SUBJ0215,Constipation,2024-09-18,2024-10-01,Severe,Y,N,Recovering/Resolving
+SUBJ0216,Nausea,2025-08-26,2025-10-30,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0216,Stomatitis,2025-06-10,2025-07-05,Mild,N,N,Recovering/Resolving
+SUBJ0216,Neutropenia,2025-07-27,2025-10-19,Mild,N,N,Recovered/Resolved
+SUBJ0216,Peripheral Neuropathy,2025-05-28,2025-05-30,Moderate,Y,N,Fatal
+SUBJ0216,Decreased Appetite,2025-12-21,2026-02-24,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0216,Neutropenia,2025-07-18,2025-10-02,Moderate,Y,N,Not Recovered/Not Resolved
+SUBJ0216,Neutropenia,2025-08-16,2025-11-11,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0216,Diarrhea,2025-08-17,2025-08-27,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0216,Vomiting,2025-01-01,2025-03-28,Mild,N,N,Recovered/Resolved
+SUBJ0217,Constipation,2024-02-05,2024-03-04,Mild,N,Y,Recovered/Resolved
+SUBJ0217,Vomiting,2024-11-13,2024-11-14,Mild,N,N,Recovered/Resolved
+SUBJ0217,Hypertension,2024-06-12,2024-07-15,Mild,N,N,Recovered/Resolved
+SUBJ0217,Nausea,2025-05-29,2025-07-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0217,Diarrhea,2025-05-06,2025-06-16,Mild,N,N,Recovering/Resolving
+SUBJ0217,Hypertension,2024-12-21,2025-01-08,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0217,Thrombocytopenia,2024-10-16,2025-01-13,Mild,Y,N,Unknown
+SUBJ0218,Diarrhea,2024-11-23,2024-12-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0218,Constipation,2025-05-15,2025-08-11,Severe,Y,Y,Recovering/Resolving
+SUBJ0218,Hypertension,2025-04-04,2025-04-06,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0219,Thrombocytopenia,2025-12-14,2026-01-26,Moderate,N,N,Fatal
+SUBJ0219,Neutropenia,2025-06-14,2025-08-21,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0219,Fatigue,2025-05-01,,Mild,N,N,Recovering/Resolving
+SUBJ0219,Thrombocytopenia,2025-11-22,2026-01-18,Severe,Y,Y,Recovered/Resolved
+SUBJ0219,Fatigue,2026-01-16,2026-03-19,Mild,N,Y,Recovering/Resolving
+SUBJ0219,Constipation,2025-09-12,2025-11-29,Severe,Y,N,Recovered/Resolved
+SUBJ0219,Decreased Appetite,2025-01-07,2025-03-12,Mild,N,Y,Recovered/Resolved
+SUBJ0219,Pyrexia,2024-12-01,2025-01-16,Mild,N,Y,Recovered/Resolved
+SUBJ0220,Neutropenia,2024-08-12,2024-10-19,Mild,N,Y,Recovered/Resolved
+SUBJ0220,Alopecia,2024-12-14,2025-02-04,Severe,Y,Y,Recovered/Resolved
+SUBJ0220,Constipation,2025-03-13,2025-04-20,Severe,Y,Y,Recovered/Resolved
+SUBJ0220,Peripheral Neuropathy,2025-07-19,2025-09-20,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0220,Thrombocytopenia,2024-09-29,2024-11-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0220,Vomiting,2025-01-14,2025-03-27,Mild,N,Y,Recovering/Resolving
+SUBJ0220,Neutropenia,2025-05-16,2025-08-02,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0220,Hypertension,2025-02-27,2025-04-29,Mild,N,Y,Fatal
+SUBJ0220,Fatigue,2025-01-03,2025-02-06,Severe,Y,Y,Recovering/Resolving
+SUBJ0221,Stomatitis,2025-11-27,2025-12-27,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0221,Anemia,2025-06-20,2025-07-08,Mild,N,N,Recovering/Resolving
+SUBJ0221,Peripheral Neuropathy,2025-05-04,2025-06-23,Mild,N,Y,Recovered/Resolved
+SUBJ0221,Diarrhea,2025-07-07,2025-09-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0221,Diarrhea,2024-09-22,2024-09-30,Severe,Y,Y,Recovered/Resolved
+SUBJ0221,Thrombocytopenia,2025-05-19,2025-05-26,Mild,N,Y,Recovered/Resolved
+SUBJ0221,Stomatitis,2024-09-18,2024-10-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0221,Constipation,2024-12-05,,Mild,N,Y,Unknown
+SUBJ0221,Hypertension,2024-09-17,2024-10-07,Mild,N,Y,Recovered/Resolved
+SUBJ0222,Diarrhea,2025-03-17,2025-03-22,Mild,N,Y,Recovered/Resolved
+SUBJ0222,Pyrexia,2024-05-14,,Moderate,N,Y,Recovering/Resolving
+SUBJ0222,Fatigue,2024-12-02,2025-01-22,Mild,N,Y,Fatal
+SUBJ0222,Vomiting,2024-10-16,,Moderate,N,Y,Unknown
+SUBJ0223,Constipation,2025-05-21,2025-07-27,Mild,N,N,Recovered/Resolved
+SUBJ0223,Hypertension,2025-05-13,2025-07-15,Moderate,N,N,Recovered/Resolved
+SUBJ0223,Neutropenia,2025-04-09,2025-04-10,Mild,N,N,Recovered/Resolved
+SUBJ0223,Neutropenia,2024-08-15,2024-11-09,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0224,Stomatitis,2025-07-20,2025-08-15,Mild,N,N,Recovered/Resolved
+SUBJ0224,Fatigue,2024-12-20,2025-02-09,Mild,N,N,Recovered/Resolved
+SUBJ0224,Stomatitis,2024-07-17,2024-07-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0224,Thrombocytopenia,2024-12-16,,Mild,N,N,Recovering/Resolving
+SUBJ0224,Thrombocytopenia,2025-09-03,,Mild,Y,Y,Recovered/Resolved
+SUBJ0224,Nausea,2024-12-18,2025-01-22,Moderate,N,N,Recovered/Resolved
+SUBJ0225,Stomatitis,2025-04-18,2025-05-21,Moderate,N,N,Recovering/Resolving
+SUBJ0225,Pyrexia,2025-02-17,2025-04-11,Severe,Y,N,Recovered/Resolved
+SUBJ0225,Stomatitis,2024-09-09,2024-09-17,Mild,N,N,Recovered/Resolved
+SUBJ0225,Stomatitis,2024-11-17,,Severe,N,N,Recovered/Resolved
+SUBJ0225,Alopecia,2024-09-18,2024-12-17,Severe,Y,N,Recovered/Resolved
+SUBJ0225,Stomatitis,2025-07-12,2025-09-21,Mild,N,N,Recovered/Resolved
+SUBJ0225,Thrombocytopenia,2025-06-14,2025-08-25,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0226,Neutropenia,2024-07-20,2024-08-23,Mild,N,Y,Recovered/Resolved
+SUBJ0226,Neutropenia,2025-10-25,2026-01-01,Severe,N,Y,Unknown
+SUBJ0226,Pyrexia,2025-09-04,2025-09-17,Moderate,N,N,Recovering/Resolving
+SUBJ0226,Nausea,2025-09-29,2025-12-23,Mild,N,N,Recovered/Resolved
+SUBJ0226,Constipation,2025-02-09,2025-03-17,Moderate,N,N,Recovered/Resolved
+SUBJ0226,Pyrexia,2025-06-22,2025-07-11,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0227,Alopecia,2024-10-25,2024-12-28,Mild,N,N,Recovered/Resolved
+SUBJ0227,Nausea,2024-08-18,2024-10-18,Mild,N,Y,Recovering/Resolving
+SUBJ0227,Pyrexia,2024-10-07,2024-11-12,Moderate,N,N,Recovered/Resolved
+SUBJ0227,Pyrexia,2025-04-02,2025-06-07,Mild,N,N,Recovered/Resolved
+SUBJ0228,Pyrexia,2024-11-06,2024-12-29,Moderate,N,N,Recovered/Resolved
+SUBJ0228,Fatigue,2024-11-12,2024-11-17,Mild,N,N,Recovered/Resolved
+SUBJ0228,Neutropenia,2025-09-11,,Mild,N,N,Unknown
+SUBJ0229,Thrombocytopenia,2024-06-20,2024-07-07,Moderate,N,N,Fatal
+SUBJ0229,Alopecia,2024-08-05,2024-10-22,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0230,Decreased Appetite,2025-08-10,,Mild,N,N,Recovered/Resolved
+SUBJ0230,Thrombocytopenia,2025-01-16,2025-03-18,Mild,N,N,Recovered/Resolved
+SUBJ0231,Decreased Appetite,2025-12-15,2026-02-21,Mild,N,Y,Recovered/Resolved
+SUBJ0231,Injection Site Reaction,2026-01-16,2026-03-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0231,Pyrexia,2025-02-08,,Severe,Y,Y,Recovered/Resolved
+SUBJ0231,Decreased Appetite,2025-06-13,2025-09-10,Mild,Y,N,Recovered/Resolved
+SUBJ0232,Thrombocytopenia,2024-12-15,2024-12-25,Moderate,N,Y,Recovering/Resolving
+SUBJ0232,Thrombocytopenia,2025-01-23,2025-02-23,Mild,N,Y,Recovered/Resolved
+SUBJ0232,Thrombocytopenia,2025-12-09,2026-01-13,Moderate,N,Y,Recovering/Resolving
+SUBJ0232,Anemia,2025-08-15,2025-08-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0232,Pyrexia,2024-10-02,,Moderate,N,Y,Recovered/Resolved
+SUBJ0233,Thrombocytopenia,2025-04-12,2025-04-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0233,Alopecia,2025-04-09,2025-06-23,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0233,Nausea,2025-03-31,,Moderate,N,Y,Recovered/Resolved
+SUBJ0233,Injection Site Reaction,2025-11-21,2026-02-12,Mild,N,Y,Recovering/Resolving
+SUBJ0233,Diarrhea,2025-07-02,2025-07-30,Mild,N,Y,Recovered/Resolved
+SUBJ0233,Hypertension,2025-06-26,2025-07-22,Mild,N,Y,Recovering/Resolving
+SUBJ0233,Pyrexia,2025-04-04,2025-06-21,Mild,N,Y,Recovering/Resolving
+SUBJ0233,Constipation,2025-04-13,2025-07-02,Moderate,N,N,Recovered/Resolved
+SUBJ0233,Constipation,2025-05-30,2025-08-05,Mild,N,Y,Recovered/Resolved
+SUBJ0233,Thrombocytopenia,2024-10-30,2025-01-18,Mild,N,Y,Recovered/Resolved
+SUBJ0233,Diarrhea,2025-05-10,2025-05-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0234,Fatigue,2025-05-08,2025-08-03,Mild,N,N,Recovered/Resolved
+SUBJ0234,Alopecia,2025-06-02,2025-07-19,Mild,N,N,Recovered/Resolved
+SUBJ0234,Alopecia,2024-05-14,,Moderate,N,N,Recovered/Resolved
+SUBJ0234,Diarrhea,2025-04-06,2025-05-22,Severe,Y,N,Recovered/Resolved
+SUBJ0234,Neutropenia,2024-10-23,2024-11-29,Severe,Y,N,Recovered/Resolved
+SUBJ0234,Constipation,2025-06-24,2025-07-07,Moderate,N,N,Recovered/Resolved
+SUBJ0234,Anemia,2024-03-27,2024-06-18,Moderate,N,N,Recovering/Resolving
+SUBJ0234,Pyrexia,2025-01-25,2025-02-22,Mild,N,N,Recovered/Resolved
+SUBJ0235,Diarrhea,2025-12-29,,Moderate,N,Y,Recovering/Resolving
+SUBJ0235,Constipation,2025-04-17,2025-06-03,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0235,Pyrexia,2024-10-15,2024-10-21,Mild,N,Y,Recovered/Resolved
+SUBJ0235,Peripheral Neuropathy,2025-11-03,2026-01-15,Mild,N,N,Recovered/Resolved
+SUBJ0235,Stomatitis,2025-10-26,2025-12-25,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0235,Neutropenia,2026-01-30,,Moderate,N,N,Recovered/Resolved
+SUBJ0236,Thrombocytopenia,2025-08-16,,Mild,N,Y,Recovered/Resolved
+SUBJ0236,Stomatitis,2024-10-28,2024-12-31,Mild,N,Y,Recovered/Resolved
+SUBJ0236,Neutropenia,2025-07-18,2025-09-28,Mild,N,Y,Recovered/Resolved
+SUBJ0236,Neutropenia,2025-07-07,2025-09-09,Moderate,N,N,Recovered/Resolved
+SUBJ0236,Neutropenia,2024-10-09,2024-11-29,Severe,N,Y,Recovered/Resolved
+SUBJ0236,Fatigue,2025-07-27,2025-09-10,Mild,N,Y,Recovered/Resolved
+SUBJ0236,Alopecia,2025-03-18,2025-04-05,Mild,N,Y,Recovered/Resolved
+SUBJ0237,Peripheral Neuropathy,2024-05-01,2024-05-14,Mild,N,N,Recovered/Resolved
+SUBJ0237,Peripheral Neuropathy,2024-06-09,2024-06-24,Moderate,N,N,Unknown
+SUBJ0237,Injection Site Reaction,2025-06-03,2025-08-29,Moderate,N,N,Recovered/Resolved
+SUBJ0237,Diarrhea,2024-04-23,2024-07-14,Mild,N,Y,Recovered/Resolved
+SUBJ0238,Peripheral Neuropathy,2025-12-20,2026-01-08,Mild,N,N,Recovered/Resolved
+SUBJ0239,Decreased Appetite,2025-03-24,2025-05-21,Mild,N,Y,Recovering/Resolving
+SUBJ0239,Alopecia,2025-03-12,2025-03-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0239,Stomatitis,2025-06-28,2025-07-18,Severe,Y,N,Recovered/Resolved
+SUBJ0240,Nausea,2025-07-04,2025-07-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0240,Nausea,2024-11-10,2024-12-26,Mild,N,Y,Recovered/Resolved
+SUBJ0240,Injection Site Reaction,2024-10-09,2024-12-03,Moderate,N,Y,Recovering/Resolving
+SUBJ0240,Diarrhea,2025-03-18,2025-05-16,Mild,N,N,Recovered/Resolved
+SUBJ0240,Hypertension,2024-08-28,2024-09-04,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0240,Nausea,2024-06-13,2024-08-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0240,Vomiting,2024-11-02,2024-12-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0241,Stomatitis,2025-03-14,2025-04-30,Moderate,N,N,Recovered/Resolved
+SUBJ0241,Peripheral Neuropathy,2025-07-19,2025-09-19,Moderate,N,N,Recovering/Resolving
+SUBJ0241,Injection Site Reaction,2024-08-25,2024-10-20,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0242,Pyrexia,2025-07-27,2025-08-16,Mild,N,Y,Recovering/Resolving
+SUBJ0242,Stomatitis,2025-10-10,2025-12-04,Moderate,N,Y,Recovering/Resolving
+SUBJ0242,Constipation,2025-06-11,2025-06-14,Severe,N,N,Recovered/Resolved
+SUBJ0242,Injection Site Reaction,2024-11-10,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0242,Anemia,2025-08-22,2025-09-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0242,Hypertension,2025-04-17,2025-04-26,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0243,Anemia,2024-10-08,2024-12-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0243,Nausea,2025-05-10,2025-05-25,Mild,N,Y,Recovering/Resolving
+SUBJ0243,Diarrhea,2025-07-13,2025-07-20,Mild,N,N,Recovered/Resolved
+SUBJ0243,Injection Site Reaction,2025-06-29,2025-07-07,Severe,Y,Y,Recovering/Resolving
+SUBJ0243,Peripheral Neuropathy,2025-07-31,2025-10-27,Mild,N,Y,Recovered/Resolved
+SUBJ0243,Fatigue,2025-07-08,,Mild,N,Y,Recovered/Resolved
+SUBJ0243,Stomatitis,2025-07-22,2025-09-10,Mild,N,Y,Recovered/Resolved
+SUBJ0243,Diarrhea,2025-11-04,2025-11-13,Mild,N,Y,Recovered/Resolved
+SUBJ0243,Alopecia,2024-12-28,2024-12-31,Mild,N,N,Recovered/Resolved
+SUBJ0244,Vomiting,2025-04-07,2025-06-07,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0244,Alopecia,2024-06-25,2024-07-28,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0244,Hypertension,2024-10-25,2025-01-02,Moderate,N,N,Recovered/Resolved
+SUBJ0244,Vomiting,2025-07-23,,Mild,N,Y,Recovered/Resolved
+SUBJ0244,Pyrexia,2025-08-04,2025-08-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0244,Vomiting,2024-12-13,2025-01-25,Moderate,N,Y,Unknown
+SUBJ0244,Anemia,2025-06-18,2025-07-16,Moderate,N,N,Recovered/Resolved
+SUBJ0244,Fatigue,2024-05-11,2024-06-22,Moderate,N,N,Recovered/Resolved
+SUBJ0244,Fatigue,2024-08-27,2024-08-30,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0245,Vomiting,2025-09-17,2025-11-08,Mild,N,N,Fatal
+SUBJ0245,Pyrexia,2025-10-17,2025-11-02,Mild,N,N,Recovered/Resolved
+SUBJ0245,Injection Site Reaction,2024-09-25,2024-12-07,Mild,N,N,Recovered/Resolved
+SUBJ0245,Pyrexia,2024-12-16,2025-03-11,Severe,Y,N,Recovered/Resolved
+SUBJ0245,Anemia,2025-04-25,2025-07-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0245,Decreased Appetite,2025-07-06,,Moderate,N,N,Recovering/Resolving
+SUBJ0246,Anemia,2024-11-01,2025-01-15,Severe,Y,N,Recovering/Resolving
+SUBJ0246,Vomiting,2024-11-27,2025-01-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0246,Thrombocytopenia,2025-06-06,2025-08-15,Mild,N,Y,Recovered/Resolved
+SUBJ0247,Peripheral Neuropathy,2025-02-16,,Mild,N,N,Recovered/Resolved
+SUBJ0247,Decreased Appetite,2025-10-04,2025-12-24,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0247,Diarrhea,2025-11-17,2026-01-25,Moderate,N,Y,Recovering/Resolving
+SUBJ0247,Diarrhea,2026-02-11,2026-05-09,Moderate,Y,N,Recovering/Resolving
+SUBJ0248,Fatigue,2025-09-03,2025-10-11,Severe,Y,Y,Recovered/Resolved
+SUBJ0248,Diarrhea,2025-08-23,2025-10-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0248,Neutropenia,2025-08-05,2025-10-22,Moderate,N,N,Fatal
+SUBJ0248,Decreased Appetite,2025-01-30,2025-02-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0248,Hypertension,2024-11-27,,Mild,N,N,Recovered/Resolved
+SUBJ0249,Peripheral Neuropathy,2025-09-17,2025-11-18,Mild,N,N,Recovered/Resolved
+SUBJ0249,Injection Site Reaction,2025-10-15,,Mild,N,N,Recovered/Resolved
+SUBJ0249,Nausea,2025-01-30,2025-02-10,Mild,N,N,Recovered/Resolved
+SUBJ0249,Diarrhea,2024-12-07,2025-02-03,Moderate,N,N,Recovering/Resolving
+SUBJ0250,Pyrexia,2024-12-05,2025-03-03,Moderate,N,N,Recovered/Resolved
+SUBJ0250,Diarrhea,2025-02-01,2025-04-25,Mild,N,N,Recovered/Resolved
+SUBJ0250,Decreased Appetite,2025-03-15,2025-05-19,Moderate,N,Y,Fatal
+SUBJ0250,Peripheral Neuropathy,2025-07-09,2025-07-14,Moderate,N,Y,Recovering/Resolving
+SUBJ0250,Diarrhea,2025-01-15,2025-02-12,Mild,N,N,Recovering/Resolving
+SUBJ0250,Neutropenia,2025-05-03,2025-07-05,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0250,Peripheral Neuropathy,2025-02-22,2025-05-20,Mild,N,N,Recovered/Resolved
+SUBJ0250,Thrombocytopenia,2025-10-04,2025-11-20,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0250,Vomiting,2025-06-21,,Severe,Y,N,Recovered/Resolved
+SUBJ0251,Fatigue,2025-02-19,2025-05-13,Mild,N,Y,Recovering/Resolving
+SUBJ0251,Pyrexia,2024-11-02,2025-01-28,Severe,N,Y,Fatal
+SUBJ0251,Pyrexia,2025-12-13,2026-01-29,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0251,Stomatitis,2026-01-03,2026-01-30,Mild,N,Y,Recovering/Resolving
+SUBJ0251,Peripheral Neuropathy,2025-05-23,2025-06-24,Mild,N,Y,Recovering/Resolving
+SUBJ0251,Injection Site Reaction,2024-11-27,2025-02-23,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0251,Neutropenia,2024-10-31,2024-11-27,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0251,Peripheral Neuropathy,2025-12-09,2026-02-03,Severe,Y,Y,Recovered/Resolved
+SUBJ0252,Constipation,2024-12-11,2025-01-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0252,Decreased Appetite,2025-08-20,,Mild,N,N,Recovered/Resolved
+SUBJ0252,Stomatitis,2025-02-04,,Moderate,N,N,Recovered/Resolved
+SUBJ0252,Decreased Appetite,2025-08-14,2025-10-23,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0253,Injection Site Reaction,2025-02-24,2025-04-22,Mild,N,N,Recovered/Resolved
+SUBJ0253,Hypertension,2025-01-19,2025-01-22,Mild,N,N,Recovered/Resolved
+SUBJ0254,Thrombocytopenia,2024-12-31,2025-03-06,Moderate,N,N,Recovered/Resolved
+SUBJ0254,Alopecia,2024-07-30,2024-09-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0254,Diarrhea,2024-09-11,2024-10-07,Mild,N,N,Recovered/Resolved
+SUBJ0254,Constipation,2025-01-07,2025-01-10,Mild,N,N,Recovered/Resolved
+SUBJ0254,Thrombocytopenia,2025-10-24,2025-12-21,Mild,N,N,Recovered/Resolved
+SUBJ0255,Vomiting,2025-06-23,2025-07-06,Mild,N,N,Recovered/Resolved
+SUBJ0255,Constipation,2025-01-26,2025-03-11,Mild,N,N,Recovered/Resolved
+SUBJ0255,Hypertension,2025-05-07,2025-06-30,Mild,N,N,Recovered/Resolved
+SUBJ0256,Constipation,2025-01-03,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0256,Pyrexia,2025-02-23,2025-04-07,Severe,Y,Y,Recovered/Resolved
+SUBJ0256,Alopecia,2025-03-20,2025-03-30,Mild,N,N,Recovering/Resolving
+SUBJ0256,Pyrexia,2024-06-29,2024-09-22,Moderate,N,N,Recovered/Resolved
+SUBJ0257,Constipation,2025-05-29,2025-07-15,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0257,Pyrexia,2024-12-27,2025-01-31,Mild,N,Y,Recovered/Resolved
+SUBJ0257,Injection Site Reaction,2025-09-28,,Mild,N,Y,Recovered/Resolved
+SUBJ0257,Stomatitis,2025-05-13,2025-06-09,Moderate,N,N,Recovered/Resolved
+SUBJ0257,Thrombocytopenia,2024-10-26,2024-11-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0258,Anemia,2025-05-26,2025-06-03,Mild,N,N,Recovering/Resolving
+SUBJ0258,Diarrhea,2024-09-25,2024-11-20,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0258,Peripheral Neuropathy,2025-01-15,2025-02-28,Mild,N,N,Recovered/Resolved
+SUBJ0258,Alopecia,2024-12-14,2025-02-19,Severe,N,Y,Recovered/Resolved
+SUBJ0258,Peripheral Neuropathy,2025-05-25,2025-07-13,Mild,Y,N,Recovered/Resolved
+SUBJ0259,Injection Site Reaction,2025-05-19,2025-07-22,Severe,N,Y,Recovered/Resolved
+SUBJ0259,Anemia,2025-04-15,2025-04-17,Moderate,N,N,Recovered/Resolved
+SUBJ0259,Thrombocytopenia,2025-06-16,,Moderate,N,N,Recovered/Resolved
+SUBJ0260,Peripheral Neuropathy,2025-03-27,2025-06-14,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0260,Alopecia,2025-06-09,2025-08-18,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0260,Thrombocytopenia,2026-01-19,2026-03-31,Mild,N,N,Recovering/Resolving
+SUBJ0260,Diarrhea,2025-10-07,2025-10-11,Mild,N,Y,Recovered/Resolved
+SUBJ0260,Constipation,2024-11-01,2024-12-08,Mild,N,Y,Recovered/Resolved
+SUBJ0260,Hypertension,2025-04-04,2025-04-08,Mild,N,N,Recovering/Resolving
+SUBJ0260,Alopecia,2025-08-10,2025-09-22,Mild,N,Y,Recovering/Resolving
+SUBJ0260,Pyrexia,2025-10-11,2025-11-15,Mild,N,N,Recovered/Resolved
+SUBJ0261,Fatigue,2026-01-06,2026-02-01,Mild,N,N,Fatal
+SUBJ0261,Constipation,2025-07-13,2025-09-05,Mild,N,Y,Recovered/Resolved
+SUBJ0261,Pyrexia,2026-02-27,2026-03-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0261,Nausea,2025-12-17,2026-01-25,Mild,N,N,Recovered/Resolved
+SUBJ0261,Nausea,2025-12-01,2026-02-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0261,Pyrexia,2025-05-13,2025-07-18,Mild,N,Y,Recovered/Resolved
+SUBJ0261,Fatigue,2025-08-13,2025-08-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0262,Vomiting,2025-03-25,2025-04-16,Mild,N,N,Fatal
+SUBJ0262,Anemia,2024-09-23,2024-10-09,Mild,N,Y,Recovered/Resolved
+SUBJ0263,Constipation,2024-12-18,2025-02-06,Mild,Y,Y,Unknown
+SUBJ0263,Fatigue,2024-09-19,2024-09-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0263,Nausea,2024-12-17,2025-01-09,Moderate,N,N,Recovered/Resolved
+SUBJ0263,Injection Site Reaction,2025-04-08,2025-06-17,Severe,Y,N,Recovered/Resolved
+SUBJ0263,Peripheral Neuropathy,2025-09-01,2025-09-23,Mild,Y,Y,Recovered/Resolved
+SUBJ0263,Fatigue,2025-01-24,2025-03-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0263,Fatigue,2025-04-22,2025-07-04,Mild,N,Y,Unknown
+SUBJ0263,Stomatitis,2024-08-03,2024-08-06,Severe,N,Y,Recovering/Resolving
+SUBJ0263,Neutropenia,2025-08-04,2025-09-15,Severe,Y,Y,Fatal
+SUBJ0263,Neutropenia,2024-10-20,2024-12-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0264,Nausea,2024-04-29,2024-05-03,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0264,Decreased Appetite,2024-03-16,2024-06-01,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0264,Vomiting,2024-08-15,2024-11-02,Mild,N,N,Recovering/Resolving
+SUBJ0264,Diarrhea,2024-02-17,2024-04-17,Mild,N,N,Recovered/Resolved
+SUBJ0264,Thrombocytopenia,2025-02-13,2025-03-22,Mild,N,Y,Recovered/Resolved
+SUBJ0264,Alopecia,2024-02-02,2024-03-29,Mild,N,N,Recovered/Resolved
+SUBJ0264,Stomatitis,2025-04-27,2025-06-11,Moderate,N,N,Recovered/Resolved
+SUBJ0264,Fatigue,2025-06-01,2025-07-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0264,Fatigue,2024-02-17,2024-03-28,Severe,N,Y,Fatal
+SUBJ0264,Anemia,2024-02-17,2024-04-04,Mild,N,N,Recovered/Resolved
+SUBJ0264,Fatigue,2024-05-14,2024-06-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0265,Anemia,2024-10-23,2025-01-07,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0265,Constipation,2025-03-02,2025-03-14,Severe,N,Y,Recovered/Resolved
+SUBJ0265,Diarrhea,2025-03-16,2025-04-16,Mild,N,Y,Recovered/Resolved
+SUBJ0265,Anemia,2025-08-29,2025-11-04,Mild,N,Y,Recovered/Resolved
+SUBJ0265,Anemia,2025-07-31,,Severe,Y,N,Unknown
+SUBJ0266,Nausea,2024-07-21,2024-09-30,Moderate,N,N,Recovered/Resolved
+SUBJ0266,Constipation,2025-01-07,2025-01-13,Severe,Y,N,Recovering/Resolving
+SUBJ0266,Thrombocytopenia,2024-09-07,2024-10-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0266,Nausea,2024-10-30,2025-01-12,Mild,N,N,Recovered/Resolved
+SUBJ0266,Decreased Appetite,2025-09-11,2025-10-28,Moderate,N,N,Recovered/Resolved
+SUBJ0266,Vomiting,2025-01-21,2025-02-27,Severe,N,N,Recovering/Resolving
+SUBJ0266,Stomatitis,2025-05-09,,Moderate,N,Y,Fatal
+SUBJ0267,Injection Site Reaction,2024-06-16,,Mild,N,N,Recovering/Resolving
+SUBJ0267,Hypertension,2024-05-02,2024-07-18,Moderate,N,Y,Recovering/Resolving
+SUBJ0267,Constipation,2025-09-02,2025-10-16,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0267,Neutropenia,2024-11-09,,Moderate,N,Y,Recovered/Resolved
+SUBJ0267,Diarrhea,2024-06-11,2024-08-01,Severe,N,Y,Recovered/Resolved
+SUBJ0267,Thrombocytopenia,2025-08-21,2025-09-27,Moderate,N,N,Recovering/Resolving
+SUBJ0268,Injection Site Reaction,2025-05-02,2025-07-10,Moderate,N,N,Recovering/Resolving
+SUBJ0268,Pyrexia,2025-08-20,2025-10-23,Mild,N,Y,Unknown
+SUBJ0268,Nausea,2025-02-05,2025-04-18,Severe,N,Y,Recovered/Resolved
+SUBJ0268,Pyrexia,2025-09-06,2025-10-20,Moderate,N,Y,Recovering/Resolving
+SUBJ0268,Fatigue,2025-02-03,2025-03-13,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0268,Hypertension,2025-05-25,2025-06-09,Moderate,N,Y,Recovering/Resolving
+SUBJ0268,Vomiting,2025-03-18,2025-04-15,Mild,N,Y,Recovered/Resolved
+SUBJ0268,Injection Site Reaction,2024-10-04,2024-12-15,Mild,N,Y,Recovering/Resolving
+SUBJ0268,Stomatitis,2024-10-06,2024-11-30,Moderate,N,Y,Recovered/Resolved
+SUBJ0269,Injection Site Reaction,2024-12-07,2025-01-09,Mild,N,N,Recovered/Resolved
+SUBJ0269,Vomiting,2024-08-16,2024-10-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0269,Nausea,2025-02-17,,Mild,N,Y,Recovering/Resolving
+SUBJ0269,Alopecia,2024-07-02,2024-08-05,Severe,N,N,Unknown
+SUBJ0269,Anemia,2024-12-04,,Severe,Y,Y,Recovering/Resolving
+SUBJ0270,Diarrhea,2024-07-28,2024-08-19,Mild,N,Y,Recovering/Resolving
+SUBJ0270,Stomatitis,2024-11-02,2025-01-26,Mild,N,Y,Recovered/Resolved
+SUBJ0270,Constipation,2025-02-22,2025-03-18,Mild,N,Y,Recovered/Resolved
+SUBJ0270,Injection Site Reaction,2024-12-22,,Moderate,N,Y,Recovered/Resolved
+SUBJ0270,Diarrhea,2024-11-25,2025-01-22,Mild,N,Y,Recovered/Resolved
+SUBJ0270,Alopecia,2024-10-14,2024-12-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0270,Pyrexia,2025-09-29,2025-12-17,Mild,N,Y,Recovered/Resolved
+SUBJ0270,Nausea,2025-08-15,2025-10-24,Mild,N,Y,Recovered/Resolved
+SUBJ0270,Injection Site Reaction,2025-03-01,2025-03-15,Moderate,N,Y,Unknown
+SUBJ0270,Diarrhea,2024-12-14,2025-02-02,Severe,Y,Y,Recovering/Resolving
+SUBJ0270,Constipation,2025-01-30,2025-03-05,Mild,N,N,Recovering/Resolving
+SUBJ0270,Injection Site Reaction,2025-10-25,,Mild,N,N,Recovering/Resolving
+SUBJ0270,Thrombocytopenia,2024-08-30,2024-11-22,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0271,Pyrexia,2025-08-01,2025-10-14,Mild,N,Y,Recovered/Resolved
+SUBJ0271,Nausea,2025-08-27,2025-11-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0271,Nausea,2024-08-15,2024-10-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0271,Vomiting,2024-10-03,2024-12-10,Mild,N,Y,Recovered/Resolved
+SUBJ0271,Neutropenia,2024-06-08,2024-07-10,Severe,Y,N,Recovered/Resolved
+SUBJ0271,Alopecia,2025-06-27,2025-08-19,Mild,N,Y,Unknown
+SUBJ0271,Fatigue,2025-08-17,2025-10-29,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0271,Decreased Appetite,2024-09-16,2024-12-03,Mild,N,N,Recovered/Resolved
+SUBJ0271,Injection Site Reaction,2024-09-10,2024-09-12,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0272,Hypertension,2025-06-17,2025-08-26,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0272,Alopecia,2024-12-04,2024-12-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0272,Pyrexia,2025-01-30,,Severe,Y,Y,Recovered/Resolved
+SUBJ0273,Decreased Appetite,2025-05-05,2025-05-21,Mild,N,N,Recovered/Resolved
+SUBJ0273,Stomatitis,2024-07-29,2024-10-12,Severe,Y,N,Fatal
+SUBJ0274,Vomiting,2025-10-20,,Moderate,N,N,Recovering/Resolving
+SUBJ0274,Diarrhea,2025-04-08,2025-04-23,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0274,Diarrhea,2025-02-06,2025-03-05,Moderate,N,Y,Recovered/Resolved
+SUBJ0274,Hypertension,2025-09-26,2025-12-17,Mild,N,N,Fatal
+SUBJ0274,Diarrhea,2025-04-17,2025-05-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0275,Diarrhea,2025-01-28,2025-03-22,Mild,N,N,Recovered/Resolved
+SUBJ0275,Vomiting,2026-02-25,2026-03-27,Mild,N,Y,Recovered/Resolved
+SUBJ0275,Thrombocytopenia,2025-09-08,2025-09-19,Mild,N,N,Recovering/Resolving
+SUBJ0275,Diarrhea,2025-11-23,2026-01-04,Mild,N,N,Recovering/Resolving
+SUBJ0275,Vomiting,2024-11-29,2025-02-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0275,Diarrhea,2025-07-20,2025-10-12,Moderate,N,Y,Unknown
+SUBJ0276,Alopecia,2024-09-05,2024-10-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0276,Hypertension,2024-08-29,2024-09-03,Mild,N,N,Recovered/Resolved
+SUBJ0276,Peripheral Neuropathy,2024-03-14,2024-05-14,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0276,Decreased Appetite,2024-05-22,2024-07-16,Mild,N,Y,Recovered/Resolved
+SUBJ0276,Anemia,2024-09-14,2024-10-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0276,Alopecia,2024-06-04,2024-06-29,Mild,N,Y,Unknown
+SUBJ0276,Constipation,2025-01-22,2025-02-07,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0277,Fatigue,2024-11-10,2024-11-24,Mild,N,Y,Recovering/Resolving
+SUBJ0277,Stomatitis,2025-01-03,2025-01-07,Mild,N,Y,Recovered/Resolved
+SUBJ0278,Stomatitis,2025-06-05,2025-07-05,Mild,N,Y,Recovered/Resolved
+SUBJ0278,Injection Site Reaction,2025-08-16,2025-09-30,Moderate,N,Y,Recovering/Resolving
+SUBJ0278,Stomatitis,2025-08-18,2025-09-12,Moderate,N,Y,Recovering/Resolving
+SUBJ0278,Alopecia,2024-10-10,2024-12-25,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0278,Hypertension,2024-05-05,2024-05-07,Moderate,N,Y,Recovering/Resolving
+SUBJ0278,Vomiting,2024-08-18,2024-10-28,Severe,Y,Y,Recovered/Resolved
+SUBJ0279,Injection Site Reaction,2024-11-01,2025-01-05,Severe,N,Y,Recovered/Resolved
+SUBJ0279,Nausea,2024-11-24,2025-01-31,Moderate,N,N,Recovered/Resolved
+SUBJ0279,Vomiting,2025-06-06,2025-06-15,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0279,Thrombocytopenia,2024-05-09,2024-06-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0279,Alopecia,2024-11-28,2024-12-20,Mild,N,Y,Recovering/Resolving
+SUBJ0280,Diarrhea,2024-06-10,2024-08-19,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0280,Anemia,2024-07-03,2024-08-06,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0280,Anemia,2025-01-10,2025-01-28,Moderate,N,N,Recovering/Resolving
+SUBJ0280,Hypertension,2024-05-27,,Severe,Y,N,Recovered/Resolved
+SUBJ0280,Stomatitis,2025-04-17,2025-06-24,Mild,N,Y,Recovering/Resolving
+SUBJ0280,Thrombocytopenia,2024-07-04,2024-08-25,Severe,Y,N,Recovered/Resolved
+SUBJ0280,Hypertension,2025-01-23,2025-02-18,Mild,N,N,Recovered/Resolved
+SUBJ0281,Fatigue,2024-11-27,2024-12-27,Severe,N,Y,Recovering/Resolving
+SUBJ0281,Thrombocytopenia,2025-04-21,,Mild,N,Y,Recovered/Resolved
+SUBJ0281,Injection Site Reaction,2025-11-17,2025-12-14,Moderate,N,Y,Recovering/Resolving
+SUBJ0281,Alopecia,2024-12-20,2024-12-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0281,Fatigue,2025-03-11,2025-03-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0282,Stomatitis,2025-10-05,,Mild,N,Y,Recovering/Resolving
+SUBJ0282,Alopecia,2025-06-08,2025-07-18,Moderate,N,Y,Recovering/Resolving
+SUBJ0282,Stomatitis,2025-09-17,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0282,Hypertension,2024-10-14,2024-11-15,Severe,Y,Y,Recovered/Resolved
+SUBJ0282,Neutropenia,2025-06-27,2025-09-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0283,Peripheral Neuropathy,2025-09-28,2025-12-07,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0283,Pyrexia,2024-11-30,2025-02-10,Mild,N,N,Recovered/Resolved
+SUBJ0283,Pyrexia,2025-06-18,2025-09-09,Mild,N,Y,Unknown
+SUBJ0283,Injection Site Reaction,2025-03-08,2025-05-23,Mild,N,N,Recovered/Resolved
+SUBJ0284,Alopecia,2025-05-27,2025-06-16,Mild,N,N,Recovered/Resolved
+SUBJ0284,Constipation,2024-08-12,,Mild,N,Y,Recovered/Resolved
+SUBJ0284,Thrombocytopenia,2024-07-01,2024-08-14,Moderate,N,N,Recovered/Resolved
+SUBJ0284,Pyrexia,2025-06-08,2025-06-29,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0284,Constipation,2025-02-25,2025-03-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0284,Nausea,2024-07-01,2024-08-06,Moderate,N,Y,Recovering/Resolving
+SUBJ0284,Stomatitis,2024-05-19,2024-06-21,Mild,N,Y,Recovered/Resolved
+SUBJ0284,Decreased Appetite,2024-08-08,2024-08-13,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0284,Vomiting,2025-02-23,2025-04-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0284,Decreased Appetite,2025-01-03,2025-03-14,Severe,N,N,Recovered/Resolved
+SUBJ0284,Anemia,2025-07-04,2025-07-21,Mild,N,Y,Recovered/Resolved
+SUBJ0284,Hypertension,2024-12-17,2025-01-11,Mild,N,Y,Recovering/Resolving
+SUBJ0284,Fatigue,2025-05-15,2025-06-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0285,Diarrhea,2025-03-19,2025-05-19,Moderate,N,N,Recovered/Resolved
+SUBJ0285,Vomiting,2025-08-11,2025-09-09,Mild,N,N,Recovered/Resolved
+SUBJ0285,Anemia,2025-08-27,2025-09-28,Severe,Y,N,Recovering/Resolving
+SUBJ0286,Pyrexia,2024-11-08,2025-01-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0286,Constipation,2025-09-26,2025-11-29,Mild,N,N,Recovered/Resolved
+SUBJ0286,Peripheral Neuropathy,2025-02-14,2025-03-30,Severe,Y,N,Fatal
+SUBJ0286,Thrombocytopenia,2026-01-14,2026-03-21,Mild,N,Y,Recovered/Resolved
+SUBJ0287,Alopecia,2025-11-29,2026-02-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0287,Diarrhea,2024-09-26,,Moderate,N,Y,Recovering/Resolving
+SUBJ0287,Injection Site Reaction,2025-11-07,2025-12-27,Mild,N,Y,Fatal
+SUBJ0287,Constipation,2025-10-27,2026-01-02,Moderate,N,Y,Fatal
+SUBJ0287,Alopecia,2025-06-13,2025-06-23,Severe,N,N,Recovered/Resolved
+SUBJ0287,Constipation,2025-09-11,2025-11-03,Mild,N,Y,Recovered/Resolved
+SUBJ0287,Anemia,2025-11-08,,Moderate,N,N,Recovered/Resolved
+SUBJ0288,Anemia,2024-10-08,2024-11-10,Mild,N,Y,Recovered/Resolved
+SUBJ0288,Decreased Appetite,2024-11-07,2024-11-09,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0288,Fatigue,2024-02-07,2024-04-15,Mild,N,N,Recovering/Resolving
+SUBJ0288,Peripheral Neuropathy,2024-09-23,2024-09-24,Mild,N,N,Recovered/Resolved
+SUBJ0288,Anemia,2024-12-15,2025-01-11,Mild,N,Y,Recovered/Resolved
+SUBJ0288,Nausea,2024-04-25,2024-07-21,Mild,N,Y,Recovering/Resolving
+SUBJ0288,Injection Site Reaction,2025-05-06,2025-05-12,Severe,Y,N,Recovered/Resolved
+SUBJ0289,Injection Site Reaction,2024-09-08,2024-10-19,Mild,N,Y,Recovered/Resolved
+SUBJ0289,Neutropenia,2024-12-15,2024-12-25,Severe,N,Y,Recovered/Resolved
+SUBJ0289,Pyrexia,2024-03-07,2024-04-20,Moderate,N,N,Recovered/Resolved
+SUBJ0289,Injection Site Reaction,2024-11-06,2024-12-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0289,Vomiting,2024-05-04,,Moderate,N,Y,Recovered/Resolved
+SUBJ0290,Diarrhea,2025-10-08,2025-11-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0290,Thrombocytopenia,2025-09-04,,Mild,N,Y,Recovered/Resolved
+SUBJ0290,Diarrhea,2025-01-13,2025-01-16,Mild,N,Y,Recovering/Resolving
+SUBJ0291,Injection Site Reaction,2024-11-21,2025-02-06,Moderate,N,Y,Fatal
+SUBJ0291,Vomiting,2024-08-30,2024-09-29,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0291,Decreased Appetite,2025-03-26,2025-05-23,Mild,N,Y,Recovered/Resolved
+SUBJ0291,Vomiting,2024-11-30,2024-12-03,Mild,N,Y,Recovered/Resolved
+SUBJ0291,Neutropenia,2024-12-12,2024-12-15,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0291,Neutropenia,2025-07-03,2025-09-22,Moderate,N,N,Recovering/Resolving
+SUBJ0291,Peripheral Neuropathy,2024-12-03,2025-01-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0291,Stomatitis,2025-05-19,2025-08-15,Mild,N,Y,Fatal
+SUBJ0292,Alopecia,2024-09-04,2024-10-11,Mild,N,Y,Recovered/Resolved
+SUBJ0292,Anemia,2025-12-10,2026-01-19,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0292,Pyrexia,2025-09-01,2025-10-21,Severe,Y,Y,Fatal
+SUBJ0292,Constipation,2025-06-26,2025-07-04,Severe,N,N,Recovered/Resolved
+SUBJ0292,Stomatitis,2024-08-28,2024-11-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0292,Fatigue,2025-08-03,2025-08-24,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0292,Hypertension,2025-01-29,2025-03-13,Mild,N,Y,Fatal
+SUBJ0292,Stomatitis,2024-09-06,2024-11-06,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0292,Decreased Appetite,2025-09-07,,Mild,N,N,Recovered/Resolved
+SUBJ0293,Thrombocytopenia,2024-09-09,2024-11-02,Mild,N,N,Recovered/Resolved
+SUBJ0293,Constipation,2025-05-17,2025-05-27,Mild,N,N,Recovering/Resolving
+SUBJ0293,Nausea,2024-10-17,2024-10-30,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0293,Diarrhea,2025-01-29,2025-04-17,Mild,N,N,Recovered/Resolved
+SUBJ0293,Anemia,2025-06-09,2025-06-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0294,Diarrhea,2025-02-26,2025-03-26,Mild,N,Y,Unknown
+SUBJ0294,Injection Site Reaction,2025-07-30,2025-09-26,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0294,Decreased Appetite,2025-05-01,2025-06-10,Mild,N,Y,Recovered/Resolved
+SUBJ0294,Alopecia,2025-06-21,2025-09-09,Severe,N,Y,Recovered/Resolved
+SUBJ0294,Hypertension,2025-03-23,2025-04-10,Moderate,N,Y,Fatal
+SUBJ0294,Vomiting,2025-10-28,2025-11-13,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0294,Pyrexia,2025-04-01,2025-06-07,Severe,Y,Y,Recovering/Resolving
+SUBJ0294,Diarrhea,2025-04-30,2025-05-02,Mild,N,Y,Recovering/Resolving
+SUBJ0295,Peripheral Neuropathy,2026-02-19,2026-03-02,Mild,N,Y,Recovering/Resolving
+SUBJ0295,Anemia,2025-04-23,2025-07-07,Moderate,Y,N,Recovered/Resolved
+SUBJ0295,Peripheral Neuropathy,2024-12-06,2025-03-04,Mild,N,Y,Recovered/Resolved
+SUBJ0295,Neutropenia,2025-07-01,2025-07-08,Mild,N,Y,Unknown
+SUBJ0295,Hypertension,2025-01-25,2025-03-28,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0295,Vomiting,2025-07-02,2025-09-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0295,Constipation,2025-04-20,2025-05-02,Mild,N,Y,Recovering/Resolving
+SUBJ0295,Vomiting,2025-05-23,2025-05-24,Mild,N,Y,Recovering/Resolving
+SUBJ0295,Stomatitis,2024-11-24,2024-12-24,Mild,N,Y,Recovered/Resolved
+SUBJ0296,Hypertension,2024-09-23,2024-12-19,Severe,N,N,Recovering/Resolving
+SUBJ0296,Constipation,2025-03-19,,Mild,N,N,Recovered/Resolved
+SUBJ0296,Anemia,2025-05-17,2025-08-09,Mild,N,Y,Recovering/Resolving
+SUBJ0297,Thrombocytopenia,2024-12-17,2025-01-28,Severe,Y,N,Recovering/Resolving
+SUBJ0297,Stomatitis,2025-05-22,2025-08-19,Mild,N,N,Recovered/Resolved
+SUBJ0297,Decreased Appetite,2025-01-23,2025-02-04,Moderate,N,Y,Fatal
+SUBJ0297,Alopecia,2025-04-14,2025-05-08,Mild,N,N,Recovered/Resolved
+SUBJ0297,Decreased Appetite,2025-06-17,2025-08-09,Mild,N,N,Recovering/Resolving
+SUBJ0297,Pyrexia,2025-07-04,2025-08-24,Mild,N,Y,Recovered/Resolved
+SUBJ0298,Anemia,2025-01-10,2025-03-04,Mild,N,Y,Recovered/Resolved
+SUBJ0298,Diarrhea,2025-04-03,2025-04-07,Moderate,N,Y,Recovering/Resolving
+SUBJ0298,Decreased Appetite,2025-03-20,2025-06-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0298,Diarrhea,2025-03-31,2025-05-05,Moderate,N,N,Recovered/Resolved
+SUBJ0298,Peripheral Neuropathy,2025-09-27,2025-11-10,Severe,Y,Y,Recovered/Resolved
+SUBJ0298,Diarrhea,2025-01-25,2025-02-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0299,Hypertension,2025-01-15,2025-03-24,Moderate,N,N,Recovering/Resolving
+SUBJ0299,Neutropenia,2025-07-16,2025-07-18,Mild,N,N,Recovered/Resolved
+SUBJ0299,Decreased Appetite,2024-10-26,,Severe,Y,N,Recovered/Resolved
+SUBJ0299,Thrombocytopenia,2025-04-16,2025-06-07,Moderate,N,N,Recovered/Resolved
+SUBJ0300,Nausea,2025-11-01,2025-11-12,Mild,N,N,Recovered/Resolved
+SUBJ0300,Pyrexia,2025-10-21,2025-12-01,Mild,N,N,Recovered/Resolved
+SUBJ0300,Stomatitis,2025-11-14,2025-11-30,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0301,Hypertension,2025-01-05,2025-04-04,Mild,N,N,Recovered/Resolved
+SUBJ0301,Decreased Appetite,2024-10-08,2024-12-31,Moderate,N,N,Recovered/Resolved
+SUBJ0301,Hypertension,2025-12-23,2026-03-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0301,Anemia,2025-10-20,2025-12-02,Mild,N,N,Recovering/Resolving
+SUBJ0301,Neutropenia,2024-09-01,2024-09-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0301,Diarrhea,2025-12-28,2026-02-15,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0302,Neutropenia,2026-01-25,2026-04-09,Mild,N,N,Recovered/Resolved
+SUBJ0302,Nausea,2025-11-08,,Mild,N,Y,Recovered/Resolved
+SUBJ0302,Vomiting,2024-12-01,2025-02-21,Severe,N,Y,Recovered/Resolved
+SUBJ0302,Neutropenia,2025-09-21,2025-11-13,Mild,N,Y,Recovered/Resolved
+SUBJ0302,Diarrhea,2025-05-07,2025-08-05,Moderate,N,Y,Recovered/Resolved
+SUBJ0302,Fatigue,2025-01-03,2025-03-29,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0302,Vomiting,2025-11-11,2026-01-03,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0302,Thrombocytopenia,2024-11-25,2024-12-05,Moderate,N,N,Recovered/Resolved
+SUBJ0303,Peripheral Neuropathy,2024-09-30,2024-12-05,Mild,N,Y,Recovering/Resolving
+SUBJ0303,Anemia,2025-08-31,2025-10-13,Mild,N,Y,Recovering/Resolving
+SUBJ0303,Vomiting,2025-08-30,2025-09-23,Moderate,N,N,Fatal
+SUBJ0303,Neutropenia,2025-09-01,2025-11-09,Mild,N,Y,Recovering/Resolving
+SUBJ0303,Nausea,2025-03-15,2025-06-12,Moderate,N,Y,Unknown
+SUBJ0304,Pyrexia,2025-11-17,2026-01-21,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0304,Decreased Appetite,2024-08-21,,Mild,N,Y,Recovered/Resolved
+SUBJ0304,Thrombocytopenia,2024-12-01,2025-02-19,Mild,N,N,Recovered/Resolved
+SUBJ0305,Injection Site Reaction,2025-08-28,2025-11-05,Moderate,N,Y,Fatal
+SUBJ0305,Pyrexia,2025-03-01,2025-05-26,Moderate,N,N,Recovered/Resolved
+SUBJ0305,Injection Site Reaction,2024-10-14,2024-10-31,Mild,N,Y,Fatal
+SUBJ0305,Thrombocytopenia,2025-04-13,2025-04-27,Mild,N,N,Recovered/Resolved
+SUBJ0305,Pyrexia,2025-07-05,2025-09-02,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0306,Pyrexia,2024-06-03,2024-07-03,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0306,Anemia,2025-10-10,2025-12-26,Mild,N,Y,Recovered/Resolved
+SUBJ0306,Neutropenia,2025-03-10,,Mild,N,Y,Recovered/Resolved
+SUBJ0307,Peripheral Neuropathy,2024-09-18,2024-10-15,Moderate,N,N,Recovered/Resolved
+SUBJ0307,Constipation,2025-04-08,2025-06-11,Mild,N,N,Recovered/Resolved
+SUBJ0307,Anemia,2025-04-19,2025-04-23,Moderate,N,Y,Recovered/Resolved
+SUBJ0307,Hypertension,2025-07-21,2025-10-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0307,Stomatitis,2025-01-10,2025-01-29,Severe,Y,N,Recovered/Resolved
+SUBJ0307,Hypertension,2024-12-31,2025-02-14,Moderate,N,N,Recovered/Resolved
+SUBJ0308,Neutropenia,2025-08-21,2025-10-25,Mild,N,Y,Recovered/Resolved
+SUBJ0308,Injection Site Reaction,2025-06-03,2025-07-30,Moderate,N,Y,Recovering/Resolving
+SUBJ0308,Anemia,2025-03-24,2025-04-25,Mild,N,N,Recovered/Resolved
+SUBJ0308,Nausea,2025-03-16,2025-06-12,Moderate,N,N,Recovering/Resolving
+SUBJ0308,Injection Site Reaction,2025-06-18,2025-08-14,Mild,N,Y,Recovered/Resolved
+SUBJ0308,Stomatitis,2025-02-19,2025-02-21,Mild,N,Y,Recovered/Resolved
+SUBJ0310,Hypertension,2025-06-06,2025-08-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0310,Thrombocytopenia,2025-05-30,2025-06-09,Mild,N,Y,Recovered/Resolved
+SUBJ0310,Thrombocytopenia,2025-02-11,2025-04-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0310,Pyrexia,2025-04-29,2025-07-20,Mild,N,Y,Recovered/Resolved
+SUBJ0310,Vomiting,2024-09-09,2024-11-02,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0310,Thrombocytopenia,2024-11-13,2024-11-14,Moderate,N,N,Unknown
+SUBJ0310,Alopecia,2025-05-06,2025-07-27,Mild,N,Y,Recovered/Resolved
+SUBJ0310,Injection Site Reaction,2024-04-15,2024-06-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0311,Constipation,2024-10-14,2025-01-07,Mild,N,Y,Recovered/Resolved
+SUBJ0311,Stomatitis,2025-02-16,2025-02-23,Moderate,N,N,Recovering/Resolving
+SUBJ0311,Nausea,2025-03-12,2025-05-03,Mild,N,N,Recovered/Resolved
+SUBJ0311,Constipation,2024-07-29,2024-10-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0311,Vomiting,2025-06-19,2025-07-24,Severe,Y,Y,Recovered/Resolved
+SUBJ0312,Peripheral Neuropathy,2025-03-04,2025-03-15,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0312,Nausea,2024-08-30,2024-09-08,Mild,N,N,Recovered/Resolved
+SUBJ0312,Constipation,2025-10-08,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0313,Diarrhea,2025-01-28,2025-04-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0313,Thrombocytopenia,2025-04-19,2025-06-09,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0313,Nausea,2024-11-23,2025-02-20,Moderate,N,N,Recovering/Resolving
+SUBJ0313,Diarrhea,2024-09-21,2024-10-09,Severe,N,N,Recovered/Resolved
+SUBJ0313,Thrombocytopenia,2025-06-22,2025-07-17,Mild,Y,Y,Not Recovered/Not Resolved
+SUBJ0314,Fatigue,2025-09-12,2025-11-19,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0314,Peripheral Neuropathy,2026-02-12,2026-02-18,Moderate,N,N,Recovered/Resolved
+SUBJ0314,Pyrexia,2025-11-04,2025-12-24,Mild,N,N,Recovered/Resolved
+SUBJ0314,Nausea,2025-07-30,2025-09-17,Mild,Y,Y,Recovered/Resolved
+SUBJ0314,Thrombocytopenia,2025-02-19,2025-03-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0314,Vomiting,2025-05-05,,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0314,Diarrhea,2024-11-22,2025-01-17,Mild,N,Y,Recovered/Resolved
+SUBJ0314,Constipation,2025-07-19,2025-09-26,Moderate,N,Y,Recovering/Resolving
+SUBJ0315,Alopecia,2024-06-23,2024-06-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0315,Alopecia,2025-03-28,2025-04-30,Moderate,N,N,Recovered/Resolved
+SUBJ0315,Hypertension,2024-05-17,2024-05-31,Severe,N,N,Recovered/Resolved
+SUBJ0315,Vomiting,2024-12-18,2025-03-10,Mild,N,Y,Recovered/Resolved
+SUBJ0315,Thrombocytopenia,2024-10-30,2024-12-28,Severe,N,Y,Recovering/Resolving
+SUBJ0315,Hypertension,2024-08-17,2024-10-08,Moderate,N,N,Recovered/Resolved
+SUBJ0316,Peripheral Neuropathy,2025-05-18,2025-06-23,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0316,Decreased Appetite,2025-09-09,2025-09-12,Severe,N,N,Recovering/Resolving
+SUBJ0316,Thrombocytopenia,2024-08-18,2024-10-19,Mild,N,N,Recovering/Resolving
+SUBJ0316,Injection Site Reaction,2024-07-21,2024-08-18,Mild,N,N,Recovered/Resolved
+SUBJ0317,Decreased Appetite,2024-08-22,2024-09-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0317,Decreased Appetite,2025-02-07,,Mild,Y,Y,Recovered/Resolved
+SUBJ0317,Nausea,2024-07-22,2024-09-11,Severe,N,Y,Recovering/Resolving
+SUBJ0317,Anemia,2025-06-24,2025-09-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0317,Diarrhea,2024-08-20,2024-10-27,Severe,Y,Y,Recovered/Resolved
+SUBJ0318,Decreased Appetite,2024-12-04,2025-02-24,Mild,N,Y,Fatal
+SUBJ0318,Alopecia,2024-12-15,2024-12-27,Mild,N,N,Recovered/Resolved
+SUBJ0318,Anemia,2025-09-08,2025-10-10,Mild,N,N,Recovered/Resolved
+SUBJ0318,Pyrexia,2026-01-20,2026-02-23,Moderate,N,N,Recovering/Resolving
+SUBJ0319,Thrombocytopenia,2024-06-15,2024-08-23,Severe,N,N,Recovered/Resolved
+SUBJ0319,Fatigue,2024-09-02,2024-10-20,Moderate,N,N,Recovered/Resolved
+SUBJ0319,Anemia,2024-07-09,2024-08-29,Mild,N,N,Recovered/Resolved
+SUBJ0320,Stomatitis,2025-06-19,2025-07-06,Moderate,N,Y,Recovering/Resolving
+SUBJ0321,Diarrhea,2025-02-28,,Mild,Y,Y,Recovered/Resolved
+SUBJ0321,Decreased Appetite,2025-05-12,2025-07-10,Moderate,N,N,Recovering/Resolving
+SUBJ0321,Stomatitis,2024-12-14,2024-12-31,Mild,N,Y,Recovering/Resolving
+SUBJ0321,Anemia,2025-08-06,2025-10-29,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0321,Nausea,2025-10-01,2025-11-21,Moderate,N,Y,Unknown
+SUBJ0321,Diarrhea,2025-06-21,2025-07-31,Mild,N,Y,Fatal
+SUBJ0321,Decreased Appetite,2025-04-15,2025-05-25,Mild,N,Y,Recovered/Resolved
+SUBJ0321,Constipation,2024-11-05,2024-11-29,Mild,N,Y,Recovering/Resolving
+SUBJ0321,Diarrhea,2025-03-11,2025-05-25,Severe,N,Y,Recovering/Resolving
+SUBJ0321,Pyrexia,2024-09-30,2024-12-27,Severe,N,Y,Recovered/Resolved
+SUBJ0321,Nausea,2024-10-01,2024-10-22,Mild,N,Y,Recovered/Resolved
+SUBJ0321,Hypertension,2025-08-07,,Mild,N,Y,Unknown
+SUBJ0321,Peripheral Neuropathy,2024-12-06,2025-02-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0321,Pyrexia,2024-07-18,2024-09-01,Moderate,N,N,Recovered/Resolved
+SUBJ0322,Diarrhea,2025-03-17,2025-06-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0322,Thrombocytopenia,2024-08-14,2024-10-16,Mild,N,Y,Recovering/Resolving
+SUBJ0322,Diarrhea,2024-04-17,2024-07-16,Mild,N,Y,Recovering/Resolving
+SUBJ0322,Hypertension,2024-09-02,2024-11-29,Moderate,N,N,Recovered/Resolved
+SUBJ0323,Pyrexia,2025-01-09,2025-02-16,Severe,Y,Y,Recovered/Resolved
+SUBJ0325,Thrombocytopenia,2025-07-05,2025-09-18,Moderate,N,N,Recovered/Resolved
+SUBJ0325,Diarrhea,2024-08-16,2024-10-26,Mild,N,N,Recovered/Resolved
+SUBJ0325,Hypertension,2025-05-22,2025-07-14,Mild,N,N,Recovered/Resolved
+SUBJ0325,Anemia,2024-05-27,,Mild,N,N,Recovered/Resolved
+SUBJ0325,Alopecia,2024-09-01,2024-10-05,Mild,N,Y,Recovered/Resolved
+SUBJ0326,Diarrhea,2024-11-23,2025-01-04,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0326,Alopecia,2025-03-31,2025-05-27,Mild,N,N,Recovered/Resolved
+SUBJ0326,Anemia,2024-12-11,2025-02-12,Mild,N,N,Recovering/Resolving
+SUBJ0327,Hypertension,2024-11-24,2025-01-23,Mild,N,Y,Recovering/Resolving
+SUBJ0327,Hypertension,2024-09-16,2024-10-17,Mild,Y,N,Recovering/Resolving
+SUBJ0327,Neutropenia,2025-02-23,2025-05-16,Mild,N,N,Recovered/Resolved
+SUBJ0327,Vomiting,2025-01-13,2025-03-16,Mild,Y,N,Recovering/Resolving
+SUBJ0327,Peripheral Neuropathy,2025-06-29,2025-08-11,Mild,N,N,Recovered/Resolved
+SUBJ0328,Peripheral Neuropathy,2024-07-13,2024-09-23,Mild,N,Y,Recovered/Resolved
+SUBJ0328,Diarrhea,2024-09-02,2024-10-29,Severe,Y,Y,Recovering/Resolving
+SUBJ0328,Stomatitis,2024-09-26,2024-11-09,Mild,N,Y,Recovered/Resolved
+SUBJ0328,Decreased Appetite,2025-04-05,2025-06-04,Mild,N,Y,Recovered/Resolved
+SUBJ0328,Vomiting,2025-08-05,2025-08-19,Moderate,N,N,Recovered/Resolved
+SUBJ0328,Vomiting,2025-10-07,2025-12-06,Severe,Y,N,Unknown
+SUBJ0329,Neutropenia,2024-06-27,2024-08-18,Severe,N,N,Recovered/Resolved
+SUBJ0329,Fatigue,2024-08-22,,Severe,Y,N,Recovered/Resolved
+SUBJ0330,Fatigue,2025-02-22,2025-04-11,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0330,Thrombocytopenia,2025-06-08,,Moderate,N,N,Recovered/Resolved
+SUBJ0331,Nausea,2024-09-20,2024-11-16,Severe,Y,N,Fatal
+SUBJ0331,Nausea,2024-11-26,2025-01-19,Severe,Y,N,Recovered/Resolved
+SUBJ0331,Fatigue,2024-07-16,2024-09-24,Mild,N,Y,Recovered/Resolved
+SUBJ0331,Nausea,2024-12-01,2025-02-08,Mild,N,Y,Recovering/Resolving
+SUBJ0331,Alopecia,2024-06-21,2024-09-11,Mild,N,N,Recovering/Resolving
+SUBJ0331,Injection Site Reaction,2024-05-26,2024-07-02,Severe,N,N,Unknown
+SUBJ0331,Decreased Appetite,2024-03-30,2024-06-23,Mild,N,N,Recovered/Resolved
+SUBJ0332,Fatigue,2025-02-14,2025-04-10,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0332,Pyrexia,2024-10-22,2024-11-04,Severe,Y,N,Recovered/Resolved
+SUBJ0332,Nausea,2025-05-10,2025-05-23,Severe,Y,N,Recovering/Resolving
+SUBJ0332,Peripheral Neuropathy,2025-05-04,2025-07-28,Severe,N,Y,Recovered/Resolved
+SUBJ0332,Decreased Appetite,2025-05-09,2025-06-09,Mild,N,N,Recovered/Resolved
+SUBJ0332,Alopecia,2025-09-11,2025-09-13,Mild,N,Y,Recovered/Resolved
+SUBJ0332,Neutropenia,2025-09-06,2025-11-02,Severe,N,N,Recovered/Resolved
+SUBJ0333,Alopecia,2024-07-30,,Severe,N,N,Recovered/Resolved
+SUBJ0333,Constipation,2024-07-01,2024-08-05,Moderate,N,N,Recovered/Resolved
+SUBJ0333,Stomatitis,2024-11-03,2024-11-04,Mild,N,Y,Recovered/Resolved
+SUBJ0333,Stomatitis,2025-03-01,2025-05-09,Severe,Y,Y,Fatal
+SUBJ0333,Nausea,2025-04-24,2025-06-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0333,Diarrhea,2024-07-23,2024-10-03,Mild,N,Y,Recovered/Resolved
+SUBJ0334,Anemia,2024-10-10,2024-12-03,Mild,N,Y,Recovered/Resolved
+SUBJ0334,Injection Site Reaction,2024-11-26,2025-01-23,Moderate,N,Y,Recovering/Resolving
+SUBJ0334,Anemia,2024-11-23,2025-01-12,Mild,N,Y,Recovered/Resolved
+SUBJ0334,Nausea,2024-11-25,2024-11-27,Severe,Y,Y,Recovering/Resolving
+SUBJ0334,Fatigue,2025-05-02,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0334,Anemia,2024-02-16,2024-02-17,Mild,N,Y,Recovered/Resolved
+SUBJ0334,Alopecia,2025-06-27,2025-08-17,Severe,N,Y,Recovered/Resolved
+SUBJ0335,Thrombocytopenia,2026-01-01,2026-03-23,Mild,N,N,Recovered/Resolved
+SUBJ0335,Nausea,2025-06-14,,Mild,N,N,Recovered/Resolved
+SUBJ0335,Pyrexia,2025-05-30,2025-08-12,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0335,Hypertension,2025-08-23,2025-10-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0335,Injection Site Reaction,2025-03-11,,Mild,N,N,Recovered/Resolved
+SUBJ0335,Peripheral Neuropathy,2025-08-08,2025-08-16,Moderate,N,N,Recovered/Resolved
+SUBJ0335,Neutropenia,2025-06-14,2025-07-02,Mild,N,Y,Recovered/Resolved
+SUBJ0336,Peripheral Neuropathy,2024-11-19,2024-12-09,Severe,N,Y,Recovered/Resolved
+SUBJ0336,Anemia,2024-11-18,2025-02-01,Mild,N,N,Recovered/Resolved
+SUBJ0336,Peripheral Neuropathy,2025-07-14,2025-10-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0336,Peripheral Neuropathy,2024-11-27,2025-01-11,Moderate,N,Y,Unknown
+SUBJ0336,Pyrexia,2025-07-02,2025-08-01,Mild,N,Y,Recovered/Resolved
+SUBJ0337,Alopecia,2024-09-18,2024-11-16,Moderate,N,Y,Recovering/Resolving
+SUBJ0337,Anemia,2024-08-05,2024-09-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0337,Fatigue,2025-06-21,2025-08-16,Severe,Y,Y,Recovered/Resolved
+SUBJ0337,Stomatitis,2025-01-02,2025-03-06,Mild,N,Y,Unknown
+SUBJ0337,Peripheral Neuropathy,2024-10-19,2024-10-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0337,Nausea,2025-05-02,2025-07-28,Severe,N,Y,Recovered/Resolved
+SUBJ0337,Peripheral Neuropathy,2024-09-07,2024-11-27,Mild,N,Y,Recovering/Resolving
+SUBJ0337,Peripheral Neuropathy,2025-04-27,,Mild,N,N,Fatal
+SUBJ0337,Injection Site Reaction,2025-06-02,,Moderate,N,Y,Recovered/Resolved
+SUBJ0338,Peripheral Neuropathy,2026-01-30,2026-02-15,Moderate,N,Y,Recovering/Resolving
+SUBJ0338,Pyrexia,2025-06-18,2025-07-27,Mild,N,Y,Recovered/Resolved
+SUBJ0338,Nausea,2025-12-01,2025-12-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0338,Stomatitis,2025-10-31,2026-01-06,Mild,N,Y,Unknown
+SUBJ0338,Nausea,2025-12-24,2026-02-26,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0338,Alopecia,2025-08-19,,Mild,Y,Y,Recovered/Resolved
+SUBJ0338,Peripheral Neuropathy,2026-01-02,2026-03-07,Mild,N,Y,Recovered/Resolved
+SUBJ0339,Thrombocytopenia,2024-08-24,2024-10-21,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0339,Neutropenia,2024-08-29,2024-10-13,Mild,N,N,Recovered/Resolved
+SUBJ0339,Decreased Appetite,2025-02-01,2025-03-27,Mild,N,N,Recovered/Resolved
+SUBJ0339,Diarrhea,2025-05-05,2025-07-21,Mild,N,Y,Unknown
+SUBJ0339,Thrombocytopenia,2024-12-25,2025-01-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0339,Vomiting,2025-03-08,2025-04-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0339,Pyrexia,2024-11-15,2025-02-10,Moderate,Y,Y,Not Recovered/Not Resolved
+SUBJ0339,Fatigue,2024-12-30,2025-03-29,Moderate,Y,N,Recovering/Resolving
+SUBJ0339,Neutropenia,2024-08-17,2024-11-14,Mild,N,Y,Recovered/Resolved
+SUBJ0340,Injection Site Reaction,2025-03-16,2025-05-16,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0340,Alopecia,2024-09-28,2024-11-30,Mild,N,N,Recovered/Resolved
+SUBJ0340,Nausea,2025-05-24,2025-08-20,Severe,Y,N,Recovered/Resolved
+SUBJ0340,Alopecia,2024-11-30,2024-12-04,Mild,N,Y,Recovered/Resolved
+SUBJ0340,Nausea,2024-02-14,2024-05-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0340,Vomiting,2024-12-13,2025-03-10,Severe,Y,Y,Recovered/Resolved
+SUBJ0340,Pyrexia,2024-04-04,2024-04-10,Severe,N,Y,Recovered/Resolved
+SUBJ0340,Peripheral Neuropathy,2024-09-27,2024-11-11,Mild,N,Y,Recovered/Resolved
+SUBJ0340,Diarrhea,2024-11-06,2025-01-29,Mild,N,N,Recovered/Resolved
+SUBJ0341,Diarrhea,2025-04-29,2025-06-26,Severe,Y,Y,Recovering/Resolving
+SUBJ0341,Alopecia,2025-06-03,2025-08-14,Mild,N,Y,Recovered/Resolved
+SUBJ0341,Nausea,2025-11-10,2026-01-04,Severe,N,N,Recovering/Resolving
+SUBJ0341,Neutropenia,2025-10-06,2025-11-27,Severe,Y,N,Recovering/Resolving
+SUBJ0341,Anemia,2024-11-27,2024-12-04,Mild,N,Y,Unknown
+SUBJ0341,Thrombocytopenia,2025-03-19,2025-05-02,Severe,N,Y,Recovered/Resolved
+SUBJ0341,Neutropenia,2025-08-30,2025-10-03,Mild,N,N,Recovered/Resolved
+SUBJ0341,Constipation,2024-11-07,2024-12-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0341,Nausea,2025-04-21,2025-07-16,Mild,N,Y,Recovered/Resolved
+SUBJ0342,Nausea,2025-01-15,2025-04-03,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0342,Peripheral Neuropathy,2024-12-29,2025-03-22,Moderate,N,Y,Fatal
+SUBJ0342,Decreased Appetite,2024-12-14,2025-03-08,Severe,N,Y,Fatal
+SUBJ0342,Alopecia,2025-10-04,2025-10-18,Mild,N,Y,Recovering/Resolving
+SUBJ0342,Neutropenia,2024-11-05,2024-11-15,Moderate,N,Y,Recovering/Resolving
+SUBJ0342,Stomatitis,2025-02-02,2025-02-14,Mild,N,Y,Recovering/Resolving
+SUBJ0342,Hypertension,2024-12-21,2025-02-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0342,Anemia,2024-12-22,2024-12-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0342,Decreased Appetite,2025-04-10,,Mild,N,Y,Recovering/Resolving
+SUBJ0342,Vomiting,2024-10-03,2024-12-30,Moderate,N,N,Recovered/Resolved
+SUBJ0343,Peripheral Neuropathy,2024-12-28,2025-03-20,Severe,Y,Y,Recovered/Resolved
+SUBJ0343,Alopecia,2025-06-14,,Mild,N,Y,Recovered/Resolved
+SUBJ0343,Thrombocytopenia,2025-09-26,2025-10-08,Mild,N,Y,Recovering/Resolving
+SUBJ0343,Constipation,2025-03-29,2025-05-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0343,Alopecia,2025-02-10,2025-03-07,Mild,N,Y,Recovered/Resolved
+SUBJ0343,Neutropenia,2025-09-20,2025-09-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0343,Nausea,2025-08-07,2025-08-11,Severe,N,Y,Recovered/Resolved
+SUBJ0343,Nausea,2025-03-22,,Mild,N,Y,Recovered/Resolved
+SUBJ0344,Stomatitis,2025-08-10,2025-10-18,Mild,N,N,Fatal
+SUBJ0344,Injection Site Reaction,2025-06-25,2025-08-21,Mild,N,N,Recovering/Resolving
+SUBJ0344,Decreased Appetite,2024-11-10,2025-01-31,Severe,Y,N,Recovered/Resolved
+SUBJ0344,Constipation,2025-06-15,2025-07-16,Mild,N,Y,Recovered/Resolved
+SUBJ0345,Hypertension,2025-08-17,2025-09-17,Moderate,N,N,Recovering/Resolving
+SUBJ0345,Hypertension,2024-12-27,2025-01-30,Severe,Y,N,Recovered/Resolved
+SUBJ0346,Pyrexia,2025-01-15,2025-04-14,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0346,Injection Site Reaction,2024-12-20,2025-02-22,Mild,N,Y,Recovered/Resolved
+SUBJ0346,Neutropenia,2025-08-29,2025-11-27,Severe,Y,N,Recovering/Resolving
+SUBJ0346,Stomatitis,2025-08-15,2025-09-21,Severe,Y,Y,Recovered/Resolved
+SUBJ0346,Neutropenia,2025-03-20,2025-06-18,Mild,N,Y,Recovered/Resolved
+SUBJ0346,Thrombocytopenia,2025-10-15,,Severe,Y,N,Recovered/Resolved
+SUBJ0346,Diarrhea,2024-07-11,2024-09-30,Mild,N,Y,Recovered/Resolved
+SUBJ0347,Vomiting,2024-08-03,2024-08-30,Mild,N,N,Recovering/Resolving
+SUBJ0347,Stomatitis,2025-05-06,2025-06-24,Mild,N,Y,Recovered/Resolved
+SUBJ0347,Diarrhea,2024-09-08,2024-09-18,Moderate,N,N,Recovered/Resolved
+SUBJ0347,Alopecia,2025-03-24,2025-05-27,Mild,Y,Y,Recovered/Resolved
+SUBJ0348,Injection Site Reaction,2025-02-15,2025-02-27,Mild,N,Y,Recovering/Resolving
+SUBJ0348,Injection Site Reaction,2025-04-24,2025-05-07,Mild,N,Y,Recovering/Resolving
+SUBJ0348,Stomatitis,2024-10-28,2024-12-14,Mild,Y,N,Recovered/Resolved
+SUBJ0348,Vomiting,2024-11-12,2024-12-29,Severe,Y,Y,Recovered/Resolved
+SUBJ0348,Neutropenia,2025-04-07,2025-05-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0348,Neutropenia,2024-06-22,2024-06-27,Mild,N,N,Recovered/Resolved
+SUBJ0348,Pyrexia,2025-04-03,,Mild,Y,Y,Unknown
+SUBJ0348,Fatigue,2024-06-06,2024-08-24,Severe,Y,Y,Recovering/Resolving
+SUBJ0349,Stomatitis,2025-04-01,2025-04-19,Mild,N,N,Recovered/Resolved
+SUBJ0349,Vomiting,2024-06-22,2024-08-26,Moderate,N,N,Recovered/Resolved
+SUBJ0349,Pyrexia,2025-09-01,2025-11-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0349,Diarrhea,2024-09-26,2024-12-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0349,Neutropenia,2025-03-07,2025-04-10,Severe,N,N,Recovered/Resolved
+SUBJ0349,Pyrexia,2024-12-12,2025-02-25,Moderate,N,Y,Recovering/Resolving
+SUBJ0349,Injection Site Reaction,2025-02-01,2025-02-28,Mild,N,N,Recovered/Resolved
+SUBJ0349,Nausea,2025-01-17,2025-04-07,Moderate,N,N,Recovering/Resolving
+SUBJ0350,Diarrhea,2024-09-22,2024-12-05,Mild,N,Y,Recovered/Resolved
+SUBJ0350,Stomatitis,2025-12-31,2026-02-17,Severe,Y,N,Recovered/Resolved
+SUBJ0351,Injection Site Reaction,2024-10-17,2025-01-12,Mild,N,Y,Recovered/Resolved
+SUBJ0351,Peripheral Neuropathy,2025-04-15,2025-07-03,Severe,N,Y,Recovered/Resolved
+SUBJ0351,Stomatitis,2024-10-09,2024-12-24,Mild,N,N,Unknown
+SUBJ0351,Neutropenia,2024-06-11,2024-07-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0351,Nausea,2024-04-20,2024-06-11,Mild,N,Y,Unknown
+SUBJ0351,Nausea,2025-05-17,2025-07-11,Mild,N,Y,Recovering/Resolving
+SUBJ0351,Hypertension,2025-05-28,2025-06-29,Severe,Y,Y,Recovered/Resolved
+SUBJ0352,Pyrexia,2025-02-02,2025-02-14,Mild,N,N,Recovered/Resolved
+SUBJ0352,Nausea,2025-07-08,2025-07-28,Mild,N,Y,Recovered/Resolved
+SUBJ0352,Anemia,2024-05-15,2024-07-25,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0352,Fatigue,2024-07-12,2024-07-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0352,Injection Site Reaction,2024-07-26,2024-08-13,Mild,N,N,Recovered/Resolved
+SUBJ0352,Vomiting,2024-06-26,2024-06-29,Mild,N,Y,Recovering/Resolving
+SUBJ0352,Nausea,2024-03-03,2024-03-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0352,Peripheral Neuropathy,2024-05-22,2024-07-31,Moderate,N,Y,Recovering/Resolving
+SUBJ0352,Injection Site Reaction,2024-03-27,,Moderate,N,Y,Recovered/Resolved
+SUBJ0353,Stomatitis,2024-12-10,2025-01-22,Mild,N,Y,Recovered/Resolved
+SUBJ0353,Diarrhea,2024-10-11,2025-01-01,Mild,N,N,Recovered/Resolved
+SUBJ0353,Vomiting,2025-11-13,2026-02-11,Mild,N,N,Recovered/Resolved
+SUBJ0353,Diarrhea,2025-01-06,2025-01-14,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0354,Decreased Appetite,2025-07-27,2025-09-24,Moderate,N,N,Recovered/Resolved
+SUBJ0354,Fatigue,2026-01-01,2026-02-06,Moderate,Y,Y,Unknown
+SUBJ0354,Nausea,2025-07-27,2025-08-03,Mild,N,N,Fatal
+SUBJ0354,Nausea,2024-11-29,2025-01-31,Mild,N,N,Recovered/Resolved
+SUBJ0355,Injection Site Reaction,2024-09-30,,Moderate,N,Y,Recovered/Resolved
+SUBJ0355,Hypertension,2025-06-18,2025-07-14,Mild,N,N,Recovered/Resolved
+SUBJ0355,Pyrexia,2024-12-29,2025-03-25,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0356,Constipation,2025-02-18,2025-04-29,Moderate,N,Y,Unknown
+SUBJ0356,Alopecia,2025-01-28,2025-02-06,Moderate,N,Y,Recovered/Resolved
+SUBJ0356,Neutropenia,2025-01-31,2025-04-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0356,Fatigue,2025-02-18,2025-04-24,Mild,N,N,Recovered/Resolved
+SUBJ0357,Anemia,2024-08-07,2024-10-23,Mild,N,N,Recovered/Resolved
+SUBJ0357,Nausea,2025-03-17,2025-05-31,Severe,N,N,Recovered/Resolved
+SUBJ0357,Stomatitis,2025-02-19,,Severe,Y,Y,Recovered/Resolved
+SUBJ0357,Vomiting,2024-08-08,2024-08-29,Mild,N,N,Recovered/Resolved
+SUBJ0357,Injection Site Reaction,2024-09-02,2024-10-29,Severe,N,N,Recovered/Resolved
+SUBJ0358,Peripheral Neuropathy,2025-03-30,2025-04-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0358,Vomiting,2024-11-01,2024-11-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0358,Thrombocytopenia,2025-08-04,2025-10-02,Mild,N,Y,Recovered/Resolved
+SUBJ0358,Injection Site Reaction,2025-01-11,2025-02-10,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0358,Peripheral Neuropathy,2024-10-06,2024-12-25,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0359,Nausea,2024-09-22,2024-10-24,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0360,Injection Site Reaction,2025-08-15,2025-10-16,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0360,Neutropenia,2025-04-26,2025-06-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0361,Anemia,2024-06-28,2024-06-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0361,Fatigue,2025-04-02,2025-05-28,Mild,N,Y,Recovered/Resolved
+SUBJ0361,Diarrhea,2025-06-04,2025-08-02,Moderate,N,N,Recovered/Resolved
+SUBJ0361,Neutropenia,2025-07-06,2025-09-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0361,Thrombocytopenia,2025-01-01,2025-02-17,Severe,Y,Y,Fatal
+SUBJ0361,Neutropenia,2025-05-27,2025-06-14,Moderate,N,N,Recovered/Resolved
+SUBJ0361,Nausea,2025-07-08,2025-07-31,Mild,N,Y,Recovering/Resolving
+SUBJ0361,Pyrexia,2025-08-05,2025-10-26,Severe,N,Y,Recovered/Resolved
+SUBJ0361,Hypertension,2025-05-28,2025-06-05,Mild,N,N,Recovered/Resolved
+SUBJ0362,Diarrhea,2024-05-29,2024-08-21,Severe,Y,Y,Recovered/Resolved
+SUBJ0362,Diarrhea,2024-10-13,2024-12-06,Severe,N,N,Recovered/Resolved
+SUBJ0362,Decreased Appetite,2024-07-12,,Severe,N,N,Recovered/Resolved
+SUBJ0362,Anemia,2024-10-02,2024-11-06,Severe,Y,Y,Recovered/Resolved
+SUBJ0363,Pyrexia,2024-09-01,2024-09-21,Moderate,Y,Y,Recovered/Resolved
+SUBJ0363,Hypertension,2024-09-15,2024-10-03,Severe,N,Y,Recovered/Resolved
+SUBJ0363,Decreased Appetite,2024-06-22,2024-09-20,Mild,N,N,Recovered/Resolved
+SUBJ0363,Decreased Appetite,2024-09-06,2024-11-07,Moderate,N,Y,Recovering/Resolving
+SUBJ0363,Vomiting,2024-08-28,2024-09-13,Moderate,Y,Y,Recovered/Resolved
+SUBJ0363,Stomatitis,2024-12-19,2025-02-26,Moderate,N,N,Fatal
+SUBJ0363,Stomatitis,2025-06-04,,Mild,N,N,Recovered/Resolved
+SUBJ0364,Neutropenia,2024-06-11,2024-07-28,Mild,N,N,Recovered/Resolved
+SUBJ0364,Peripheral Neuropathy,2024-11-02,2024-12-09,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0364,Thrombocytopenia,2025-02-03,2025-04-30,Moderate,N,Y,Recovered/Resolved
+SUBJ0364,Thrombocytopenia,2025-07-12,2025-08-11,Moderate,Y,N,Not Recovered/Not Resolved
+SUBJ0364,Constipation,2024-12-13,2024-12-24,Moderate,N,N,Recovered/Resolved
+SUBJ0364,Fatigue,2024-05-28,2024-07-05,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0364,Nausea,2024-09-26,2024-11-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0364,Fatigue,2025-04-02,2025-06-07,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0364,Nausea,2024-08-10,2024-09-12,Severe,Y,N,Recovering/Resolving
+SUBJ0364,Pyrexia,2025-03-25,2025-04-02,Mild,N,Y,Recovered/Resolved
+SUBJ0364,Hypertension,2025-05-24,,Mild,N,Y,Recovered/Resolved
+SUBJ0364,Peripheral Neuropathy,2025-01-21,2025-02-17,Mild,Y,N,Recovered/Resolved
+SUBJ0365,Stomatitis,2025-03-18,,Severe,Y,Y,Recovering/Resolving
+SUBJ0366,Decreased Appetite,2025-01-09,2025-04-07,Mild,N,Y,Recovering/Resolving
+SUBJ0366,Injection Site Reaction,2025-09-28,2025-09-30,Moderate,N,Y,Recovered/Resolved
+SUBJ0366,Constipation,2025-05-30,2025-07-10,Mild,Y,Y,Recovered/Resolved
+SUBJ0366,Constipation,2025-12-29,2026-02-13,Mild,N,Y,Unknown
+SUBJ0366,Anemia,2025-02-14,2025-02-24,Severe,Y,Y,Recovered/Resolved
+SUBJ0366,Vomiting,2025-08-25,2025-09-11,Mild,N,Y,Recovering/Resolving
+SUBJ0367,Fatigue,2024-11-08,2024-12-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0367,Fatigue,2024-07-16,2024-07-27,Moderate,N,N,Recovered/Resolved
+SUBJ0367,Constipation,2025-07-24,2025-08-06,Mild,N,N,Recovering/Resolving
+SUBJ0367,Vomiting,2024-07-13,2024-07-18,Mild,N,N,Recovered/Resolved
+SUBJ0368,Injection Site Reaction,2024-10-21,2025-01-10,Moderate,N,Y,Recovering/Resolving
+SUBJ0368,Injection Site Reaction,2025-04-12,2025-05-10,Mild,N,Y,Recovered/Resolved
+SUBJ0368,Constipation,2026-01-18,2026-01-28,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0368,Hypertension,2024-11-01,2025-01-10,Mild,N,Y,Recovered/Resolved
+SUBJ0368,Hypertension,2025-01-14,2025-02-22,Mild,N,Y,Recovered/Resolved
+SUBJ0368,Pyrexia,2024-11-02,2025-01-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0369,Anemia,2025-09-23,,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0369,Stomatitis,2025-05-28,,Moderate,N,Y,Recovered/Resolved
+SUBJ0369,Decreased Appetite,2025-06-01,2025-06-14,Mild,N,N,Recovered/Resolved
+SUBJ0369,Nausea,2024-08-16,2024-11-01,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0370,Hypertension,2025-11-21,2026-02-09,Mild,N,N,Recovering/Resolving
+SUBJ0370,Peripheral Neuropathy,2024-11-14,2025-02-07,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0370,Alopecia,2025-04-23,2025-06-02,Severe,N,Y,Recovered/Resolved
+SUBJ0370,Peripheral Neuropathy,2024-11-21,2025-01-06,Mild,N,Y,Recovered/Resolved
+SUBJ0370,Decreased Appetite,2024-09-28,2024-10-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0370,Anemia,2025-06-05,2025-07-31,Mild,N,N,Recovered/Resolved
+SUBJ0370,Stomatitis,2025-01-26,2025-04-07,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0370,Pyrexia,2024-12-02,2025-02-13,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0371,Neutropenia,2025-10-25,2025-11-29,Severe,Y,N,Recovering/Resolving
+SUBJ0371,Constipation,2025-07-14,2025-09-19,Severe,Y,Y,Recovered/Resolved
+SUBJ0371,Fatigue,2024-09-06,2024-11-09,Mild,Y,Y,Recovered/Resolved
+SUBJ0371,Nausea,2025-05-16,2025-08-03,Severe,N,Y,Recovered/Resolved
+SUBJ0372,Stomatitis,2024-10-07,2024-11-01,Mild,N,Y,Recovered/Resolved
+SUBJ0372,Peripheral Neuropathy,2024-09-16,2024-09-24,Mild,N,N,Recovered/Resolved
+SUBJ0372,Diarrhea,2024-07-29,2024-09-17,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0373,Stomatitis,2024-11-12,2025-01-27,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0373,Neutropenia,2025-03-10,2025-06-01,Mild,N,Y,Recovered/Resolved
+SUBJ0373,Alopecia,2025-12-09,2026-02-01,Moderate,N,Y,Recovering/Resolving
+SUBJ0373,Fatigue,2025-11-05,2025-11-08,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0374,Nausea,2025-07-11,2025-09-22,Mild,N,Y,Recovered/Resolved
+SUBJ0374,Constipation,2025-01-12,2025-03-15,Severe,Y,Y,Recovered/Resolved
+SUBJ0374,Diarrhea,2024-10-21,2024-11-17,Moderate,N,Y,Recovered/Resolved
+SUBJ0374,Injection Site Reaction,2024-07-18,2024-09-07,Mild,N,Y,Recovered/Resolved
+SUBJ0374,Diarrhea,2024-06-30,,Mild,N,Y,Recovered/Resolved
+SUBJ0374,Nausea,2024-12-16,2024-12-23,Severe,N,Y,Recovered/Resolved
+SUBJ0375,Peripheral Neuropathy,2025-02-06,2025-03-25,Mild,Y,N,Recovering/Resolving
+SUBJ0375,Decreased Appetite,2024-11-21,2025-01-05,Mild,N,N,Recovered/Resolved
+SUBJ0376,Stomatitis,2024-07-19,2024-08-28,Mild,N,N,Recovering/Resolving
+SUBJ0376,Pyrexia,2024-03-24,2024-04-10,Mild,N,N,Recovering/Resolving
+SUBJ0376,Injection Site Reaction,2024-02-25,2024-05-25,Severe,Y,N,Recovered/Resolved
+SUBJ0376,Peripheral Neuropathy,2025-06-28,2025-07-04,Mild,N,Y,Recovered/Resolved
+SUBJ0377,Thrombocytopenia,2024-11-26,2024-12-11,Moderate,N,N,Recovered/Resolved
+SUBJ0378,Alopecia,2024-08-20,,Mild,N,Y,Recovering/Resolving
+SUBJ0378,Neutropenia,2025-07-07,2025-07-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0378,Hypertension,2024-06-21,2024-07-07,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0378,Nausea,2025-09-13,2025-12-11,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0378,Injection Site Reaction,2025-03-29,2025-04-24,Severe,N,N,Recovering/Resolving
+SUBJ0378,Thrombocytopenia,2025-07-19,2025-08-05,Severe,N,Y,Recovering/Resolving
+SUBJ0379,Decreased Appetite,2025-02-13,2025-04-05,Moderate,Y,Y,Recovered/Resolved
+SUBJ0379,Anemia,2024-12-06,2025-02-08,Mild,N,N,Unknown
+SUBJ0379,Stomatitis,2024-11-21,2025-01-21,Moderate,N,N,Fatal
+SUBJ0379,Injection Site Reaction,2025-08-28,2025-09-07,Severe,N,N,Recovered/Resolved
+SUBJ0380,Constipation,2024-10-25,,Mild,N,Y,Recovered/Resolved
+SUBJ0380,Fatigue,2024-08-28,2024-09-05,Mild,N,Y,Recovered/Resolved
+SUBJ0380,Nausea,2024-09-16,2024-11-19,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0381,Anemia,2025-01-21,2025-02-09,Mild,N,Y,Recovered/Resolved
+SUBJ0381,Anemia,2024-07-12,2024-07-25,Severe,N,Y,Fatal
+SUBJ0381,Peripheral Neuropathy,2024-10-26,2024-12-10,Mild,N,Y,Recovering/Resolving
+SUBJ0381,Injection Site Reaction,2024-04-30,2024-06-21,Mild,N,Y,Recovered/Resolved
+SUBJ0382,Diarrhea,2024-08-16,2024-09-25,Mild,N,N,Recovered/Resolved
+SUBJ0382,Pyrexia,2025-02-01,2025-03-10,Moderate,N,N,Fatal
+SUBJ0382,Hypertension,2024-05-13,2024-07-08,Severe,N,N,Recovering/Resolving
+SUBJ0382,Hypertension,2025-06-09,2025-08-05,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0383,Pyrexia,2025-04-13,2025-04-18,Mild,N,Y,Recovered/Resolved
+SUBJ0383,Neutropenia,2025-02-08,2025-05-03,Moderate,N,N,Recovering/Resolving
+SUBJ0383,Injection Site Reaction,2025-03-12,2025-03-31,Moderate,N,N,Recovering/Resolving
+SUBJ0384,Diarrhea,2025-01-17,2025-03-23,Mild,N,N,Recovering/Resolving
+SUBJ0384,Peripheral Neuropathy,2025-02-04,2025-03-04,Mild,N,N,Recovering/Resolving
+SUBJ0384,Vomiting,2024-10-13,2024-11-07,Moderate,N,N,Fatal
+SUBJ0384,Neutropenia,2024-08-13,,Moderate,N,N,Recovered/Resolved
+SUBJ0384,Thrombocytopenia,2024-09-18,2024-10-27,Moderate,N,N,Recovered/Resolved
+SUBJ0384,Thrombocytopenia,2025-03-28,2025-05-24,Mild,N,N,Recovered/Resolved
+SUBJ0386,Nausea,2025-01-08,2025-01-16,Mild,N,N,Recovering/Resolving
+SUBJ0386,Hypertension,2024-10-22,2025-01-08,Mild,N,N,Recovered/Resolved
+SUBJ0386,Alopecia,2025-02-26,,Severe,N,N,Recovering/Resolving
+SUBJ0386,Vomiting,2025-06-17,2025-09-01,Moderate,N,N,Fatal
+SUBJ0386,Injection Site Reaction,2024-05-16,2024-06-11,Mild,N,N,Recovered/Resolved
+SUBJ0386,Injection Site Reaction,2024-04-01,2024-04-22,Mild,N,N,Recovering/Resolving
+SUBJ0386,Hypertension,2024-02-28,,Mild,N,N,Recovered/Resolved
+SUBJ0387,Diarrhea,2025-08-04,2025-09-28,Mild,N,N,Recovered/Resolved
+SUBJ0387,Alopecia,2025-03-19,2025-04-09,Mild,N,Y,Recovered/Resolved
+SUBJ0388,Diarrhea,2024-07-23,2024-10-02,Mild,N,Y,Recovered/Resolved
+SUBJ0388,Injection Site Reaction,2024-05-28,2024-08-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0388,Hypertension,2024-06-19,2024-09-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0388,Alopecia,2024-08-12,2024-09-06,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0388,Diarrhea,2025-05-20,2025-07-09,Severe,Y,Y,Recovering/Resolving
+SUBJ0388,Peripheral Neuropathy,2024-10-18,2024-12-08,Moderate,N,Y,Recovering/Resolving
+SUBJ0388,Pyrexia,2024-07-08,2024-08-06,Mild,N,Y,Recovered/Resolved
+SUBJ0388,Decreased Appetite,2024-02-29,2024-04-14,Severe,N,Y,Recovered/Resolved
+SUBJ0389,Peripheral Neuropathy,2025-09-28,2025-10-12,Mild,N,N,Fatal
+SUBJ0389,Hypertension,2025-04-27,2025-07-03,Mild,N,Y,Unknown
+SUBJ0389,Alopecia,2025-08-14,2025-11-04,Mild,N,N,Recovered/Resolved
+SUBJ0389,Vomiting,2025-10-04,2025-11-14,Moderate,N,N,Recovered/Resolved
+SUBJ0390,Thrombocytopenia,2025-09-22,2025-10-25,Mild,N,N,Recovered/Resolved
+SUBJ0390,Anemia,2025-10-10,2025-12-13,Mild,N,Y,Unknown
+SUBJ0390,Pyrexia,2025-12-14,2026-01-23,Mild,N,Y,Recovered/Resolved
+SUBJ0390,Stomatitis,2025-02-11,2025-03-12,Mild,N,Y,Recovering/Resolving
+SUBJ0390,Peripheral Neuropathy,2025-03-08,,Moderate,N,N,Recovering/Resolving
+SUBJ0390,Alopecia,2025-04-14,,Mild,N,Y,Recovering/Resolving
+SUBJ0390,Pyrexia,2025-02-18,2025-03-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0390,Decreased Appetite,2025-07-30,,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0391,Anemia,2025-04-01,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0391,Neutropenia,2026-01-23,2026-02-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0391,Decreased Appetite,2024-10-30,2024-12-25,Moderate,N,Y,Recovering/Resolving
+SUBJ0391,Diarrhea,2025-09-10,2025-09-19,Mild,N,Y,Recovered/Resolved
+SUBJ0391,Pyrexia,2025-09-01,2025-09-22,Mild,N,Y,Unknown
+SUBJ0391,Vomiting,2025-06-19,2025-08-02,Mild,N,Y,Recovered/Resolved
+SUBJ0391,Thrombocytopenia,2025-03-17,2025-05-20,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0392,Vomiting,2025-09-01,2025-10-22,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0392,Fatigue,2025-04-13,,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0392,Decreased Appetite,2025-06-20,2025-09-04,Severe,Y,N,Recovered/Resolved
+SUBJ0392,Anemia,2025-09-19,2025-12-15,Mild,N,N,Recovered/Resolved
+SUBJ0392,Decreased Appetite,2024-08-16,2024-10-13,Mild,N,N,Recovering/Resolving
+SUBJ0393,Constipation,2024-10-09,2024-12-10,Severe,Y,Y,Recovered/Resolved
+SUBJ0393,Vomiting,2025-06-02,2025-08-02,Moderate,N,Y,Recovering/Resolving
+SUBJ0393,Anemia,2024-09-26,2024-10-31,Moderate,N,Y,Recovering/Resolving
+SUBJ0393,Thrombocytopenia,2025-03-14,2025-04-04,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0393,Pyrexia,2024-09-15,2024-10-29,Mild,N,Y,Recovered/Resolved
+SUBJ0393,Constipation,2024-08-11,2024-09-30,Mild,N,Y,Recovered/Resolved
+SUBJ0393,Thrombocytopenia,2025-04-05,2025-05-09,Mild,Y,N,Recovering/Resolving
+SUBJ0393,Alopecia,2025-03-01,2025-05-14,Mild,N,Y,Recovering/Resolving
+SUBJ0394,Injection Site Reaction,2024-09-17,2024-11-08,Mild,N,N,Recovered/Resolved
+SUBJ0394,Thrombocytopenia,2024-06-13,2024-08-27,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0394,Vomiting,2025-01-27,2025-03-19,Moderate,N,N,Recovering/Resolving
+SUBJ0394,Peripheral Neuropathy,2025-04-22,2025-04-24,Mild,N,N,Recovered/Resolved
+SUBJ0395,Diarrhea,2025-07-13,2025-10-10,Mild,N,Y,Recovered/Resolved
+SUBJ0396,Vomiting,2025-08-23,2025-09-23,Severe,Y,Y,Fatal
+SUBJ0396,Decreased Appetite,2025-08-29,2025-11-04,Mild,N,N,Recovered/Resolved
+SUBJ0396,Hypertension,2025-03-02,2025-04-01,Moderate,N,N,Recovered/Resolved
+SUBJ0396,Anemia,2024-06-22,2024-07-09,Severe,N,Y,Recovered/Resolved
+SUBJ0396,Anemia,2025-03-18,2025-04-28,Severe,Y,N,Recovered/Resolved
+SUBJ0396,Vomiting,2024-07-11,2024-07-31,Mild,N,N,Unknown
+SUBJ0396,Stomatitis,2025-03-11,2025-03-12,Mild,N,Y,Recovered/Resolved
+SUBJ0396,Hypertension,2025-06-15,,Severe,N,Y,Recovered/Resolved
+SUBJ0396,Hypertension,2025-01-27,2025-03-20,Mild,N,N,Recovered/Resolved
+SUBJ0396,Thrombocytopenia,2024-09-07,2024-11-09,Moderate,N,Y,Recovering/Resolving
+SUBJ0397,Fatigue,2025-03-08,2025-05-05,Moderate,N,Y,Recovering/Resolving
+SUBJ0397,Alopecia,2024-10-23,2024-12-06,Mild,N,Y,Recovered/Resolved
+SUBJ0397,Neutropenia,2024-10-13,2024-12-15,Severe,Y,N,Recovered/Resolved
+SUBJ0397,Anemia,2025-09-24,2025-12-01,Moderate,N,Y,Recovered/Resolved
+SUBJ0397,Hypertension,2025-08-03,2025-08-31,Moderate,N,N,Recovered/Resolved
+SUBJ0397,Diarrhea,2025-04-15,2025-06-08,Moderate,N,N,Recovered/Resolved
+SUBJ0397,Vomiting,2025-09-27,2025-12-23,Severe,N,N,Recovered/Resolved
+SUBJ0397,Thrombocytopenia,2025-09-19,2025-11-14,Severe,Y,N,Recovered/Resolved
+SUBJ0398,Hypertension,2024-04-02,2024-06-06,Moderate,N,N,Recovering/Resolving
+SUBJ0398,Thrombocytopenia,2025-01-11,2025-02-04,Mild,N,N,Recovered/Resolved
+SUBJ0398,Stomatitis,2025-06-13,2025-08-23,Mild,N,Y,Recovered/Resolved
+SUBJ0398,Fatigue,2024-09-11,2024-11-07,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0398,Injection Site Reaction,2024-10-16,2025-01-03,Mild,N,N,Recovered/Resolved
+SUBJ0398,Neutropenia,2024-06-01,,Mild,N,N,Unknown
+SUBJ0398,Nausea,2025-03-31,2025-06-19,Mild,N,N,Unknown
+SUBJ0399,Constipation,2024-09-18,2024-10-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0400,Decreased Appetite,2025-08-20,2025-09-02,Moderate,N,N,Unknown
+SUBJ0400,Neutropenia,2025-08-13,2025-09-06,Mild,N,N,Recovered/Resolved
+SUBJ0400,Injection Site Reaction,2024-07-13,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0400,Decreased Appetite,2024-06-13,2024-08-08,Mild,N,N,Recovered/Resolved
+SUBJ0400,Peripheral Neuropathy,2024-09-09,2024-09-24,Moderate,N,N,Recovered/Resolved
+SUBJ0400,Decreased Appetite,2024-10-30,2024-12-10,Mild,N,Y,Recovered/Resolved
+SUBJ0400,Vomiting,2024-08-21,2024-10-05,Mild,N,Y,Recovered/Resolved
+SUBJ0401,Injection Site Reaction,2024-09-04,2024-10-06,Severe,N,N,Recovered/Resolved
+SUBJ0401,Hypertension,2024-06-16,2024-06-21,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0401,Diarrhea,2024-12-18,2025-01-29,Moderate,N,Y,Recovering/Resolving
+SUBJ0401,Peripheral Neuropathy,2025-04-09,2025-06-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0401,Constipation,2024-12-29,2025-01-04,Severe,Y,N,Fatal
+SUBJ0401,Injection Site Reaction,2024-12-07,2025-02-14,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0402,Neutropenia,2024-09-10,2024-09-19,Mild,N,N,Recovering/Resolving
+SUBJ0402,Vomiting,2025-02-25,2025-04-16,Severe,N,N,Recovered/Resolved
+SUBJ0402,Peripheral Neuropathy,2025-05-08,2025-07-13,Severe,N,Y,Recovered/Resolved
+SUBJ0402,Anemia,2025-03-22,2025-06-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0402,Hypertension,2025-01-25,2025-04-10,Severe,Y,Y,Recovering/Resolving
+SUBJ0402,Stomatitis,2025-12-21,2026-01-15,Moderate,N,N,Recovered/Resolved
+SUBJ0403,Pyrexia,2024-06-26,2024-09-07,Severe,Y,Y,Recovered/Resolved
+SUBJ0403,Pyrexia,2024-03-31,2024-05-06,Severe,Y,N,Recovering/Resolving
+SUBJ0403,Peripheral Neuropathy,2025-01-26,2025-02-13,Mild,N,Y,Recovered/Resolved
+SUBJ0403,Vomiting,2024-11-03,2024-12-07,Moderate,N,N,Recovering/Resolving
+SUBJ0403,Injection Site Reaction,2024-04-14,,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0403,Peripheral Neuropathy,2025-04-01,2025-04-28,Moderate,N,Y,Fatal
+SUBJ0404,Neutropenia,2026-02-08,2026-02-11,Mild,N,Y,Recovered/Resolved
+SUBJ0404,Alopecia,2025-01-26,2025-04-12,Mild,N,N,Recovering/Resolving
+SUBJ0404,Stomatitis,2024-11-09,2024-11-23,Mild,N,Y,Recovered/Resolved
+SUBJ0404,Pyrexia,2025-10-01,2025-11-18,Moderate,N,N,Recovered/Resolved
+SUBJ0404,Diarrhea,2024-11-29,2025-01-24,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0404,Diarrhea,2025-07-09,2025-07-14,Moderate,N,Y,Recovered/Resolved
+SUBJ0404,Decreased Appetite,2024-11-04,2024-11-05,Mild,N,Y,Fatal
+SUBJ0404,Vomiting,2026-01-08,2026-03-03,Mild,N,Y,Recovering/Resolving
+SUBJ0404,Anemia,2024-12-19,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0404,Injection Site Reaction,2025-06-29,2025-08-02,Severe,Y,Y,Recovered/Resolved
+SUBJ0405,Fatigue,2025-08-25,2025-10-09,Mild,N,Y,Recovering/Resolving
+SUBJ0405,Thrombocytopenia,2025-04-13,2025-07-02,Severe,Y,Y,Recovering/Resolving
+SUBJ0405,Peripheral Neuropathy,2025-05-28,2025-06-11,Moderate,N,N,Recovered/Resolved
+SUBJ0405,Peripheral Neuropathy,2025-06-30,2025-09-23,Moderate,Y,N,Recovered/Resolved
+SUBJ0405,Vomiting,2024-06-19,2024-08-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0405,Neutropenia,2024-05-26,2024-07-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0405,Pyrexia,2024-12-06,2024-12-10,Moderate,N,N,Recovered/Resolved
+SUBJ0405,Fatigue,2024-12-18,2025-02-23,Mild,Y,N,Recovered/Resolved
+SUBJ0406,Decreased Appetite,2025-03-06,2025-04-03,Mild,N,Y,Recovering/Resolving
+SUBJ0406,Vomiting,2024-07-18,2024-10-04,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0406,Thrombocytopenia,2024-08-16,,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0406,Peripheral Neuropathy,2024-10-30,2024-11-04,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0406,Pyrexia,2025-02-18,2025-02-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0406,Diarrhea,2025-04-18,2025-05-11,Mild,N,Y,Recovering/Resolving
+SUBJ0406,Alopecia,2025-04-16,2025-06-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0406,Nausea,2025-06-18,2025-07-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0406,Vomiting,2025-01-09,2025-04-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0407,Thrombocytopenia,2024-12-29,2025-03-12,Severe,N,Y,Recovered/Resolved
+SUBJ0407,Stomatitis,2025-07-01,2025-09-21,Moderate,N,N,Fatal
+SUBJ0407,Pyrexia,2024-10-31,2024-11-13,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0407,Anemia,2025-03-22,2025-04-04,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0408,Hypertension,2024-10-22,2024-12-13,Mild,N,N,Recovered/Resolved
+SUBJ0408,Thrombocytopenia,2024-10-04,2024-10-24,Moderate,N,N,Recovered/Resolved
+SUBJ0408,Thrombocytopenia,2024-12-17,2025-02-04,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0408,Anemia,2025-02-07,2025-03-13,Mild,N,Y,Fatal
+SUBJ0408,Alopecia,2025-03-15,2025-06-08,Mild,N,N,Fatal
+SUBJ0408,Stomatitis,2025-05-11,2025-07-20,Mild,N,N,Recovered/Resolved
+SUBJ0408,Anemia,2025-02-08,2025-04-19,Moderate,Y,N,Not Recovered/Not Resolved
+SUBJ0409,Constipation,2024-06-11,2024-06-22,Mild,N,N,Recovered/Resolved
+SUBJ0409,Alopecia,2024-09-23,2024-12-05,Mild,N,N,Recovered/Resolved
+SUBJ0409,Hypertension,2024-03-29,2024-05-27,Mild,N,N,Recovered/Resolved
+SUBJ0409,Pyrexia,2024-06-02,2024-07-05,Moderate,N,N,Recovering/Resolving
+SUBJ0409,Thrombocytopenia,2024-04-27,,Moderate,Y,Y,Recovered/Resolved
+SUBJ0410,Fatigue,2024-06-24,,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0410,Vomiting,2024-11-10,2024-12-26,Moderate,N,N,Recovered/Resolved
+SUBJ0410,Pyrexia,2025-06-29,2025-07-17,Severe,N,N,Recovered/Resolved
+SUBJ0410,Decreased Appetite,2025-02-26,2025-05-12,Moderate,N,N,Recovered/Resolved
+SUBJ0410,Stomatitis,2024-06-27,2024-09-25,Mild,N,Y,Recovered/Resolved
+SUBJ0411,Diarrhea,2024-05-23,2024-06-27,Moderate,N,N,Unknown
+SUBJ0412,Hypertension,2025-07-17,,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0412,Stomatitis,2025-08-26,2025-09-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0412,Neutropenia,2025-04-19,2025-05-22,Mild,N,N,Fatal
+SUBJ0412,Fatigue,2025-09-18,2025-10-28,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0412,Hypertension,2024-07-11,2024-09-26,Mild,N,Y,Fatal
+SUBJ0412,Stomatitis,2025-06-03,2025-07-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0412,Pyrexia,2025-01-19,2025-04-02,Mild,N,Y,Recovered/Resolved
+SUBJ0412,Thrombocytopenia,2024-07-22,2024-07-23,Mild,N,Y,Recovering/Resolving
+SUBJ0413,Hypertension,2024-11-19,2024-12-05,Moderate,N,N,Recovered/Resolved
+SUBJ0413,Injection Site Reaction,2025-09-24,2025-11-13,Mild,N,N,Recovering/Resolving
+SUBJ0414,Alopecia,2025-06-18,2025-09-09,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0414,Vomiting,2024-07-31,2024-09-07,Mild,N,Y,Recovered/Resolved
+SUBJ0414,Neutropenia,2025-07-26,2025-09-29,Mild,Y,Y,Recovering/Resolving
+SUBJ0414,Thrombocytopenia,2024-07-09,2024-08-19,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0414,Hypertension,2025-03-30,2025-06-21,Severe,Y,N,Recovering/Resolving
+SUBJ0415,Peripheral Neuropathy,2025-09-26,2025-10-31,Moderate,N,Y,Recovered/Resolved
+SUBJ0415,Anemia,2025-03-23,2025-04-12,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0415,Nausea,2025-08-25,2025-10-29,Mild,N,Y,Fatal
+SUBJ0415,Fatigue,2026-01-02,2026-01-09,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0415,Injection Site Reaction,2025-09-15,2025-11-13,Severe,N,N,Recovered/Resolved
+SUBJ0415,Fatigue,2025-03-11,2025-04-24,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0415,Hypertension,2026-01-13,2026-03-02,Mild,N,Y,Recovered/Resolved
+SUBJ0415,Injection Site Reaction,2024-11-11,2024-11-29,Moderate,N,Y,Recovering/Resolving
+SUBJ0415,Neutropenia,2025-01-14,2025-03-23,Moderate,N,Y,Recovering/Resolving
+SUBJ0416,Alopecia,2024-04-20,2024-07-14,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0416,Thrombocytopenia,2025-07-09,2025-09-06,Moderate,N,Y,Unknown
+SUBJ0416,Thrombocytopenia,2025-02-15,2025-03-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0416,Injection Site Reaction,2025-05-25,2025-07-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0416,Fatigue,2024-08-16,2024-10-02,Mild,N,N,Recovered/Resolved
+SUBJ0417,Injection Site Reaction,2025-01-12,2025-01-20,Mild,N,N,Recovering/Resolving
+SUBJ0417,Fatigue,2025-01-08,,Mild,Y,Y,Recovered/Resolved
+SUBJ0417,Diarrhea,2025-02-19,2025-03-31,Mild,N,Y,Recovering/Resolving
+SUBJ0417,Constipation,2025-06-02,2025-08-28,Moderate,N,Y,Unknown
+SUBJ0417,Injection Site Reaction,2025-08-23,2025-11-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0418,Constipation,2024-07-06,2024-09-29,Moderate,N,Y,Recovered/Resolved
+SUBJ0418,Constipation,2025-01-14,2025-04-04,Mild,N,N,Recovered/Resolved
+SUBJ0418,Alopecia,2025-10-16,2025-12-13,Moderate,N,N,Recovered/Resolved
+SUBJ0419,Diarrhea,2025-07-07,,Mild,N,Y,Recovered/Resolved
+SUBJ0419,Constipation,2025-07-29,2025-09-23,Mild,N,N,Recovered/Resolved
+SUBJ0420,Neutropenia,2025-06-02,2025-07-30,Moderate,N,Y,Recovering/Resolving
+SUBJ0420,Alopecia,2024-06-22,2024-06-28,Mild,N,N,Recovering/Resolving
+SUBJ0420,Vomiting,2025-02-19,2025-04-01,Moderate,Y,N,Recovered/Resolved
+SUBJ0421,Neutropenia,2024-12-03,2024-12-09,Mild,N,Y,Unknown
+SUBJ0421,Decreased Appetite,2025-06-03,2025-06-05,Moderate,N,Y,Recovering/Resolving
+SUBJ0421,Injection Site Reaction,2026-01-19,2026-04-02,Moderate,N,Y,Recovering/Resolving
+SUBJ0421,Neutropenia,2025-01-14,2025-03-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0422,Diarrhea,2026-01-22,2026-02-01,Mild,N,N,Recovering/Resolving
+SUBJ0422,Stomatitis,2025-09-26,2025-11-26,Mild,N,N,Recovered/Resolved
+SUBJ0423,Peripheral Neuropathy,2025-06-06,2025-06-12,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0423,Pyrexia,2025-10-02,2025-12-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0423,Injection Site Reaction,2025-06-09,2025-08-18,Mild,N,Y,Recovered/Resolved
+SUBJ0423,Stomatitis,2025-01-08,2025-03-13,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0423,Alopecia,2025-04-23,2025-04-25,Mild,N,N,Recovering/Resolving
+SUBJ0423,Decreased Appetite,2024-12-30,2025-02-07,Mild,N,N,Recovered/Resolved
+SUBJ0423,Vomiting,2025-09-29,2025-11-17,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0423,Pyrexia,2025-02-20,2025-04-21,Severe,N,N,Recovered/Resolved
+SUBJ0423,Nausea,2025-03-31,,Moderate,N,N,Recovering/Resolving
+SUBJ0423,Decreased Appetite,2025-12-06,2026-02-08,Mild,N,N,Unknown
+SUBJ0423,Nausea,2024-12-18,2025-02-19,Severe,N,N,Recovered/Resolved
+SUBJ0424,Vomiting,2025-12-25,2026-01-24,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0424,Diarrhea,2026-01-04,2026-01-11,Mild,N,Y,Recovered/Resolved
+SUBJ0424,Hypertension,2025-04-24,2025-05-09,Severe,Y,Y,Recovered/Resolved
+SUBJ0424,Alopecia,2024-11-27,2025-01-29,Mild,N,Y,Fatal
+SUBJ0424,Constipation,2025-04-27,2025-06-03,Mild,N,Y,Recovered/Resolved
+SUBJ0424,Vomiting,2025-03-12,2025-06-10,Moderate,N,N,Recovering/Resolving
+SUBJ0424,Anemia,2025-07-27,2025-10-17,Mild,N,Y,Recovered/Resolved
+SUBJ0424,Stomatitis,2025-05-26,2025-06-09,Moderate,N,Y,Recovering/Resolving
+SUBJ0425,Fatigue,2025-04-21,2025-05-19,Mild,N,Y,Recovered/Resolved
+SUBJ0425,Thrombocytopenia,2024-08-25,2024-10-08,Moderate,N,N,Recovered/Resolved
+SUBJ0425,Nausea,2025-03-03,2025-05-01,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0425,Constipation,2025-01-20,2025-01-28,Mild,N,N,Recovered/Resolved
+SUBJ0425,Anemia,2024-03-11,2024-03-14,Severe,Y,Y,Recovered/Resolved
+SUBJ0426,Vomiting,2024-04-04,2024-04-24,Moderate,N,N,Recovered/Resolved
+SUBJ0426,Fatigue,2025-01-02,2025-01-26,Severe,Y,Y,Recovered/Resolved
+SUBJ0426,Hypertension,2024-04-16,2024-05-20,Mild,N,Y,Recovered/Resolved
+SUBJ0426,Stomatitis,2024-12-27,2025-01-17,Mild,N,N,Recovered/Resolved
+SUBJ0426,Vomiting,2024-12-31,2025-03-10,Moderate,N,Y,Recovered/Resolved
+SUBJ0426,Diarrhea,2024-07-17,2024-08-06,Severe,N,Y,Recovered/Resolved
+SUBJ0426,Alopecia,2025-02-26,2025-03-16,Moderate,N,Y,Recovered/Resolved
+SUBJ0427,Vomiting,2024-10-04,2024-10-05,Mild,N,N,Recovering/Resolving
+SUBJ0427,Constipation,2024-11-18,2025-01-06,Moderate,N,N,Recovering/Resolving
+SUBJ0427,Stomatitis,2025-08-14,2025-08-28,Mild,N,N,Unknown
+SUBJ0427,Peripheral Neuropathy,2025-03-26,2025-05-23,Moderate,N,N,Recovering/Resolving
+SUBJ0427,Nausea,2025-06-17,2025-07-18,Mild,N,N,Unknown
+SUBJ0427,Injection Site Reaction,2025-03-15,2025-06-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0427,Nausea,2025-04-01,2025-05-16,Severe,Y,N,Fatal
+SUBJ0428,Thrombocytopenia,2024-08-31,2024-11-26,Mild,N,N,Recovering/Resolving
+SUBJ0428,Alopecia,2024-11-10,2024-12-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0428,Peripheral Neuropathy,2025-10-11,,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0428,Nausea,2025-08-14,2025-11-09,Moderate,N,Y,Fatal
+SUBJ0429,Diarrhea,2025-06-12,2025-06-17,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0429,Anemia,2025-09-22,2025-10-16,Moderate,N,N,Recovering/Resolving
+SUBJ0429,Decreased Appetite,2025-01-19,2025-03-01,Moderate,N,N,Recovering/Resolving
+SUBJ0429,Neutropenia,2025-08-24,2025-11-06,Moderate,N,N,Recovered/Resolved
+SUBJ0429,Anemia,2024-07-06,2024-08-10,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0429,Neutropenia,2024-06-11,2024-08-14,Mild,N,N,Recovered/Resolved
+SUBJ0431,Pyrexia,2025-02-17,2025-02-23,Mild,N,Y,Recovered/Resolved
+SUBJ0431,Alopecia,2024-10-28,2024-11-30,Mild,N,N,Recovered/Resolved
+SUBJ0431,Stomatitis,2024-11-18,2025-01-30,Severe,Y,Y,Recovered/Resolved
+SUBJ0431,Neutropenia,2024-12-05,2025-01-25,Severe,Y,Y,Recovering/Resolving
+SUBJ0432,Stomatitis,2025-05-01,2025-07-23,Mild,N,N,Recovered/Resolved
+SUBJ0432,Anemia,2025-08-19,,Severe,N,Y,Recovered/Resolved
+SUBJ0432,Anemia,2024-05-29,2024-08-21,Severe,Y,Y,Recovered/Resolved
+SUBJ0432,Anemia,2025-02-08,2025-03-09,Moderate,N,N,Recovered/Resolved
+SUBJ0432,Constipation,2025-01-20,2025-03-04,Severe,Y,Y,Recovered/Resolved
+SUBJ0432,Nausea,2024-12-02,2025-02-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0432,Thrombocytopenia,2025-03-21,2025-05-12,Moderate,N,Y,Recovered/Resolved
+SUBJ0432,Fatigue,2025-08-30,2025-09-21,Mild,N,Y,Recovered/Resolved
+SUBJ0432,Injection Site Reaction,2025-04-01,2025-05-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0433,Peripheral Neuropathy,2025-08-25,2025-10-25,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0433,Thrombocytopenia,2025-05-20,2025-05-30,Mild,N,Y,Recovering/Resolving
+SUBJ0433,Nausea,2025-04-14,2025-06-14,Mild,N,Y,Unknown
+SUBJ0433,Peripheral Neuropathy,2026-01-18,2026-03-14,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0433,Vomiting,2025-04-05,2025-04-16,Mild,N,Y,Recovered/Resolved
+SUBJ0434,Anemia,2025-07-22,2025-09-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0434,Constipation,2026-03-02,2026-03-07,Mild,N,Y,Recovered/Resolved
+SUBJ0434,Decreased Appetite,2026-01-13,2026-02-04,Mild,N,Y,Recovered/Resolved
+SUBJ0434,Pyrexia,2025-04-03,2025-05-24,Mild,N,N,Recovered/Resolved
+SUBJ0434,Pyrexia,2025-06-05,2025-06-07,Moderate,N,N,Recovering/Resolving
+SUBJ0434,Decreased Appetite,2024-12-28,2025-01-08,Moderate,N,Y,Recovering/Resolving
+SUBJ0434,Pyrexia,2025-06-03,2025-07-04,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0434,Peripheral Neuropathy,2024-12-20,2025-01-04,Severe,Y,Y,Recovered/Resolved
+SUBJ0434,Neutropenia,2025-05-10,2025-07-27,Mild,N,Y,Recovered/Resolved
+SUBJ0435,Peripheral Neuropathy,2024-03-10,2024-05-01,Moderate,N,N,Recovered/Resolved
+SUBJ0435,Neutropenia,2025-04-25,2025-07-12,Mild,N,Y,Unknown
+SUBJ0435,Fatigue,2024-11-08,2025-01-04,Moderate,N,N,Recovering/Resolving
+SUBJ0435,Diarrhea,2024-03-15,2024-05-17,Severe,Y,Y,Recovered/Resolved
+SUBJ0435,Thrombocytopenia,2024-06-11,2024-07-28,Moderate,N,N,Recovered/Resolved
+SUBJ0435,Decreased Appetite,2025-04-23,2025-05-24,Moderate,N,Y,Recovered/Resolved
+SUBJ0436,Anemia,2024-10-04,2024-12-28,Mild,N,Y,Recovered/Resolved
+SUBJ0436,Pyrexia,2024-09-13,2024-11-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0437,Injection Site Reaction,2026-01-08,2026-03-31,Mild,N,N,Recovered/Resolved
+SUBJ0437,Diarrhea,2025-05-22,,Mild,N,Y,Fatal
+SUBJ0437,Peripheral Neuropathy,2025-05-16,,Mild,N,Y,Recovered/Resolved
+SUBJ0437,Pyrexia,2025-01-20,2025-03-24,Severe,Y,Y,Recovered/Resolved
+SUBJ0437,Decreased Appetite,2024-11-16,2024-12-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0438,Nausea,2024-06-07,2024-07-06,Moderate,N,Y,Recovering/Resolving
+SUBJ0438,Fatigue,2024-05-28,2024-07-28,Moderate,N,N,Recovered/Resolved
+SUBJ0438,Peripheral Neuropathy,2024-06-03,2024-08-17,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0438,Hypertension,2025-02-02,2025-04-08,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0438,Neutropenia,2024-10-20,2024-12-13,Mild,N,Y,Recovering/Resolving
+SUBJ0438,Hypertension,2025-03-03,2025-04-04,Severe,N,N,Recovered/Resolved
+SUBJ0439,Neutropenia,2025-05-05,2025-06-14,Moderate,Y,Y,Not Recovered/Not Resolved
+SUBJ0439,Alopecia,2024-05-28,2024-08-15,Severe,N,Y,Recovered/Resolved
+SUBJ0439,Diarrhea,2025-07-30,2025-08-09,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0439,Decreased Appetite,2025-05-04,,Mild,N,Y,Recovering/Resolving
+SUBJ0440,Nausea,2025-07-30,2025-08-26,Mild,N,N,Recovered/Resolved
+SUBJ0440,Vomiting,2025-10-17,2025-11-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0440,Peripheral Neuropathy,2025-01-24,2025-02-11,Mild,N,Y,Recovered/Resolved
+SUBJ0441,Hypertension,2025-10-09,2025-12-10,Mild,N,N,Recovered/Resolved
+SUBJ0441,Injection Site Reaction,2025-04-07,,Moderate,N,Y,Recovered/Resolved
+SUBJ0441,Peripheral Neuropathy,2025-12-27,2026-03-12,Mild,N,N,Unknown
+SUBJ0442,Stomatitis,2025-04-15,2025-05-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0442,Injection Site Reaction,2025-10-23,2026-01-21,Mild,N,N,Recovered/Resolved
+SUBJ0443,Alopecia,2024-12-29,2025-01-21,Severe,N,Y,Recovered/Resolved
+SUBJ0443,Fatigue,2024-10-01,2024-10-27,Mild,N,Y,Recovered/Resolved
+SUBJ0443,Hypertension,2025-10-07,2025-11-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0443,Peripheral Neuropathy,2025-01-01,2025-02-21,Moderate,N,N,Recovered/Resolved
+SUBJ0443,Thrombocytopenia,2024-07-25,2024-09-29,Mild,N,N,Recovering/Resolving
+SUBJ0443,Nausea,2025-01-26,2025-02-15,Mild,N,Y,Recovered/Resolved
+SUBJ0443,Fatigue,2025-03-10,2025-04-13,Mild,N,Y,Recovered/Resolved
+SUBJ0444,Nausea,2025-05-20,2025-07-12,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0444,Decreased Appetite,2025-01-04,2025-02-17,Mild,N,N,Fatal
+SUBJ0444,Constipation,2025-07-14,2025-09-06,Severe,N,N,Recovered/Resolved
+SUBJ0444,Peripheral Neuropathy,2024-05-27,2024-08-12,Moderate,N,N,Recovered/Resolved
+SUBJ0444,Diarrhea,2024-05-20,2024-06-13,Moderate,N,N,Recovered/Resolved
+SUBJ0445,Peripheral Neuropathy,2025-11-09,2026-01-22,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0445,Vomiting,2025-03-11,2025-05-08,Mild,N,N,Recovered/Resolved
+SUBJ0446,Thrombocytopenia,2025-01-03,2025-01-23,Mild,N,Y,Recovered/Resolved
+SUBJ0446,Diarrhea,2024-12-07,2024-12-23,Mild,N,N,Recovered/Resolved
+SUBJ0446,Stomatitis,2025-01-14,2025-02-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0446,Vomiting,2024-11-03,2025-01-25,Mild,N,N,Recovered/Resolved
+SUBJ0446,Constipation,2024-12-04,2025-02-08,Moderate,N,N,Recovering/Resolving
+SUBJ0447,Peripheral Neuropathy,2024-10-14,2024-11-13,Mild,N,Y,Unknown
+SUBJ0447,Fatigue,2024-10-16,2025-01-09,Moderate,N,N,Unknown
+SUBJ0447,Hypertension,2025-07-13,2025-08-24,Mild,Y,N,Recovered/Resolved
+SUBJ0447,Constipation,2024-11-20,2024-11-24,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0448,Fatigue,2025-07-16,2025-08-13,Mild,N,Y,Fatal
+SUBJ0448,Thrombocytopenia,2025-03-06,2025-04-13,Mild,N,Y,Recovered/Resolved
+SUBJ0448,Fatigue,2025-01-12,2025-04-09,Mild,N,N,Recovered/Resolved
+SUBJ0448,Diarrhea,2024-07-04,2024-07-30,Mild,N,Y,Recovered/Resolved
+SUBJ0448,Hypertension,2024-09-08,2024-10-12,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0448,Thrombocytopenia,2024-11-23,2024-12-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0448,Alopecia,2024-12-26,2025-01-14,Moderate,N,Y,Recovering/Resolving
+SUBJ0448,Alopecia,2024-05-16,2024-07-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0448,Injection Site Reaction,2025-04-08,2025-06-18,Mild,N,Y,Recovering/Resolving
+SUBJ0449,Vomiting,2025-03-15,2025-05-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0449,Thrombocytopenia,2024-11-09,,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0449,Hypertension,2024-12-18,2025-02-04,Mild,N,Y,Recovered/Resolved
+SUBJ0449,Stomatitis,2025-02-20,,Mild,N,Y,Recovering/Resolving
+SUBJ0449,Anemia,2026-01-03,2026-03-11,Mild,N,Y,Recovered/Resolved
+SUBJ0449,Constipation,2025-09-08,2025-10-16,Mild,N,Y,Recovered/Resolved
+SUBJ0449,Decreased Appetite,2024-09-24,2024-11-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0449,Constipation,2025-10-09,2026-01-03,Moderate,N,N,Recovered/Resolved
+SUBJ0449,Fatigue,2024-11-23,2025-01-26,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0450,Pyrexia,2025-10-28,2025-12-15,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0450,Constipation,2025-08-25,2025-11-01,Mild,N,Y,Recovered/Resolved
+SUBJ0450,Thrombocytopenia,2025-07-03,2025-08-22,Moderate,N,Y,Recovered/Resolved
+SUBJ0450,Diarrhea,2025-03-02,2025-03-21,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0450,Neutropenia,2025-05-26,2025-06-21,Severe,Y,N,Fatal
+SUBJ0450,Diarrhea,2025-10-15,2025-12-11,Mild,N,N,Recovered/Resolved
+SUBJ0450,Hypertension,2025-07-05,2025-09-15,Moderate,N,Y,Recovered/Resolved
+SUBJ0450,Nausea,2025-10-14,2025-10-29,Mild,N,Y,Recovering/Resolving
+SUBJ0451,Anemia,2025-11-09,2025-11-25,Severe,Y,Y,Recovered/Resolved
+SUBJ0451,Vomiting,2025-03-05,2025-03-19,Mild,N,Y,Unknown
+SUBJ0452,Decreased Appetite,2025-07-16,2025-08-20,Severe,Y,Y,Recovered/Resolved
+SUBJ0452,Decreased Appetite,2025-01-15,2025-03-18,Moderate,N,Y,Recovered/Resolved
+SUBJ0452,Peripheral Neuropathy,2025-05-25,2025-06-02,Mild,N,Y,Recovered/Resolved
+SUBJ0452,Stomatitis,2025-06-08,2025-06-16,Mild,N,Y,Recovered/Resolved
+SUBJ0453,Hypertension,2024-08-02,2024-08-30,Mild,N,N,Recovering/Resolving
+SUBJ0453,Pyrexia,2025-03-29,2025-04-22,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0453,Peripheral Neuropathy,2025-02-08,2025-04-12,Moderate,N,N,Unknown
+SUBJ0454,Anemia,2025-06-30,2025-08-15,Mild,N,N,Recovered/Resolved
+SUBJ0454,Peripheral Neuropathy,2024-05-04,2024-07-21,Moderate,N,N,Unknown
+SUBJ0454,Alopecia,2024-09-11,2024-11-16,Moderate,N,N,Recovering/Resolving
+SUBJ0454,Neutropenia,2024-05-21,2024-07-03,Moderate,N,N,Recovered/Resolved
+SUBJ0454,Constipation,2025-02-27,2025-04-21,Mild,N,N,Recovered/Resolved
+SUBJ0454,Fatigue,2024-04-18,2024-06-17,Mild,N,N,Recovering/Resolving
+SUBJ0454,Decreased Appetite,2024-06-26,2024-09-16,Moderate,N,N,Recovered/Resolved
+SUBJ0454,Anemia,2025-01-14,2025-02-18,Mild,N,N,Recovered/Resolved
+SUBJ0455,Peripheral Neuropathy,2025-01-05,2025-03-25,Moderate,N,N,Recovering/Resolving
+SUBJ0455,Vomiting,2025-01-14,2025-03-08,Mild,N,N,Recovered/Resolved
+SUBJ0455,Hypertension,2024-12-06,2024-12-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0455,Fatigue,2024-11-28,2025-02-11,Mild,N,N,Recovered/Resolved
+SUBJ0455,Stomatitis,2024-08-04,2024-08-15,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0455,Neutropenia,2025-07-24,2025-08-03,Moderate,N,Y,Recovered/Resolved
+SUBJ0455,Decreased Appetite,2024-04-30,2024-07-14,Mild,N,N,Fatal
+SUBJ0455,Stomatitis,2024-06-26,2024-09-05,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0457,Vomiting,2024-08-28,2024-10-15,Moderate,N,Y,Unknown
+SUBJ0457,Hypertension,2025-04-12,2025-04-15,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0457,Diarrhea,2025-12-08,2026-01-07,Moderate,Y,Y,Recovering/Resolving
+SUBJ0457,Stomatitis,2025-03-31,,Moderate,N,Y,Recovered/Resolved
+SUBJ0457,Thrombocytopenia,2024-08-17,2024-10-31,Mild,Y,N,Recovering/Resolving
+SUBJ0457,Decreased Appetite,2025-12-24,2026-01-06,Mild,N,Y,Fatal
+SUBJ0457,Decreased Appetite,2025-09-30,2025-10-30,Mild,N,N,Recovered/Resolved
+SUBJ0458,Hypertension,2024-10-20,2024-11-24,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0458,Alopecia,2024-12-16,2025-02-27,Mild,N,Y,Recovered/Resolved
+SUBJ0458,Injection Site Reaction,2024-11-13,2025-02-11,Mild,N,Y,Recovered/Resolved
+SUBJ0458,Hypertension,2025-03-30,2025-04-05,Mild,N,N,Recovered/Resolved
+SUBJ0458,Vomiting,2026-01-04,2026-04-01,Moderate,N,N,Recovered/Resolved
+SUBJ0459,Nausea,2025-06-08,2025-07-23,Moderate,N,N,Recovered/Resolved
+SUBJ0459,Alopecia,2024-09-15,2024-12-13,Moderate,N,Y,Recovered/Resolved
+SUBJ0459,Constipation,2024-12-04,2025-02-04,Moderate,N,Y,Recovered/Resolved
+SUBJ0459,Alopecia,2024-11-02,2024-12-09,Mild,N,N,Recovering/Resolving
+SUBJ0459,Decreased Appetite,2025-10-07,2025-11-08,Severe,N,N,Recovered/Resolved
+SUBJ0460,Stomatitis,2025-08-21,,Mild,N,N,Recovered/Resolved
+SUBJ0460,Hypertension,2025-01-08,2025-03-21,Mild,N,Y,Recovering/Resolving
+SUBJ0460,Fatigue,2024-11-27,2024-12-03,Moderate,N,N,Unknown
+SUBJ0460,Pyrexia,2025-09-21,2025-10-24,Mild,N,N,Recovered/Resolved
+SUBJ0461,Nausea,2025-02-04,2025-03-23,Severe,N,N,Recovered/Resolved
+SUBJ0461,Stomatitis,2024-12-23,2025-02-24,Moderate,N,N,Recovering/Resolving
+SUBJ0461,Anemia,2025-02-05,2025-03-14,Mild,N,Y,Recovered/Resolved
+SUBJ0461,Hypertension,2025-09-11,2025-09-17,Moderate,N,N,Recovered/Resolved
+SUBJ0461,Constipation,2024-12-19,2025-02-28,Moderate,N,Y,Recovering/Resolving
+SUBJ0461,Thrombocytopenia,2026-01-02,2026-03-12,Mild,N,N,Recovering/Resolving
+SUBJ0462,Stomatitis,2024-09-16,2024-12-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0462,Alopecia,2025-05-27,2025-07-15,Severe,Y,Y,Recovered/Resolved
+SUBJ0462,Thrombocytopenia,2024-03-21,2024-06-14,Mild,N,Y,Recovered/Resolved
+SUBJ0462,Stomatitis,2024-03-09,2024-03-29,Mild,N,Y,Recovered/Resolved
+SUBJ0462,Anemia,2025-05-06,2025-06-27,Moderate,N,Y,Recovered/Resolved
+SUBJ0462,Pyrexia,2025-01-17,2025-02-04,Mild,N,Y,Recovered/Resolved
+SUBJ0462,Peripheral Neuropathy,2025-05-03,2025-06-13,Mild,N,Y,Recovering/Resolving
+SUBJ0462,Thrombocytopenia,2024-03-10,2024-03-19,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0463,Stomatitis,2025-10-15,2025-12-12,Severe,N,Y,Not Recovered/Not Resolved
+SUBJ0463,Hypertension,2025-03-30,2025-04-20,Mild,N,Y,Recovering/Resolving
+SUBJ0463,Alopecia,2025-09-05,2025-10-09,Mild,N,Y,Recovering/Resolving
+SUBJ0463,Constipation,2025-08-01,,Severe,N,Y,Recovered/Resolved
+SUBJ0463,Thrombocytopenia,2024-09-23,2024-12-16,Mild,N,Y,Fatal
+SUBJ0463,Neutropenia,2025-06-04,2025-07-23,Severe,N,Y,Recovered/Resolved
+SUBJ0463,Pyrexia,2026-01-05,2026-01-17,Severe,Y,N,Recovered/Resolved
+SUBJ0463,Anemia,2024-12-29,2025-03-06,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0463,Decreased Appetite,2024-12-30,2025-02-06,Moderate,N,Y,Recovering/Resolving
+SUBJ0463,Vomiting,2025-07-03,2025-08-22,Mild,N,Y,Recovered/Resolved
+SUBJ0463,Anemia,2026-01-16,2026-03-29,Severe,Y,Y,Recovered/Resolved
+SUBJ0463,Neutropenia,2024-09-24,2024-10-04,Mild,Y,N,Not Recovered/Not Resolved
+SUBJ0463,Hypertension,2026-01-10,2026-04-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0464,Vomiting,2025-04-08,2025-05-18,Moderate,N,N,Recovered/Resolved
+SUBJ0464,Nausea,2024-10-22,2024-11-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0464,Hypertension,2024-12-14,2025-02-12,Moderate,Y,Y,Recovered/Resolved
+SUBJ0465,Fatigue,2025-06-29,2025-09-21,Severe,Y,Y,Recovered/Resolved
+SUBJ0465,Neutropenia,2024-12-18,2025-01-20,Mild,N,Y,Recovered/Resolved
+SUBJ0465,Alopecia,2024-10-26,2025-01-08,Severe,Y,N,Recovered/Resolved
+SUBJ0465,Nausea,2025-06-13,2025-07-19,Mild,N,Y,Recovered/Resolved
+SUBJ0465,Neutropenia,2025-03-12,2025-03-21,Mild,N,Y,Recovered/Resolved
+SUBJ0465,Peripheral Neuropathy,2025-02-12,2025-03-07,Mild,N,N,Recovered/Resolved
+SUBJ0465,Injection Site Reaction,2025-09-20,,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0465,Nausea,2025-03-04,2025-05-21,Moderate,N,N,Recovering/Resolving
+SUBJ0465,Anemia,2024-10-09,2025-01-07,Mild,Y,Y,Recovered/Resolved
+SUBJ0465,Constipation,2025-01-09,2025-03-05,Moderate,N,Y,Recovered/Resolved
+SUBJ0466,Fatigue,2025-08-30,,Mild,N,N,Recovered/Resolved
+SUBJ0466,Anemia,2024-09-10,2024-10-19,Severe,Y,N,Recovered/Resolved
+SUBJ0466,Neutropenia,2025-04-16,2025-07-05,Mild,N,N,Recovered/Resolved
+SUBJ0466,Diarrhea,2024-08-13,2024-08-22,Severe,Y,Y,Recovering/Resolving
+SUBJ0466,Injection Site Reaction,2025-07-30,2025-10-15,Mild,Y,N,Recovered/Resolved
+SUBJ0466,Decreased Appetite,2024-10-23,2024-11-02,Mild,N,N,Recovered/Resolved
+SUBJ0466,Pyrexia,2025-01-03,2025-02-27,Moderate,N,N,Recovered/Resolved
+SUBJ0466,Stomatitis,2025-05-22,2025-06-14,Mild,N,N,Recovered/Resolved
+SUBJ0466,Alopecia,2024-11-21,2025-01-30,Mild,N,N,Unknown
+SUBJ0466,Diarrhea,2025-03-18,2025-05-03,Mild,N,N,Recovered/Resolved
+SUBJ0467,Hypertension,2024-07-06,2024-08-17,Mild,N,N,Recovered/Resolved
+SUBJ0468,Decreased Appetite,2024-04-14,2024-06-04,Mild,N,N,Recovered/Resolved
+SUBJ0468,Stomatitis,2024-08-09,2024-09-22,Severe,Y,Y,Recovered/Resolved
+SUBJ0468,Injection Site Reaction,2025-01-28,2025-02-15,Moderate,N,N,Recovering/Resolving
+SUBJ0468,Constipation,2024-03-20,2024-04-29,Mild,N,Y,Recovering/Resolving
+SUBJ0468,Peripheral Neuropathy,2024-11-29,2025-02-17,Mild,N,N,Recovering/Resolving
+SUBJ0468,Pyrexia,2025-04-20,,Moderate,N,Y,Recovered/Resolved
+SUBJ0468,Thrombocytopenia,2024-10-04,2024-11-02,Mild,N,N,Recovered/Resolved
+SUBJ0469,Alopecia,2025-02-16,2025-02-21,Severe,N,Y,Recovered/Resolved
+SUBJ0470,Nausea,2025-12-19,2026-03-10,Mild,N,Y,Recovered/Resolved
+SUBJ0471,Neutropenia,2024-07-11,2024-08-03,Severe,Y,N,Recovered/Resolved
+SUBJ0471,Alopecia,2024-01-28,2024-02-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0471,Hypertension,2025-03-16,2025-05-04,Moderate,N,N,Recovered/Resolved
+SUBJ0472,Constipation,2025-05-07,2025-06-08,Mild,N,N,Recovering/Resolving
+SUBJ0472,Vomiting,2025-07-14,2025-09-12,Mild,N,N,Recovering/Resolving
+SUBJ0472,Injection Site Reaction,2025-10-04,2025-10-17,Moderate,N,Y,Recovered/Resolved
+SUBJ0472,Injection Site Reaction,2025-11-15,2026-01-26,Mild,N,N,Unknown
+SUBJ0472,Anemia,2026-01-28,2026-04-19,Severe,N,Y,Recovered/Resolved
+SUBJ0472,Peripheral Neuropathy,2025-09-02,2025-11-22,Mild,N,Y,Recovered/Resolved
+SUBJ0472,Fatigue,2025-06-04,2025-08-19,Mild,N,N,Recovered/Resolved
+SUBJ0472,Thrombocytopenia,2025-09-22,2025-12-08,Severe,N,Y,Unknown
+SUBJ0473,Thrombocytopenia,2025-02-19,2025-03-02,Moderate,N,Y,Recovered/Resolved
+SUBJ0473,Fatigue,2025-06-15,2025-06-27,Mild,N,Y,Recovered/Resolved
+SUBJ0473,Anemia,2025-10-05,2025-10-14,Mild,N,Y,Unknown
+SUBJ0473,Anemia,2024-12-24,2025-02-17,Mild,N,Y,Fatal
+SUBJ0473,Fatigue,2025-12-27,2026-01-03,Mild,N,Y,Recovered/Resolved
+SUBJ0473,Pyrexia,2025-02-19,2025-05-08,Moderate,N,Y,Recovered/Resolved
+SUBJ0473,Thrombocytopenia,2025-04-27,2025-07-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0473,Injection Site Reaction,2025-07-20,2025-09-21,Moderate,N,Y,Recovered/Resolved
+SUBJ0473,Thrombocytopenia,2025-02-03,,Moderate,N,Y,Recovered/Resolved
+SUBJ0473,Hypertension,2025-02-08,2025-03-01,Moderate,Y,Y,Recovering/Resolving
+SUBJ0473,Fatigue,2025-11-30,2026-02-04,Mild,N,Y,Recovered/Resolved
+SUBJ0474,Injection Site Reaction,2025-01-06,2025-03-20,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0474,Injection Site Reaction,2025-02-05,2025-02-10,Mild,N,Y,Recovered/Resolved
+SUBJ0474,Stomatitis,2024-10-21,2025-01-07,Moderate,Y,Y,Recovered/Resolved
+SUBJ0474,Constipation,2025-09-13,2025-11-12,Mild,N,N,Recovered/Resolved
+SUBJ0474,Decreased Appetite,2025-09-26,,Moderate,N,Y,Recovering/Resolving
+SUBJ0474,Decreased Appetite,2025-08-05,2025-09-26,Moderate,N,Y,Fatal
+SUBJ0474,Fatigue,2024-12-07,2025-01-23,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0474,Pyrexia,2025-11-05,2026-01-16,Moderate,N,N,Unknown
+SUBJ0474,Pyrexia,2025-09-26,2025-11-12,Mild,N,Y,Recovered/Resolved
+SUBJ0474,Constipation,2025-04-15,2025-04-23,Moderate,N,Y,Fatal
+SUBJ0474,Stomatitis,2024-10-29,2024-12-22,Moderate,N,Y,Recovering/Resolving
+SUBJ0475,Diarrhea,2024-11-29,,Moderate,N,Y,Recovered/Resolved
+SUBJ0475,Stomatitis,2024-02-25,,Severe,N,Y,Recovering/Resolving
+SUBJ0475,Hypertension,2024-06-09,,Moderate,N,N,Unknown
+SUBJ0475,Peripheral Neuropathy,2025-03-11,2025-04-14,Mild,N,N,Recovered/Resolved
+SUBJ0475,Peripheral Neuropathy,2024-04-11,2024-05-24,Moderate,N,N,Recovered/Resolved
+SUBJ0476,Peripheral Neuropathy,2024-09-06,2024-10-01,Mild,N,N,Recovered/Resolved
+SUBJ0476,Anemia,2024-08-08,2024-10-09,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0476,Vomiting,2025-02-23,2025-05-23,Moderate,N,N,Recovered/Resolved
+SUBJ0476,Stomatitis,2025-04-22,2025-06-29,Mild,N,Y,Recovering/Resolving
+SUBJ0477,Fatigue,2025-09-01,,Mild,N,N,Unknown
+SUBJ0477,Hypertension,2025-02-09,2025-03-11,Severe,N,N,Recovered/Resolved
+SUBJ0477,Anemia,2025-01-25,,Moderate,N,Y,Recovered/Resolved
+SUBJ0477,Stomatitis,2025-05-28,2025-05-30,Moderate,N,N,Recovered/Resolved
+SUBJ0477,Neutropenia,2025-06-21,2025-08-25,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0477,Hypertension,2025-07-02,,Mild,N,Y,Recovered/Resolved
+SUBJ0477,Alopecia,2025-10-20,2025-10-29,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0478,Nausea,2025-09-19,,Mild,N,Y,Recovered/Resolved
+SUBJ0478,Vomiting,2025-04-12,2025-05-20,Moderate,N,N,Recovered/Resolved
+SUBJ0478,Fatigue,2025-05-26,2025-07-28,Mild,N,N,Recovered/Resolved
+SUBJ0478,Diarrhea,2025-10-14,2025-11-16,Mild,N,N,Recovering/Resolving
+SUBJ0479,Nausea,2025-11-11,2025-12-19,Mild,N,N,Recovered/Resolved
+SUBJ0479,Peripheral Neuropathy,2025-07-26,2025-07-29,Moderate,Y,N,Recovered/Resolved
+SUBJ0479,Alopecia,2025-02-24,2025-03-18,Mild,N,N,Recovered/Resolved
+SUBJ0479,Hypertension,2024-11-29,2025-02-07,Mild,N,N,Fatal
+SUBJ0479,Anemia,2025-12-07,2026-02-26,Mild,N,Y,Recovered/Resolved
+SUBJ0479,Vomiting,2025-01-12,2025-02-14,Moderate,Y,N,Recovered/Resolved
+SUBJ0480,Decreased Appetite,2025-02-26,2025-05-23,Mild,N,Y,Recovered/Resolved
+SUBJ0480,Thrombocytopenia,2024-10-21,2024-12-24,Mild,N,Y,Recovered/Resolved
+SUBJ0480,Fatigue,2025-01-02,,Mild,N,N,Recovered/Resolved
+SUBJ0480,Thrombocytopenia,2025-11-28,2026-01-10,Mild,N,Y,Recovering/Resolving
+SUBJ0480,Constipation,2025-07-17,2025-09-09,Moderate,N,N,Recovered/Resolved
+SUBJ0480,Fatigue,2024-10-22,2024-12-11,Severe,Y,Y,Recovering/Resolving
+SUBJ0480,Alopecia,2024-11-14,2024-11-28,Moderate,N,Y,Recovered/Resolved
+SUBJ0480,Pyrexia,2025-08-07,2025-09-25,Moderate,N,N,Unknown
+SUBJ0481,Thrombocytopenia,2025-04-05,2025-05-03,Mild,N,N,Recovered/Resolved
+SUBJ0481,Pyrexia,2025-02-02,2025-03-06,Moderate,N,Y,Fatal
+SUBJ0481,Fatigue,2024-04-05,2024-05-06,Moderate,N,N,Recovered/Resolved
+SUBJ0481,Stomatitis,2025-01-29,2025-04-14,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0481,Fatigue,2025-04-18,2025-06-25,Mild,N,N,Recovering/Resolving
+SUBJ0481,Vomiting,2024-08-12,2024-09-16,Mild,N,N,Recovered/Resolved
+SUBJ0482,Peripheral Neuropathy,2024-12-14,2025-01-02,Moderate,N,N,Recovered/Resolved
+SUBJ0483,Stomatitis,2025-06-26,2025-07-04,Severe,Y,Y,Recovered/Resolved
+SUBJ0483,Neutropenia,2025-05-14,2025-05-28,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0483,Vomiting,2025-03-28,2025-03-29,Mild,N,N,Recovered/Resolved
+SUBJ0484,Decreased Appetite,2025-03-19,2025-04-27,Moderate,N,N,Recovered/Resolved
+SUBJ0485,Constipation,2024-08-28,2024-11-03,Severe,Y,Y,Recovered/Resolved
+SUBJ0485,Injection Site Reaction,2024-05-30,2024-08-04,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0485,Injection Site Reaction,2025-06-08,2025-06-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0485,Vomiting,2024-07-22,2024-08-02,Mild,N,Y,Recovered/Resolved
+SUBJ0485,Anemia,2025-07-16,2025-10-01,Mild,N,N,Fatal
+SUBJ0485,Peripheral Neuropathy,2025-07-21,2025-09-23,Moderate,N,Y,Not Recovered/Not Resolved
+SUBJ0485,Constipation,2024-11-26,2025-01-27,Mild,N,Y,Recovered/Resolved
+SUBJ0485,Constipation,2025-04-04,2025-04-20,Moderate,N,Y,Recovered/Resolved
+SUBJ0485,Vomiting,2024-05-21,,Severe,N,N,Not Recovered/Not Resolved
+SUBJ0486,Anemia,2025-08-24,,Mild,N,Y,Recovered/Resolved
+SUBJ0486,Vomiting,2025-02-12,2025-03-02,Moderate,N,N,Recovered/Resolved
+SUBJ0486,Stomatitis,2024-08-27,2024-09-02,Moderate,N,N,Recovered/Resolved
+SUBJ0486,Injection Site Reaction,2024-10-02,2024-12-03,Severe,Y,N,Unknown
+SUBJ0487,Anemia,2024-11-24,2024-12-25,Moderate,N,N,Not Recovered/Not Resolved
+SUBJ0487,Thrombocytopenia,2025-06-14,2025-08-16,Mild,N,Y,Recovered/Resolved
+SUBJ0487,Neutropenia,2024-10-22,2024-10-23,Moderate,N,N,Fatal
+SUBJ0487,Thrombocytopenia,2025-04-26,2025-06-12,Mild,N,N,Recovered/Resolved
+SUBJ0488,Pyrexia,2024-12-27,,Mild,N,Y,Recovered/Resolved
+SUBJ0488,Peripheral Neuropathy,2025-02-17,2025-04-06,Severe,N,N,Recovered/Resolved
+SUBJ0488,Alopecia,2025-07-12,2025-10-09,Mild,N,N,Recovered/Resolved
+SUBJ0489,Alopecia,2024-05-21,2024-06-03,Mild,N,N,Fatal
+SUBJ0489,Alopecia,2024-05-20,2024-07-23,Mild,N,N,Recovered/Resolved
+SUBJ0489,Neutropenia,2025-04-23,2025-07-15,Moderate,Y,Y,Recovered/Resolved
+SUBJ0489,Stomatitis,2025-01-15,2025-04-09,Mild,N,N,Recovered/Resolved
+SUBJ0489,Vomiting,2024-06-28,2024-07-23,Moderate,N,N,Recovering/Resolving
+SUBJ0490,Pyrexia,2024-12-05,,Mild,N,Y,Recovering/Resolving
+SUBJ0490,Stomatitis,2025-04-25,2025-07-07,Moderate,N,Y,Recovered/Resolved
+SUBJ0490,Vomiting,2025-03-06,2025-04-01,Moderate,N,N,Unknown
+SUBJ0490,Nausea,2025-04-22,2025-04-26,Moderate,N,Y,Recovered/Resolved
+SUBJ0490,Pyrexia,2024-09-26,2024-10-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0491,Thrombocytopenia,2024-09-15,2024-09-16,Mild,N,Y,Recovered/Resolved
+SUBJ0491,Pyrexia,2025-09-25,2025-10-17,Severe,Y,Y,Recovered/Resolved
+SUBJ0491,Peripheral Neuropathy,2025-06-03,2025-06-07,Mild,N,Y,Recovering/Resolving
+SUBJ0491,Stomatitis,2025-08-28,2025-09-19,Severe,Y,Y,Not Recovered/Not Resolved
+SUBJ0491,Peripheral Neuropathy,2024-12-29,2025-03-16,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0491,Fatigue,2025-03-09,2025-05-13,Moderate,N,Y,Recovering/Resolving
+SUBJ0491,Neutropenia,2024-10-12,2024-11-19,Moderate,N,Y,Recovered/Resolved
+SUBJ0492,Constipation,2024-10-23,2025-01-05,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0492,Decreased Appetite,2025-07-17,2025-09-25,Moderate,N,Y,Recovered/Resolved
+SUBJ0492,Constipation,2024-12-18,2025-02-21,Moderate,N,Y,Recovering/Resolving
+SUBJ0493,Decreased Appetite,2025-10-10,,Mild,N,N,Recovered/Resolved
+SUBJ0493,Injection Site Reaction,2024-11-17,2024-12-25,Moderate,N,N,Recovered/Resolved
+SUBJ0493,Diarrhea,2024-07-29,,Mild,N,Y,Recovered/Resolved
+SUBJ0493,Neutropenia,2024-12-19,,Mild,N,Y,Fatal
+SUBJ0494,Anemia,2025-05-15,2025-07-07,Severe,N,N,Unknown
+SUBJ0494,Pyrexia,2026-02-18,2026-04-20,Mild,N,Y,Recovered/Resolved
+SUBJ0494,Pyrexia,2025-06-17,2025-09-07,Mild,N,Y,Recovered/Resolved
+SUBJ0495,Vomiting,2025-03-13,2025-04-29,Severe,Y,N,Not Recovered/Not Resolved
+SUBJ0495,Nausea,2025-05-16,,Moderate,N,N,Fatal
+SUBJ0495,Neutropenia,2024-05-05,2024-06-27,Moderate,N,N,Recovered/Resolved
+SUBJ0495,Injection Site Reaction,2025-03-25,2025-04-09,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0495,Nausea,2025-02-11,,Mild,N,N,Recovered/Resolved
+SUBJ0495,Diarrhea,2024-04-15,2024-05-15,Moderate,N,N,Recovered/Resolved
+SUBJ0495,Constipation,2025-01-06,2025-02-13,Moderate,N,N,Recovered/Resolved
+SUBJ0496,Neutropenia,2026-01-09,2026-01-29,Mild,N,N,Not Recovered/Not Resolved
+SUBJ0496,Pyrexia,2025-05-13,2025-06-26,Mild,N,N,Recovering/Resolving
+SUBJ0496,Constipation,2025-05-04,,Moderate,N,N,Recovered/Resolved
+SUBJ0496,Injection Site Reaction,2025-04-23,2025-07-09,Moderate,N,Y,Recovered/Resolved
+SUBJ0496,Anemia,2025-04-23,2025-05-30,Moderate,N,N,Recovered/Resolved
+SUBJ0496,Vomiting,2025-06-04,2025-07-29,Mild,N,N,Recovered/Resolved
+SUBJ0497,Neutropenia,2025-03-13,2025-06-11,Mild,N,Y,Recovered/Resolved
+SUBJ0497,Constipation,2025-06-13,2025-06-15,Moderate,N,N,Recovered/Resolved
+SUBJ0497,Neutropenia,2025-09-07,2025-09-26,Mild,N,N,Recovered/Resolved
+SUBJ0497,Injection Site Reaction,2025-06-17,2025-08-11,Mild,N,N,Recovered/Resolved
+SUBJ0497,Peripheral Neuropathy,2025-04-03,2025-06-11,Moderate,N,Y,Recovered/Resolved
+SUBJ0497,Peripheral Neuropathy,2025-10-21,2026-01-13,Mild,N,Y,Recovered/Resolved
+SUBJ0498,Vomiting,2025-05-13,2025-07-18,Mild,N,N,Recovered/Resolved
+SUBJ0498,Fatigue,2024-10-09,2024-10-15,Mild,N,Y,Recovered/Resolved
+SUBJ0498,Stomatitis,2025-05-30,,Mild,N,Y,Fatal
+SUBJ0498,Pyrexia,2025-03-18,2025-06-08,Severe,N,Y,Unknown
+SUBJ0498,Nausea,2024-04-20,2024-06-04,Mild,Y,N,Not Recovered/Not Resolved
+SUBJ0498,Thrombocytopenia,2024-10-28,2025-01-15,Moderate,N,Y,Fatal
+SUBJ0499,Decreased Appetite,2025-02-19,2025-02-23,Severe,Y,Y,Recovered/Resolved
+SUBJ0499,Hypertension,2025-06-02,2025-07-20,Mild,N,N,Fatal
+SUBJ0499,Anemia,2024-12-19,2025-01-22,Mild,N,Y,Not Recovered/Not Resolved
+SUBJ0499,Pyrexia,2025-03-24,2025-05-21,Moderate,N,N,Recovered/Resolved
+SUBJ0500,Vomiting,2024-05-22,2024-07-06,Moderate,N,N,Recovered/Resolved
+SUBJ0500,Thrombocytopenia,2024-04-13,2024-05-22,Mild,N,Y,Recovering/Resolving
+SUBJ0500,Injection Site Reaction,2024-10-07,2024-12-12,Mild,N,N,Recovered/Resolved
+SUBJ0500,Alopecia,2024-08-29,2024-09-06,Moderate,N,N,Recovering/Resolving
+SUBJ0500,Decreased Appetite,2025-02-06,2025-04-03,Mild,N,Y,Recovering/Resolving
+SUBJ0500,Injection Site Reaction,2024-07-12,2024-07-20,Moderate,N,Y,Recovering/Resolving
