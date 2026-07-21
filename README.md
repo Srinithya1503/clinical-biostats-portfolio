@@ -13,14 +13,14 @@
 
 ---
 
-# Clinical Data Analytics & Biostatistics Portfolio
-Welcome to my portfolio repository. This repository showcases an end-to-end collection of data science, programming, and analytics projects tailored specifically to the **clinical trials, healthcare operations, and pharmaceutical** industries. 
+# Clinical Trial Data Analytics & Biostatistics Portfolio
+Welcome to my portfolio repository. This repository showcases an end-to-end collection of data analytics and documentation projects tailored specifically to the **clinical trials, healthcare operations, and pharmaceutical** industries. 
 
 ---
 
 ## 📌 About Me
 
-I am an aspiring **Clinical & Healthcare Data Analyst** with a background in **Medical Biotechnology**, focused on transforming clinical and healthcare data into **regulatory-compliant, audit-ready insights**.
+I am an aspiring **Clinical Trial Data Analyst** with a background in **Medical Biotechnology**, focused on transforming clinical and healthcare data into **regulatory-compliant, audit-ready insights**.
 
 ---
 
