@@ -178,8 +178,7 @@ Clinical-eCRF-Validation/
 │   └── validate_ecrf.py               # Beginner-friendly validation script
 │
 ├── reports/
-│   ├── validation_summary.csv         # Final KPI summary table
-│   └── data_quality_report.pdf        # Formatted data quality report
+│    └── validation_summary.csv         # Final KPI summary table 
 │
 ├── dashboard/
 │   └── dashboard_mockup.png           # Visual KPI dashboard mockup
