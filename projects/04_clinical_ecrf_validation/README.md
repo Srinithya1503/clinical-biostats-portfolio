@@ -183,10 +183,9 @@ Clinical-eCRF-Validation/
 │
 ├── dashboard/
 │   └── dashboard_mockup.png           # Visual KPI dashboard mockup
+│                       
 │
-├── README.md                          # This file
-│
-└── requirements.txt                   # Python dependencies
+└── README.md                          # This file              
 ```
 
 ---
