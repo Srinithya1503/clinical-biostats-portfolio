@@ -1,0 +1,883 @@
+Site_ID,Subject_ID,Visit,Visit_Date,Informed_Consent_Date,Age,Sex,Height_cm,Weight_kg,BMI,Heart_Rate_bpm,Respiratory_Rate,Temperature_C,Systolic_BP_mmHg,Diastolic_BP_mmHg,Lab_Status,ECG_Status,Adverse_Event,Concomitant_Medication,Investigator_Name,Data_Entry_Date
+SITE005,SUBJ0135,Baseline,2024-02-22,2024-01-18,53.0,Female,162.0,81.4,31.0,81,12,36.7,121,76,Normal,Abnormal,Dizziness,Paracetamol,Dr. E. Costa,2024-02-27
+SITE003,SUBJ0288,Baseline,2024-03-05,2024-02-11,49.0,Female,155.1,69.7,29.0,65,15,36.3,138,67,Not Done,Normal,,Paracetamol,Dr. C. Patel,2024-03-08
+SITE001,SUBJ0081,Week 4,2024-02-03,2024-01-03,42.0,Female,178.7,67.3,21.1,106,16,36.5,116,87,Abnormal,Normal,Mild Headache,,Dr. A. Sharma,2024-02-05
+SITE001,SUBJ0146,Week 4,2024-03-13,2024-02-01,44.0,Male,160.8,80.3,31.1,93,15,37.1,123,88,Not Done,Abnormal,Mild Headache,,Dr. A. Sharma,2024-03-15
+SITE004,SUBJ0284,Screening,2024-03-04,2024-02-15,44.0,Male,155.8,70.1,28.9,60,14,36.2,130,83,Normal,Abnormal,Nausea,,Dr. D. Fernandes,2024-03-06
+SITE003,SUBJ0198,Week 4,2024-04-08,2024-02-26,49.0,Male,177.3,61.3,19.5,68,15,36.7,135,79,Normal,Not Done,Fatigue,Paracetamol,Dr. C. Patel,2024-04-13
+SITE005,SUBJ0045,Week 4,2024-03-11,2024-01-22,75.0,Male,159.7,90.7,35.6,81,15,36.9,136,71,Abnormal,Not Done,Fatigue,Ibuprofen,Dr. E. Costa,2024-03-11
+SITE002,SUBJ0077,Screening,2024-02-13,2024-02-06,59.0,Female,170.8,66.6,22.8,65,14,37.2,144,90,Normal,Abnormal,Dizziness,Paracetamol,Dr. B. Nguyen,2024-02-15
+SITE001,SUBJ0181,Screening,2024-02-12,2024-01-28,35.0,Female,157.8,100.7,40.4,75,18,36.5,112,86,Not Done,Normal,Nausea,,Dr. A. Sharma,2024-02-14
+SITE001,SUBJ0291,Baseline,2024-03-23,2024-02-27,48.0,Male,162.6,110.5,41.8,72,19,37.4,124,71,Not Done,Not Done,Mild Headache,Antihistamine,Dr. A. Sharma,2024-03-24
+SITE004,SUBJ0179,Screening,2024-03-05,2024-02-20,47.0,Male,157.4,37.2,15.0,86,18,36.8,124,86,Abnormal,Normal,,Paracetamol,Dr. D. Fernandes,2024-03-08
+SITE004,SUBJ0274,Week 4,2024-04-15,2024-02-25,44.0,Male,171.6,67.5,22.9,91,15,36.8,116,86,Abnormal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-04-15
+SITE005,SUBJ0295,Baseline,2024-02-04,2024-01-16,18.0,Female,178.9,36.0,11.2,71,15,37.1,105,65,Not Done,Not Done,Nausea,,Dr. E. Costa,2024-02-07
+SITE002,SUBJ0022,Screening,2024-02-03,2024-01-15,69.0,Male,182.6,66.3,19.9,84,17,37.3,110,83,Abnormal,Not Done,Nausea,Antihistamine,Dr. B. Nguyen,2024-02-07
+SITE004,SUBJ0109,Screening,2024-02-18,2024-02-10,31.0,Female,167.5,77.5,27.6,86,20,36.4,112,67,Not Done,Abnormal,Dizziness,Paracetamol,Dr. D. Fernandes,2024-02-23
+SITE005,SUBJ0290,Screening,2024-02-19,2024-01-29,30.0,Female,158.2,76.9,30.7,32,15,37.0,120,93,Abnormal,Abnormal,Mild Headache,Paracetamol,Dr. E. Costa,2024-02-21
+SITE001,SUBJ0021,Screening,2024-01-28,2024-01-14,25.0,Female,159.0,70.1,27.7,75,14,37.0,109,76,Abnormal,Normal,,,Dr. A. Sharma,2024-01-28
+SITE005,SUBJ0295,Week 4,2024-02-21,2024-01-16,18.0,Female,178.9,76.8,24.0,85,11,37.2,122,86,Abnormal,Abnormal,Nausea,,Dr. E. Costa,2024-02-25
+SITE005,SUBJ0060,Week 4,2024-03-29,2024-02-21,47.0,Female,178.9,46.1,14.4,79,15,37.0,124,88,Not Done,Not Done,,Paracetamol,Dr. E. Costa,2024-04-01
+SITE002,SUBJ0117,Week 4,2024-02-24,2024-01-18,50.0,Male,172.8,83.4,27.9,80,17,36.8,122,72,Normal,Abnormal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-02-27
+SITE003,SUBJ0073,Screening,2024-03-01,2024-02-09,52.0,Female,176.7,72.7,23.3,62,17,36.5,115,82,Normal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-03-04
+SITE001,SUBJ0261,Week 4,2024-02-12,2024-01-05,41.0,Female,159.9,75.4,29.5,16,16,36.6,115,68,Not Done,Not Done,Nausea,,Dr. A. Sharma,2024-02-15
+SITE002,SUBJ0152,Baseline,2024-02-03,2024-01-10,59.0,Male,160.4,62.4,24.3,75,8,36.5,127,70,Not Done,Not Done,Dizziness,Paracetamol,Dr. B. Nguyen,2024-02-05
+SITE001,SUBJ0206,Baseline,2024-02-05,2024-01-19,26.0,Female,157.2,67.0,27.1,77,19,36.5,140,65,Normal,Abnormal,,Paracetamol,Dr. A. Sharma,2024-02-08
+SITE005,SUBJ0285,Baseline,2024-01-11,2024-01-20,33.0,Male,161.6,51.0,19.5,73,16,36.1,125,69,Not Done,Normal,,Paracetamol,Dr. E. Costa,2024-02-15
+SITE004,SUBJ0149,Baseline,2024-03-23,2024-02-28,35.0,Male,158.9,42.7,16.9,77,10,36.8,105,93,Normal,Abnormal,,,Dr. D. Fernandes,2024-03-24
+SITE004,SUBJ0009,Screening,2024-03-09,2024-02-17,33.0,Male,172.9,87.4,29.2,66,18,37.0,131,93,Abnormal,Normal,,Paracetamol,Dr. D. Fernandes,2024-03-11
+SITE003,SUBJ0018,Week 4,2024-02-10,2024-01-03,35.0,Female,167.4,69.7,24.9,64,15,36.7,125,71,Abnormal,Abnormal,Nausea,,Dr. C. Patel,2024-02-12
+SITE005,SUBJ0220,Baseline,2024-01-29,2024-01-07,46.0,Male,166.8,72.2,26.0,80,17,42.1,125,73,Not Done,Normal,Dizziness,Antihistamine,Dr. E. Costa,2024-02-01
+SITE003,SUBJ0283,Week 4,2024-02-24,2024-01-13,54.0,Male,159.4,56.9,22.4,36,19,36.8,138,72,Not Done,Normal,Dizziness,Antihistamine,Dr. C. Patel,2024-02-24
+SITE001,SUBJ0106,Baseline,2024-02-27,2024-02-11,49.0,Male,156.0,65.1,26.8,81,14,36.7,122,69,Normal,Normal,Fatigue,Paracetamol,Dr. A. Sharma,2024-02-29
+SITE001,SUBJ0231,Screening,2024-02-25,2024-02-18,42.0,Male,174.4,94.5,31.1,88,12,36.7,117,81,Abnormal,Normal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-02-26
+SITE003,SUBJ0108,Week 4,2024-03-22,2024-02-08,46.0,Female,165.5,51.1,18.7,68,14,36.7,137,82,Normal,Normal,Mild Headache,,Dr. C. Patel,2024-03-27
+SITE002,SUBJ0222,Screening,2024-02-21,2024-02-10,61.0,Male,154.1,88.8,37.4,84,13,36.3,126,71,Normal,Normal,Dizziness,,Dr. B. Nguyen,2024-02-23
+SITE002,SUBJ0177,Week 4,2024-03-20,2024-02-10,51.0,Male,140.1,101.4,51.7,90,18,36.5,121,76,Abnormal,Normal,,Paracetamol,Dr. B. Nguyen,2024-03-20
+SITE004,SUBJ0289,Week 4,2027-12-31,2024-01-24,45.0,Male,170.2,74.6,25.8,61,17,36.7,122,83,Not Done,Abnormal,,Paracetamol,Dr. D. Fernandes,2024-03-08
+SITE003,SUBJ0193,Baseline,2024-02-04,2024-01-01,37.0,Female,157.9,67.8,27.2,60,14,37.0,137,69,Not Done,Not Done,,Ibuprofen,Dr. C. Patel,2024-02-06
+SITE004,SUBJ0249,Screening,2024-02-02,2024-01-20,41.0,Female,154.7,68.1,28.5,78,14,36.7,110,86,Normal,Normal,Nausea,,Dr. D. Fernandes,2024-02-07
+SITE002,SUBJ0037,Screening,2024-03-02,2024-02-21,48.0,Male,147.9,49.8,22.8,82,16,36.7,122,80,Normal,Not Done,Mild Headache,Paracetamol,Dr. B. Nguyen,2024-03-07
+SITE003,SUBJ0003,Screening,2024-01-20,2024-01-02,53.0,Female,166.7,68.3,24.6,71,11,36.5,116,86,Abnormal,Normal,,,Dr. C. Patel,2024-01-21
+SITE001,SUBJ0216,Screening,2024-03-05,2024-02-18,39.0,Male,151.3,55.4,24.2,82,12,30.2,114,83,Abnormal,Not Done,Dizziness,Paracetamol,Dr. A. Sharma,2024-03-09
+SITE005,SUBJ0070,Week 4,2024-03-07,2024-01-19,53.0,Female,160.1,64.5,25.2,76,11,36.4,136,72,Not Done,Normal,,Ibuprofen,Dr. E. Costa,2024-03-10
+SITE003,SUBJ0208,Week 4,2024-02-25,2024-01-11,52.0,Female,181.4,84.9,25.8,72,17,36.6,114,78,Abnormal,Normal,,,Dr. C. Patel,2024-02-27
+SITE005,SUBJ0200,Baseline,2024-03-28,2024-02-18,61.0,Female,181.4,98.9,30.1,67,10,36.6,98,84,Normal,Not Done,Dizziness,,Dr. E. Costa,2024-03-29
+SITE004,SUBJ0034,Screening,2024-02-10,2024-01-29,38.0,Female,159.5,69.5,27.3,69,13,36.8,118,90,Abnormal,Not Done,Dizziness,Paracetamol,Dr. D. Fernandes,2024-02-14
+SITE003,SUBJ0158,Screening,2024-02-01,2024-02-04,55.0,Female,143.7,68.5,33.2,68,17,37.0,113,72,Abnormal,Not Done,Fatigue,,Dr. C. Patel,2024-02-25
+SITE004,SUBJ0164,Screening,2024-02-23,2024-02-07,42.0,Male,165.5,56.4,20.6,86,17,37.6,111,74,Not Done,Abnormal,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-02-23
+SITE002,SUBJ0042,Week 4,2024-02-26,2024-01-11,38.0,Female,179.1,69.5,21.7,77,20,36.4,133,76,Not Done,Not Done,Dizziness,,Dr. B. Nguyen,2024-02-29
+SITE003,SUBJ0088,Screening,2024-01-30,2024-01-15,43.0,Male,163.3,71.1,26.7,86,13,36.9,133,82,Not Done,Normal,,,Dr. C. Patel,2024-02-04
+SITE003,SUBJ0178,Baseline,2024-02-08,2024-01-11,48.0,Male,179.5,53.3,16.5,74,14,36.2,126,98,Normal,Not Done,Mild Headache,Ibuprofen,Dr. C. Patel,2024-02-09
+SITE002,SUBJ0172,Week 4,2024-03-29,2024-02-18,37.0,Male,164.2,104.1,38.6,83,17,36.3,106,80,Abnormal,Normal,,,Dr. B. Nguyen,2024-03-31
+SITE001,SUBJ0156,Screening,2024-03-03,2024-02-17,36.0,Male,173.6,94.7,31.4,85,13,36.9,106,82,Normal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-07
+SITE005,SUBJ0005,Baseline,2024-02-18,2024-01-18,42.0,Female,168.6,62.1,21.8,80,16,37.2,113,75,Abnormal,Normal,,Paracetamol,Dr. E. Costa,2024-02-19
+SITE001,SUBJ0176,Screening,2024-01-26,2024-01-10,59.0,Male,158.7,70.7,28.1,75,14,36.3,125,77,Normal,Not Done,,Paracetamol,Dr. A. Sharma,2024-01-28
+SITE003,SUBJ0278,Screening,2024-03-15,2024-02-29,65.0,Female,181.7,88.4,26.8,73,14,36.1,146,81,Normal,Normal,Nausea,,Dr. C. Patel,2024-03-19
+SITE002,SUBJ0037,Week 4,2024-03-29,2024-02-21,48.0,Male,147.9,85.4,39.0,79,16,37.2,141,86,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-03-29
+SITE005,SUBJ0085,Baseline,2024-02-25,2024-01-19,49.0,Female,164.8,74.2,27.3,72,17,36.6,132,67,Not Done,Abnormal,,Ibuprofen,Dr. E. Costa,2024-02-25
+SITE004,SUBJ0049,Week 4,2024-03-31,2024-02-18,52.0,Male,178.3,63.3,19.9,56,14,35.8,102,84,Not Done,Abnormal,Nausea,Paracetamol,Dr. D. Fernandes,2024-04-03
+SITE004,SUBJ0009,Week 4,2024-04-06,2024-02-17,33.0,Male,172.9,74.2,24.8,83,16,37.4,118,99,Not Done,Not Done,,Antihistamine,Dr. D. Fernandes,2024-04-08
+SITE004,SUBJ0254,Baseline,2024-03-03,2024-02-06,41.0,Male,175.5,69.7,22.6,77,12,36.7,129,65,Abnormal,Normal,Nausea,Antihistamine,Dr. D. Fernandes,2024-03-03
+SITE001,SUBJ0016,Baseline,2024-03-06,2024-02-07,35.0,Male,159.4,78.2,30.8,72,15,37.2,131,84,Not Done,Abnormal,Mild Headache,Antihistamine,Dr. A. Sharma,2024-03-10
+SITE004,SUBJ0189,Screening,2024-02-03,2024-01-17,48.0,Female,164.9,57.8,21.3,83,16,36.8,110,88,Abnormal,Not Done,Dizziness,,Dr. D. Fernandes,2024-02-06
+SITE001,SUBJ0221,Week 4,2024-04-17,2024-02-25,50.0,Male,175.7,73.0,23.6,81,16,36.0,117,60,Normal,Not Done,Dizziness,Paracetamol,Dr. A. Sharma,2024-04-20
+SITE002,SUBJ0257,Baseline,2024-02-06,2024-01-06,28.0,Female,160.6,72.2,28.0,75,17,37.1,126,81,Abnormal,Abnormal,Fatigue,Paracetamol,Dr. B. Nguyen,2024-02-09
+SITE003,SUBJ0263,Screening,2024-02-12,2024-02-04,43.0,Male,156.6,81.3,33.2,219,18,36.8,114,65,Abnormal,Abnormal,,Paracetamol,Dr. C. Patel,2024-02-14
+SITE005,SUBJ0155,Baseline,2024-02-18,2024-01-16,59.0,Male,166.4,40.7,14.7,76,10,37.1,120,81,Abnormal,Not Done,,,Dr. E. Costa,2024-02-22
+SITE002,SUBJ0157,Week 4,2024-03-17,2024-02-05,39.0,Male,158.9,70.6,28.0,79,18,36.4,127,75,Normal,Not Done,,,Dr. B. Nguyen,2024-03-20
+SITE003,SUBJ0198,Baseline,2024-03-27,2024-02-26,49.0,Male,177.3,65.8,20.9,62,17,36.5,148,82,Not Done,Not Done,Fatigue,Paracetamol,Dr. C. Patel,2024-03-28
+SITE002,SUBJ0047,Week 4,2024-02-23,2024-01-10,57.0,Female,154.7,76.6,32.0,69,12,37.1,124,73,Abnormal,Not Done,Fatigue,Ibuprofen,Dr. B. Nguyen,2024-02-28
+SITE002,SUBJ0252,Week 4,2024-03-05,2024-01-16,44.0,Male,157.6,80.7,32.5,98,22,36.5,141,81,Normal,Not Done,,,Dr. B. Nguyen,2024-03-10
+SITE002,SUBJ0287,Week 4,2024-03-24,2024-02-12,39.0,Female,182.2,61.4,18.5,72,17,37.4,114,78,Not Done,Normal,,,Dr. B. Nguyen,2024-03-25
+SITE001,SUBJ0151,Week 4,2024-03-07,2024-01-30,22.0,Female,156.4,61.2,25.0,85,11,35.7,116,82,Not Done,Not Done,Nausea,Ibuprofen,Dr. A. Sharma,2024-03-09
+SITE003,SUBJ0223,Baseline,2024-02-18,2024-01-20,28.0,Female,167.2,77.2,27.6,89,14,36.6,135,80,Not Done,Normal,,Ibuprofen,Dr. C. Patel,2024-02-18
+SITE001,SUBJ0021,Baseline,2024-02-16,2024-01-14,25.0,Female,159.0,71.8,28.4,80,18,36.4,103,88,Abnormal,Normal,,Antihistamine,Dr. A. Sharma,2024-02-19
+SITE005,SUBJ0050,Baseline,2024-02-15,2024-01-22,54.0,Female,169.3,66.7,23.3,75,16,36.0,119,72,Not Done,Not Done,Dizziness,,Dr. E. Costa,2024-02-15
+SITE001,SUBJ0091,Screening,2024-02-11,2024-01-25,67.0,Male,164.4,59.4,22.0,59,10,36.2,125,82,Not Done,Abnormal,Nausea,Paracetamol,Dr. A. Sharma,2024-02-11
+SITE005,SUBJ0210,Screening,2024-01-08,2024-01-01,48.0,Male,159.9,57.3,22.4,69,14,36.9,150,72,Normal,Normal,,Ibuprofen,Dr. E. Costa,2024-01-10
+SITE002,SUBJ0167,Baseline,2024-02-07,2024-01-15,47.0,Male,156.0,53.6,22.0,83,18,36.2,141,82,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-02-12
+SITE004,SUBJ0274,Baseline,2024-04-02,2024-02-25,44.0,Male,171.6,65.1,22.1,76,20,37.0,117,73,Not Done,Abnormal,Dizziness,,Dr. D. Fernandes,2024-04-05
+SITE005,SUBJ0235,Screening,2024-03-12,2024-02-29,42.0,Male,159.2,92.1,36.3,68,12,42.4,112,70,Abnormal,Abnormal,,Ibuprofen,Dr. E. Costa,2024-03-17
+SITE002,SUBJ0032,Baseline,2024-02-28,2024-01-27,35.0,Male,169.7,70.8,24.6,85,10,37.4,120,74,Not Done,Abnormal,Mild Headache,Ibuprofen,Dr. B. Nguyen,2024-03-04
+SITE003,SUBJ0198,Screening,2024-03-15,2024-02-26,49.0,Male,177.3,61.0,19.4,51,14,37.2,128,81,Normal,Not Done,,,Dr. C. Patel,2024-03-18
+SITE003,SUBJ0128,Screening,2024-01-20,2024-01-04,36.0,Male,152.4,66.7,28.7,71,23,37.0,105,73,Not Done,Not Done,Mild Headache,Ibuprofen,Dr. C. Patel,2024-01-22
+SITE005,SUBJ0080,Screening,2024-01-12,2024-01-05,47.0,Female,176.5,54.8,17.6,75,17,37.1,124,75,Normal,Abnormal,Nausea,,Dr. E. Costa,2024-01-12
+SITE004,SUBJ0204,Baseline,2024-02-29,2024-01-22,53.0,Male,167.8,52.2,18.5,85,17,36.5,103,76,Not Done,Normal,,,Dr. D. Fernandes,2024-03-05
+SITE005,SUBJ0280,Baseline,2024-03-13,2024-02-18,67.0,Female,175.2,87.8,28.6,90,14,36.7,112,81,Normal,Not Done,Fatigue,Paracetamol,Dr. E. Costa,2024-03-17
+SITE002,SUBJ0012,Baseline,2024-03-10,2024-02-17,72.0,Female,146.3,59.3,27.7,81,13,36.9,122,72,Abnormal,Not Done,Nausea,,Dr. B. Nguyen,2024-03-13
+SITE001,SUBJ0096,Screening,2024-01-21,2024-01-24,53.0,Male,161.7,87.6,33.5,78,15,37.0,103,68,Not Done,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-06
+SITE002,SUBJ0252,Screening,2024-02-01,2024-01-16,44.0,Male,157.6,67.2,27.1,59,22,36.3,109,74,Not Done,Normal,,Paracetamol,Dr. B. Nguyen,2024-02-06
+SITE003,SUBJ0033,Week 4,2024-03-12,2024-01-15,40.0,Female,181.7,108.6,32.9,75,16,36.8,124,76,Abnormal,Normal,Mild Headache,,Dr. C. Patel,2024-03-14
+SITE005,SUBJ0055,Week 4,2024-02-26,2024-01-23,40.0,Male,161.5,81.0,31.1,74,16,36.0,132,80,Not Done,Abnormal,,,Dr. E. Costa,2024-02-28
+SITE004,SUBJ0189,Baseline,2024-02-20,2024-01-17,48.0,Female,164.9,80.0,29.4,69,19,36.6,112,71,Normal,Not Done,,,Dr. D. Fernandes,2024-02-21
+SITE002,SUBJ0182,Screening,2024-02-19,2024-02-08,28.0,Male,168.5,40.3,14.2,75,21,36.4,111,84,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-02-19
+SITE004,SUBJ0069,Baseline,2024-02-26,2024-02-05,44.0,Male,170.8,63.4,21.7,66,15,37.5,105,65,Normal,Normal,,,Dr. D. Fernandes,2024-02-27
+SITE002,SUBJ0052,Screening,2024-01-27,2024-01-06,51.0,Female,159.3,69.6,27.4,96,21,37.0,122,78,Abnormal,Normal,Dizziness,,Dr. B. Nguyen,2024-01-31
+SITE002,SUBJ0297,Week 4,2024-02-20,2024-01-05,60.0,Female,166.6,95.1,34.3,79,19,36.2,136,95,Normal,Abnormal,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-02-23
+SITE003,SUBJ0043,Week 4,2024-03-26,2024-02-14,44.0,Male,171.7,91.3,31.0,69,13,37.0,115,83,Not Done,Abnormal,Mild Headache,,Dr. C. Patel,2024-03-29
+SITE005,SUBJ0150,Week 4,2024-03-21,2024-02-11,48.0,Male,177.7,55.7,17.6,75,16,36.3,126,76,Not Done,Abnormal,Mild Headache,,Dr. E. Costa,2024-03-26
+SITE002,SUBJ0267,Week 4,2024-03-24,2024-02-12,47.0,Female,153.0,58.4,24.9,219,14,36.5,117,84,Normal,Abnormal,,Antihistamine,Dr. B. Nguyen,2024-03-24
+SITE004,SUBJ0139,Screening,2024-03-22,2024-03-01,52.0,Male,157.0,83.4,33.8,68,16,37.1,121,81,Not Done,Abnormal,Fatigue,,Dr. D. Fernandes,2024-03-25
+SITE002,SUBJ0037,Baseline,2024-03-18,2024-02-21,48.0,Male,147.9,61.9,28.3,67,16,36.4,126,64,Not Done,Not Done,,,Dr. B. Nguyen,2024-03-19
+SITE005,SUBJ0220,Week 4,2024-02-18,2024-01-07,46.0,Male,166.8,82.6,29.7,61,13,36.4,134,85,Not Done,Normal,,Antihistamine,Dr. E. Costa,2024-02-20
+SITE001,SUBJ0276,Week 4,2024-03-07,2024-01-28,53.0,Female,170.3,87.9,30.3,59,17,37.1,107,65,Abnormal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-09
+SITE001,SUBJ0251,Week 4,2024-02-15,2024-01-04,39.0,Female,160.5,71.1,27.6,69,9,37.6,123,81,Normal,Not Done,,,Dr. A. Sharma,2024-02-20
+SITE002,SUBJ0272,Screening,2024-02-02,2024-01-17,45.0,Female,153.1,83.9,35.8,74,15,37.1,133,77,Not Done,Not Done,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-02-07
+SITE003,SUBJ0118,Screening,2024-03-14,2024-02-29,53.0,Female,169.2,77.4,27.0,69,9,37.2,116,71,Normal,Normal,Mild Headache,Antihistamine,Dr. C. Patel,2024-03-17
+SITE004,SUBJ0164,Week 4,2024-03-26,2024-02-07,42.0,Male,165.5,56.3,20.6,88,19,36.9,122,82,Not Done,Normal,Nausea,Antihistamine,Dr. D. Fernandes,2024-03-27
+SITE001,SUBJ0171,Screening,2024-01-15,2024-01-06,50.0,Female,170.7,72.9,25.0,74,17,35.8,130,79,Not Done,Not Done,,Antihistamine,Dr. A. Sharma,2024-01-20
+SITE001,SUBJ0151,Baseline,2024-02-25,2024-01-30,22.0,Female,156.4,86.2,35.2,70,15,37.3,106,66,Not Done,Normal,Dizziness,,Dr. A. Sharma,2024-02-25
+SITE001,SUBJ0191,Week 4,2024-04-01,2024-02-25,28.0,Female,149.0,51.0,23.0,57,14,36.8,117,68,Not Done,Normal,Dizziness,,Dr. A. Sharma,2024-04-04
+SITE005,SUBJ0130,Week 4,2024-04-03,2024-02-22,49.0,Male,168.9,82.7,29.0,52,14,36.9,136,74,Abnormal,Abnormal,Dizziness,,Dr. E. Costa,2024-04-05
+SITE001,SUBJ0086,Baseline,2024-01-25,2024-01-06,49.0,Male,169.9,68.0,23.6,65,19,36.8,95,84,Normal,Abnormal,Fatigue,Paracetamol,Dr. A. Sharma,2024-01-25
+SITE002,SUBJ0237,Screening,2024-03-18,2024-02-28,57.0,Male,170.2,70.4,24.3,71,15,35.5,124,74,Not Done,Not Done,,,Dr. B. Nguyen,2024-03-19
+SITE001,SUBJ0121,Screening,2024-02-24,2024-02-05,36.0,Female,166.8,61.8,22.2,72,21,37.3,106,84,Normal,Normal,Nausea,Antihistamine,Dr. A. Sharma,2024-02-27
+SITE004,SUBJ0099,Screening,2024-02-10,2024-01-23,44.0,Male,167.9,77.8,27.6,81,17,36.8,119,76,Normal,Abnormal,Mild Headache,,Dr. D. Fernandes,2024-02-14
+SITE002,SUBJ0257,Screening,2024-01-17,2024-01-06,28.0,Female,160.6,66.1,25.6,74,18,36.5,118,77,Abnormal,Normal,,,Dr. B. Nguyen,2024-01-17
+SITE004,SUBJ0209,Week 4,2024-02-29,2024-01-30,45.0,Female,169.8,67.4,23.4,79,15,36.9,143,75,Abnormal,Normal,Fatigue,,Dr. D. Fernandes,2024-02-29
+SITE004,SUBJ0294,Week 4,2024-02-10,2024-01-08,59.0,Male,177.3,89.1,28.3,65,11,37.0,112,80,Abnormal,Abnormal,,,Dr. D. Fernandes,2024-02-15
+SITE001,SUBJ0126,Week 4,2024-04-02,2024-02-19,51.0,Male,174.7,68.1,22.3,78,16,35.9,119,71,Abnormal,Not Done,Fatigue,Paracetamol,Dr. A. Sharma,2024-04-06
+SITE002,SUBJ0057,Screening,2024-02-06,2024-01-23,58.0,Male,176.9,79.6,25.4,63,20,36.3,125,71,Not Done,Normal,,Ibuprofen,Dr. B. Nguyen,2024-02-11
+SITE003,SUBJ0223,Week 4,2024-03-08,2024-01-20,28.0,Female,167.2,89.0,31.8,77,12,36.3,103,83,Normal,Abnormal,,Paracetamol,Dr. C. Patel,2024-03-10
+SITE004,SUBJ0194,Baseline,2024-03-10,2024-02-13,39.0,Male,157.1,72.1,29.2,84,11,36.9,108,66,Abnormal,Normal,Mild Headache,Antihistamine,Dr. D. Fernandes,2024-03-13
+SITE004,SUBJ0069,Screening,2024-02-14,2024-02-05,44.0,Male,170.8,71.8,24.6,65,19,36.7,121,70,Normal,Abnormal,Fatigue,,Dr. D. Fernandes,2024-02-18
+SITE005,SUBJ0215,Screening,2024-02-21,2024-02-02,70.0,Female,149.9,87.4,38.9,84,13,36.9,116,79,Not Done,Normal,,,Dr. E. Costa,2024-02-22
+SITE003,SUBJ0168,Week 4,2024-02-23,2024-01-09,53.0,M,162.6,61.1,23.1,73,16,35.9,127,70,Abnormal,Not Done,,Ibuprofen,Dr. C. Patel,2024-02-25
+SITE005,SUBJ0110,Baseline,2024-01-31,2024-01-11,42.0,Male,161.4,63.6,24.4,80,11,37.0,146,67,Not Done,Not Done,,Ibuprofen,Dr. E. Costa,2024-02-04
+SITE002,SUBJ0017,Screening,2024-02-04,2024-01-28,46.0,Female,171.0,57.7,19.7,95,12,36.3,135,84,Not Done,Not Done,Dizziness,,Dr. B. Nguyen,2024-02-06
+SITE005,SUBJ0025,Week 4,2024-02-23,2024-01-02,43.0,Male,155.4,92.8,38.4,80,12,36.7,111,66,Normal,Abnormal,,Paracetamol,Dr. E. Costa,2024-02-26
+SITE002,SUBJ0282,Screening,2024-03-02,2024-02-14,41.0,Female,147.2,55.9,25.8,79,21,36.8,125,85,Normal,Not Done,Dizziness,,Dr. B. Nguyen,2024-03-02
+SITE001,SUBJ0261,Screening,2024-01-12,2024-01-05,41.0,Female,159.9,72.2,28.2,82,23,37.1,135,73,Not Done,Not Done,Nausea,Antihistamine,Dr. A. Sharma,2024-01-17
+SITE003,SUBJ0218,Screening,2024-02-23,2024-02-02,56.0,Male,166.9,99.2,35.6,85,14,36.8,121,65,Abnormal,Normal,,,Dr. C. Patel,2024-02-27
+SITE005,SUBJ0230,Baseline,2024-02-22,2024-01-24,47.0,Female,155.2,63.1,26.2,64,14,36.9,128,60,Not Done,Not Done,Dizziness,Antihistamine,Dr. E. Costa,2024-02-23
+SITE005,SUBJ0290,Baseline,2024-03-04,2024-01-29,30.0,Female,158.2,43.8,17.5,75,11,35.8,125,79,Not Done,Normal,,Antihistamine,Dr. E. Costa,2024-03-04
+SITE005,SUBJ0155,Week 4,2024-03-09,2024-01-16,59.0,Male,166.4,57.0,20.6,87,19,37.0,120,82,Not Done,Not Done,Mild Headache,,Dr. E. Costa,2024-03-09
+SITE005,SUBJ0300,Week 4,2024-03-31,2024-02-07,33.0,Male,181.2,83.0,25.3,76,19,36.3,127,68,Abnormal,Abnormal,Nausea,Antihistamine,Dr. E. Costa,2024-03-31
+SITE004,SUBJ0244,Week 4,2024-04-20,2024-02-29,39.0,Male,156.7,60.9,24.8,64,11,37.0,113,85,Normal,Not Done,Nausea,,Dr. D. Fernandes,2024-04-22
+SITE003,SUBJ0033,Baseline,2024-02-21,2024-01-15,40.0,Female,181.7,66.5,20.1,81,21,37.3,118,69,Not Done,Abnormal,,,Dr. C. Patel,2024-02-24
+SITE005,SUBJ0110,Screening,2024-01-19,2024-01-11,42.0,Male,161.4,67.3,25.8,88,9,37.4,104,75,Normal,Normal,,Ibuprofen,Dr. E. Costa,2024-01-19
+SITE004,SUBJ0054,Screening,2024-01-23,2024-01-07,54.0,Female,136.5,87.2,46.8,57,14,36.4,106,87,Not Done,Abnormal,Dizziness,,Dr. D. Fernandes,2024-01-25
+SITE002,SUBJ0222,Baseline,2024-03-03,2024-02-10,61.0,Male,154.1,69.7,30.1,70,10,35.9,124,73,Normal,Not Done,,,Dr. B. Nguyen,2024-03-06
+SITE003,SUBJ0043,Baseline,2024-03-08,2024-02-14,44.0,Male,171.7,60.4,20.5,69,14,36.6,114,87,Normal,Normal,Fatigue,Paracetamol,Dr. C. Patel,2024-03-12
+SITE002,SUBJ0232,Screening,2024-01-26,2024-01-11,39.0,Female,182.3,56.7,17.1,82,17,37.3,113,72,Abnormal,Abnormal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-01-26
+SITE005,SUBJ0300,Screening,2024-02-27,2024-02-07,33.0,Male,181.2,99.9,30.4,78,20,36.6,112,78,Abnormal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-28
+SITE002,SUBJ0102,Week 4,2024-03-02,2024-01-18,45.0,Female,167.8,85.9,30.5,102,17,36.6,121,63,Not Done,Normal,,Paracetamol,Dr. B. Nguyen,2024-03-02
+SITE002,SUBJ0027,Week 4,2024-02-14,2024-01-13,24.0,Female,170.4,60.2,20.7,75,13,36.6,134,73,Abnormal,Abnormal,Fatigue,,Dr. B. Nguyen,2024-02-17
+SITE002,SUBJ0292,Week 4,2024-03-17,2024-02-03,45.0,Female,167.7,72.8,25.9,70,10,37.4,107,73,Abnormal,Abnormal,Nausea,,Dr. B. Nguyen,2024-03-22
+SITE002,SUBJ0167,Week 4,2024-02-25,2024-01-15,47.0,Male,156.0,91.0,37.4,61,11,36.7,128,92,Not Done,Abnormal,Nausea,,Dr. B. Nguyen,2024-02-27
+SITE003,SUBJ0058,Screening,2024-02-20,2024-02-08,41.0,Female,178.8,67.7,21.2,76,15,36.8,108,66,Not Done,Abnormal,Dizziness,Ibuprofen,Dr. C. Patel,2024-02-25
+SITE004,SUBJ0144,Week 4,2024-02-22,2024-01-14,38.0,Male,169.8,69.5,24.1,65,13,36.5,125,76,Normal,Not Done,,,Dr. D. Fernandes,2024-02-23
+SITE005,SUBJ0205,Week 4,2024-02-15,2024-01-08,52.0,Male,158.0,88.5,35.5,64,17,36.6,120,78,Normal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-16
+SITE004,SUBJ0124,Week 4,2024-03-16,2024-01-21,45.0,Male,172.4,74.6,25.1,82,15,37.4,105,83,Not Done,Normal,,Antihistamine,Dr. D. Fernandes,2024-03-21
+SITE003,SUBJ0273,Baseline,2024-03-04,2024-02-03,37.0,Male,158.7,74.8,29.7,60,14,42.3,142,69,Normal,Not Done,Fatigue,Paracetamol,Dr. C. Patel,2024-03-05
+SITE004,SUBJ0264,Screening,2024-02-27,2024-02-19,60.0,Female,157.2,74.1,30.0,79,19,36.5,135,73,Abnormal,Abnormal,,,Dr. D. Fernandes,2024-03-01
+SITE003,SUBJ0078,Baseline,2024-02-06,2024-01-13,44.0,Male,182.7,81.5,24.4,87,15,36.7,111,71,Not Done,Abnormal,Fatigue,Antihistamine,Dr. C. Patel,2024-02-10
+SITE004,SUBJ0074,Baseline,2024-04-04,2024-02-26,43.0,Male,152.8,52.1,22.3,79,19,36.6,120,78,Abnormal,Normal,Nausea,,Dr. D. Fernandes,2024-04-08
+SITE005,SUBJ0170,Baseline,2024-03-06,2024-02-01,70.0,Female,176.9,82.9,26.5,76,11,36.5,121,77,Abnormal,Not Done,Fatigue,Antihistamine,Dr. E. Costa,2024-03-10
+SITE001,SUBJ0091,Baseline,2024-02-23,2024-01-25,67.0,Male,164.4,46.3,17.1,83,14,36.9,141,85,Abnormal,Normal,,Paracetamol,Dr. A. Sharma,2024-02-26
+SITE002,SUBJ0152,Week 4,2024-02-22,2024-01-10,59.0,Male,160.4,70.9,27.6,79,14,36.9,110,76,Abnormal,Not Done,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-02-25
+SITE005,SUBJ0265,Week 4,2024-02-26,2024-01-09,37.0,Female,171.6,89.8,30.5,73,16,37.1,130,80,Not Done,Not Done,Mild Headache,Paracetamol,Dr. E. Costa,2024-03-02
+SITE003,SUBJ0293,Screening,2024-02-18,2024-01-29,49.0,Male,153.0,47.6,20.3,53,18,36.6,157,70,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-02-19
+SITE004,SUBJ0269,Screening,2024-02-23,2024-03-01,44.0,Male,166.1,70.9,25.7,65,15,36.2,138,75,Normal,Normal,Mild Headache,Antihistamine,Dr. D. Fernandes,2024-03-23
+SITE005,SUBJ0120,Screening,2024-02-27,2024-02-14,33.0,Male,155.4,75.2,31.1,74,16,36.5,119,70,Not Done,Abnormal,Fatigue,Antihistamine,Dr. E. Costa,2024-02-29
+SITE002,SUBJ0227,Baseline,2024-02-29,2024-02-08,39.0,Male,175.7,69.2,22.4,69,16,37.2,128,70,Normal,Abnormal,Fatigue,Ibuprofen,Dr. B. Nguyen,2024-03-03
+SITE001,SUBJ0181,Baseline,2024-03-02,2024-01-28,35.0,Female,157.8,49.8,20.0,70,16,36.8,119,81,Not Done,Abnormal,Nausea,,Dr. A. Sharma,2024-03-07
+SITE001,SUBJ0006,Screening,2024-01-23,2024-01-16,28.0,Female,160.8,64.9,25.1,66,15,37.0,144,79,Normal,Not Done,Mild Headache,Antihistamine,Dr. A. Sharma,2024-01-27
+SITE003,SUBJ0273,Week 4,2024-03-23,2024-02-03,37.0,Male,158.7,84.6,33.6,88,14,36.7,109,76,Not Done,Normal,,Ibuprofen,Dr. C. Patel,2024-03-23
+SITE003,SUBJ0253,Baseline,2024-03-12,2024-02-26,50.0,Male,148.1,86.8,39.6,73,18,36.9,126,75,Not Done,Abnormal,Mild Headache,,Dr. C. Patel,2024-03-13
+SITE005,SUBJ0240,Week 4,2024-03-03,2024-01-21,48.0,Male,167.9,67.7,24.0,62,17,36.0,97,83,Not Done,Abnormal,Mild Headache,Ibuprofen,Dr. E. Costa,2024-03-05
+SITE002,SUBJ0257,Week 4,2024-02-24,2024-01-06,28.0,Female,160.6,46.3,18.0,75,17,37.1,113,72,Normal,Normal,Fatigue,,Dr. B. Nguyen,2024-02-24
+SITE005,SUBJ0100,Screening,2024-01-27,2024-01-14,33.0,Male,151.2,60.6,26.5,83,18,37.0,130,82,Abnormal,Normal,Dizziness,Ibuprofen,Dr. E. Costa,2024-01-29
+SITE004,SUBJ0264,Week 4,2024-03-23,2024-02-19,60.0,Female,157.2,63.9,25.9,82,11,36.3,112,78,Not Done,Not Done,,,Dr. D. Fernandes,2024-03-27
+SITE002,SUBJ0207,Week 4,2024-02-27,2024-01-28,37.0,Male,163.6,68.3,25.5,71,15,36.9,132,78,Normal,Not Done,,,Dr. B. Nguyen,2024-03-01
+SITE005,SUBJ0050,Screening,2024-02-05,2024-01-22,54.0,Female,169.3,55.5,19.4,74,15,36.3,140,85,Normal,Abnormal,Nausea,,Dr. E. Costa,2024-02-08
+SITE003,SUBJ0228,Week 4,2024-02-21,2024-01-13,32.0,Male,184.5,68.8,20.2,71,12,36.9,115,83,Normal,Normal,Fatigue,,Dr. C. Patel,2024-02-21
+SITE004,SUBJ0289,Screening,2024-02-09,2024-01-24,45.0,Male,170.2,55.3,19.1,60,16,36.7,129,77,Not Done,Abnormal,Fatigue,Paracetamol,Dr. D. Fernandes,2024-02-12
+SITE002,SUBJ0097,Baseline,2024-02-05,2024-01-11,21.0,Female,172.5,86.5,29.1,94,12,37.0,116,77,Normal,Normal,,,Dr. B. Nguyen,2024-02-06
+SITE002,SUBJ0207,Baseline,2024-02-14,2024-01-28,37.0,Male,163.6,59.0,22.0,91,15,36.8,134,88,Normal,Normal,Mild Headache,Ibuprofen,Dr. B. Nguyen,2024-02-16
+SITE005,SUBJ0095,Baseline,2024-03-23,2024-02-23,56.0,Male,181.2,62.9,19.2,74,17,36.8,116,77,Abnormal,Not Done,,Ibuprofen,Dr. E. Costa,2024-03-23
+SITE002,SUBJ0047,Screening,2024-01-22,2024-01-10,57.0,Female,154.7,72.0,30.1,67,19,36.2,115,81,Normal,Abnormal,Fatigue,Antihistamine,Dr. B. Nguyen,2024-01-22
+SITE004,SUBJ0019,Screening,2024-01-12,2024-01-02,51.0,Female,180.3,68.4,21.0,79,18,36.6,124,78,Abnormal,Not Done,Nausea,Paracetamol,Dr. D. Fernandes,2024-01-15
+SITE004,SUBJ0299,Baseline,2024-01-27,2024-01-02,35.0,Male,186.1,75.1,21.7,69,18,36.8,130,60,Not Done,Normal,Dizziness,Paracetamol,Dr. D. Fernandes,2024-01-27
+SITE005,SUBJ0160,Baseline,2024-03-19,2024-02-17,56.0,Female,170.2,83.4,28.8,93,14,37.1,149,73,Abnormal,Normal,,Ibuprofen,Dr. E. Costa,2024-03-20
+SITE002,SUBJ0082,Baseline,2024-03-07,2024-02-12,46.0,Female,150.6,71.0,31.3,83,17,36.5,114,86,Abnormal,Normal,,,Dr. B. Nguyen,2024-03-11
+SITE002,SUBJ0137,Screening,2024-01-27,2024-01-14,68.0,Female,159.9,54.1,21.2,89,21,36.8,134,88,Not Done,Not Done,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-02-01
+SITE003,SUBJ0238,Baseline,2024-01-28,2024-01-01,51.0,Female,170.0,57.0,19.7,75,19,36.7,119,74,Abnormal,Not Done,Mild Headache,,Dr. C. Patel,2024-01-31
+SITE003,SUBJ0008,Baseline,2024-02-03,2024-01-09,47.0,Female,178.1,77.8,24.5,77,16,36.9,113,79,Normal,Normal,Mild Headache,Antihistamine,Dr. C. Patel,2024-02-07
+SITE005,SUBJ0275,Screening,2024-02-26,2024-02-08,68.0,Male,169.5,71.2,24.8,75,8,32.6,123,81,Abnormal,Normal,Nausea,Ibuprofen,Dr. E. Costa,2024-02-27
+SITE003,SUBJ0183,Baseline,2024-02-05,2024-01-05,39.0,Male,163.2,81.7,30.7,18,17,37.0,127,71,Not Done,Abnormal,Nausea,Antihistamine,Dr. C. Patel,2024-02-06
+SITE005,SUBJ0200,Screening,2024-03-09,2024-02-18,61.0,Female,181.4,117.3,35.6,63,16,36.0,128,73,Not Done,Normal,,,Dr. E. Costa,2024-03-11
+SITE004,SUBJ0199,Screening,2024-02-23,2024-02-04,36.0,Male,183.9,70.7,20.9,82,14,36.9,125,62,Normal,Abnormal,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-02-25
+SITE002,SUBJ0297,Baseline,2024-02-02,2024-01-05,60.0,Female,166.6,87.7,31.6,79,13,36.5,123,59,Normal,Not Done,,Ibuprofen,Dr. B. Nguyen,2024-02-04
+SITE005,SUBJ0075,Screening,2024-03-16,2024-02-25,53.0,Female,161.3,95.9,36.9,71,16,37.2,104,63,Not Done,Abnormal,Fatigue,,Dr. E. Costa,2024-03-18
+SITE005,SUBJ0165,Screening,2024-02-04,2024-01-26,34.0,Female,165.3,37.7,13.8,83,11,37.4,118,76,Normal,Abnormal,,Paracetamol,Dr. E. Costa,2024-02-07
+SITE002,SUBJ0137,Baseline,2024-02-16,2024-01-14,68.0,Female,159.9,58.9,23.0,70,19,37.5,128,70,Normal,Normal,Dizziness,Antihistamine,Dr. B. Nguyen,2024-02-16
+SITE003,SUBJ0158,Week 4,2024-03-24,2024-02-04,55.0,Female,143.7,54.4,26.3,58,12,36.8,137,80,Normal,Normal,Dizziness,Paracetamol,Dr. C. Patel,2024-03-28
+SITE003,SUBJ0118,Baseline,2024-03-24,2024-02-29,53.0,Female,169.2,80.4,28.1,71,19,37.0,130,67,Normal,Not Done,,,Dr. C. Patel,2024-03-24
+SITE003,SUBJ0048,Baseline,2024-02-23,2024-01-14,29.0,Female,173.7,69.3,23.0,77,15,36.9,106,89,Abnormal,Abnormal,Dizziness,Ibuprofen,Dr. C. Patel,2024-02-23
+SITE002,SUBJ0017,Week 4,2024-03-05,2024-01-28,46.0,Female,171.0,84.6,28.9,73,13,36.7,126,73,Normal,Not Done,,Antihistamine,Dr. B. Nguyen,2024-03-07
+SITE004,SUBJ0239,Week 4,2024-03-19,2024-02-08,29.0,Male,171.7,35.2,11.9,82,15,37.3,108,52,Abnormal,Not Done,Mild Headache,Antihistamine,Dr. D. Fernandes,2024-03-19
+SITE005,SUBJ0165,Baseline,2024-02-13,2024-01-26,34.0,Female,165.3,60.6,22.2,72,20,35.8,137,80,Normal,Normal,Mild Headache,Paracetamol,Dr. E. Costa,2024-02-16
+SITE002,SUBJ0152,Screening,2024-01-20,2024-01-10,59.0,Male,160.4,63.8,24.8,86,10,36.6,124,81,Abnormal,Normal,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-01-21
+SITE003,SUBJ0218,Week 4,2024-03-20,2024-02-02,56.0,Male,166.9,76.1,27.3,82,16,36.7,129,83,Abnormal,Not Done,Dizziness,Ibuprofen,Dr. C. Patel,2024-03-24
+SITE004,SUBJ0149,Week 4,2024-04-13,2024-02-28,35.0,Male,158.9,83.7,33.1,76,19,36.5,128,79,Normal,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-04-14
+SITE003,SUBJ0028,Screening,2024-03-04,2024-02-15,55.0,Male,153.7,77.9,33.0,89,8,36.5,128,76,Not Done,Normal,,,Dr. C. Patel,2024-03-09
+SITE003,SUBJ0093,Baseline,2024-02-22,2024-01-30,43.0,Female,146.2,69.7,39.5,79,14,37.5,107,85,Abnormal,Not Done,Fatigue,Ibuprofen,Dr. C. Patel,2024-02-23
+SITE003,SUBJ0173,Week 4,2024-02-07,2024-01-04,46.0,Female,158.9,26.1,10.3,95,19,36.6,122,68,Abnormal,Normal,Fatigue,,Dr. C. Patel,2024-02-07
+SITE001,SUBJ0256,Screening,2024-01-13,2024-01-06,57.0,Male,170.0,73.7,25.5,75,17,36.9,109,78,Not Done,Normal,,Antihistamine,Dr. A. Sharma,2024-01-18
+SITE003,SUBJ0273,Screening,2024-02-13,2024-02-03,37.0,Male,158.7,57.2,22.7,69,18,36.7,105,92,Abnormal,Normal,,Paracetamol,Dr. C. Patel,2024-02-14
+SITE001,SUBJ0201,Week 4,2024-02-28,2024-01-18,34.0,Male,164.7,68.8,25.4,69,14,37.1,115,77,Normal,Abnormal,Dizziness,Paracetamol,Dr. A. Sharma,2024-03-01
+SITE003,SUBJ0023,Screening,2024-02-21,2024-02-02,49.0,Female,164.7,39.0,14.4,74,12,37.1,126,70,Normal,Not Done,,Antihistamine,Dr. C. Patel,2024-02-24
+SITE005,SUBJ0215,Baseline,2024-03-09,2024-02-02,70.0,Female,149.9,92.6,41.2,81,17,36.6,104,76,Normal,Abnormal,Nausea,,Dr. E. Costa,2024-03-10
+SITE004,SUBJ0004,Screening,2024-03-05,2024-02-17,39.0,Male,163.1,53.4,20.1,63,18,37.3,121,86,Not Done,Normal,,,Dr. D. Fernandes,2024-03-06
+SITE002,SUBJ0217,Week 4,2024-02-18,2024-01-12,44.0,Female,163.9,77.1,28.7,68,11,37.0,97,75,Not Done,Normal,Fatigue,,Dr. B. Nguyen,2024-02-20
+SITE004,SUBJ0289,Baseline,2024-02-18,2024-01-24,45.0,Male,170.2,73.1,25.2,58,21,36.7,130,71,Normal,Abnormal,,,Dr. D. Fernandes,2024-02-23
+SITE004,SUBJ0234,Week 4,2024-03-29,2024-02-19,62.0,Male,162.2,82.3,31.3,65,18,37.2,215,80,Normal,Not Done,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-31
+SITE001,SUBJ0186,Baseline,2027-12-31,2024-02-08,57.0,Male,179.5,76.4,23.7,75,11,36.3,125,60,Not Done,Abnormal,Fatigue,,Dr. A. Sharma,2024-03-20
+SITE001,SUBJ0286,Week 4,2024-03-19,2024-01-26,44.0,Female,162.8,75.9,28.6,70,17,36.7,128,62,Not Done,Normal,,,Dr. A. Sharma,2024-03-20
+SITE003,SUBJ0288,Screening,2024-02-23,2024-02-11,49.0,Female,155.1,70.3,29.2,60,10,36.9,117,79,Abnormal,Normal,Dizziness,,Dr. C. Patel,2024-02-23
+SITE003,SUBJ0038,Week 4,2024-03-27,2024-02-25,22.0,Male,152.2,55.8,24.1,101,17,36.9,111,83,Abnormal,Abnormal,Mild Headache,Paracetamol,Dr. C. Patel,2024-03-28
+SITE003,SUBJ0298,Week 4,2024-02-26,2024-01-22,29.0,Male,172.7,78.0,26.2,83,15,37.0,116,94,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-02-27
+SITE005,SUBJ0220,Screening,2024-01-20,2024-01-07,46.0,Male,166.8,60.0,21.6,76,14,36.6,113,66,Abnormal,Not Done,Dizziness,Paracetamol,Dr. E. Costa,2024-01-21
+SITE002,SUBJ0292,Baseline,2024-03-09,2024-02-03,45.0,Female,167.7,72.4,25.7,88,15,36.8,108,84,Abnormal,Normal,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-03-13
+SITE002,SUBJ0022,Baseline,2024-02-15,2024-01-15,69.0,Male,182.6,85.9,25.8,57,12,36.0,118,83,Abnormal,Not Done,Fatigue,Antihistamine,Dr. B. Nguyen,2024-02-18
+SITE004,SUBJ0299,Screening,2024-01-11,2024-01-02,46.0,Male,186.1,70.5,20.4,61,20,36.9,132,87,Abnormal,Normal,Nausea,Ibuprofen,Dr. D. Fernandes,2024-01-15
+SITE001,SUBJ0191,Baseline,2024-03-20,2024-02-25,28.0,Female,149.0,79.8,35.9,83,13,37.0,111,78,Not Done,Normal,Nausea,,Dr. A. Sharma,2024-03-23
+SITE002,SUBJ0112,Baseline,2024-03-21,2024-02-16,40.0,Male,158.5,42.0,16.7,85,13,37.1,98,85,Normal,Abnormal,,,Dr. B. Nguyen,2024-03-23
+SITE003,SUBJ0103,Week 4,2024-03-24,2024-02-14,36.0,Female,160.9,49.8,19.2,66,14,37.1,125,79,Abnormal,Not Done,,,Dr. C. Patel,2024-03-29
+SITE001,SUBJ0296,Week 4,2024-02-25,2024-01-15,44.0,Female,139.8,66.5,34.0,66,18,36.1,129,69,Normal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-01
+SITE002,SUBJ0087,Baseline,2024-03-28,2024-02-24,51.0,Female,162.4,75.5,28.6,93,15,36.7,121,75,Normal,Abnormal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-04-01
+SITE002,SUBJ0007,Week 4,2024-03-07,2024-01-15,54.0,Male,155.9,56.2,23.1,90,13,36.7,131,68,Abnormal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-03-08
+SITE001,SUBJ0196,Screening,2024-01-19,2024-01-08,38.0,Male,163.7,95.0,35.5,65,20,36.7,137,66,Normal,Abnormal,,Antihistamine,Dr. A. Sharma,2024-01-20
+SITE002,SUBJ0232,Baseline,2024-02-14,2024-01-11,39.0,Female,182.3,86.4,26.0,79,11,36.6,126,84,Not Done,Not Done,Nausea,Antihistamine,Dr. B. Nguyen,2024-02-17
+SITE001,SUBJ0241,Screening,2024-02-12,2024-02-01,51.0,Female,164.4,49.1,18.2,67,15,36.2,113,83,Normal,Abnormal,,Antihistamine,Dr. A. Sharma,2024-02-16
+SITE003,SUBJ0123,Baseline,2024-03-07,2024-02-13,65.0,Male,178.8,58.2,18.2,68,13,36.5,121,72,Not Done,Not Done,Dizziness,,Dr. C. Patel,2024-03-11
+SITE002,SUBJ0182,Baseline,2024-03-04,2024-02-08,28.0,Male,168.5,46.9,16.5,68,17,36.5,119,83,Normal,Normal,,Antihistamine,Dr. B. Nguyen,2024-03-09
+SITE001,SUBJ0236,Screening,2024-02-13,2024-02-03,33.0,Male,150.5,80.0,35.3,80,17,36.7,138,74,Abnormal,Normal,Fatigue,Ibuprofen,Dr. A. Sharma,2024-02-18
+SITE002,SUBJ0142,Screening,2024-02-23,2024-02-15,41.0,Female,173.5,69.3,23.0,60,15,37.5,136,77,Normal,Not Done,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-02-24
+SITE005,SUBJ0190,Baseline,2024-03-01,2024-02-05,43.0,Female,161.7,72.7,27.8,88,17,36.6,125,76,Normal,Abnormal,,,Dr. E. Costa,2024-03-04
+SITE003,SUBJ0113,Screening,2024-01-27,2024-01-16,46.0,Male,170.8,99.6,34.1,59,20,36.8,111,67,Normal,Not Done,Nausea,Paracetamol,Dr. C. Patel,2024-01-28
+SITE004,SUBJ0089,Screening,2024-03-15,2024-02-25,64.0,Male,172.4,71.1,23.9,58,15,36.5,148,76,Not Done,Not Done,,,Dr. D. Fernandes,2024-03-17
+SITE003,SUBJ0018,Screening,2024-01-15,2024-01-03,35.0,Female,167.4,73.7,26.3,69,14,36.9,104,66,Abnormal,Not Done,,Antihistamine,Dr. C. Patel,2024-01-16
+SITE003,SUBJ0063,Screening,2024-02-18,2024-01-30,40.0,Male,163.0,61.3,23.1,195,14,36.3,122,71,Abnormal,Normal,,Antihistamine,Dr. C. Patel,2024-02-18
+SITE003,SUBJ0243,Baseline,2024-02-07,2024-01-08,35.0,Male,165.8,61.6,22.4,79,8,37.8,128,79,Not Done,Normal,Dizziness,Ibuprofen,Dr. C. Patel,2024-02-09
+SITE003,SUBJ0163,Baseline,2024-03-21,2024-02-27,45.0,Female,193.7,73.4,19.6,56,17,36.9,129,86,Abnormal,Abnormal,Nausea,Antihistamine,Dr. C. Patel,2024-03-25
+SITE004,SUBJ0009,Baseline,2024-03-18,2024-02-17,33.0,Male,172.9,66.3,22.2,67,13,36.5,121,80,Abnormal,Not Done,Dizziness,Paracetamol,Dr. D. Fernandes,2024-03-22
+SITE005,SUBJ0175,Baseline,2024-02-04,2024-01-08,41.0,Male,139.0,56.1,29.0,59,15,36.7,127,73,Not Done,Normal,Mild Headache,Antihistamine,Dr. E. Costa,2024-02-07
+SITE004,SUBJ0114,Screening,2024-01-31,2024-01-11,50.0,Female,169.0,88.5,31.0,64,18,37.3,100,80,Not Done,Normal,Fatigue,,Dr. D. Fernandes,2024-01-31
+SITE003,SUBJ0243,Week 4,2024-02-18,2024-01-08,35.0,Male,165.8,87.7,31.9,98,18,37.2,123,76,Abnormal,Abnormal,Mild Headache,,Dr. C. Patel,2024-02-22
+SITE004,SUBJ0249,Week 4,2024-02-21,2024-01-20,41.0,Female,154.7,47.9,20.0,61,20,36.8,126,60,Not Done,Normal,Dizziness,,Dr. D. Fernandes,2024-02-22
+SITE003,SUBJ0063,Week 4,2024-03-16,2024-01-30,40.0,Male,163.0,88.4,33.3,62,21,37.0,113,77,Not Done,Abnormal,,,Dr. C. Patel,2024-03-19
+SITE005,SUBJ0180,Baseline,2024-03-13,2024-02-13,70.0,Female,178.3,88.6,27.9,71,19,37.0,149,66,Normal,Normal,,,Dr. E. Costa,2024-03-15
+SITE004,SUBJ0084,Week 4,2024-03-28,2024-02-19,60.0,Male,163.8,94.2,35.1,71,19,37.4,133,74,Not Done,Normal,,Ibuprofen,Dr. D. Fernandes,2024-03-31
+SITE003,SUBJ0158,Baseline,2024-03-13,2024-02-04,55.0,Female,143.7,68.3,33.1,66,18,36.7,87,75,Normal,Normal,,Antihistamine,Dr. C. Patel,2024-03-16
+SITE001,SUBJ0211,Screening,2024-03-06,2024-02-16,47.0,Female,154.1,55.2,23.2,65,16,36.5,127,55,Normal,Normal,Fatigue,Paracetamol,Dr. A. Sharma,2024-03-06
+SITE001,SUBJ0281,Week 4,2024-03-31,2024-02-16,42.0,Male,164.0,62.3,23.2,49,15,36.7,126,76,Normal,Not Done,Mild Headache,,Dr. A. Sharma,2024-04-01
+SITE005,SUBJ0125,Screening,2024-03-04,2024-02-23,37.0,Male,182.2,99.9,30.1,67,14,37.1,117,77,Normal,Abnormal,,Ibuprofen,Dr. E. Costa,2024-03-05
+SITE001,SUBJ0131,Screening,2024-01-14,2024-01-03,22.0,Female,171.2,60.5,20.6,63,14,36.7,114,60,Not Done,Normal,Fatigue,,Dr. A. Sharma,2024-01-19
+SITE003,SUBJ0188,Baseline,2024-02-28,2024-02-03,36.0,Female,170.2,91.4,31.6,60,14,36.9,137,74,Normal,Abnormal,,Paracetamol,Dr. C. Patel,2024-03-01
+SITE001,SUBJ0281,Baseline,2024-03-14,2024-02-16,42.0,Male,164.0,83.5,31.0,75,17,37.5,134,78,Normal,Not Done,,,Dr. A. Sharma,2024-03-19
+SITE002,SUBJ0167,Screening,2024-01-26,2024-01-15,47.0,Male,156.0,46.8,19.2,77,19,37.0,121,73,Abnormal,Not Done,Dizziness,,Dr. B. Nguyen,2024-01-29
+SITE002,SUBJ0207,Screening,2024-02-05,2024-01-28,37.0,Male,163.6,84.4,31.5,77,16,36.4,111,92,Normal,Normal,Fatigue,Antihistamine,Dr. B. Nguyen,2024-02-05
+SITE005,SUBJ0245,Week 4,2024-03-05,2024-01-24,56.0,Male,178.7,54.0,16.9,74,10,36.4,130,82,Not Done,Abnormal,Mild Headache,Paracetamol,Dr. E. Costa,2024-03-07
+SITE001,SUBJ0121,Week 4,2024-03-22,2024-02-05,36.0,Female,166.8,85.3,30.7,77,17,36.9,126,67,Abnormal,Not Done,Mild Headache,,Dr. A. Sharma,2024-03-26
+SITE001,SUBJ0231,Week 4,2024-03-28,2024-02-18,42.0,Male,174.4,70.8,23.3,71,19,35.7,121,77,Not Done,Normal,,Ibuprofen,Dr. A. Sharma,2024-04-01
+SITE002,SUBJ0107,Screening,2024-01-17,2024-01-05,73.0,Female,172.8,69.7,23.3,72,16,37.0,107,86,Abnormal,Abnormal,Fatigue,,Dr. B. Nguyen,2024-01-21
+SITE005,SUBJ0270,Week 4,2024-03-29,2024-02-05,37.0,Female,158.8,48.8,19.4,83,16,37.1,99,80,Not Done,Not Done,Dizziness,,Unknown,2024-03-30
+SITE003,SUBJ0133,Baseline,2024-02-15,2024-01-21,66.0,Female,162.8,70.2,26.5,84,13,37.4,128,86,Not Done,Abnormal,Dizziness,,Dr. C. Patel,2024-02-15
+SITE004,SUBJ0279,Week 4,2024-03-16,2024-02-04,32.0,Female,164.7,55.3,20.4,55,13,36.9,105,78,Not Done,Not Done,Nausea,,Dr. D. Fernandes,2024-03-16
+SITE003,SUBJ0073,Week 4,2024-03-31,2024-02-09,52.0,Female,176.7,78.5,25.1,57,18,37.0,137,83,Abnormal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-03-31
+SITE005,SUBJ0080,Week 4,2024-02-02,2024-01-05,47.0,Female,176.5,34.6,11.1,64,17,37.6,122,72,Abnormal,Normal,,Ibuprofen,Dr. E. Costa,2024-02-07
+SITE001,SUBJ0236,Baseline,2024-02-27,2024-02-03,33.0,Male,150.5,84.3,37.2,74,14,37.0,126,80,Not Done,Abnormal,Fatigue,,Dr. A. Sharma,2024-03-02
+SITE002,SUBJ0192,Baseline,2024-04-06,2024-03-01,40.0,Female,167.7,87.7,31.2,79,15,36.6,134,66,Not Done,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-04-08
+SITE005,SUBJ0065,Screening,2024-01-16,2024-01-08,46.0,Female,163.5,80.6,30.2,84,13,36.3,99,82,Normal,Normal,Nausea,,Dr. E. Costa,2024-01-19
+SITE004,SUBJ0064,Week 4,2024-03-12,2024-02-04,51.0,Male,165.8,88.2,32.1,76,22,37.0,124,75,Normal,Normal,,,Dr. D. Fernandes,2024-03-14
+SITE004,SUBJ0099,Week 4,2024-03-10,2024-01-23,44.0,Male,167.9,69.7,24.7,71,19,37.2,112,81,Normal,Not Done,,,Dr. D. Fernandes,2024-03-14
+SITE005,SUBJ0100,Week 4,2024-02-17,2024-01-14,33.0,Male,151.2,75.3,32.9,85,15,36.4,120,72,Not Done,Not Done,Dizziness,,Dr. E. Costa,2024-02-21
+SITE005,SUBJ0045,Screening,2024-02-10,2024-01-22,75.0,Male,159.7,62.7,24.6,85,18,37.5,129,75,Not Done,Abnormal,Nausea,,Dr. E. Costa,2024-02-11
+SITE001,SUBJ0201,Screening,2024-02-01,2024-01-18,34.0,Male,164.7,69.7,25.9,79,11,37.0,89,72,Abnormal,Abnormal,,,Dr. A. Sharma,2024-02-01
+SITE005,SUBJ0085,Screening,2024-02-05,2024-01-19,49.0,Female,164.8,56.4,20.8,78,12,37.3,116,79,Not Done,Not Done,Dizziness,Antihistamine,Dr. E. Costa,2024-02-07
+SITE001,SUBJ0221,Screening,2024-03-13,2024-02-25,50.0,Male,175.7,56.8,18.4,78,15,37.1,120,74,Not Done,Normal,Mild Headache,,Dr. A. Sharma,2024-03-15
+SITE003,SUBJ0088,Week 4,2024-02-25,2024-01-15,43.0,Male,163.3,77.7,29.1,88,15,37.2,141,88,Abnormal,Abnormal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-02-27
+SITE004,SUBJ0024,Baseline,2024-02-27,2024-02-08,68.0,Male,165.4,62.0,22.7,69,15,35.9,103,88,Normal,Abnormal,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-02
+SITE001,SUBJ0091,Week 4,2024-03-04,2024-01-25,67.0,Male,164.4,66.0,24.4,66,9,36.5,119,70,Normal,Normal,,,Dr. A. Sharma,2024-03-06
+SITE005,SUBJ0140,Week 4,2024-03-05,2024-02-06,55.0,Male,158.5,69.5,27.7,66,17,36.1,117,80,Normal,Abnormal,,Paracetamol,Dr. E. Costa,2024-03-08
+SITE004,SUBJ0039,Baseline,2024-01-26,2024-01-01,38.0,Male,166.2,60.6,21.9,93,18,36.6,129,85,Normal,Not Done,Dizziness,,Dr. D. Fernandes,2024-01-27
+SITE004,SUBJ0219,Baseline,2024-03-24,2024-02-28,48.0,Male,156.8,59.9,24.4,77,10,36.6,108,79,Not Done,Abnormal,Dizziness,Paracetamol,Dr. D. Fernandes,2024-03-25
+SITE001,SUBJ0236,Week 4,2024-03-17,2024-02-03,33.0,Male,150.5,71.2,31.4,74,23,37.3,130,78,Normal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-20
+SITE004,SUBJ0234,Screening,2024-03-01,2024-02-19,62.0,Male,162.2,61.5,23.4,70,18,36.7,114,91,Abnormal,Normal,Nausea,Antihistamine,Dr. D. Fernandes,2024-03-06
+SITE002,SUBJ0162,Week 4,2024-03-09,2024-01-28,32.0,Female,172.6,50.8,17.1,76,19,36.3,124,85,Abnormal,Abnormal,,,Dr. B. Nguyen,2024-03-09
+SITE004,SUBJ0169,Baseline,2024-03-04,2024-02-02,31.0,Male,148.1,76.0,34.7,76,15,36.3,139,92,Normal,Abnormal,Dizziness,,Dr. D. Fernandes,2024-03-09
+SITE003,SUBJ0093,Week 4,2024-03-08,2024-01-30,43.0,Female,146.2,85.0,39.8,68,20,36.7,125,80,Normal,Abnormal,Fatigue,Ibuprofen,Dr. C. Patel,2024-03-09
+SITE001,SUBJ0001,Week 4,2024-03-16,2024-02-10,50.0,Male,163.6,44.1,16.5,69,12,36.9,111,66,Not Done,Abnormal,,Antihistamine,Dr. A. Sharma,2024-03-17
+SITE002,SUBJ0077,Baseline,2024-02-25,2024-02-06,59.0,Female,170.8,62.7,21.5,63,16,36.1,125,76,Normal,Normal,Fatigue,,Dr. B. Nguyen,2024-02-29
+SITE005,SUBJ0150,Screening,2024-02-24,2024-02-11,48.0,Male,177.7,81.0,25.7,77,11,36.4,120,78,Normal,Not Done,,Paracetamol,Dr. E. Costa,2024-02-27
+SITE003,SUBJ0263,Week 4,2024-03-10,2024-02-04,43.0,Male,156.6,57.7,23.5,63,14,36.5,102,94,Normal,Normal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-03-14
+SITE004,SUBJ0259,Week 4,2024-03-12,2024-02-01,48.0,Female,144.3,78.2,37.6,93,12,36.1,120,78,Not Done,Abnormal,Fatigue,Antihistamine,Dr. D. Fernandes,2024-03-17
+SITE002,SUBJ0067,Baseline,2024-02-09,2024-01-25,45.0,Female,170.3,51.9,17.9,80,20,37.3,119,89,Not Done,Normal,Dizziness,Antihistamine,Dr. B. Nguyen,2024-02-09
+SITE003,SUBJ0148,Screening,2024-03-07,2024-02-26,56.0,Female,160.3,79.6,31.0,73,16,36.3,123,54,Abnormal,Normal,,,Dr. C. Patel,2024-03-10
+SITE001,SUBJ0201,Baseline,2024-02-16,2024-01-18,34.0,Male,164.7,62.7,23.1,81,16,36.2,110,79,Not Done,Not Done,Dizziness,Ibuprofen,Dr. A. Sharma,2024-02-17
+SITE002,SUBJ0022,Week 4,2024-03-06,2024-01-15,69.0,Male,182.6,92.5,27.7,75,20,36.2,101,77,Not Done,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-03-09
+SITE005,SUBJ0195,Screening,2024-03-03,2024-02-16,48.0,Male,166.8,42.3,15.2,66,15,37.0,95,76,Normal,Normal,,,Dr. E. Costa,2024-03-03
+SITE004,SUBJ0224,Week 4,2024-03-31,2024-02-23,59.0,Male,183.5,82.7,24.6,80,14,37.1,105,86,Abnormal,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-04-05
+SITE005,SUBJ0130,Baseline,2024-03-17,2024-02-22,49.0,Male,168.9,58.0,20.3,74,19,36.6,121,78,Normal,Normal,Nausea,,Dr. E. Costa,2024-03-20
+SITE001,SUBJ0116,Week 4,2024-02-25,2024-01-25,57.0,Male,155.0,80.0,33.3,79,18,36.6,115,69,Abnormal,Normal,,Ibuprofen,Dr. A. Sharma,2024-02-26
+SITE005,SUBJ0140,Baseline,2024-02-27,2024-02-06,55.0,Male,158.5,63.2,25.2,76,17,36.6,117,70,Normal,Abnormal,,,Dr. E. Costa,2024-03-02
+SITE003,SUBJ0143,Screening,2024-02-10,2024-01-21,48.0,Female,149.8,92.2,41.1,63,16,36.4,114,71,Normal,Normal,Mild Headache,Paracetamol,Dr. C. Patel,2024-02-11
+SITE002,SUBJ0092,Screening,2027-12-31,2024-01-18,43.0,Male,165.8,66.6,24.2,68,16,37.0,108,89,Not Done,Not Done,Nausea,,Dr. B. Nguyen,2024-02-07
+SITE003,SUBJ0133,Screening,2024-02-01,2024-01-21,66.0,Female,162.8,57.3,21.6,68,12,36.5,117,66,Normal,Normal,,,Dr. C. Patel,2024-02-06
+SITE004,SUBJ0229,Baseline,2024-02-13,2024-01-10,32.0,Female,182.2,91.8,27.7,75,14,36.7,131,73,Normal,Abnormal,Fatigue,Antihistamine,Dr. D. Fernandes,2024-02-16
+SITE005,SUBJ0060,Screening,2024-03-02,2024-02-21,47.0,Female,178.9,83.8,26.2,59,13,37.2,110,76,Not Done,Normal,Nausea,Paracetamol,Dr. E. Costa,2024-03-07
+SITE001,SUBJ0101,Screening,2024-02-21,2024-02-12,36.0,Female,163.6,58.1,21.7,71,10,36.9,228,71,Normal,Abnormal,Nausea,Paracetamol,Dr. A. Sharma,2024-02-26
+SITE003,SUBJ0013,Baseline,2024-04-05,2024-02-27,35.0,Male,163.9,96.5,35.9,79,12,37.2,147,86,Abnormal,Not Done,Dizziness,,Dr. C. Patel,2024-04-06
+SITE003,SUBJ0068,Baseline,2024-02-07,2024-01-06,46.0,Male,165.0,49.5,18.2,72,12,42.8,128,84,Normal,Not Done,,Paracetamol,Dr. C. Patel,2024-02-08
+SITE004,SUBJ0079,Week 4,2024-03-23,2024-02-15,44.0,Male,157.5,77.0,31.0,74,11,37.3,113,71,Abnormal,Normal,,Antihistamine,Dr. D. Fernandes,2024-03-26
+SITE005,SUBJ0050,Week 4,2024-02-26,2024-01-22,54.0,Female,169.3,55.0,19.2,72,21,37.1,115,82,Abnormal,Abnormal,Fatigue,Antihistamine,Dr. E. Costa,2024-02-28
+SITE003,SUBJ0073,Baseline,2024-03-14,2024-02-09,52.0,Female,176.7,88.6,28.4,75,16,37.5,124,98,Not Done,Normal,,Ibuprofen,Dr. C. Patel,2024-03-16
+SITE003,SUBJ0203,Week 4,2024-03-21,2024-02-11,47.0,Female,172.7,54.7,18.3,77,20,37.0,133,76,Normal,Not Done,Nausea,,Dr. C. Patel,2024-03-22
+SITE004,SUBJ0109,Week 4,2024-03-15,2024-02-10,31.0,Female,167.5,57.5,20.5,95,11,36.9,146,78,Not Done,Not Done,Dizziness,,Dr. D. Fernandes,2024-03-17
+SITE001,SUBJ0161,Screening,2024-02-26,2024-02-07,47.0,Female,169.3,73.3,25.6,87,13,36.5,112,84,Abnormal,Normal,Dizziness,Paracetamol,Dr. A. Sharma,2024-02-29
+SITE004,SUBJ0199,Week 4,2024-03-17,2024-02-04,36.0,Male,183.9,75.3,22.3,76,17,37.4,128,69,Abnormal,Abnormal,Nausea,Paracetamol,Dr. D. Fernandes,2024-03-17
+SITE001,SUBJ0111,Screening,2024-02-19,2024-02-04,66.0,Female,163.1,80.8,30.4,62,13,37.0,139,80,Abnormal,Abnormal,Fatigue,Antihistamine,Dr. A. Sharma,2024-02-19
+SITE001,SUBJ0101,Week 4,2024-03-10,2024-02-12,36.0,Female,163.6,82.4,30.8,73,15,36.0,129,68,Normal,Normal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-10
+SITE004,SUBJ0259,Baseline,2024-02-28,2024-02-01,48.0,Female,144.3,58.5,28.1,63,16,36.3,117,70,Not Done,Not Done,,,Dr. D. Fernandes,2024-02-28
+SITE001,SUBJ0276,Baseline,2024-02-21,2024-01-28,53.0,Female,170.3,66.6,23.0,73,16,37.1,129,80,Normal,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-23
+SITE002,SUBJ0202,Screening,2024-03-06,2024-02-19,71.0,Male,150.8,42.2,18.6,82,13,36.7,112,75,Abnormal,Normal,Nausea,,Dr. B. Nguyen,2024-03-07
+SITE003,SUBJ0278,Week 4,2024-04-05,2024-02-29,65.0,Female,181.7,69.0,20.9,60,16,37.2,121,84,Normal,Normal,Dizziness,Paracetamol,Dr. C. Patel,2024-04-07
+SITE005,SUBJ0190,Screening,2024-02-12,2024-02-05,43.0,Female,161.7,54.4,20.8,63,17,36.6,125,70,Normal,Not Done,,,Dr. E. Costa,2024-02-15
+SITE003,SUBJ0153,Baseline,2024-02-13,2024-01-17,52.0,Male,166.6,76.4,27.5,86,11,36.5,118,71,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-02-13
+SITE004,SUBJ0134,Screening,2024-02-15,2024-01-26,30.0,Female,156.0,79.0,32.5,65,17,36.3,132,68,Abnormal,Not Done,,,Dr. D. Fernandes,2024-02-18
+SITE005,SUBJ0065,Baseline,2024-01-30,2024-01-08,46.0,Female,163.5,53.4,20.0,53,17,37.8,121,84,Abnormal,Not Done,Dizziness,Antihistamine,Dr. E. Costa,2024-02-02
+SITE004,SUBJ0079,Baseline,2024-03-11,2024-02-15,44.0,Male,157.5,46.6,18.8,69,18,36.3,125,67,Abnormal,Abnormal,,Antihistamine,Dr. D. Fernandes,2024-03-11
+SITE004,SUBJ0119,Baseline,2024-03-13,2024-02-10,32.0,Male,151.5,53.3,23.2,87,15,36.6,123,82,Abnormal,Abnormal,,Ibuprofen,Dr. D. Fernandes,2024-03-13
+SITE002,SUBJ0252,Baseline,2024-02-18,2024-01-16,44.0,Male,157.6,89.3,36.0,75,12,37.3,130,82,Normal,Abnormal,Dizziness,Paracetamol,Dr. B. Nguyen,2024-02-22
+SITE004,SUBJ0019,Baseline,2024-01-26,2024-01-02,51.0,Female,180.3,71.5,22.0,67,16,37.0,139,85,Abnormal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-01-29
+SITE001,SUBJ0146,Screening,2024-02-16,2024-02-01,44.0,Male,160.8,61.5,23.8,78,11,37.1,117,68,Not Done,Not Done,,Ibuprofen,Dr. A. Sharma,2024-02-20
+SITE003,SUBJ0033,Screening,2024-02-05,2024-01-15,40.0,Female,181.7,66.1,20.0,59,15,36.7,89,77,Abnormal,Normal,Fatigue,Ibuprofen,Dr. C. Patel,2024-02-09
+SITE003,SUBJ0048,Screening,2024-02-02,2024-01-14,29.0,Female,173.7,79.8,26.4,74,21,36.4,103,72,Normal,Normal,,Antihistamine,Dr. C. Patel,2024-02-03
+SITE001,SUBJ0241,Week 4,2024-03-16,2024-02-01,51.0,Female,164.4,74.6,27.6,72,19,36.5,129,75,Abnormal,Not Done,Dizziness,Antihistamine,Dr. A. Sharma,2024-03-20
+SITE005,SUBJ0260,Week 4,2024-03-17,2024-02-22,47.0,Female,160.5,42.3,16.4,70,19,36.7,111,85,Abnormal,Abnormal,,,Dr. E. Costa,2024-03-19
+SITE003,SUBJ0248,Week 4,2024-04-03,2024-02-21,52.0,Male,162.9,74.9,28.2,61,15,37.2,121,82,Abnormal,Not Done,Mild Headache,Ibuprofen,Dr. C. Patel,2024-04-06
+SITE002,SUBJ0172,Screening,2024-03-03,2024-02-18,37.0,Male,164.2,76.4,28.3,79,10,37.2,125,89,Abnormal,Abnormal,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-03-08
+SITE001,SUBJ0041,Screening,2024-03-11,2024-02-21,56.0,Male,159.8,71.4,28.0,70,14,36.7,124,74,Normal,Not Done,,Paracetamol,Dr. A. Sharma,2024-03-16
+SITE001,SUBJ0141,Week 4,2024-04-14,2024-02-26,47.0,Male,191.9,97.5,26.5,83,17,36.9,126,62,Not Done,Not Done,Fatigue,Antihistamine,Dr. A. Sharma,2024-04-15
+SITE001,SUBJ0021,Week 4,2024-02-23,2024-01-14,25.0,Female,159.0,75.0,29.7,67,20,36.8,136,78,Not Done,Normal,Fatigue,,Dr. A. Sharma,2024-02-26
+SITE004,SUBJ0229,Screening,2024-01-29,2024-01-10,32.0,Unknown,182.2,56.6,17.0,77,18,36.6,132,68,Not Done,Abnormal,Fatigue,Antihistamine,Dr. D. Fernandes,2024-01-30
+SITE002,SUBJ0122,Week 4,2024-02-29,2024-01-15,57.0,Male,176.7,73.4,23.5,71,15,37.1,116,65,Abnormal,Not Done,Nausea,Paracetamol,Dr. B. Nguyen,2024-03-03
+SITE002,SUBJ0002,Screening,2024-01-18,2024-01-08,62.0,Female,162.7,71.0,26.8,60,14,36.8,108,81,Abnormal,Abnormal,,,Dr. B. Nguyen,2024-01-18
+SITE005,SUBJ0020,Baseline,2024-01-23,2024-01-06,34.0,Female,159.0,84.3,33.3,69,13,37.0,106,92,Normal,Normal,,Ibuprofen,Dr. E. Costa,2024-01-27
+SITE005,SUBJ0075,Baseline,2024-04-01,2024-02-25,53.0,Female,161.3,47.1,18.1,87,14,37.8,115,79,Abnormal,Abnormal,,Antihistamine,Dr. E. Costa,2024-04-05
+SITE001,SUBJ0156,Week 4,2024-03-26,2024-02-17,36.0,Male,173.6,75.8,25.2,77,15,36.5,134,91,Abnormal,Abnormal,Nausea,,Dr. A. Sharma,2024-03-31
+SITE004,SUBJ0034,Week 4,2024-03-01,2024-01-29,38.0,Female,159.5,48.9,19.2,67,12,37.5,133,88,Abnormal,Not Done,Fatigue,,Dr. D. Fernandes,2024-03-06
+SITE002,SUBJ0217,Baseline,2024-02-06,2024-01-12,44.0,Female,163.9,95.5,35.6,70,18,36.3,131,79,Normal,Normal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-02-06
+SITE004,SUBJ0074,Week 4,2024-04-19,2024-02-26,43.0,Male,152.8,58.2,24.9,81,15,37.0,111,74,Not Done,Abnormal,Dizziness,,Dr. D. Fernandes,2024-04-22
+SITE001,SUBJ0126,Screening,2024-03-05,2024-02-19,51.0,Male,174.7,65.0,21.3,68,12,36.5,157,87,Normal,Not Done,,Ibuprofen,Dr. A. Sharma,2024-03-09
+SITE002,SUBJ0002,Baseline,2024-02-04,2024-01-08,62.0,Female,162.7,61.0,23.0,72,14,37.5,121,69,Abnormal,Abnormal,Mild Headache,Ibuprofen,Dr. B. Nguyen,2024-02-07
+SITE003,SUBJ0018,Baseline,2024-01-25,2024-01-03,35.0,Female,167.4,59.2,21.1,72,16,37.4,132,76,Abnormal,Not Done,Mild Headache,,Dr. C. Patel,2024-01-29
+SITE001,SUBJ0006,Week 4,2024-02-17,2024-01-16,28.0,Female,160.8,67.1,26.0,78,15,36.3,135,84,Normal,Not Done,Fatigue,,Dr. A. Sharma,2024-02-20
+SITE003,SUBJ0103,Screening,2024-02-25,2024-02-14,36.0,Female,160.9,62.1,24.0,76,13,37.2,122,77,Normal,Abnormal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-03-01
+SITE002,SUBJ0052,Week 4,2024-02-23,2024-01-06,51.0,Female,159.3,62.8,24.7,90,12,36.2,124,86,Not Done,Abnormal,Mild Headache,,Dr. B. Nguyen,2024-02-26
+SITE005,SUBJ0130,Screening,2024-02-14,2024-02-22,49.0,Male,168.9,69.2,24.3,87,19,36.5,106,76,Normal,Abnormal,,Ibuprofen,Dr. E. Costa,2024-02-29
+SITE004,SUBJ0204,Screening,2024-02-12,2024-01-22,53.0,Male,167.8,55.7,19.8,78,13,36.5,124,80,Abnormal,Normal,,Antihistamine,Dr. D. Fernandes,2024-02-14
+SITE003,SUBJ0083,Week 4,2024-03-07,2024-01-15,45.0,Male,179.1,75.1,23.4,72,16,37.3,109,87,Normal,Normal,Nausea,,Dr. C. Patel,2024-03-11
+SITE004,SUBJ0084,Screening,2024-03-11,2024-02-19,60.0,Male,163.8,38.2,14.2,68,19,36.8,110,73,Abnormal,Abnormal,Dizziness,,Dr. D. Fernandes,2024-03-12
+SITE005,SUBJ0120,Baseline,2024-03-18,2024-02-14,33.0,Male,155.4,83.4,34.5,85,10,36.4,104,72,Not Done,Not Done,Nausea,,Dr. E. Costa,2024-03-19
+SITE001,SUBJ0186,Week 4,2024-03-29,2024-02-08,57.0,Male,179.5,85.2,26.4,73,25,37.7,119,77,Normal,Abnormal,Fatigue,,Dr. A. Sharma,2024-04-01
+SITE001,SUBJ0246,Baseline,2024-03-20,2024-02-26,40.0,Female,154.8,74.0,30.9,66,14,37.3,131,79,Not Done,Not Done,Nausea,Antihistamine,Dr. A. Sharma,2024-03-20
+SITE001,SUBJ0256,Baseline,2024-01-27,2024-01-06,57.0,Male,170.0,53.9,18.7,75,14,37.8,121,66,Normal,Normal,Fatigue,Antihistamine,Dr. A. Sharma,2024-01-27
+SITE001,SUBJ0011,Screening,2024-02-24,2024-02-13,49.0,Female,170.6,86.2,29.6,85,11,36.4,128,82,Normal,Normal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-02-26
+SITE004,SUBJ0209,Baseline,2024-02-21,2024-01-30,45.0,Female,169.8,84.8,29.4,67,11,36.7,116,70,Abnormal,Abnormal,Nausea,Antihistamine,Dr. D. Fernandes,2024-02-22
+SITE001,SUBJ0291,Screening,2024-03-16,2024-02-27,48.0,Male,162.6,63.8,24.1,93,19,36.9,94,75,Normal,Normal,Fatigue,Antihistamine,Dr. A. Sharma,2024-03-21
+SITE005,SUBJ0040,Screening,2024-03-05,2024-02-18,46.0,Female,151.6,75.7,32.9,81,17,37.2,132,81,Not Done,Not Done,,Antihistamine,Dr. E. Costa,2024-03-08
+SITE002,SUBJ0227,Week 4,2024-03-14,2024-02-08,39.0,Male,175.7,81.1,26.3,68,16,36.7,119,84,Not Done,Abnormal,,Antihistamine,Dr. B. Nguyen,2024-03-17
+SITE004,SUBJ0039,Week 4,2024-02-04,2024-01-01,38.0,Male,166.2,79.3,28.7,59,13,36.7,121,82,Not Done,Abnormal,,,Dr. D. Fernandes,2024-02-04
+SITE004,SUBJ0184,Week 4,2024-03-13,2024-01-25,40.0,Male,157.7,69.0,27.7,75,16,36.7,136,77,Not Done,Abnormal,Mild Headache,,Dr. D. Fernandes,2024-03-17
+SITE001,SUBJ0251,Baseline,2024-02-05,2024-01-04,39.0,Female,160.5,59.0,22.9,73,20,37.1,122,76,Normal,Normal,Fatigue,Ibuprofen,Dr. A. Sharma,2024-02-05
+SITE003,SUBJ0178,Screening,2024-01-23,2024-01-11,48.0,Male,179.5,83.2,25.8,64,20,36.9,130,89,Not Done,Normal,Nausea,Ibuprofen,Dr. C. Patel,2024-01-26
+SITE005,SUBJ0010,Screening,2024-01-28,2024-01-07,52.0,Male,156.4,53.9,22.0,79,15,37.1,127,77,Normal,Abnormal,,,Dr. E. Costa,2024-02-02
+SITE003,SUBJ0103,Baseline,2024-03-10,2024-02-14,36.0,Female,160.9,65.1,25.1,76,18,36.5,114,75,Abnormal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-03-15
+SITE003,SUBJ0138,Screening,2024-03-06,2024-02-28,49.0,Male,169.6,70.7,24.6,80,8,36.7,124,68,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-03-10
+SITE001,SUBJ0196,Week 4,2024-02-24,2024-01-08,38.0,Male,163.7,47.5,17.7,74,15,37.0,133,77,Not Done,Not Done,Dizziness,,Dr. A. Sharma,2024-02-26
+SITE002,SUBJ0067,Week 4,2024-02-16,2024-01-25,45.0,Female,170.3,72.2,24.9,71,14,36.7,117,79,Abnormal,Normal,,Antihistamine,Dr. B. Nguyen,2024-02-17
+SITE002,SUBJ0172,Baseline,2024-03-18,2024-02-18,37.0,Male,164.2,76.7,28.4,86,17,37.3,128,77,Normal,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-03-18
+SITE004,SUBJ0129,Baseline,2024-02-05,2024-01-15,32.0,Female,165.9,82.9,30.1,72,16,36.2,118,77,Normal,Normal,Nausea,Antihistamine,Dr. D. Fernandes,2024-02-06
+SITE004,SUBJ0199,Baseline,2024-03-09,2024-02-04,36.0,Male,183.9,69.7,29.6,87,14,36.4,126,78,Normal,Abnormal,Dizziness,Antihistamine,Dr. D. Fernandes,2024-03-14
+SITE002,SUBJ0272,Week 4,2024-03-06,2024-01-17,45.0,Female,153.1,80.3,34.3,68,15,37.3,126,77,Normal,Normal,Mild Headache,,Dr. B. Nguyen,2024-03-06
+SITE005,SUBJ0240,Baseline,2024-02-14,2024-01-21,48.0,Male,167.9,38.6,13.7,73,15,36.6,120,80,Abnormal,Not Done,Fatigue,Paracetamol,Dr. E. Costa,2024-02-19
+SITE004,SUBJ0154,Screening,2024-01-29,2024-01-09,48.0,Male,161.7,68.6,26.2,69,11,36.9,143,78,Not Done,Normal,,,Dr. D. Fernandes,2024-01-29
+SITE005,SUBJ0105,Week 4,2027-12-31,2024-02-13,45.0,Female,171.0,85.6,29.3,74,18,36.4,103,84,Not Done,Abnormal,,Antihistamine,Dr. E. Costa,2024-03-31
+SITE003,SUBJ0283,Baseline,2024-02-16,2024-01-13,54.0,Male,159.4,91.7,36.1,84,15,36.8,120,87,Abnormal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-02-21
+SITE004,SUBJ0094,Baseline,2024-03-13,2024-02-10,43.0,Female,173.1,53.6,17.9,70,12,36.7,118,84,Not Done,Abnormal,,,Dr. D. Fernandes,2024-03-17
+SITE001,SUBJ0286,Baseline,2024-02-28,2024-01-26,44.0,Female,162.8,58.4,22.0,93,16,36.4,132,81,Not Done,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-03-04
+SITE003,SUBJ0118,Week 4,2024-04-04,2024-02-29,53.0,Female,169.2,88.2,30.8,77,14,36.9,100,81,Abnormal,Not Done,Fatigue,Ibuprofen,Dr. C. Patel,2024-04-06
+SITE003,SUBJ0193,Week 4,2024-02-21,2024-01-01,37.0,Female,157.9,64.5,25.9,73,11,37.0,113,76,Normal,Normal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-02-21
+SITE005,SUBJ0070,Screening,2024-02-07,2024-01-19,53.0,Female,160.1,102.4,40.0,68,18,36.9,137,90,Abnormal,Not Done,Nausea,,Dr. E. Costa,2024-02-10
+SITE002,SUBJ0127,Baseline,2024-03-11,2024-02-19,47.0,Female,194.9,100.8,26.5,63,17,36.4,128,70,Abnormal,Not Done,,Ibuprofen,Dr. B. Nguyen,2024-03-13
+SITE005,SUBJ0230,Week 4,2024-03-01,2024-01-24,47.0,Female,155.2,69.9,29.0,76,15,37.3,127,88,Abnormal,Normal,,,Dr. E. Costa,2024-03-02
+SITE004,SUBJ0239,Baseline,2024-03-09,2024-02-08,29.0,Male,171.7,85.4,29.0,82,16,36.4,129,78,Normal,Normal,Dizziness,,Dr. D. Fernandes,2024-03-14
+SITE003,SUBJ0008,Week 4,2024-02-11,2024-01-09,47.0,Female,178.1,74.4,23.5,67,21,37.0,107,83,Normal,Not Done,,Antihistamine,Dr. C. Patel,2024-02-13
+SITE004,SUBJ0114,Baseline,2024-02-07,2024-01-11,50.0,Female,169.0,62.4,21.8,74,17,36.6,113,78,Not Done,Not Done,,,Dr. D. Fernandes,2024-02-11
+SITE004,SUBJ0209,Screening,2024-02-14,2024-01-30,45.0,Female,169.8,66.0,22.9,56,14,37.1,118,76,Normal,Not Done,,Paracetamol,Dr. D. Fernandes,2024-02-15
+SITE005,SUBJ0215,Week 4,2024-03-25,2024-02-02,70.0,Female,149.9,88.1,39.2,59,12,36.9,110,71,Abnormal,Abnormal,Fatigue,,Dr. E. Costa,2024-03-26
+SITE002,SUBJ0052,Baseline,2024-02-09,2024-01-06,51.0,Female,159.3,79.2,31.2,64,15,36.1,126,83,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-02-14
+SITE005,SUBJ0260,Screening,2024-03-02,2024-02-22,47.0,Female,160.5,67.0,26.0,78,19,36.0,117,79,Not Done,Abnormal,Fatigue,Paracetamol,Dr. E. Costa,2024-03-06
+SITE004,SUBJ0219,Week 4,2024-04-11,2024-02-28,48.0,Male,156.8,84.9,34.5,81,8,37.6,125,71,Not Done,Not Done,Nausea,Paracetamol,Dr. D. Fernandes,2024-04-12
+SITE003,SUBJ0228,Screening,2024-01-25,2024-01-13,32.0,Male,184.5,42.7,12.5,69,17,37.0,120,77,Abnormal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-01-25
+SITE002,SUBJ0237,Baseline,2024-04-08,2024-02-28,57.0,Male,170.2,93.9,32.4,75,12,36.8,109,81,Normal,Normal,,,Dr. B. Nguyen,2024-04-11
+SITE002,SUBJ0162,Baseline,2024-02-25,2024-01-28,32.0,Female,172.6,81.7,27.4,74,14,36.0,109,93,Abnormal,Not Done,Fatigue,,Dr. B. Nguyen,2024-03-01
+SITE001,SUBJ0156,Baseline,2024-03-14,2024-02-17,36.0,Male,173.6,76.8,25.5,56,12,36.7,118,68,Abnormal,Abnormal,Fatigue,Ibuprofen,Dr. A. Sharma,2024-03-14
+SITE003,SUBJ0233,Screening,2024-02-25,2024-02-04,54.0,Male,166.3,66.6,24.1,88,17,37.4,105,77,Normal,Not Done,Fatigue,,Dr. C. Patel,2024-02-27
+SITE001,SUBJ0171,Baseline,2024-02-01,2024-01-06,50.0,Female,170.7,66.7,22.9,95,13,36.6,145,71,Not Done,Abnormal,Fatigue,Paracetamol,Dr. A. Sharma,2024-02-04
+SITE003,SUBJ0088,Baseline,2024-02-13,2024-01-15,43.0,Male,163.3,72.8,27.3,85,7,37.1,114,63,Abnormal,Not Done,Nausea,Antihistamine,Dr. C. Patel,2024-02-14
+SITE003,SUBJ0028,Baseline,2024-03-12,2024-02-15,55.0,Male,153.7,75.6,32.0,68,16,36.7,136,80,Not Done,Normal,Fatigue,,Dr. C. Patel,2024-03-13
+SITE005,SUBJ0170,Week 4,2024-03-23,2024-02-01,70.0,Female,176.9,99.6,31.8,61,17,37.4,149,74,Normal,Normal,Fatigue,,Dr. E. Costa,2024-03-28
+SITE001,SUBJ0136,Week 4,2024-02-05,2024-01-05,49.0,X,175.9,75.5,24.4,53,17,37.2,114,78,Normal,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-10
+SITE001,SUBJ0291,Week 4,2024-04-13,2024-02-27,48.0,Male,162.6,33.5,12.7,81,13,36.9,107,75,Normal,Not Done,,Antihistamine,Dr. A. Sharma,2024-04-17
+SITE001,SUBJ0161,Week 4,2024-03-20,2024-02-07,47.0,Female,169.3,81.0,28.3,92,11,36.6,113,83,Not Done,Not Done,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-20
+SITE003,SUBJ0013,Week 4,2024-04-25,2024-02-27,35.0,Male,163.9,47.2,17.6,70,19,36.5,127,84,Normal,Normal,Mild Headache,,Dr. C. Patel,2024-04-26
+SITE005,SUBJ0140,Screening,2024-02-19,2024-02-06,55.0,M,158.5,52.0,20.7,64,14,36.7,112,67,Abnormal,Normal,Dizziness,,Dr. E. Costa,2024-02-23
+SITE001,SUBJ0276,Screening,2024-02-06,2024-01-28,53.0,Female,170.3,72.5,25.0,61,14,37.1,109,57,Not Done,Normal,,,Dr. A. Sharma,2024-02-11
+SITE002,SUBJ0112,Screening,2024-03-06,2024-02-16,40.0,Male,158.5,81.2,32.3,73,14,37.3,139,73,Normal,Abnormal,Nausea,,Dr. B. Nguyen,2024-03-06
+SITE004,SUBJ0004,Baseline,2024-03-18,2024-02-17,39.0,Male,163.1,75.4,28.3,28,17,37.4,121,90,Abnormal,Abnormal,,Ibuprofen,Dr. D. Fernandes,2024-03-18
+SITE005,SUBJ0170,Screening,2024-02-16,2024-02-01,70.0,Female,176.9,73.2,23.4,85,19,36.6,112,78,Not Done,Not Done,Mild Headache,Antihistamine,Dr. E. Costa,2024-02-16
+SITE002,SUBJ0107,Baseline,2024-01-26,2024-01-05,73.0,Female,172.8,80.7,27.0,82,17,36.8,130,82,Not Done,Abnormal,Mild Headache,Paracetamol,Dr. B. Nguyen,2024-01-31
+SITE001,SUBJ0011,Week 4,2024-03-13,2024-02-13,49.0,Female,170.6,65.3,22.4,82,13,36.7,116,78,Normal,Not Done,Mild Headache,Antihistamine,Dr. A. Sharma,2024-03-18
+SITE001,SUBJ0226,Baseline,2024-02-19,2024-02-02,33.0,Male,151.5,79.9,34.8,74,12,37.2,114,70,Normal,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-19
+SITE005,SUBJ0265,Screening,2024-01-30,2024-01-09,37.0,Female,171.6,85.4,29.0,80,20,37.0,107,88,Not Done,Not Done,,Ibuprofen,Dr. E. Costa,2024-02-01
+SITE005,SUBJ0205,Baseline,2024-01-28,2024-01-08,52.0,Male,158.0,87.1,34.9,71,12,37.4,120,79,Normal,Not Done,Mild Headache,Paracetamol,Dr. E. Costa,2024-01-31
+SITE004,SUBJ0094,Week 4,2024-03-22,2024-02-10,46.0,Female,173.1,89.7,29.9,88,14,36.7,101,71,Abnormal,Normal,Dizziness,Ibuprofen,Dr. D. Fernandes,2024-03-24
+SITE001,SUBJ0181,Week 4,2024-03-16,2024-01-28,35.0,Female,157.8,80.4,32.3,82,13,36.7,136,85,Not Done,Normal,Mild Headache,,Unknown,2024-03-21
+SITE003,SUBJ0218,Baseline,2024-03-12,2024-02-02,56.0,Male,166.9,55.9,20.1,69,9,36.8,119,64,Normal,Normal,Fatigue,Antihistamine,Dr. C. Patel,2024-03-14
+SITE001,SUBJ0271,Baseline,2024-02-05,2024-01-11,30.0,Male,161.0,66.9,25.8,86,14,36.6,112,85,Not Done,Not Done,,Antihistamine,Dr. A. Sharma,2024-02-09
+SITE004,SUBJ0204,Week 4,2024-03-13,2024-01-22,53.0,Male,167.8,63.3,22.5,76,14,36.0,117,75,Not Done,Not Done,,,Dr. D. Fernandes,2024-03-14
+SITE004,SUBJ0274,Screening,2024-03-14,2024-02-25,44.0,Male,171.6,86.4,29.3,67,10,36.8,125,79,Not Done,Not Done,Mild Headache,,Dr. D. Fernandes,2024-03-18
+SITE002,SUBJ0127,Screening,2024-02-29,2024-02-19,47.0,Female,194.9,75.5,19.9,71,18,37.0,127,82,Normal,Abnormal,Nausea,Paracetamol,Dr. B. Nguyen,2024-03-01
+SITE003,SUBJ0148,Baseline,2024-03-27,2024-02-26,56.0,Female,160.3,67.2,26.2,58,19,37.1,127,90,Abnormal,Normal,Nausea,,Dr. C. Patel,2024-03-27
+SITE005,SUBJ0260,Baseline,2024-03-09,2024-02-22,47.0,Female,160.5,56.2,21.8,92,14,36.8,128,73,Not Done,Not Done,,Ibuprofen,Dr. E. Costa,2024-03-12
+SITE005,SUBJ0030,Week 4,2024-04-11,2024-02-14,49.0,Male,160.8,85.6,33.1,69,15,36.4,116,81,Abnormal,Not Done,Nausea,,Dr. E. Costa,2024-04-15
+SITE002,SUBJ0072,Screening,2024-02-23,2024-02-10,51.0,Female,175.7,64.5,20.9,66,12,36.0,146,69,Not Done,Not Done,,Ibuprofen,Dr. B. Nguyen,2024-02-27
+SITE003,SUBJ0253,Screening,2024-03-04,2024-02-26,50.0,Male,148.1,67.4,30.7,66,18,37.2,97,77,Not Done,Normal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-03-07
+SITE005,SUBJ0045,Baseline,2024-02-24,2024-01-22,75.0,Male,159.7,78.9,30.9,86,18,37.0,134,87,Not Done,Not Done,Mild Headache,Paracetamol,Dr. E. Costa,2024-02-25
+SITE001,SUBJ0116,Baseline,2024-02-15,2024-01-25,57.0,Male,155.0,78.0,32.5,83,15,37.5,124,81,Abnormal,Not Done,Nausea,,Dr. A. Sharma,2024-02-17
+SITE005,SUBJ0015,Baseline,2024-02-02,2024-01-06,46.0,Male,171.6,74.2,25.2,68,15,36.6,114,84,Normal,Abnormal,,Antihistamine,Dr. E. Costa,2024-02-05
+SITE003,SUBJ0003,Baseline,2024-02-04,2024-01-02,53.0,Female,166.7,75.2,27.1,57,16,36.6,113,82,Abnormal,Normal,Mild Headache,,Dr. C. Patel,2024-02-06
+SITE002,SUBJ0107,Week 4,2024-02-06,2024-01-05,73.0,Female,172.8,64.7,21.7,69,16,37.4,107,66,Normal,Normal,,,Dr. B. Nguyen,2024-02-09
+SITE003,SUBJ0293,Baseline,2024-03-03,2024-01-29,49.0,Male,153.0,56.2,24.0,69,16,36.6,129,70,Normal,Normal,Nausea,Antihistamine,Dr. C. Patel,2024-03-08
+SITE003,SUBJ0063,Baseline,2024-03-03,2024-01-30,40.0,Male,163.0,73.5,27.7,59,16,37.1,98,80,Abnormal,Not Done,Dizziness,Paracetamol,Dr. C. Patel,2024-03-07
+SITE004,SUBJ0194,Week 4,2024-03-22,2024-02-13,39.0,Male,157.1,58.9,23.9,86,18,36.9,103,76,Not Done,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-03-22
+SITE001,SUBJ0041,Week 4,2024-03-28,2024-02-21,56.0,Male,159.8,85.5,33.5,60,16,37.2,122,86,Normal,Abnormal,Mild Headache,Antihistamine,Dr. A. Sharma,2024-03-31
+SITE004,SUBJ0014,Baseline,2024-03-03,2024-02-04,33.0,Female,164.4,63.4,23.5,76,20,36.2,135,78,Not Done,Normal,Mild Headache,,Dr. D. Fernandes,2024-03-06
+SITE002,SUBJ0102,Baseline,2024-02-12,2024-01-18,45.0,X,167.8,73.1,26.0,70,18,36.4,127,82,Abnormal,Not Done,Mild Headache,Paracetamol,Dr. B. Nguyen,2024-02-12
+SITE001,SUBJ0011,Baseline,2024-03-02,2024-02-13,49.0,Female,170.6,77.7,26.7,113,17,37.3,133,83,Normal,Abnormal,Fatigue,,Dr. A. Sharma,2024-03-07
+SITE005,SUBJ0225,Screening,2024-02-26,2024-02-10,30.0,Male,167.9,57.3,20.3,80,15,36.2,127,73,Abnormal,Normal,,,Dr. E. Costa,2024-02-28
+SITE003,SUBJ0058,Baseline,2024-03-02,2024-02-08,41.0,Female,178.8,93.9,29.4,66,13,35.9,114,67,Abnormal,Abnormal,,Ibuprofen,Dr. C. Patel,2024-03-05
+SITE005,SUBJ0095,Week 4,2024-04-13,2024-02-23,56.0,Male,181.2,68.7,20.9,71,15,37.4,128,75,Normal,Abnormal,,,Dr. E. Costa,2024-04-16
+SITE004,SUBJ0144,Baseline,2024-02-08,2024-01-14,38.0,Male,169.8,78.0,27.1,87,14,37.0,96,73,Not Done,Normal,,,Dr. D. Fernandes,2024-02-11
+SITE001,SUBJ0266,Baseline,2024-01-29,2024-01-09,42.0,Female,161.9,58.6,22.4,65,15,37.3,112,79,Not Done,Abnormal,Nausea,Antihistamine,Dr. A. Sharma,2024-01-31
+SITE001,SUBJ0081,Screening,2024-01-12,2024-01-03,42.0,Female,178.7,60.3,18.9,67,14,36.4,123,90,Normal,Abnormal,Nausea,,Dr. A. Sharma,2024-01-16
+SITE005,SUBJ0270,Screening,2024-02-19,2024-02-05,37.0,Female,158.8,56.4,22.4,91,18,36.8,138,65,Normal,Normal,Mild Headache,Antihistamine,Dr. E. Costa,2024-02-24
+SITE004,SUBJ0059,Screening,2024-02-04,2024-01-17,18.0,Female,187.9,49.2,13.9,58,19,37.8,138,82,Abnormal,Normal,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-02-06
+SITE003,SUBJ0298,Screening,2024-02-07,2024-01-22,29.0,Male,172.7,70.0,23.5,59,17,37.1,114,87,Normal,Not Done,Fatigue,Ibuprofen,Dr. C. Patel,2024-02-07
+SITE002,SUBJ0242,Week 4,2024-02-10,2024-01-02,43.0,Female,163.2,41.3,15.5,75,14,36.5,138,72,Not Done,Not Done,,,Dr. B. Nguyen,2024-02-11
+SITE002,SUBJ0082,Week 4,2024-03-21,2024-02-12,46.0,Female,150.6,65.0,28.7,70,13,37.0,146,69,Not Done,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-03-21
+SITE004,SUBJ0019,Week 4,2024-02-14,2024-01-02,51.0,Female,180.3,102.3,31.5,67,18,36.9,148,71,Not Done,Normal,Dizziness,,Dr. D. Fernandes,2024-02-16
+SITE004,SUBJ0169,Screening,2024-02-22,2024-02-02,31.0,Male,148.1,43.1,19.7,61,13,37.6,115,79,Abnormal,Not Done,Mild Headache,,Dr. D. Fernandes,2024-02-27
+SITE004,SUBJ0024,Week 4,2024-03-12,2024-02-08,68.0,Male,165.4,94.7,34.6,72,17,36.9,158,86,Abnormal,Normal,,Ibuprofen,Dr. D. Fernandes,2024-03-15
+SITE001,SUBJ0226,Screening,2024-02-10,2024-02-02,33.0,Male,151.5,46.2,20.1,79,15,37.0,130,80,Normal,Abnormal,Nausea,Antihistamine,Dr. A. Sharma,2024-02-13
+SITE004,SUBJ0049,Baseline,2024-03-10,2024-02-18,52.0,Male,178.3,69.4,21.8,60,16,36.5,132,72,Normal,Abnormal,,,Dr. D. Fernandes,2024-03-13
+SITE001,SUBJ0031,Screening,2024-02-16,2024-02-04,54.0,Male,155.8,83.0,34.2,88,17,37.6,112,68,Not Done,Abnormal,Dizziness,Paracetamol,Dr. A. Sharma,2024-02-16
+SITE001,SUBJ0056,Baseline,2024-03-21,2024-02-24,56.0,Male,136.0,60.6,32.8,94,15,36.9,132,81,Abnormal,Not Done,Dizziness,,Dr. A. Sharma,2024-03-22
+SITE001,SUBJ0131,Week 4,2024-02-12,2024-01-03,22.0,Female,171.2,79.0,27.0,81,13,36.8,127,89,Normal,Normal,Fatigue,Ibuprofen,Dr. A. Sharma,2024-02-15
+SITE005,SUBJ0295,Screening,2024-01-24,2024-01-16,18.0,Female,178.9,80.1,25.0,59,11,37.5,113,71,Not Done,Not Done,Dizziness,Paracetamol,Dr. E. Costa,2024-01-29
+SITE002,SUBJ0057,Week 4,2024-03-09,2024-01-23,58.0,Male,176.9,66.3,21.2,84,19,36.3,129,83,Abnormal,Not Done,Nausea,,Dr. B. Nguyen,2024-03-09
+SITE004,SUBJ0104,Baseline,2024-03-19,2024-02-29,55.0,Female,163.6,91.3,34.1,84,18,37.3,123,79,Abnormal,Normal,,Paracetamol,Dr. D. Fernandes,2024-03-24
+SITE001,SUBJ0121,Baseline,2024-03-10,2024-02-05,36.0,Female,166.8,82.2,29.5,63,18,37.4,108,70,Normal,Normal,,,Dr. A. Sharma,2024-03-15
+SITE005,SUBJ0120,Week 4,2024-03-26,2024-02-14,33.0,Male,155.4,68.7,28.4,60,13,36.4,124,78,Abnormal,Abnormal,Fatigue,Paracetamol,Dr. E. Costa,2024-03-30
+SITE002,SUBJ0032,Screening,2024-02-09,2024-01-27,35.0,Male,169.7,98.2,34.1,88,20,36.6,110,76,Normal,Not Done,Nausea,Paracetamol,Dr. B. Nguyen,2024-02-13
+SITE001,SUBJ0141,Screening,2024-03-16,2024-02-26,47.0,Male,191.9,75.2,20.4,64,15,36.1,121,71,Normal,Not Done,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-18
+SITE003,SUBJ0138,Baseline,2024-03-15,2024-02-28,49.0,Male,169.6,75.8,26.4,72,21,37.4,116,76,Normal,Abnormal,Fatigue,Antihistamine,Dr. C. Patel,2024-03-18
+SITE003,SUBJ0208,Screening,2024-01-25,2024-01-11,52.0,Female,181.4,75.7,23.0,78,11,35.7,126,77,Abnormal,Normal,,,Dr. C. Patel,2024-01-30
+SITE002,SUBJ0277,Baseline,2024-02-16,2024-01-14,36.0,Male,158.4,67.3,26.8,73,19,36.5,137,79,Abnormal,Not Done,,Antihistamine,Dr. B. Nguyen,2024-02-21
+SITE005,SUBJ0225,Week 4,2024-03-28,2024-02-10,30.0,Male,167.9,82.9,29.4,91,13,37.2,95,68,Not Done,Not Done,,Paracetamol,Dr. E. Costa,2024-03-30
+SITE001,SUBJ0126,Baseline,2024-03-18,2024-02-19,51.0,Male,174.7,49.7,16.3,61,17,37.0,128,75,Abnormal,Normal,Mild Headache,Antihistamine,Dr. A. Sharma,2024-03-20
+SITE002,SUBJ0132,Week 4,2024-04-15,2024-02-21,53.0,Male,172.9,95.5,31.9,85,16,37.2,109,81,Not Done,Not Done,Mild Headache,,Dr. B. Nguyen,2024-04-19
+SITE002,SUBJ0082,Screening,2024-02-28,2024-02-12,46.0,Female,150.6,83.8,36.9,68,21,37.2,116,88,Abnormal,Not Done,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-03-01
+SITE002,SUBJ0247,Week 4,2024-03-29,2024-02-23,64.0,Female,168.1,63.1,22.3,80,16,37.3,133,66,Normal,Abnormal,,,Dr. B. Nguyen,2024-03-31
+SITE005,SUBJ0030,Screening,2024-03-06,2024-02-14,49.0,Male,160.8,79.5,30.7,97,16,36.9,116,71,Abnormal,Not Done,Dizziness,Ibuprofen,Dr. E. Costa,2024-03-09
+SITE002,SUBJ0072,Baseline,2024-03-10,2024-02-10,51.0,Female,175.7,66.7,21.6,72,16,37.1,132,73,Abnormal,Normal,Fatigue,,Dr. B. Nguyen,2024-03-15
+SITE004,SUBJ0002,Screening,2024-01-18,2024-01-08,59.0,Male,177.3,65.0,20.7,57,14,36.6,114,72,Abnormal,Normal,,Paracetamol,Dr. D. Fernandes,2024-01-20
+SITE005,SUBJ0115,Week 4,2024-03-14,2024-01-30,24.0,Female,158.2,57.5,23.0,80,17,37.4,129,65,Abnormal,Abnormal,,Paracetamol,Dr. E. Costa,2024-03-18
+SITE003,SUBJ0058,Week 4,2024-03-10,2024-02-08,41.0,Female,178.8,94.6,29.6,85,13,37.7,133,75,Normal,Abnormal,Nausea,Paracetamol,Dr. C. Patel,2024-03-14
+SITE002,SUBJ0267,Baseline,2024-03-12,2024-02-12,47.0,Female,153.0,77.1,32.9,57,14,36.7,125,87,Abnormal,Normal,Mild Headache,,Dr. B. Nguyen,2024-03-17
+SITE001,SUBJ0246,Screening,2024-03-13,2024-02-26,40.0,Female,154.8,54.6,22.8,71,17,37.2,116,68,Abnormal,Abnormal,Fatigue,,Dr. A. Sharma,2024-03-16
+SITE003,SUBJ0098,Screening,2024-02-03,2024-01-24,48.0,Female,161.1,74.0,28.5,71,17,36.7,126,77,Abnormal,Normal,,,Dr. C. Patel,2024-02-06
+SITE002,SUBJ0142,Week 4,2024-03-26,2024-02-15,41.0,Female,173.5,66.3,22.0,72,21,37.5,148,76,Not Done,Not Done,Nausea,Ibuprofen,Dr. B. Nguyen,2024-03-30
+SITE002,SUBJ0232,Week 4,2024-02-22,2024-01-11,39.0,Female,182.3,59.8,18.0,45,17,36.3,97,55,Abnormal,Normal,,Antihistamine,Dr. B. Nguyen,2024-02-26
+SITE005,SUBJ0040,Baseline,2024-03-19,2024-02-18,47.0,Female,151.6,68.9,30.0,58,17,36.9,125,67,Abnormal,Abnormal,Fatigue,Antihistamine,Dr. E. Costa,2024-03-22
+SITE005,SUBJ0040,Week 4,2024-03-30,2024-02-18,47.0,Female,151.6,53.8,23.4,85,15,37.1,122,78,Not Done,Not Done,,Antihistamine,Dr. E. Costa,2024-04-04
+SITE005,SUBJ0055,Baseline,2024-02-17,2024-01-23,40.0,Male,161.5,66.1,25.3,73,15,36.8,130,78,Not Done,Not Done,Fatigue,,Dr. E. Costa,2024-02-20
+SITE001,SUBJ0191,Screening,2024-03-05,2024-02-25,28.0,Female,149.0,51.7,23.3,76,13,37.0,122,62,Abnormal,Normal,Dizziness,,Dr. A. Sharma,2024-03-05
+SITE004,SUBJ0129,Screening,2024-01-25,2024-01-15,32.0,Female,165.9,56.1,20.4,77,13,36.6,110,83,Normal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-01-30
+SITE001,SUBJ0001,Screening,2024-02-26,2024-02-10,50.0,Male,163.6,79.7,29.8,90,15,36.7,140,84,Normal,Normal,,,Dr. A. Sharma,2024-02-27
+SITE002,SUBJ0132,Baseline,2024-03-29,2024-02-21,53.0,Male,172.9,63.4,21.2,70,16,37.0,124,80,Not Done,Normal,,Paracetamol,Dr. B. Nguyen,2024-04-01
+SITE004,SUBJ0134,Week 4,2024-03-24,2024-01-26,30.0,Female,156.0,54.9,22.6,55,17,36.2,123,75,Normal,Normal,,Ibuprofen,Dr. D. Fernandes,2024-03-25
+SITE005,SUBJ0135,Week 4,2024-03-03,2024-01-18,53.0,Female,162.0,75.0,28.6,89,19,36.3,129,88,Normal,Not Done,,Ibuprofen,Dr. E. Costa,2024-03-05
+SITE005,SUBJ0185,Screening,2024-02-11,2024-01-25,31.0,Female,161.1,72.7,28.0,87,17,36.5,151,80,Abnormal,Abnormal,Mild Headache,,Dr. E. Costa,2024-02-16
+SITE001,SUBJ0251,Screening,2024-01-17,2024-01-04,39.0,Female,160.5,43.1,16.7,71,18,36.3,134,81,Not Done,Normal,,Ibuprofen,Dr. A. Sharma,2024-01-19
+SITE005,SUBJ0055,Screening,2024-02-09,2024-01-23,40.0,Male,161.5,65.2,25.0,95,17,37.0,134,79,Not Done,Abnormal,,,Dr. E. Costa,2024-02-12
+SITE004,SUBJ0039,Screening,2024-01-12,2024-01-01,38.0,Male,166.2,108.4,39.2,74,19,36.5,121,92,Abnormal,Normal,Fatigue,,Dr. D. Fernandes,2024-01-15
+SITE001,SUBJ0051,Screening,2024-01-18,2024-01-07,61.0,Male,174.2,70.9,23.4,68,18,37.0,132,83,Not Done,Abnormal,Fatigue,Antihistamine,Dr. A. Sharma,2024-01-22
+SITE001,SUBJ0176,Baseline,2024-02-05,2024-01-10,59.0,Male,158.7,77.5,30.8,69,19,36.4,142,64,Abnormal,Normal,,Ibuprofen,Dr. A. Sharma,2024-02-09
+SITE002,SUBJ0212,Week 4,2024-03-30,2024-02-26,18.0,Female,173.4,46.6,15.5,63,20,36.7,139,77,Not Done,Abnormal,Mild Headache,Ibuprofen,Dr. B. Nguyen,2024-04-03
+SITE003,SUBJ0123,Week 4,2024-03-21,2024-02-13,65.0,Male,178.8,80.2,25.1,89,14,36.9,127,81,Abnormal,Not Done,Fatigue,Antihistamine,Dr. C. Patel,2024-03-25
+SITE005,SUBJ0160,Screening,2024-03-01,2024-02-17,56.0,Female,170.2,53.4,18.4,71,13,37.3,107,85,Not Done,Normal,Fatigue,,Dr. E. Costa,2024-03-05
+SITE001,SUBJ0296,Screening,2024-01-28,2024-01-15,44.0,Female,139.8,67.7,34.6,85,13,36.6,119,54,Normal,Not Done,Mild Headache,Paracetamol,Dr. A. Sharma,2024-01-30
+SITE002,SUBJ0177,Screening,2024-02-22,2024-02-10,51.0,Male,140.1,55.5,28.3,91,14,36.3,119,94,Abnormal,Abnormal,Nausea,,Dr. B. Nguyen,2024-02-27
+SITE002,SUBJ0287,Screening,2024-02-22,2024-02-12,39.0,Female,182.2,58.5,17.6,68,14,36.3,95,76,Normal,Normal,Dizziness,Antihistamine,Dr. B. Nguyen,2024-02-22
+SITE002,SUBJ0087,Screening,2024-03-11,2024-02-24,51.0,Female,162.4,81.1,30.8,81,13,37.2,115,84,Not Done,Not Done,,Ibuprofen,Dr. B. Nguyen,2024-03-15
+SITE004,SUBJ0254,Week 4,2024-03-14,2024-02-06,41.0,Male,175.5,73.0,23.7,76,16,37.2,126,89,Normal,Normal,Mild Headache,,Dr. D. Fernandes,2024-03-18
+SITE001,SUBJ0046,Screening,2024-01-30,2024-01-18,49.0,Female,161.1,70.4,27.1,87,16,36.8,105,83,Abnormal,Abnormal,,,Dr. A. Sharma,2024-01-31
+SITE002,SUBJ0277,Week 4,2024-02-27,2024-01-14,36.0,Male,158.4,67.6,26.9,100,12,36.7,107,85,Abnormal,Not Done,Nausea,Paracetamol,Dr. B. Nguyen,2024-02-27
+SITE005,SUBJ0190,Week 4,2024-03-09,2024-02-05,43.0,Female,161.7,70.1,26.8,71,15,36.9,110,69,Not Done,Normal,,Paracetamol,Dr. E. Costa,2024-03-11
+SITE005,SUBJ0240,Screening,2024-02-04,2024-01-21,48.0,Male,167.9,44.6,15.8,65,24,36.7,130,72,Normal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-04
+SITE003,SUBJ0168,Screening,2024-01-20,2024-01-09,53.0,Female,162.6,54.6,20.7,87,13,37.5,118,90,Abnormal,Abnormal,,Antihistamine,Dr. C. Patel,2024-01-21
+SITE001,SUBJ0196,Baseline,2024-02-07,2024-01-08,38.0,Male,163.7,78.8,29.4,67,11,36.9,134,71,Normal,Not Done,,Ibuprofen,Dr. A. Sharma,2024-02-11
+SITE005,SUBJ0115,Baseline,2024-03-01,2024-01-30,24.0,Female,158.2,61.0,24.4,89,21,37.2,123,71,Normal,Not Done,,,Dr. E. Costa,2024-03-04
+SITE004,SUBJ0224,Screening,2024-03-02,2024-02-23,59.0,Male,183.5,82.6,24.5,86,14,36.3,132,81,Abnormal,Normal,Mild Headache,,Dr. D. Fernandes,2024-03-07
+SITE002,SUBJ0187,Screening,2024-02-11,2024-01-30,56.0,Female,182.0,45.4,13.7,57,14,37.0,127,86,Abnormal,Abnormal,Nausea,Antihistamine,Dr. B. Nguyen,2024-02-12
+SITE003,SUBJ0098,Week 4,2024-03-07,2024-01-24,48.0,Female,161.1,61.1,23.5,88,9,38.1,134,79,Not Done,Normal,Dizziness,Antihistamine,Dr. C. Patel,2024-03-11
+SITE002,SUBJ0122,Baseline,2024-02-14,2024-01-15,57.0,Male,176.7,86.9,27.8,71,17,36.4,121,76,Abnormal,Not Done,,Antihistamine,Dr. B. Nguyen,2024-02-18
+SITE003,SUBJ0188,Week 4,2024-03-07,2024-02-03,36.0,Female,170.2,59.6,20.6,213,16,37.6,125,77,Abnormal,Not Done,Dizziness,,Dr. C. Patel,2024-03-07
+SITE005,SUBJ0005,Week 4,2024-02-25,2024-01-18,42.0,Female,168.6,64.1,22.5,60,16,36.9,122,76,Not Done,Not Done,Nausea,,Dr. E. Costa,2024-03-01
+SITE004,SUBJ0029,Week 4,2024-03-28,2024-02-11,48.0,Female,185.8,82.4,23.9,52,16,37.1,104,87,Normal,Normal,,,Dr. D. Fernandes,2024-04-01
+SITE004,SUBJ0124,Baseline,2024-02-25,2024-01-21,45.0,Male,172.4,80.2,27.0,72,19,37.7,112,66,Not Done,Not Done,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-02-26
+SITE001,SUBJ0056,Screening,2024-03-06,2024-02-24,56.0,Male,136.0,101.3,54.8,73,19,36.4,129,69,Abnormal,Abnormal,Mild Headache,,Dr. A. Sharma,2024-03-07
+SITE005,SUBJ0265,Baseline,2024-02-11,2024-01-09,37.0,Female,171.6,60.9,20.7,84,20,37.0,104,70,Normal,Normal,Fatigue,Ibuprofen,Dr. E. Costa,2024-02-13
+SITE002,SUBJ0112,Week 4,2024-04-11,2024-02-16,40.0,Male,158.5,51.8,20.6,82,16,36.4,117,83,Not Done,Normal,,Antihistamine,Dr. B. Nguyen,2024-04-13
+SITE005,SUBJ0020,Week 4,2024-02-12,2024-01-06,34.0,Female,159.0,87.7,34.7,70,10,37.3,120,87,Normal,Abnormal,Mild Headache,Antihistamine,Dr. E. Costa,2024-02-13
+SITE004,SUBJ0119,Screening,2024-03-01,2024-02-10,32.0,Male,151.5,47.2,20.6,86,14,37.4,115,64,Normal,Abnormal,,Paracetamol,Dr. D. Fernandes,2024-03-06
+SITE002,SUBJ0142,Baseline,2024-03-12,2024-02-15,41.0,Female,173.5,84.3,28.0,71,10,36.4,140,75,Normal,Normal,Fatigue,,Dr. B. Nguyen,2024-03-14
+SITE003,SUBJ0098,Baseline,2024-02-20,2024-01-24,48.0,Female,161.1,86.9,33.5,74,10,37.3,111,72,Not Done,Abnormal,,,Dr. C. Patel,2024-02-23
+SITE004,SUBJ0014,Week 4,2024-03-13,2024-02-04,33.0,Female,164.4,55.3,20.5,79,16,36.6,122,74,Normal,Abnormal,,Paracetamol,Dr. D. Fernandes,2024-03-14
+SITE005,SUBJ0110,Week 4,2024-02-09,2024-01-11,42.0,Male,161.4,72.8,27.9,68,17,36.8,114,81,Not Done,Normal,,Paracetamol,Dr. E. Costa,2024-02-12
+SITE004,SUBJ0144,Screening,2024-01-22,2024-01-14,38.0,Male,169.8,53.5,18.6,81,17,36.7,111,70,Normal,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-01-26
+SITE002,SUBJ0027,Baseline,2024-02-03,2024-01-13,24.0,Female,170.4,73.9,25.5,65,17,36.1,121,68,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-02-06
+SITE005,SUBJ0010,Baseline,2024-02-12,2024-01-07,52.0,Male,156.4,57.3,23.4,59,14,37.1,124,68,Normal,Abnormal,,Antihistamine,Dr. E. Costa,2024-02-13
+SITE005,SUBJ0085,Week 4,2024-03-10,2024-01-19,49.0,Female,164.8,71.9,26.5,94,12,36.5,128,79,Abnormal,Not Done,,Paracetamol,Dr. E. Costa,2024-03-14
+SITE005,SUBJ0225,Baseline,2024-03-07,2024-02-10,30.0,Male,167.9,83.2,29.5,75,17,36.4,114,74,Normal,Abnormal,Dizziness,Antihistamine,Dr. E. Costa,2024-03-12
+SITE003,SUBJ0153,Week 4,2024-03-04,2024-01-17,52.0,Male,166.6,96.0,34.6,66,14,36.9,107,74,Normal,Not Done,,,Dr. C. Patel,2024-03-07
+SITE003,SUBJ0128,Week 4,2024-02-16,2024-01-04,36.0,Male,152.4,57.0,24.5,80,8,36.8,125,85,Abnormal,Abnormal,Dizziness,Paracetamol,Dr. C. Patel,2024-02-21
+SITE005,SUBJ0105,Baseline,2024-03-09,2024-02-13,45.0,Female,171.0,63.2,21.6,89,16,36.9,129,68,Abnormal,Not Done,Fatigue,,Dr. E. Costa,2024-03-09
+SITE004,SUBJ0029,Screening,2024-02-28,2024-02-11,48.0,Female,185.8,83.1,24.1,71,19,36.6,97,69,Normal,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-03-04
+SITE001,SUBJ0046,Baseline,2024-02-11,2024-01-18,49.0,Female,161.1,79.7,30.7,96,15,36.9,124,90,Abnormal,Not Done,Mild Headache,Paracetamol,Dr. A. Sharma,2024-02-16
+SITE003,SUBJ0038,Screening,2024-03-07,2024-02-25,22.0,Male,152.2,60.6,26.2,75,17,36.5,124,71,Normal,Normal,Nausea,Paracetamol,Dr. C. Patel,2024-03-12
+SITE005,SUBJ0065,Week 4,2024-02-15,2024-01-08,46.0,Female,163.5,71.2,26.6,74,18,36.7,125,80,Not Done,Not Done,,Ibuprofen,Dr. E. Costa,2024-02-20
+SITE005,SUBJ0060,Baseline,2024-03-21,2024-02-21,47.0,Female,178.9,78.3,24.5,65,16,36.3,114,80,Not Done,Not Done,Dizziness,,Dr. E. Costa,2024-03-26
+SITE001,SUBJ0266,Week 4,2024-02-16,2024-01-09,42.0,Female,161.9,60.1,22.9,72,11,36.7,201,82,Normal,Normal,,Ibuprofen,Dr. A. Sharma,2024-02-17
+SITE001,SUBJ0166,Baseline,2024-02-20,2024-01-24,49.0,Female,155.6,96.4,39.8,74,12,37.0,147,69,Normal,Abnormal,,Antihistamine,Dr. A. Sharma,2024-02-23
+SITE004,SUBJ0044,Screening,2024-02-15,2024-01-28,47.0,Female,149.8,93.2,41.5,92,14,36.6,125,80,Abnormal,Abnormal,Nausea,Antihistamine,Dr. D. Fernandes,2024-02-18
+SITE003,SUBJ0113,Baseline,2024-02-13,2024-01-16,46.0,Male,170.8,67.2,23.0,84,15,37.4,104,77,Abnormal,Not Done,Nausea,,Dr. C. Patel,2024-02-17
+SITE002,SUBJ0042,Baseline,2024-02-07,2024-01-11,38.0,Female,179.1,63.7,19.9,72,11,36.4,109,71,Abnormal,Normal,Dizziness,,Dr. B. Nguyen,2024-02-09
+SITE002,SUBJ0287,Baseline,2024-03-13,2024-02-12,39.0,Female,182.2,72.0,21.7,74,15,36.8,134,76,Not Done,Abnormal,Dizziness,Antihistamine,Dr. B. Nguyen,2024-03-13
+SITE001,SUBJ0076,Baseline,2024-02-23,2024-01-24,54.0,Female,159.5,71.3,28.0,89,12,36.7,113,63,Abnormal,Not Done,Fatigue,Antihistamine,Dr. A. Sharma,2024-02-27
+SITE005,SUBJ0090,Baseline,2024-02-10,2024-01-07,28.0,Male,164.2,74.8,27.7,88,10,36.8,120,83,Not Done,Abnormal,,Antihistamine,Dr. E. Costa,2024-02-15
+SITE005,SUBJ0035,Baseline,2024-03-06,2024-02-07,53.0,Female,153.7,80.7,34.2,79,14,37.3,109,82,Normal,Abnormal,Dizziness,,Dr. E. Costa,2024-03-08
+SITE001,SUBJ0256,Week 4,2024-02-14,2024-01-06,57.0,Male,170.0,68.0,23.5,80,21,36.6,103,84,Not Done,Normal,,,Dr. A. Sharma,2024-02-17
+SITE004,SUBJ0214,Week 4,2024-03-08,2024-01-17,56.0,Female,162.1,39.7,15.1,73,14,36.4,121,80,Abnormal,Normal,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-03-12
+SITE001,SUBJ0076,Week 4,2024-03-11,2024-01-24,54.0,Female,159.5,68.8,27.0,73,20,37.1,109,92,Not Done,Not Done,,Antihistamine,Dr. A. Sharma,2024-03-16
+SITE001,SUBJ0266,Screening,2024-01-17,2024-01-09,42.0,Female,161.9,82.9,31.6,80,15,37.2,120,71,Normal,Not Done,,,Dr. A. Sharma,2024-01-19
+SITE001,SUBJ0101,Baseline,2024-03-01,2024-02-12,36.0,Female,163.6,79.9,29.9,84,11,36.5,112,70,Not Done,Abnormal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-06
+SITE002,SUBJ0092,Week 4,2024-02-23,2024-01-18,43.0,Male,165.8,60.8,22.1,78,12,36.8,121,76,Normal,Not Done,Fatigue,Antihistamine,Dr. B. Nguyen,2024-02-24
+SITE003,SUBJ0043,Screening,2024-02-29,2024-02-14,44.0,Male,171.7,53.2,18.0,78,16,37.0,125,97,Normal,Not Done,,Paracetamol,Dr. C. Patel,2024-03-01
+SITE003,SUBJ0268,Screening,2024-02-14,2024-01-31,32.0,Female,169.3,44.5,15.5,69,15,37.5,118,60,Not Done,Not Done,Nausea,,Dr. C. Patel,2024-02-17
+SITE002,SUBJ0047,Baseline,2024-02-08,2024-01-10,57.0,Female,154.7,93.5,39.1,74,14,37.6,104,60,Not Done,Abnormal,Mild Headache,,Dr. B. Nguyen,2024-02-09
+SITE002,SUBJ0102,Screening,2024-01-28,2024-01-18,45.0,Female,167.8,90.4,32.1,61,6,36.9,143,87,Normal,Normal,,Paracetamol,Dr. B. Nguyen,2024-01-30
+SITE005,SUBJ0090,Screening,2024-01-23,2024-01-07,28.0,Male,164.2,47.4,17.6,82,16,36.2,118,71,Not Done,Normal,,Paracetamol,Dr. E. Costa,2024-01-28
+SITE002,SUBJ0182,Week 4,2024-03-16,2024-02-08,28.0,Male,168.5,76.3,26.9,77,14,36.9,120,81,Not Done,Not Done,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-03-17
+SITE001,SUBJ0071,Week 4,2024-04-10,2024-02-23,32.0,Female,170.4,60.3,20.8,84,16,36.9,140,82,Abnormal,Not Done,Dizziness,Antihistamine,Dr. A. Sharma,2024-04-14
+SITE002,SUBJ0157,Screening,2024-02-16,2024-02-05,39.0,Male,158.9,77.4,30.7,71,15,37.1,99,88,Not Done,Normal,Dizziness,,Dr. B. Nguyen,2024-02-16
+SITE002,SUBJ0067,Screening,2024-02-01,2024-01-25,45.0,Female,170.3,68.9,23.8,79,16,36.0,110,76,Abnormal,Abnormal,,,Dr. B. Nguyen,2024-02-04
+SITE001,SUBJ0176,Week 4,2024-02-22,2024-01-10,59.0,Male,158.7,76.5,30.4,79,13,37.0,137,60,Abnormal,Not Done,Mild Headache,Antihistamine,Dr. A. Sharma,2024-02-25
+SITE003,SUBJ0238,Week 4,2024-02-13,2024-01-01,51.0,Female,170.0,62.0,21.5,77,11,37.3,114,83,Not Done,Abnormal,,,Dr. C. Patel,2024-02-15
+SITE001,SUBJ0081,Baseline,2024-01-27,2024-01-03,42.0,Female,178.7,74.8,23.4,72,15,36.2,132,77,Not Done,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-01
+SITE005,SUBJ0115,Screening,2024-02-16,2024-01-30,24.0,Female,158.2,87.9,35.1,65,14,37.0,131,75,Abnormal,Abnormal,,Ibuprofen,Dr. E. Costa,2024-02-18
+SITE004,SUBJ0184,Screening,2024-02-03,2024-01-25,40.0,Male,157.7,75.6,30.4,78,19,36.3,130,82,Abnormal,Normal,,,Dr. D. Fernandes,2024-02-08
+SITE004,SUBJ0129,Week 4,2024-02-15,2024-01-15,32.0,Female,165.9,109.3,39.7,63,20,37.2,125,92,Normal,Not Done,Nausea,,Dr. D. Fernandes,2024-02-20
+SITE003,SUBJ0258,Week 4,2024-03-29,2024-02-16,38.0,Male,170.4,57.0,19.6,74,16,38.0,119,68,Normal,Abnormal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-03-31
+SITE004,SUBJ0069,Week 4,2024-03-15,2024-02-05,44.0,Male,170.8,92.1,31.6,72,13,37.2,114,92,Abnormal,Not Done,,,Dr. D. Fernandes,2024-03-18
+SITE004,SUBJ0099,Baseline,2024-02-22,2024-01-23,44.0,Male,167.9,67.1,23.8,86,17,35.6,129,79,Normal,Not Done,Mild Headache,,Dr. D. Fernandes,2024-02-27
+SITE001,SUBJ0231,Baseline,2024-03-16,2024-02-18,42.0,Male,174.4,80.3,26.4,66,16,36.0,139,73,Not Done,Normal,Fatigue,Antihistamine,Dr. A. Sharma,2024-03-18
+SITE005,SUBJ0025,Baseline,2024-02-02,2024-01-02,43.0,Male,155.4,95.3,39.5,83,15,37.4,122,71,Abnormal,Abnormal,Nausea,Antihistamine,Dr. E. Costa,2024-02-06
+SITE005,SUBJ0035,Week 4,2024-03-23,2024-02-07,53.0,Female,153.7,78.9,33.4,71,16,36.3,133,76,Not Done,Abnormal,Mild Headache,Antihistamine,Dr. E. Costa,2024-03-27
+SITE004,SUBJ0269,Week 4,2024-04-30,2024-03-01,44.0,Male,166.1,76.5,27.7,82,23,35.9,129,73,Not Done,Normal,,Ibuprofen,Dr. D. Fernandes,2024-05-02
+SITE003,SUBJ0288,Week 4,2024-03-19,2024-02-11,49.0,Female,155.1,67.1,27.9,64,17,36.7,115,84,Abnormal,Not Done,Dizziness,Paracetamol,Dr. C. Patel,2024-03-24
+SITE001,SUBJ0006,Baseline,2024-02-01,2024-01-16,28.0,Female,160.8,73.9,28.6,74,10,36.8,122,97,Normal,Not Done,,,Dr. A. Sharma,2024-02-01
+SITE002,SUBJ0147,Baseline,2024-02-24,2024-01-26,36.0,Female,172.5,93.7,31.5,84,18,36.6,111,85,Not Done,Normal,Fatigue,Ibuprofen,Dr. B. Nguyen,2024-02-24
+SITE001,SUBJ0031,Baseline,2024-03-02,2024-02-04,54.0,Male,155.8,43.3,17.8,89,17,36.8,125,68,Not Done,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-03-05
+SITE005,SUBJ0030,Baseline,2024-03-24,2024-02-14,49.0,Male,160.8,82.5,31.9,66,16,36.6,127,80,Normal,Normal,Nausea,,Dr. E. Costa,2024-03-24
+SITE001,SUBJ0151,Screening,2024-02-18,2024-01-30,22.0,Female,156.4,63.8,26.1,93,17,36.3,127,65,Abnormal,Normal,,Paracetamol,Dr. A. Sharma,2024-02-21
+SITE005,SUBJ0035,Screening,2024-02-24,2024-02-07,53.0,Female,153.7,62.1,26.3,79,12,37.1,119,75,Not Done,Abnormal,Mild Headache,,Dr. E. Costa,2024-02-24
+SITE005,SUBJ0001,Baseline,2027-12-31,2024-01-05,47.0,Female,176.5,57.6,18.5,75,12,35.6,127,85,Abnormal,Normal,Fatigue,,Dr. E. Costa,2024-01-24
+SITE004,SUBJ0264,Baseline,2024-03-16,2024-02-19,60.0,Female,157.2,50.0,20.2,82,19,37.8,107,83,Not Done,Normal,,Ibuprofen,Dr. D. Fernandes,2024-03-19
+SITE003,SUBJ0083,Screening,2024-01-28,2024-01-15,45.0,Male,179.1,68.8,21.4,79,12,37.0,119,85,Not Done,Abnormal,Nausea,,Dr. C. Patel,2024-01-31
+SITE004,SUBJ0229,Week 4,2024-02-28,2024-01-10,32.0,Female,182.2,58.8,17.7,72,12,37.5,115,84,Not Done,Abnormal,Nausea,,Dr. D. Fernandes,2024-03-02
+SITE003,SUBJ0053,Baseline,2024-02-11,2024-01-25,65.0,Male,160.4,92.1,35.8,88,14,37.0,127,80,Not Done,Abnormal,,,Dr. C. Patel,2024-02-14
+SITE005,SUBJ0160,Week 4,2024-04-08,2024-02-17,56.0,Female,170.2,47.0,16.2,56,18,36.0,117,81,Normal,Abnormal,Nausea,Antihistamine,Dr. E. Costa,2024-04-12
+SITE005,SUBJ0280,Week 4,2024-04-01,2024-02-18,67.0,Female,175.2,86.9,28.3,57,17,36.7,123,81,Not Done,Abnormal,Mild Headache,,Dr. E. Costa,2024-04-03
+SITE002,SUBJ0247,Baseline,2024-03-20,2024-02-23,64.0,Female,168.1,50.6,17.9,73,19,35.9,140,86,Not Done,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-03-25
+SITE002,SUBJ0007,Screening,2024-02-05,2024-01-15,54.0,Male,155.9,91.0,37.4,60,17,37.7,110,73,Not Done,Normal,Nausea,Antihistamine,Dr. B. Nguyen,2024-02-05
+SITE001,SUBJ0246,Week 4,2024-04-03,2024-02-26,40.0,Female,154.8,50.9,21.2,77,19,36.6,138,88,Normal,Not Done,,Ibuprofen,Dr. A. Sharma,2024-04-07
+SITE001,SUBJ0041,Baseline,2024-03-19,2024-02-21,56.0,Male,159.8,88.8,34.8,66,15,36.6,139,79,Normal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-19
+SITE001,SUBJ0211,Week 4,2024-04-02,2024-02-16,47.0,Female,154.1,70.7,29.8,80,21,36.6,125,63,Not Done,Abnormal,Mild Headache,,Dr. A. Sharma,2024-04-05
+SITE002,SUBJ0092,Baseline,2024-02-14,2024-01-18,43.0,Male,165.8,68.5,24.9,75,18,36.9,133,80,Not Done,Normal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-02-15
+SITE005,SUBJ0145,Baseline,2024-03-11,2024-02-11,18.0,Female,143.8,64.2,31.0,78,16,35.9,131,79,Not Done,Abnormal,,Paracetamol,Dr. E. Costa,2024-03-12
+SITE004,SUBJ0269,Baseline,2024-04-09,2024-03-01,44.0,Male,166.1,62.7,22.7,90,12,36.3,108,77,Abnormal,Not Done,Mild Headache,Ibuprofen,Dr. D. Fernandes,2024-04-13
+SITE004,SUBJ0104,Week 4,2024-03-30,2024-02-29,55.0,Female,163.6,60.7,22.7,71,17,37.3,120,74,Abnormal,Abnormal,Nausea,Ibuprofen,Dr. D. Fernandes,2024-03-31
+SITE003,SUBJ0228,Baseline,2024-02-05,2024-01-13,32.0,Male,184.5,76.2,22.4,72,20,37.1,132,70,Abnormal,Abnormal,,,Dr. C. Patel,2024-02-07
+SITE005,SUBJ0250,Week 4,2024-01-13,2024-01-16,30.0,Female,173.9,60.1,19.9,74,18,38.0,131,71,Abnormal,Not Done,Nausea,Antihistamine,Dr. E. Costa,2024-02-22
+SITE003,SUBJ0183,Screening,2024-01-24,2024-01-05,39.0,Male,163.2,55.2,20.7,74,13,36.4,125,79,Normal,Normal,Fatigue,,Dr. C. Patel,2024-01-28
+SITE001,SUBJ0061,Baseline,2024-01-31,2024-01-03,46.0,Male,160.7,49.0,19.0,92,12,36.5,113,85,Not Done,Abnormal,,,Dr. A. Sharma,2024-02-01
+SITE002,SUBJ0062,Baseline,2024-03-12,2024-02-16,30.0,Male,168.1,84.5,29.9,97,14,36.3,120,98,Normal,Normal,Fatigue,,Dr. B. Nguyen,2024-03-17
+SITE001,SUBJ0136,Baseline,2024-01-26,2024-01-05,49.0,Male,175.9,64.7,20.9,90,13,37.4,127,66,Not Done,Abnormal,,Antihistamine,Dr. A. Sharma,2024-01-27
+SITE003,SUBJ0203,Screening,2024-02-18,2024-02-11,47.0,Female,172.7,45.8,15.4,77,18,36.6,130,100,Abnormal,Normal,,Antihistamine,Dr. C. Patel,2024-02-20
+SITE004,SUBJ0174,Baseline,2024-03-23,2024-02-25,65.0,Female,184.0,63.2,18.7,72,15,36.8,122,69,Not Done,Normal,Nausea,,Dr. D. Fernandes,2024-03-25
+SITE002,SUBJ0127,Week 4,2024-03-25,2024-02-19,47.0,Female,194.9,63.7,16.8,72,18,37.2,107,78,Abnormal,Not Done,Fatigue,Paracetamol,Dr. B. Nguyen,2024-03-27
+SITE002,SUBJ0137,Week 4,2024-03-02,2024-01-14,68.0,Female,159.9,99.8,39.0,69,14,36.9,140,84,Abnormal,Not Done,Dizziness,Paracetamol,Dr. B. Nguyen,2024-03-02
+SITE002,SUBJ0212,Baseline,2024-03-20,2024-02-26,18.0,Female,173.4,74.1,24.6,75,11,37.3,114,82,Normal,Normal,Nausea,Antihistamine,Dr. B. Nguyen,2024-03-24
+SITE004,SUBJ0124,Screening,2024-02-08,2024-01-21,45.0,Male,172.4,77.2,26.0,62,18,37.2,112,78,Normal,Not Done,Mild Headache,,Dr. D. Fernandes,2024-02-12
+SITE004,SUBJ0244,Screening,2024-03-12,2024-02-29,39.0,Male,156.7,59.7,24.3,61,15,36.1,124,77,Not Done,Not Done,,Antihistamine,Dr. D. Fernandes,2024-03-17
+SITE005,SUBJ0250,Screening,2024-01-27,2024-01-16,30.0,Female,173.9,74.3,24.6,73,17,37.5,119,78,Normal,Normal,Mild Headache,Antihistamine,Dr. E. Costa,2024-01-31
+SITE002,SUBJ0027,Screening,2024-01-22,2024-01-13,24.0,Female,170.4,60.1,20.7,80,13,36.1,102,78,Abnormal,Normal,,Paracetamol,Dr. B. Nguyen,2024-01-25
+SITE002,SUBJ0192,Screening,2024-03-21,2024-03-01,40.0,Female,167.7,69.3,24.6,76,13,37.3,107,81,Normal,Normal,,,Dr. B. Nguyen,2024-03-21
+SITE003,SUBJ0213,Baseline,2024-03-04,2024-02-16,22.0,Female,173.9,77.4,25.6,74,19,36.9,124,69,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-03-04
+SITE003,SUBJ0203,Baseline,2024-03-07,2024-02-11,47.0,Female,172.7,68.4,22.9,78,13,36.9,127,79,Not Done,Normal,Mild Headache,Paracetamol,Dr. C. Patel,2024-03-11
+SITE004,SUBJ0239,Screening,2024-02-19,2024-02-08,29.0,Male,171.7,80.1,27.2,78,13,32.0,107,75,Normal,Abnormal,,,Dr. D. Fernandes,2024-02-23
+SITE002,SUBJ0297,Screening,2024-01-15,2024-01-05,60.0,Female,166.6,79.7,28.7,75,10,36.5,130,79,Normal,Normal,,Paracetamol,Dr. B. Nguyen,2024-01-19
+SITE001,SUBJ0271,Screening,2024-01-27,2024-01-11,30.0,Male,161.0,78.0,30.1,75,13,36.8,103,87,Not Done,Abnormal,Dizziness,Paracetamol,Dr. A. Sharma,2024-02-01
+SITE002,SUBJ0277,Screening,2024-01-26,2024-01-14,36.0,Male,158.4,81.3,32.4,68,13,36.6,135,78,Abnormal,Not Done,,,Dr. B. Nguyen,2024-01-27
+SITE004,SUBJ0139,Week 4,2024-04-15,2024-03-01,52.0,Male,157.0,62.6,25.4,72,15,36.7,121,81,Abnormal,Not Done,Fatigue,Paracetamol,Dr. D. Fernandes,2024-04-20
+SITE003,SUBJ0223,Screening,2024-02-01,2024-01-20,28.0,Female,167.2,78.3,28.0,81,10,36.5,111,78,Not Done,Abnormal,,Ibuprofen,Dr. C. Patel,2024-02-05
+SITE003,SUBJ0188,Screening,2024-02-17,2024-02-03,36.0,Female,170.2,74.8,25.8,76,13,36.7,95,79,Normal,Abnormal,,,Dr. C. Patel,2024-02-22
+SITE003,SUBJ0023,Baseline,2024-03-09,2024-02-02,49.0,Female,164.7,62.3,23.0,64,15,37.2,110,82,Normal,Abnormal,Mild Headache,,Dr. C. Patel,2024-03-14
+SITE001,SUBJ0026,Week 4,2024-03-13,2024-02-05,56.0,Female,184.1,61.3,18.1,82,17,36.4,123,84,Abnormal,Not Done,Nausea,,Dr. A. Sharma,2024-03-13
+SITE001,SUBJ0036,Screening,2024-01-31,2024-01-18,38.0,Female,175.5,59.4,19.3,27,11,37.0,106,92,Not Done,Not Done,,Paracetamol,Dr. A. Sharma,2024-02-05
+SITE004,SUBJ0234,Baseline,2024-03-19,2024-02-19,62.0,Male,162.2,57.2,21.7,75,17,36.1,127,69,Abnormal,Normal,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-24
+SITE003,SUBJ0213,Week 4,2024-03-17,2024-02-16,22.0,Female,173.9,73.5,24.3,85,13,37.4,120,70,Not Done,Abnormal,Mild Headache,Antihistamine,Dr. C. Patel,2024-03-20
+SITE002,SUBJ0187,Baseline,2024-02-27,2024-01-30,56.0,Female,182.0,52.0,15.7,51,18,36.5,97,79,Abnormal,Abnormal,Dizziness,,Dr. B. Nguyen,2024-02-27
+SITE001,SUBJ0261,Baseline,2024-01-28,2024-01-05,41.0,Female,159.9,54.6,21.4,75,16,36.4,119,81,Normal,Not Done,Fatigue,Paracetamol,Dr. A. Sharma,2024-02-01
+SITE001,SUBJ0281,Screening,2024-02-28,2024-02-16,42.0,Male,164.0,66.8,24.8,84,17,36.9,106,74,Not Done,Normal,,,Dr. A. Sharma,2024-03-03
+SITE002,SUBJ0262,Screening,2024-03-03,2024-02-18,66.0,Male,165.1,66.6,24.4,65,24,36.4,116,81,Abnormal,Not Done,Dizziness,Ibuprofen,Dr. B. Nguyen,2024-03-04
+SITE005,SUBJ0245,Baseline,2024-02-24,2024-01-24,56.0,Male,178.7,73.4,23.0,81,13,36.3,115,77,Abnormal,Not Done,,,Dr. E. Costa,2024-02-26
+SITE004,SUBJ0164,Baseline,2024-03-05,2024-02-07,42.0,Male,165.5,73.5,26.8,81,15,36.5,132,83,Abnormal,Abnormal,Fatigue,,Dr. D. Fernandes,2024-03-10
+SITE003,SUBJ0298,Baseline,2024-02-17,2024-01-22,29.0,Male,172.7,45.0,15.1,60,16,36.8,113,84,Normal,Normal,Nausea,Antihistamine,Dr. C. Patel,2024-02-18
+SITE003,SUBJ0253,Week 4,2024-03-30,2024-02-26,50.0,Male,148.1,51.8,23.6,63,18,36.8,120,74,Not Done,Not Done,,Paracetamol,Dr. C. Patel,2024-04-02
+SITE002,SUBJ0202,Week 4,2024-04-05,2024-02-19,71.0,Male,150.8,57.9,25.5,84,17,36.7,121,72,Abnormal,Abnormal,,,Dr. B. Nguyen,2024-04-09
+SITE002,SUBJ0122,Screening,2024-01-27,2024-01-15,57.0,Male,176.7,66.6,21.3,74,11,37.0,128,77,Not Done,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-01-31
+SITE004,SUBJ0024,Screening,2024-02-17,2024-02-08,68.0,Male,165.4,59.5,21.7,77,15,36.7,129,84,Normal,Normal,Mild Headache,,Dr. D. Fernandes,2024-02-22
+SITE003,SUBJ0183,Week 4,2024-02-17,2024-01-05,39.0,Male,163.2,72.2,27.1,78,16,36.0,123,95,Not Done,Abnormal,,Antihistamine,Dr. C. Patel,2024-02-19
+SITE004,SUBJ0054,Baseline,2024-02-12,2024-01-07,54.0,Female,136.5,63.0,33.8,78,15,37.0,122,67,Not Done,Not Done,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-02-17
+SITE004,SUBJ0004,Week 4,2024-03-27,2024-02-17,39.0,Male,163.1,30.7,11.5,83,16,36.7,123,62,Abnormal,Normal,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-30
+SITE004,SUBJ0049,Screening,2024-02-29,2024-02-18,52.0,Male,178.3,72.9,22.9,82,15,37.4,113,92,Not Done,Normal,Nausea,Ibuprofen,Dr. D. Fernandes,2024-02-29
+SITE003,SUBJ0173,Baseline,2024-01-30,2024-01-04,46.0,Female,158.9,64.2,25.4,70,14,36.3,120,73,Normal,Abnormal,Dizziness,Ibuprofen,Dr. C. Patel,2024-02-01
+SITE003,SUBJ0143,Baseline,2024-02-21,2024-01-21,48.0,Female,149.8,60.9,27.1,69,14,37.1,108,79,Normal,Not Done,Fatigue,,Dr. C. Patel,2024-02-21
+SITE004,SUBJ0214,Screening,2024-02-07,2024-01-17,56.0,Female,162.1,81.4,31.0,72,15,37.0,125,62,Not Done,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-02-09
+SITE004,SUBJ0059,Week 4,2024-02-29,2024-01-17,18.0,Female,187.9,58.7,16.6,72,10,36.8,110,69,Abnormal,Abnormal,Fatigue,,Dr. D. Fernandes,2024-03-04
+SITE002,SUBJ0147,Week 4,2024-03-10,2024-01-26,36.0,Female,172.5,83.1,27.9,89,14,36.7,102,74,Abnormal,Abnormal,Nausea,Antihistamine,Dr. B. Nguyen,2024-03-11
+SITE004,SUBJ0174,Week 4,2024-04-07,2024-02-25,65.0,Female,184.0,59.2,17.5,62,18,36.0,135,89,Abnormal,Abnormal,,Ibuprofen,Dr. D. Fernandes,2024-04-12
+SITE002,SUBJ0272,Baseline,2024-02-20,2024-01-17,45.0,Female,153.1,58.4,24.9,57,13,36.6,123,75,Not Done,Abnormal,Fatigue,Ibuprofen,Dr. B. Nguyen,2024-02-20
+SITE002,SUBJ0282,Baseline,2024-03-16,2024-02-14,41.0,Female,147.2,57.8,26.7,78,13,37.1,123,80,Not Done,Abnormal,,,Dr. B. Nguyen,2024-03-16
+SITE003,SUBJ0078,Screening,2024-01-26,2024-01-13,44.0,Male,182.7,94.9,28.4,70,14,37.0,110,80,Abnormal,Abnormal,,,Dr. C. Patel,2024-01-28
+SITE001,SUBJ0071,Screening,2024-03-11,2024-02-23,32.0,Female,170.4,87.8,30.2,82,18,36.5,104,90,Normal,Abnormal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-11
+SITE004,SUBJ0214,Baseline,2024-02-16,2024-01-17,56.0,Female,162.1,53.2,20.2,84,15,36.6,105,69,Normal,Abnormal,Nausea,,Dr. D. Fernandes,2024-02-16
+SITE003,SUBJ0048,Week 4,2024-03-01,2024-01-14,29.0,Female,173.7,68.8,22.8,86,17,37.0,128,81,Not Done,Not Done,Fatigue,,Dr. C. Patel,2024-03-06
+SITE004,SUBJ0174,Screening,2024-03-13,2024-02-25,65.0,Female,184.0,72.4,21.4,85,16,36.3,117,79,Normal,Not Done,Fatigue,,Dr. D. Fernandes,2024-03-18
+SITE005,SUBJ0300,Baseline,2024-03-14,2024-02-07,33.0,Male,181.2,76.5,23.3,71,17,36.9,110,82,Not Done,Not Done,,,Dr. E. Costa,2024-03-19
+SITE005,SUBJ0100,Baseline,2024-02-07,2024-01-14,33.0,Male,151.2,60.4,26.4,79,18,37.1,136,83,Not Done,Normal,,,Dr. E. Costa,2024-02-09
+SITE003,SUBJ0143,Week 4,2024-03-11,2024-01-21,48.0,Female,149.8,88.3,39.3,69,13,36.7,136,79,Not Done,Abnormal,Nausea,,Dr. C. Patel,2024-03-12
+SITE005,SUBJ0205,Screening,2024-01-21,2024-01-08,52.0,Male,158.0,95.2,38.1,55,19,36.7,132,78,Abnormal,Normal,,Paracetamol,Dr. E. Costa,2024-01-21
+SITE003,SUBJ0278,Baseline,2024-03-24,2024-02-29,65.0,Female,181.7,62.6,19.0,88,13,37.0,119,83,Abnormal,Not Done,Nausea,Ibuprofen,Dr. C. Patel,2024-03-24
+SITE003,SUBJ0003,Week 4,2024-02-18,2024-01-02,53.0,Female,166.7,85.5,30.8,84,13,36.7,125,85,Normal,Normal,Mild Headache,Antihistamine,Dr. C. Patel,2024-02-18
+SITE003,SUBJ0053,Screening,2024-02-03,2024-01-25,65.0,Male,160.4,86.2,33.5,74,15,37.2,129,65,Not Done,Not Done,,,Dr. C. Patel,2024-02-06
+SITE005,SUBJ0180,Week 4,2024-03-23,2024-02-13,70.0,Female,178.3,88.9,28.0,86,13,37.2,126,76,Not Done,Abnormal,,Ibuprofen,Dr. E. Costa,2024-03-27
+SITE004,SUBJ0169,Week 4,2024-03-17,2024-02-02,31.0,Male,148.1,44.8,20.4,64,15,33.5,128,72,Abnormal,Normal,Mild Headache,Antihistamine,Dr. D. Fernandes,2024-03-20
+SITE001,SUBJ0146,Baseline,2024-03-01,2024-02-01,44.0,Male,160.8,63.2,24.4,87,14,36.9,113,84,Normal,Abnormal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-05
+SITE004,SUBJ0089,Week 4,2024-04-10,2024-02-25,64.0,Male,172.4,58.9,19.8,61,14,36.8,116,72,Not Done,Not Done,Fatigue,,Dr. D. Fernandes,2024-04-12
+SITE004,SUBJ0154,Week 4,2024-02-25,2024-01-09,48.0,Male,161.7,59.0,22.6,93,18,37.0,124,76,Not Done,Not Done,Mild Headache,Ibuprofen,Dr. D. Fernandes,2024-02-25
+SITE003,SUBJ0193,Screening,2024-01-20,2024-01-01,37.0,Female,157.9,84.7,34.0,61,20,37.1,135,74,Not Done,Normal,Fatigue,Paracetamol,Dr. C. Patel,2024-01-21
+SITE003,SUBJ0113,Week 4,2024-03-01,2024-01-16,46.0,Male,170.8,51.2,17.6,78,18,36.6,90,79,Normal,Not Done,Nausea,,Dr. C. Patel,2024-03-02
+SITE001,SUBJ0086,Screening,2024-01-18,2024-01-06,49.0,Male,169.9,79.5,27.5,86,17,36.7,130,93,Not Done,Normal,,Ibuprofen,Dr. A. Sharma,2024-01-21
+SITE002,SUBJ0242,Baseline,2024-01-24,2024-01-02,43.0,Female,163.2,83.9,31.5,64,18,36.3,129,82,Not Done,Abnormal,Fatigue,Paracetamol,Dr. B. Nguyen,2024-01-26
+SITE004,SUBJ0259,Screening,2024-02-19,2024-02-01,48.0,Female,144.3,68.6,32.9,75,18,37.2,115,76,Abnormal,Abnormal,Dizziness,,Dr. D. Fernandes,2024-02-19
+SITE002,SUBJ0222,Week 4,2024-03-17,2024-02-10,61.0,Male,154.1,61.7,26.0,217,19,36.7,117,82,Not Done,Abnormal,,Ibuprofen,Dr. B. Nguyen,2024-03-20
+SITE002,SUBJ0187,Week 4,2024-03-06,2024-01-30,56.0,Female,182.0,81.9,24.7,73,14,36.7,117,67,Not Done,Abnormal,,,Dr. B. Nguyen,2024-03-07
+SITE005,SUBJ0070,Baseline,2024-02-22,2024-01-19,53.0,Female,160.1,70.5,27.5,67,17,33.1,146,79,Normal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-24
+SITE001,SUBJ0096,Week 4,2024-03-06,2024-01-24,53.0,Male,161.7,43.0,16.4,69,13,36.6,119,74,Abnormal,Normal,,,Dr. A. Sharma,2024-03-08
+SITE001,SUBJ0001,Baseline,2024-03-05,2024-02-10,50.0,Male,163.6,63.0,23.5,80,14,36.6,124,62,Normal,Abnormal,,Antihistamine,Dr. A. Sharma,2024-03-06
+SITE004,SUBJ0114,Week 4,2024-02-20,2024-01-11,50.0,Female,169.0,53.7,18.8,64,18,36.3,129,81,Not Done,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-02-25
+SITE005,SUBJ0090,Week 4,2024-02-18,2024-01-07,28.0,Male,164.2,73.2,27.1,67,15,36.5,227,78,Abnormal,Not Done,Mild Headache,Paracetamol,Dr. E. Costa,2024-02-19
+SITE004,SUBJ0089,Baseline,2024-03-23,2024-02-25,64.0,Male,172.4,71.8,24.2,80,16,37.5,114,79,Not Done,Not Done,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-25
+SITE005,SUBJ0245,Screening,2024-02-07,2024-01-24,56.0,Male,178.7,57.2,17.9,79,17,36.6,112,90,Normal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-08
+SITE003,SUBJ0258,Screening,2024-03-04,2024-02-16,38.0,Male,170.4,85.5,29.4,70,18,36.8,120,76,Not Done,Normal,,Paracetamol,Dr. C. Patel,2024-03-07
+SITE002,SUBJ0032,Week 4,2024-03-15,2024-01-27,35.0,Male,169.7,54.8,19.0,58,18,36.8,106,67,Abnormal,Abnormal,Fatigue,,Dr. B. Nguyen,2024-03-15
+SITE005,SUBJ0290,Week 4,2024-03-24,2024-01-29,30.0,Female,158.2,65.7,26.3,73,25,36.7,128,72,Abnormal,Normal,Nausea,,Dr. E. Costa,2024-03-26
+SITE005,SUBJ0015,Screening,2024-01-13,2024-01-06,46.0,Male,171.6,93.8,31.9,62,22,36.0,120,82,Not Done,Normal,Mild Headache,Paracetamol,Dr. E. Costa,2024-01-15
+SITE002,SUBJ0242,Screening,2024-01-13,2024-01-02,43.0,Female,163.2,57.3,21.5,74,15,36.9,123,84,Not Done,Normal,Mild Headache,,Dr. B. Nguyen,2024-01-15
+SITE004,SUBJ0299,Week 4,2024-02-06,2024-01-02,35.0,M,186.1,76.7,22.1,68,20,37.0,124,81,Abnormal,Not Done,Mild Headache,Ibuprofen,Dr. D. Fernandes,2024-02-07
+SITE005,SUBJ0250,Baseline,2024-02-07,2024-01-16,30.0,Female,173.9,72.9,24.1,98,9,37.1,120,82,Normal,Normal,Fatigue,,Dr. E. Costa,2024-02-09
+SITE005,SUBJ0210,Baseline,2024-01-25,2024-01-01,48.0,Male,159.9,63.8,25.0,214,17,36.9,137,58,Not Done,Not Done,,Antihistamine,Dr. E. Costa,2024-01-29
+SITE001,SUBJ0016,Screening,2027-12-31,2024-02-07,35.0,Male,159.4,81.2,32.0,81,15,36.8,137,73,Abnormal,Normal,,Antihistamine,Dr. A. Sharma,2024-02-26
+SITE004,SUBJ0054,Week 4,2024-03-01,2024-01-07,54.0,Female,136.5,84.9,45.6,70,11,36.6,140,84,Abnormal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-03-01
+SITE005,SUBJ0210,Week 4,2024-02-05,2024-01-01,48.0,Male,159.9,34.2,13.4,70,19,36.2,85,82,Normal,Normal,,,Dr. E. Costa,2024-02-10
+SITE002,SUBJ0097,Screening,2024-01-29,2024-01-11,21.0,Female,172.5,53.9,18.1,77,22,36.4,91,75,Normal,Not Done,Mild Headache,Ibuprofen,Dr. B. Nguyen,2024-02-02
+SITE002,SUBJ0197,Baseline,2024-03-10,2024-02-13,67.0,Female,167.2,52.3,18.7,76,18,37.4,132,84,Abnormal,Not Done,Nausea,,Dr. B. Nguyen,2024-03-12
+SITE002,SUBJ0282,Week 4,2024-03-23,2024-02-14,41.0,Female,147.2,58.3,26.9,82,22,36.4,117,79,Normal,Abnormal,Nausea,,Dr. B. Nguyen,2024-03-27
+SITE005,SUBJ0285,Week 4,2024-03-01,2024-01-20,33.0,Male,161.6,95.7,36.6,80,14,36.5,120,82,Not Done,Normal,,,Dr. E. Costa,2024-03-01
+SITE002,SUBJ0192,Week 4,2024-04-25,2024-03-01,40.0,Female,167.7,55.4,19.7,71,19,37.0,110,75,Normal,Normal,,,Dr. B. Nguyen,2024-04-26
+SITE001,SUBJ0106,Screening,2024-02-18,2024-02-11,49.0,Male,156.0,57.0,23.4,86,12,37.5,111,83,Normal,Not Done,Dizziness,Ibuprofen,Dr. A. Sharma,2024-02-18
+SITE002,SUBJ0077,Week 4,2024-03-13,2024-02-06,59.0,Female,170.8,63.0,21.6,59,17,36.6,107,55,Abnormal,Normal,,,Dr. B. Nguyen,2024-03-13
+SITE003,SUBJ0233,Week 4,2024-04-02,2024-02-04,54.0,Male,166.3,80.6,29.1,96,15,36.4,124,71,Abnormal,Not Done,Nausea,Ibuprofen,Dr. C. Patel,2024-04-02
+SITE003,SUBJ0248,Baseline,2024-03-18,2024-02-21,52.0,Male,162.9,64.2,24.2,79,16,37.3,131,85,Normal,Abnormal,Fatigue,,Dr. C. Patel,2024-03-19
+SITE003,SUBJ0238,Screening,2024-01-16,2024-01-01,51.0,Female,170.0,70.0,24.2,79,20,36.7,123,69,Abnormal,Not Done,,,Dr. C. Patel,2024-01-17
+SITE001,SUBJ0026,Baseline,2024-02-21,2024-02-05,56.0,Female,184.1,70.7,20.9,66,16,36.8,119,70,Abnormal,Normal,Nausea,Antihistamine,Dr. A. Sharma,2024-02-21
+SITE002,SUBJ0212,Screening,2024-03-06,2024-02-26,18.0,Female,173.4,69.9,23.2,86,11,37.0,144,81,Abnormal,Normal,,Paracetamol,Dr. B. Nguyen,2024-03-08
+SITE002,SUBJ0292,Screening,2024-02-20,2024-02-03,45.0,Female,167.7,53.3,19.0,86,14,36.1,120,78,Normal,Abnormal,Mild Headache,,Dr. B. Nguyen,2024-02-24
+SITE003,SUBJ0083,Baseline,2024-02-17,2024-01-15,45.0,Male,179.1,87.8,27.4,100,17,36.9,124,75,Abnormal,Not Done,,,Dr. C. Patel,2024-02-19
+SITE004,SUBJ0159,Week 4,2024-03-01,2024-01-17,37.0,Male,169.6,55.0,19.1,67,11,36.6,133,82,Normal,Not Done,Fatigue,Ibuprofen,Dr. D. Fernandes,2024-03-06
+SITE004,SUBJ0224,Baseline,2024-03-10,2024-02-23,59.0,Male,183.5,71.6,21.3,78,16,37.3,137,82,Not Done,Normal,,Antihistamine,Dr. D. Fernandes,2024-03-14
+SITE004,SUBJ0002,Baseline,2024-03-10,2024-02-11,48.0,Female,185.8,41.9,12.1,71,16,37.5,125,76,Abnormal,Normal,Nausea,Antihistamine,Dr. D. Fernandes,2024-03-15
+SITE002,SUBJ0157,Baseline,2024-02-29,2024-02-05,39.0,Male,158.9,71.1,28.2,70,15,36.8,101,89,Abnormal,Abnormal,Nausea,Ibuprofen,Dr. B. Nguyen,2024-02-29
+SITE001,SUBJ0076,Screening,2024-02-13,2024-01-24,54.0,Female,159.5,57.7,22.7,74,15,36.6,130,85,Not Done,Abnormal,,Paracetamol,Dr. A. Sharma,2024-02-17
+SITE001,SUBJ0111,Baseline,2024-02-28,2024-02-04,66.0,Female,163.1,65.3,24.5,74,12,37.0,235,74,Abnormal,Not Done,,Ibuprofen,Dr. A. Sharma,2024-03-02
+SITE003,SUBJ0078,Week 4,2024-02-14,2024-01-13,44.0,Male,182.7,66.6,20.0,78,18,36.5,139,75,Normal,Normal,,Antihistamine,Dr. C. Patel,2024-02-14
+SITE002,SUBJ0197,Screening,2024-03-02,2024-02-13,67.0,Female,167.2,64.8,23.2,58,15,36.7,133,81,Normal,Normal,,,Unknown,2024-03-05
+SITE004,SUBJ0159,Baseline,2024-02-14,2024-01-17,37.0,Male,169.6,68.6,23.8,70,13,37.0,106,84,Not Done,Abnormal,,Paracetamol,Dr. D. Fernandes,2024-02-15
+SITE003,SUBJ0268,Baseline,2024-02-21,2024-01-31,32.0,Female,169.3,40.0,14.0,75,17,37.0,124,87,Not Done,Not Done,,Antihistamine,Dr. C. Patel,2024-02-24
+SITE002,SUBJ0262,Week 4,2024-04-13,2024-02-18,66.0,Male,165.1,74.6,27.4,95,11,37.3,124,84,Normal,Not Done,Fatigue,Ibuprofen,Dr. B. Nguyen,2024-04-16
+SITE005,SUBJ0200,Week 4,2024-04-15,2024-02-18,61.0,Female,181.4,39.0,11.9,75,9,36.7,141,80,Not Done,Normal,,,Dr. E. Costa,2024-04-16
+SITE005,SUBJ0230,Screening,2024-02-01,2024-01-24,47.0,Female,155.2,69.9,29.0,82,15,37.3,134,85,Abnormal,Not Done,,Antihistamine,Dr. E. Costa,2024-02-05
+SITE001,SUBJ0061,Week 4,2024-02-19,2024-01-03,46.0,Male,160.7,65.6,25.4,87,13,36.9,111,95,Not Done,Abnormal,Nausea,Antihistamine,Dr. A. Sharma,2024-02-21
+SITE001,SUBJ0206,Week 4,2024-02-23,2024-01-19,26.0,Female,157.2,94.4,38.2,71,15,36.0,116,69,Not Done,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-02-25
+SITE001,SUBJ0111,Week 4,2024-03-16,2024-02-04,66.0,Female,163.1,62.9,23.6,77,14,36.8,147,76,Not Done,Abnormal,,Antihistamine,Dr. A. Sharma,2024-03-21
+SITE002,SUBJ0147,Screening,2024-02-04,2024-01-26,36.0,Female,172.5,67.1,22.5,74,16,36.9,120,79,Not Done,Abnormal,,,Dr. B. Nguyen,2024-02-06
+SITE002,SUBJ0017,Baseline,2024-02-17,2024-01-28,46.0,Female,171.0,79.4,27.2,81,15,36.4,122,72,Normal,Not Done,,Antihistamine,Dr. B. Nguyen,2024-02-19
+SITE002,SUBJ0002,Week 4,2024-02-24,2024-01-08,62.0,Female,162.7,82.3,31.1,62,16,36.0,106,79,Not Done,Normal,Dizziness,,Dr. B. Nguyen,2024-02-24
+SITE002,SUBJ0177,Baseline,2024-03-11,2024-02-10,51.0,Male,140.1,42.5,21.7,64,20,37.5,120,68,Abnormal,Not Done,Nausea,,Dr. B. Nguyen,2024-03-16
+SITE004,SUBJ0079,Screening,2024-02-26,2024-02-15,44.0,Male,157.5,33.6,13.5,83,18,36.7,122,82,Abnormal,Not Done,Mild Headache,Ibuprofen,Dr. D. Fernandes,2024-03-01
+SITE003,SUBJ0163,Screening,2024-03-12,2024-02-27,45.0,Female,193.7,45.0,12.0,85,15,37.1,127,72,Abnormal,Abnormal,,,Dr. C. Patel,2024-03-12
+SITE001,SUBJ0271,Week 4,2024-02-23,2024-01-11,30.0,Male,161.0,59.4,22.9,81,14,36.0,115,68,Not Done,Abnormal,Dizziness,,Dr. A. Sharma,2024-02-25
+SITE001,SUBJ0166,Week 4,2024-03-10,2024-01-24,49.0,Female,155.6,64.6,26.7,79,15,36.4,135,96,Abnormal,Abnormal,,Ibuprofen,Dr. A. Sharma,2024-03-15
+SITE005,SUBJ0270,Baseline,2024-03-11,2024-02-05,37.0,Female,158.8,50.0,19.8,53,13,36.9,123,79,Not Done,Not Done,,Antihistamine,Dr. E. Costa,2024-03-13
+SITE001,SUBJ0036,Baseline,2024-02-14,2024-01-18,38.0,Female,175.5,38.8,12.6,91,16,36.8,115,81,Abnormal,Abnormal,,,Dr. A. Sharma,2024-02-14
+SITE003,SUBJ0148,Week 4,2024-04-07,2024-02-26,56.0,Female,160.3,55.8,21.7,92,18,36.7,135,69,Abnormal,Not Done,Nausea,Antihistamine,Dr. C. Patel,2024-04-07
+SITE003,SUBJ0001,Week 4,2024-04-03,2024-02-27,45.0,Female,193.7,75.5,20.1,76,13,36.5,136,89,Normal,Normal,,Paracetamol,Dr. C. Patel,2024-04-07
+SITE001,SUBJ0216,Baseline,2024-03-12,2024-02-18,39.0,Male,151.3,67.0,29.3,70,16,36.1,127,81,Not Done,Not Done,,Antihistamine,Dr. A. Sharma,2024-03-16
+SITE005,SUBJ0005,Screening,2024-01-31,2024-01-18,42.0,Female,168.6,92.2,32.4,69,13,42.8,132,80,Not Done,Not Done,Fatigue,Antihistamine,Dr. E. Costa,2024-02-05
+SITE002,SUBJ0247,Screening,2024-03-07,2024-02-23,64.0,Female,168.1,78.8,27.9,89,17,36.6,116,79,Normal,Normal,,,Dr. B. Nguyen,2024-03-09
+SITE003,SUBJ0243,Screening,2024-01-29,2024-01-08,35.0,Male,165.8,80.3,29.2,73,19,37.0,95,73,Normal,Not Done,Mild Headache,Paracetamol,Dr. C. Patel,2024-02-03
+SITE004,SUBJ0064,Baseline,2024-02-28,2024-02-04,51.0,Male,165.8,59.0,21.5,87,19,37.0,108,75,Not Done,Abnormal,Dizziness,Paracetamol,Dr. D. Fernandes,2024-03-04
+SITE004,SUBJ0284,Baseline,2024-03-23,2024-02-15,44.0,Male,155.8,44.0,18.1,88,23,36.8,114,100,Not Done,Abnormal,Nausea,,Dr. D. Fernandes,2024-03-25
+SITE005,SUBJ0095,Screening,2024-03-12,2024-02-23,56.0,Male,181.2,51.5,15.7,69,15,36.9,112,81,Not Done,Normal,,,Dr. E. Costa,2024-03-13
+SITE005,SUBJ0010,Week 4,2024-03-01,2024-01-07,52.0,Male,156.4,72.6,29.7,78,13,36.9,122,68,Abnormal,Normal,Dizziness,Paracetamol,Unknown,2024-03-05
+SITE002,SUBJ0057,Baseline,2024-02-17,2024-01-23,58.0,Male,176.9,69.0,22.0,78,16,37.0,141,81,Abnormal,Abnormal,Dizziness,,Dr. B. Nguyen,2024-02-20
+SITE001,SUBJ0061,Screening,2024-01-19,2024-01-03,46.0,Male,160.7,71.8,27.8,80,16,36.8,113,72,Abnormal,Not Done,,,Unknown,2024-01-21
+SITE004,SUBJ0034,Baseline,2024-02-17,2024-01-29,38.0,Female,159.5,30.2,11.9,85,19,36.0,117,75,Not Done,Normal,,,Dr. D. Fernandes,2024-02-22
+SITE001,SUBJ0166,Screening,2024-02-09,2024-01-24,49.0,Female,155.6,73.2,30.2,64,19,37.2,128,80,Not Done,Normal,Mild Headache,,Dr. A. Sharma,2024-02-10
+SITE001,SUBJ0241,Baseline,2024-02-25,2024-02-01,51.0,Female,164.4,91.4,33.8,70,18,36.0,129,71,Not Done,Normal,,Antihistamine,Dr. A. Sharma,2024-03-01
+SITE001,SUBJ0216,Week 4,2024-03-21,2024-02-18,39.0,Male,151.3,63.9,27.9,85,12,37.3,123,75,Not Done,Normal,Fatigue,Ibuprofen,Dr. A. Sharma,2024-03-25
+SITE003,SUBJ0293,Week 4,2024-03-23,2024-01-29,49.0,Male,153.0,49.3,21.1,57,9,36.6,118,72,Normal,Not Done,Dizziness,Ibuprofen,Dr. C. Patel,2024-03-25
+SITE005,SUBJ0280,Screening,2024-03-02,2024-02-18,67.0,Female,175.2,94.7,30.9,78,19,36.5,114,56,Normal,Abnormal,,Antihistamine,Dr. E. Costa,2024-03-07
+SITE002,SUBJ0237,Week 4,2024-04-15,2024-02-28,57.0,Male,170.2,74.4,25.7,84,13,36.8,105,83,Abnormal,Not Done,,Paracetamol,Dr. B. Nguyen,2024-04-17
+SITE005,SUBJ0125,Baseline,2024-03-17,2024-02-23,37.0,Male,182.2,70.4,21.2,55,15,36.5,116,89,Not Done,Normal,Mild Headache,Antihistamine,Dr. E. Costa,2024-03-21
+SITE002,SUBJ0227,Screening,2024-02-15,2024-02-08,39.0,Male,175.7,77.4,25.1,95,19,37.3,105,84,Normal,Normal,Dizziness,Paracetamol,Dr. B. Nguyen,2024-02-15
+SITE002,SUBJ0267,Screening,2024-02-20,2024-02-12,47.0,Female,153.0,86.3,36.9,77,16,36.8,115,79,Abnormal,Not Done,,,Dr. B. Nguyen,2024-02-20
+SITE002,SUBJ0217,Screening,2024-01-21,2024-01-12,44.0,Female,163.9,88.3,32.9,64,13,37.2,114,85,Abnormal,Normal,,,Dr. B. Nguyen,2024-01-22
+SITE004,SUBJ0154,Baseline,2024-02-08,2024-01-09,48.0,Male,161.7,69.7,28.1,81,12,37.5,124,91,Not Done,Abnormal,,,Dr. D. Fernandes,2024-02-12
+SITE003,SUBJ0138,Week 4,2024-03-23,2024-02-28,49.0,Male,169.6,68.9,24.0,70,16,36.5,108,82,Not Done,Normal,Dizziness,Antihistamine,Dr. C. Patel,2024-03-26
+SITE004,SUBJ0044,Week 4,2024-03-12,2024-01-28,47.0,Female,149.8,69.5,31.0,92,14,36.9,121,87,Not Done,Abnormal,,,Dr. D. Fernandes,2024-03-13
+SITE004,SUBJ0014,Screening,2024-02-23,2024-02-04,33.0,Female,164.4,21.4,7.9,64,15,36.3,141,66,Abnormal,Not Done,Fatigue,,Dr. D. Fernandes,2024-02-25
+SITE005,SUBJ0145,Week 4,2024-03-28,2024-02-11,18.0,Female,143.8,77.6,37.5,114,9,37.5,118,80,Not Done,Normal,Mild Headache,Paracetamol,Dr. E. Costa,2024-03-30
+SITE002,SUBJ0072,Week 4,2024-03-27,2024-02-10,51.0,Female,175.7,67.5,21.9,77,15,37.4,127,83,Not Done,Not Done,Fatigue,,Dr. B. Nguyen,2024-03-30
+SITE001,SUBJ0186,Screening,2024-02-28,2024-02-08,57.0,Male,179.5,56.3,17.5,66,15,36.9,115,88,Not Done,Normal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-04
+SITE004,SUBJ0189,Week 4,2024-03-05,2024-01-17,48.0,Female,164.9,43.4,16.0,79,10,36.3,97,77,Normal,Normal,Nausea,,Dr. D. Fernandes,2024-03-09
+SITE005,SUBJ0255,Screening,2024-03-20,2024-03-01,33.0,Male,166.4,71.3,25.8,64,18,37.7,121,82,Abnormal,Not Done,,Paracetamol,Dr. E. Costa,2024-03-25
+SITE004,SUBJ0159,Screening,2024-01-26,2024-01-17,37.0,Male,169.6,63.1,21.9,68,12,36.1,117,79,Abnormal,Normal,,Antihistamine,Dr. D. Fernandes,2024-01-27
+SITE003,SUBJ0153,Screening,2024-02-04,2024-01-17,52.0,Male,166.6,61.2,22.0,77,18,36.0,135,75,Abnormal,Normal,,Antihistamine,Dr. C. Patel,2024-02-07
+SITE002,SUBJ0087,Week 4,2024-04-06,2024-02-24,51.0,Female,162.4,82.0,31.1,58,12,36.4,133,91,Normal,Abnormal,,Paracetamol,Dr. B. Nguyen,2024-04-11
+SITE002,SUBJ0012,Week 4,2024-03-19,2024-02-17,72.0,Female,146.3,102.2,47.7,81,9,36.9,114,84,Normal,Abnormal,,,Dr. B. Nguyen,2024-03-21
+SITE004,SUBJ0104,Screening,2024-03-08,2024-02-29,55.0,Female,163.6,75.9,28.4,73,16,36.6,92,76,Abnormal,Not Done,Fatigue,,Dr. D. Fernandes,2024-03-12
+SITE003,SUBJ0093,Screening,2024-02-06,2024-01-30,43.0,Female,146.2,61.8,28.9,75,16,36.4,137,71,Abnormal,Abnormal,Dizziness,,Dr. C. Patel,2024-02-09
+SITE003,SUBJ0213,Screening,2024-02-23,2024-02-16,22.0,Female,173.9,61.2,20.2,81,16,36.2,123,95,Normal,Abnormal,Mild Headache,,Dr. C. Patel,2024-02-26
+SITE004,SUBJ0219,Screening,2024-03-11,2024-02-28,48.0,Male,156.8,74.1,30.1,86,14,37.6,115,78,Abnormal,Abnormal,,,Dr. D. Fernandes,2024-03-16
+SITE003,SUBJ0208,Baseline,2024-02-05,2024-01-11,52.0,Female,181.4,62.3,18.9,77,15,37.3,123,72,Not Done,Not Done,Nausea,,Dr. C. Patel,2024-02-06
+SITE002,SUBJ0132,Screening,2024-03-13,2024-02-21,53.0,Male,172.9,71.3,23.9,89,17,36.5,138,83,Not Done,Abnormal,,,Dr. B. Nguyen,2024-03-15
+SITE003,SUBJ0283,Screening,2024-02-03,2024-01-13,54.0,Male,159.4,27.5,10.8,88,18,36.1,114,90,Abnormal,Abnormal,Mild Headache,Ibuprofen,Dr. C. Patel,2024-02-08
+SITE001,SUBJ0036,Week 4,2024-03-03,2024-01-18,38.0,Female,175.5,69.4,22.5,86,16,36.9,117,77,Normal,Abnormal,,Antihistamine,Dr. A. Sharma,2024-03-08
+SITE005,SUBJ0285,Screening,2024-02-04,2024-01-20,33.0,Male,161.6,54.9,21.0,75,14,36.2,137,74,Normal,Normal,Dizziness,Ibuprofen,Dr. E. Costa,2024-02-08
+SITE005,SUBJ0175,Week 4,2024-02-17,2024-01-08,41.0,Male,139.0,77.7,40.2,94,18,36.8,119,75,Normal,Not Done,,,Dr. E. Costa,2024-02-19
+SITE002,SUBJ0001,Baseline,2024-03-23,2024-02-18,66.0,Male,165.1,79.0,29.0,84,21,37.0,109,75,Not Done,Not Done,,,Dr. B. Nguyen,2024-03-28
+SITE001,SUBJ0016,Week 4,2024-03-14,2024-02-07,35.0,Male,159.4,89.6,35.3,75,18,36.7,125,76,Abnormal,Not Done,,Paracetamol,Dr. A. Sharma,2024-03-14
+SITE003,SUBJ0068,Week 4,2024-02-16,2024-01-06,46.0,Male,165.0,61.4,22.6,49,14,37.0,104,79,Not Done,Abnormal,Fatigue,,Dr. C. Patel,2024-02-16
+SITE004,SUBJ0279,Screening,2024-02-15,2024-02-04,32.0,Female,164.7,60.6,22.3,82,16,37.1,135,83,Normal,Not Done,Nausea,Ibuprofen,Dr. D. Fernandes,2024-02-19
+SITE001,SUBJ0211,Baseline,2024-03-13,2024-02-16,47.0,Female,154.1,57.1,24.0,63,15,36.6,131,63,Abnormal,Normal,,Antihistamine,Dr. A. Sharma,2024-03-16
+SITE003,SUBJ0008,Screening,2024-01-22,2024-01-09,47.0,Female,178.1,45.9,14.5,76,16,37.1,107,67,Normal,Not Done,Dizziness,Paracetamol,Dr. C. Patel,2024-01-25
+SITE005,SUBJ0135,Screening,2024-02-06,2024-01-18,53.0,Female,162.0,65.1,24.8,82,17,36.9,127,65,Abnormal,Abnormal,,Antihistamine,Dr. E. Costa,2024-02-11
+SITE003,SUBJ0028,Week 4,2024-03-22,2024-02-15,55.0,Male,153.7,75.1,31.8,70,14,36.6,126,74,Normal,Not Done,,,Dr. C. Patel,2024-03-23
+SITE004,SUBJ0044,Baseline,2024-02-29,2024-01-28,47.0,Female,149.8,79.9,35.6,95,15,36.5,105,72,Normal,Not Done,,Ibuprofen,Dr. D. Fernandes,2024-03-05
+SITE004,SUBJ0139,Baseline,2024-03-31,2024-03-01,52.0,Male,157.0,62.3,25.3,73,15,36.5,119,65,Not Done,Abnormal,Mild Headache,Antihistamine,Dr. D. Fernandes,2024-03-31
+SITE003,SUBJ0248,Screening,2024-02-28,2024-02-21,52.0,Male,162.9,71.2,26.8,67,21,37.2,113,67,Abnormal,Abnormal,,,Dr. C. Patel,2024-03-03
+SITE003,SUBJ0233,Baseline,2024-03-16,2024-02-04,54.0,Male,166.3,45.7,16.5,72,15,37.1,122,82,Not Done,Abnormal,Mild Headache,Paracetamol,Dr. C. Patel,2024-03-19
+SITE001,SUBJ0096,Baseline,2024-02-18,2024-01-24,53.0,Male,161.7,52.1,19.9,76,21,37.7,129,82,Normal,Normal,,,Dr. A. Sharma,2024-02-23
+SITE002,SUBJ0042,Screening,2024-01-18,2024-01-11,38.0,Female,179.1,104.5,32.6,71,14,37.4,140,73,Normal,Abnormal,Dizziness,Paracetamol,Dr. B. Nguyen,2024-01-23
+SITE002,SUBJ0012,Screening,2024-03-03,2024-02-17,72.0,Female,146.3,80.3,37.5,58,14,37.2,122,69,Normal,Normal,,,Dr. B. Nguyen,2024-03-07
+SITE004,SUBJ0294,Baseline,2024-01-28,2024-01-08,59.0,Male,177.3,60.2,19.2,71,14,36.9,126,70,Normal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-01-30
+SITE003,SUBJ0173,Screening,2024-01-16,2024-01-04,46.0,Female,158.9,72.1,28.6,90,18,36.3,120,71,Abnormal,Normal,Nausea,Ibuprofen,Dr. C. Patel,2024-01-18
+SITE004,SUBJ0279,Baseline,2024-03-06,2024-02-04,32.0,Female,164.7,74.1,27.3,65,15,36.6,117,75,Not Done,Normal,,Paracetamol,Dr. D. Fernandes,2024-03-09
+SITE004,SUBJ0074,Screening,2024-03-17,2024-02-26,43.0,Male,152.8,66.9,28.7,66,14,37.0,142,81,Normal,Normal,Mild Headache,,Dr. D. Fernandes,2024-03-22
+SITE001,SUBJ0161,Baseline,2024-03-11,2024-02-07,47.0,Female,169.3,83.5,29.1,79,19,36.3,225,90,Normal,Abnormal,Nausea,Ibuprofen,Dr. A. Sharma,2024-03-14
+SITE004,SUBJ0119,Week 4,2024-03-29,2024-02-10,32.0,Male,151.5,86.8,37.8,89,14,36.3,117,80,Not Done,Normal,,Antihistamine,Dr. D. Fernandes,2024-03-31
+SITE001,SUBJ0221,Baseline,2024-03-31,2024-02-25,50.0,Male,175.7,78.1,25.3,83,13,36.8,109,58,Normal,Normal,,Paracetamol,Dr. A. Sharma,2024-04-01
+SITE005,SUBJ0075,Week 4,2024-04-11,2024-02-25,53.0,Female,161.3,93.1,35.8,95,22,37.3,134,82,Normal,Not Done,Mild Headache,,Dr. E. Costa,2024-04-11
+SITE004,SUBJ0254,Screening,2024-02-23,2024-02-06,41.0,Male,175.5,65.0,21.1,61,18,36.7,122,90,Not Done,Abnormal,Nausea,Antihistamine,Dr. D. Fernandes,2024-02-28
+SITE001,SUBJ0031,Week 4,2024-03-10,2024-02-04,54.0,Male,155.8,106.7,44.0,76,16,37.1,127,79,Abnormal,Abnormal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-03-15
+SITE001,SUBJ0296,Baseline,2024-02-11,2024-01-15,44.0,Female,139.8,95.1,48.7,65,17,36.8,137,81,Abnormal,Not Done,,Antihistamine,Dr. A. Sharma,2024-02-12
+SITE001,SUBJ0106,Week 4,2024-03-11,2024-02-11,49.0,Male,156.0,81.1,33.3,69,15,36.4,91,76,Not Done,Normal,Nausea,,Dr. A. Sharma,2024-03-16
+SITE005,SUBJ0150,Baseline,2024-03-09,2024-02-11,48.0,Male,177.7,53.0,16.8,99,20,37.0,122,76,Not Done,Not Done,,Paracetamol,Dr. E. Costa,2024-03-11
+SITE003,SUBJ0268,Week 4,2024-03-12,2024-01-31,32.0,Female,169.3,61.9,21.6,83,11,36.4,100,75,Not Done,Abnormal,Nausea,,Dr. C. Patel,2024-03-17
+SITE004,SUBJ0249,Baseline,2024-02-14,2024-01-20,41.0,Female,154.7,65.6,27.4,89,20,36.8,109,61,Normal,Abnormal,Fatigue,Antihistamine,Dr. D. Fernandes,2024-02-15
+SITE005,SUBJ0175,Screening,2024-01-17,2024-01-08,41.0,Male,139.0,64.6,33.4,74,12,36.6,140,83,Not Done,Not Done,Mild Headache,Ibuprofen,Dr. E. Costa,2024-01-17
+SITE004,SUBJ0094,Screening,2024-02-27,2024-02-10,43.0,Female,173.1,81.9,27.3,57,19,36.1,134,87,Not Done,Abnormal,Mild Headache,Paracetamol,Dr. D. Fernandes,2024-03-01
+SITE005,SUBJ0195,Baseline,2024-03-24,2024-02-16,48.0,Male,166.8,72.1,25.9,83,18,37.0,112,62,Normal,Abnormal,Nausea,Paracetamol,Dr. E. Costa,2024-03-29
+SITE005,SUBJ0255,Week 4,2024-04-23,2024-03-01,33.0,Male,166.4,68.3,24.7,71,18,36.4,112,78,Normal,Not Done,Mild Headache,Paracetamol,Dr. E. Costa,2024-04-24
+SITE002,SUBJ0202,Baseline,2024-03-16,2024-02-19,71.0,Male,150.8,94.0,41.3,83,18,36.2,108,55,Not Done,Normal,Mild Headache,,Dr. B. Nguyen,2024-03-19
+SITE002,SUBJ0117,Baseline,2024-02-05,2024-01-18,50.0,Male,172.8,80.4,26.9,83,15,36.8,103,75,Normal,Abnormal,Nausea,Paracetamol,Dr. B. Nguyen,2024-02-06
+SITE005,SUBJ0125,Week 4,2024-04-07,2024-02-23,37.0,Male,182.2,51.2,15.4,83,15,36.7,131,80,Abnormal,Not Done,Dizziness,,Dr. E. Costa,2024-04-12
+SITE004,SUBJ0134,Baseline,2024-03-03,2024-01-26,30.0,Female,156.0,78.3,32.2,81,13,37.0,125,73,Normal,Normal,,Ibuprofen,Dr. D. Fernandes,2024-03-05
+SITE005,SUBJ0235,Week 4,2024-04-12,2024-02-29,42.0,Male,159.2,67.1,26.5,73,17,37.3,123,74,Abnormal,Abnormal,Dizziness,Ibuprofen,Dr. E. Costa,2024-04-16
+SITE001,SUBJ0086,Week 4,2024-02-11,2024-01-06,49.0,Male,169.9,62.0,21.5,74,16,36.9,130,74,Normal,Not Done,Nausea,Antihistamine,Dr. A. Sharma,2024-02-14
+SITE004,SUBJ0284,Week 4,2024-04-11,2024-02-15,44.0,Male,155.8,50.2,20.7,75,16,37.3,126,74,Abnormal,Abnormal,Mild Headache,,Dr. D. Fernandes,2024-04-14
+SITE005,SUBJ0025,Screening,2024-01-22,2024-01-02,43.0,Male,155.4,45.9,19.0,77,13,36.2,114,69,Not Done,Abnormal,Mild Headache,,Dr. E. Costa,2024-01-24
+SITE001,SUBJ0066,Screening,2024-03-20,2024-02-29,36.0,Male,174.9,67.4,22.0,67,17,36.4,122,77,Abnormal,Not Done,Mild Headache,Paracetamol,Dr. A. Sharma,2024-03-20
+SITE002,SUBJ0162,Screening,2024-02-16,2024-01-28,32.0,Female,172.6,90.6,30.4,81,16,36.4,111,87,Normal,Not Done,,,Dr. B. Nguyen,2024-02-18
+SITE001,SUBJ0286,Screening,2024-02-10,2024-01-26,44.0,Female,162.8,70.9,26.8,68,14,36.0,133,80,Not Done,Normal,,,Dr. A. Sharma,2024-02-15
+SITE001,SUBJ0046,Week 4,2024-02-24,2024-01-18,49.0,Female,161.1,68.6,26.4,77,17,36.9,116,79,Not Done,Normal,Mild Headache,,Dr. A. Sharma,2024-02-26
+SITE005,SUBJ0165,Week 4,2024-02-24,2024-01-26,34.0,Female,165.3,51.9,19.0,64,21,36.4,108,87,Abnormal,Normal,,Paracetamol,Dr. E. Costa,2024-02-25
+SITE003,SUBJ0258,Baseline,2024-03-20,2024-02-16,38.0,Male,170.4,81.2,28.0,78,22,36.5,128,73,Abnormal,Not Done,,Paracetamol,Dr. C. Patel,2024-03-22
+SITE004,SUBJ0184,Baseline,2024-02-23,2024-01-25,40.0,Male,157.7,67.9,27.3,78,19,37.1,108,84,Normal,Normal,,Paracetamol,Dr. D. Fernandes,2024-02-24
+SITE005,SUBJ0155,Screening,2024-01-31,2024-01-16,59.0,Male,166.4,40.5,14.6,63,15,36.9,121,87,Not Done,Abnormal,,,Dr. E. Costa,2024-02-04
+SITE003,SUBJ0068,Screening,2024-01-26,2024-01-06,46.0,Male,165.0,76.6,28.1,86,18,36.2,91,85,Not Done,Normal,Nausea,,Dr. C. Patel,2024-01-27
+SITE005,SUBJ0105,Screening,2024-02-25,2024-02-13,46.0,Female,171.0,48.3,16.5,52,14,36.3,115,76,Abnormal,Normal,Dizziness,Paracetamol,Dr. E. Costa,2024-02-29
+SITE002,SUBJ0097,Week 4,2024-02-20,2024-01-11,46.0,Female,172.5,109.7,36.9,59,16,37.0,135,78,Not Done,Not Done,Nausea,Ibuprofen,Dr. B. Nguyen,2024-02-20
+SITE004,SUBJ0064,Screening,2024-02-20,2024-02-04,51.0,Male,165.8,78.1,28.4,65,16,36.2,120,70,Not Done,Abnormal,Nausea,,Dr. D. Fernandes,2024-02-25
+SITE005,SUBJ0255,Baseline,2024-04-02,2024-03-01,33.0,Male,166.4,71.3,25.8,67,10,36.5,105,91,Abnormal,Normal,,Antihistamine,Dr. E. Costa,2024-04-05
+SITE003,SUBJ0038,Baseline,2024-03-16,2024-02-25,22.0,Male,152.2,60.8,26.2,60,13,36.3,110,86,Not Done,Abnormal,,,Dr. C. Patel,2024-03-20
+SITE002,SUBJ0062,Screening,2024-02-27,2024-02-16,30.0,Male,168.1,79.5,28.1,79,15,36.7,122,76,Abnormal,Abnormal,Dizziness,Paracetamol,Dr. B. Nguyen,2024-02-27
+SITE001,SUBJ0051,Week 4,2024-02-16,2024-01-07,61.0,Male,174.2,96.0,31.6,76,14,36.6,118,81,Abnormal,Not Done,Fatigue,Antihistamine,Dr. A. Sharma,2024-02-19
+SITE005,SUBJ0275,Week 4,2024-04-02,2024-02-08,68.0,Male,169.5,76.5,26.6,62,15,36.5,95,90,Not Done,Not Done,,,Dr. E. Costa,2024-04-04
+SITE004,SUBJ0109,Baseline,2024-02-26,2024-02-10,31.0,Female,167.5,66.5,23.7,79,18,36.8,118,79,Not Done,Not Done,,Paracetamol,Dr. D. Fernandes,2024-02-27
+SITE005,SUBJ0235,Baseline,2024-03-29,2024-02-29,42.0,Male,159.2,48.3,19.1,70,15,36.9,133,82,Normal,Normal,,Paracetamol,Dr. E. Costa,2024-04-03
+SITE005,SUBJ0015,Week 4,2024-02-19,2024-01-06,46.0,Male,171.6,75.4,25.6,68,18,36.9,131,83,Not Done,Abnormal,,,Dr. E. Costa,2024-02-21
+SITE004,SUBJ0149,Screening,2024-03-09,2024-02-28,35.0,Male,158.9,62.1,24.6,64,19,36.7,126,73,Not Done,Not Done,Dizziness,Antihistamine,Dr. D. Fernandes,2024-03-10
+SITE003,SUBJ0263,Baseline,2024-02-19,2024-02-04,43.0,Male,156.6,82.3,33.6,79,13,36.6,116,66,Not Done,Normal,Nausea,Ibuprofen,Dr. C. Patel,2024-02-22
+SITE004,SUBJ0084,Baseline,2024-03-19,2024-02-19,60.0,Male,163.8,82.6,30.8,80,15,36.7,117,70,Normal,Abnormal,,,Dr. D. Fernandes,2024-03-23
+SITE005,SUBJ0275,Baseline,2024-03-18,2024-02-08,68.0,Male,169.5,59.3,20.6,71,14,37.2,117,94,Not Done,Not Done,Dizziness,Paracetamol,Dr. E. Costa,2024-03-22
+SITE001,SUBJ0026,Screening,2024-02-12,2024-02-05,56.0,Female,184.1,49.0,14.5,80,14,36.6,114,71,Abnormal,Abnormal,Dizziness,Ibuprofen,Dr. A. Sharma,2024-02-17
+SITE001,SUBJ0131,Baseline,2024-01-30,2024-01-03,22.0,Female,171.2,83.5,28.5,87,17,36.3,119,77,Normal,Not Done,Dizziness,,Dr. A. Sharma,2024-01-31
+SITE005,SUBJ0145,Screening,2024-02-21,2024-02-11,18.0,Female,143.8,60.9,29.5,79,7,36.6,115,89,Not Done,Not Done,,Antihistamine,Dr. E. Costa,2024-02-25
+SITE003,SUBJ0023,Week 4,2024-03-20,2024-02-02,49.0,Female,164.7,62.0,22.9,67,15,36.4,115,68,Normal,Abnormal,,Paracetamol,Dr. C. Patel,2024-03-24
+SITE001,SUBJ0056,Week 4,2024-03-30,2024-02-24,56.0,Male,136.0,72.3,39.1,78,23,36.8,124,86,Normal,Not Done,Fatigue,Ibuprofen,Dr. A. Sharma,2024-04-03
+SITE004,SUBJ0244,Baseline,2024-03-31,2024-02-29,39.0,Male,156.7,72.2,29.4,69,25,37.3,107,79,Abnormal,Not Done,,Antihistamine,Dr. D. Fernandes,2024-04-02
+SITE005,SUBJ0185,Week 4,2024-03-22,2024-01-25,31.0,Female,161.1,83.1,32.0,71,14,36.9,133,76,Abnormal,Abnormal,Mild Headache,Paracetamol,Dr. E. Costa,2024-03-26
+SITE003,SUBJ0123,Screening,2024-02-25,2024-02-13,65.0,Male,178.8,50.6,15.8,81,14,36.9,125,76,Abnormal,Not Done,,Ibuprofen,Dr. C. Patel,2024-02-29
+SITE001,SUBJ0116,Screening,2024-02-06,2024-01-25,57.0,Male,155.0,64.2,26.7,77,21,38.0,129,76,Not Done,Abnormal,Dizziness,Paracetamol,Dr. A. Sharma,2024-02-09
+SITE005,SUBJ0195,Week 4,2024-04-11,2024-02-16,48.0,Male,166.8,64.1,23.0,85,20,37.1,127,81,Not Done,Abnormal,Mild Headache,Ibuprofen,Dr. E. Costa,2024-04-11
+SITE004,SUBJ0179,Baseline,2024-03-21,2024-02-20,47.0,Male,157.4,73.4,29.6,84,15,37.3,125,79,Normal,Abnormal,,Ibuprofen,Dr. D. Fernandes,2024-03-22
+SITE003,SUBJ0133,Week 4,2024-03-04,2024-01-21,66.0,Female,162.8,60.1,22.7,83,12,37.2,124,82,Abnormal,Abnormal,Nausea,,Dr. C. Patel,2024-03-05
+SITE002,SUBJ0062,Week 4,2024-03-30,2024-02-16,30.0,Male,168.1,57.9,20.5,91,21,36.6,128,91,Not Done,Abnormal,Fatigue,Antihistamine,Dr. B. Nguyen,2024-04-01
+SITE002,SUBJ0117,Screening,2024-01-26,2024-01-18,50.0,Male,172.8,76.9,25.8,91,15,37.1,108,74,Normal,Abnormal,Mild Headache,Antihistamine,Dr. B. Nguyen,2024-01-29
+SITE001,SUBJ0206,Screening,2024-01-27,2024-01-19,26.0,Female,157.2,90.3,36.5,83,15,36.9,118,88,Not Done,Not Done,,Ibuprofen,Dr. A. Sharma,2024-02-01
+SITE001,SUBJ0071,Baseline,2024-04-01,2024-02-23,32.0,Female,170.4,65.2,22.5,72,19,37.0,127,95,Normal,Abnormal,Nausea,,Dr. A. Sharma,2024-04-01
+SITE004,SUBJ0194,Screening,2024-02-27,2024-02-13,39.0,Male,157.1,69.9,28.3,72,14,36.5,125,91,Not Done,Not Done,,Antihistamine,Dr. D. Fernandes,2024-02-27
+SITE003,SUBJ0168,Baseline,2024-02-05,2024-01-09,53.0,Female,162.6,80.2,30.3,73,14,36.7,127,78,Not Done,Normal,Dizziness,Antihistamine,Dr. C. Patel,2024-02-05
+SITE005,SUBJ0180,Screening,2024-02-26,2024-02-13,70.0,Female,178.3,98.8,31.1,62,16,36.3,113,70,Not Done,Abnormal,Mild Headache,,Dr. E. Costa,2024-02-26
+SITE001,SUBJ0066,Baseline,2024-04-07,2024-02-29,36.0,Male,174.9,86.3,28.2,79,15,37.1,138,82,Abnormal,Normal,Mild Headache,Ibuprofen,Dr. A. Sharma,2024-04-08

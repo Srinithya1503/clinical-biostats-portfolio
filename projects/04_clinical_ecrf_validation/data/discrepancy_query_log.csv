@@ -1,0 +1,90 @@
+Query_ID,Site_ID,Subject_ID,Visit,Form_Name,Field_Name,Error_Type,Error_Description,Query_Status,Priority,Action_Required,Query_Date,Resolution_Date
+Q0001,SITE003,SUBJ0288,Baseline,ECG,Weight_kg,Missing Data,Weight not recorded at visit,Closed,High,None - Resolved,2024-02-19,2024-02-27
+Q0002,SITE002,SUBJ0197,Week 4,Demographics,Informed_Consent_Date,Missing Data,Informed consent date not entered,Answered,High,Awaiting DM review,2024-03-13,
+Q0003,SITE005,SUBJ0290,Screening,Demographics,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Open,Medium,Pending site response,2024-06-22,
+Q0004,SITE001,SUBJ0261,Week 4,ECG,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Open,High,Pending site response,2024-02-15,
+Q0005,SITE005,SUBJ0285,Baseline,Adverse Events,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Answered,High,Awaiting DM review,2024-04-21,
+Q0006,SITE005,SUBJ0220,Baseline,Vital Signs,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Closed,Medium,None - Resolved,2024-06-25,2024-07-11
+Q0007,SITE003,SUBJ0283,Week 4,Vital Signs,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Closed,Medium,None - Resolved,2024-05-12,2024-05-17
+Q0008,SITE004,SUBJ0289,Week 4,Vital Signs,Visit_Date,Logic Check Failure,Visit date entered is in the future,Open,Medium,Pending site response,2024-04-08,
+Q0009,SITE001,SUBJ0216,Screening,ECG,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Open,Medium,Pending site response,2024-06-17,
+Q0010,SITE003,SUBJ0158,Screening,Demographics,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Answered,High,Awaiting DM review,2024-06-29,
+Q0011,SITE003,SUBJ0263,Screening,ECG,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Answered,High,Awaiting DM review,2024-03-07,
+Q0012,SITE005,UNKNOWN,Screening,ECG,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Closed,High,None - Resolved,2024-02-13,2024-02-19
+Q0013,SITE005,SUBJ0235,Screening,Lab Results,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Closed,Medium,None - Resolved,2024-05-19,2024-06-08
+Q0014,SITE003,UNKNOWN,Week 4,Demographics,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Answered,Low,Awaiting DM review,2024-05-30,
+Q0015,SITE001,SUBJ0096,Screening,Lab Results,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Closed,High,None - Resolved,2024-02-03,2024-02-21
+Q0016,SITE002,SUBJ0267,Week 4,Concomitant Medications,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Closed,Medium,None - Resolved,2024-04-09,2024-04-19
+Q0017,SITE003,SUBJ0168,Week 4,Demographics,Sex,Invalid Value,Sex field contains a non-standard value,Open,High,Pending site response,2024-05-22,
+Q0018,SITE002,SUBJ0222,Baseline,Demographics,Weight_kg,Missing Data,Weight not recorded at visit,Cancelled,Low,No action - Cancelled query,2024-04-08,2024-04-25
+Q0019,SITE003,SUBJ0273,Baseline,Demographics,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Closed,High,None - Resolved,2024-02-28,2024-03-16
+Q0020,SITE004,SUBJ0269,Screening,Vital Signs,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Open,Low,Pending site response,2024-03-22,
+Q0021,SITE005,SUBJ0275,Screening,Vital Signs,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Cancelled,Low,No action - Cancelled query,2024-06-18,2024-06-19
+Q0022,SITE003,SUBJ0183,Baseline,Lab Results,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Answered,High,Awaiting DM review,2024-04-23,
+Q0023,SITE003,SUBJ0093,Baseline,Lab Results,Weight_kg,Missing Data,Weight not recorded at visit,Closed,Low,None - Resolved,2024-05-03,2024-05-13
+Q0024,SITE004,SUBJ0234,Week 4,Demographics,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Open,Low,Pending site response,2024-04-02,
+Q0025,SITE001,SUBJ0186,Baseline,Lab Results,Visit_Date,Logic Check Failure,Visit date entered is in the future,Open,Medium,Pending site response,2024-02-21,
+Q0026,SITE004,SUBJ0299,Screening,Vital Signs,Age,Missing Data,Age field not entered by site,Cancelled,Medium,No action - Cancelled query,2024-02-18,2024-02-23
+Q0027,SITE003,SUBJ0063,Screening,ECG,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Closed,Low,None - Resolved,2024-03-04,2024-03-10
+Q0028,SITE005,SUBJ0270,Week 4,ECG,Investigator_Name,Missing Data,Investigator name not documented,Answered,Medium,Awaiting DM review,2024-04-08,
+Q0029,SITE001,SUBJ0201,Screening,ECG,Weight_kg,Missing Data,Weight not recorded at visit,Cancelled,Low,No action - Cancelled query,2024-03-26,2024-04-02
+Q0030,SITE002,SUBJ0092,Screening,Lab Results,Visit_Date,Logic Check Failure,Visit date entered is in the future,Answered,Medium,Awaiting DM review,2024-04-20,
+Q0031,SITE001,SUBJ0101,Screening,Concomitant Medications,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Answered,Medium,Awaiting DM review,2024-05-06,
+Q0032,SITE003,SUBJ0068,Baseline,Vital Signs,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Open,High,Pending site response,2024-03-02,
+Q0033,SITE004,SUBJ0229,Screening,Concomitant Medications,Sex,Invalid Value,Sex field contains a non-standard value,Closed,High,None - Resolved,2024-02-06,2024-02-14
+Q0034,SITE005,SUBJ0130,Screening,Lab Results,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Open,Medium,Pending site response,2024-02-02,
+Q0035,SITE005,SUBJ0040,Screening,Adverse Events,Age,Missing Data,Age field not entered by site,Open,High,Pending site response,2024-03-30,
+Q0036,SITE004,SUBJ0199,Baseline,Informed Consent,Weight_kg,Missing Data,Weight not recorded at visit,Open,High,Pending site response,2024-04-25,
+Q0037,SITE005,SUBJ0105,Week 4,Informed Consent,Visit_Date,Logic Check Failure,Visit date entered is in the future,Open,High,Pending site response,2024-06-04,
+Q0038,SITE001,SUBJ0136,Week 4,Demographics,Sex,Invalid Value,Sex field contains a non-standard value,Closed,High,None - Resolved,2024-06-26,2024-07-12
+Q0039,SITE005,SUBJ0140,Screening,Informed Consent,Sex,Invalid Value,Sex field contains a non-standard value,Open,High,Pending site response,2024-05-15,
+Q0040,SITE004,SUBJ0004,Baseline,Informed Consent,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Answered,Medium,Awaiting DM review,2024-05-21,
+Q0041,SITE003,UNKNOWN,Baseline,Vital Signs,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Closed,Low,None - Resolved,2024-02-14,2024-02-18
+Q0042,SITE004,SUBJ0094,Week 4,ECG,Age,Missing Data,Age field not entered by site,Answered,Medium,Awaiting DM review,2024-02-16,
+Q0043,SITE001,SUBJ0181,Week 4,Concomitant Medications,Investigator_Name,Missing Data,Investigator name not documented,Open,High,Pending site response,2024-02-28,
+Q0044,SITE003,SUBJ0108,Screening,Adverse Events,Visit_Date,Missing Data,Visit date field left blank,Open,High,Pending site response,2024-05-25,
+Q0045,SITE005,UNKNOWN,Baseline,Adverse Events,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Open,Low,Pending site response,2024-05-29,
+Q0046,SITE002,SUBJ0102,Baseline,Vital Signs,Sex,Invalid Value,Sex field contains a non-standard value,Closed,Low,None - Resolved,2024-05-24,2024-05-28
+Q0047,SITE003,SUBJ0108,Baseline,Vital Signs,Informed_Consent_Date,Missing Data,Informed consent date not entered,Closed,Medium,None - Resolved,2024-02-13,2024-02-14
+Q0048,SITE003,SUBJ0188,Week 4,Informed Consent,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Cancelled,Low,No action - Cancelled query,2024-02-24,2024-03-01
+Q0049,SITE001,SUBJ0266,Week 4,Adverse Events,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Answered,High,Awaiting DM review,2024-05-15,
+Q0050,SITE001,SUBJ0136,Screening,Demographics,Informed_Consent_Date,Missing Data,Informed consent date not entered,Cancelled,High,No action - Cancelled query,2024-05-13,2024-05-14
+Q0051,SITE003,SUBJ0013,Screening,Demographics,Informed_Consent_Date,Missing Data,Informed consent date not entered,Open,Low,Pending site response,2024-05-10,
+Q0052,SITE003,SUBJ0178,Week 4,Concomitant Medications,Visit_Date,Missing Data,Visit date field left blank,Open,Medium,Pending site response,2024-05-27,
+Q0053,SITE005,SUBJ0001,Baseline,Demographics,Visit_Date,Logic Check Failure,Visit date entered is in the future,Closed,Medium,None - Resolved,2024-06-22,2024-06-29
+Q0054,SITE005,SUBJ0250,Week 4,Adverse Events,Visit_Date,Logic Check Failure,Visit date recorded before informed consent date,Open,High,Pending site response,2024-04-16,
+Q0055,SITE001,SUBJ0226,Week 4,Informed Consent,Visit_Date,Missing Data,Visit date field left blank,Open,Medium,Pending site response,2024-06-18,
+Q0056,SITE004,SUBJ0239,Screening,Adverse Events,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Closed,Medium,None - Resolved,2024-02-13,2024-03-01
+Q0057,SITE004,SUBJ0179,Week 4,Lab Results,Informed_Consent_Date,Missing Data,Informed consent date not entered,Open,Medium,Pending site response,2024-03-12,
+Q0058,SITE001,SUBJ0036,Screening,Adverse Events,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Open,High,Pending site response,2024-03-19,
+Q0059,SITE004,SUBJ0169,Week 4,Informed Consent,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Answered,Low,Awaiting DM review,2024-04-01,
+Q0060,SITE002,SUBJ0222,Week 4,Demographics,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Open,Medium,Pending site response,2024-06-25,
+Q0061,SITE005,SUBJ0070,Baseline,ECG,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Answered,Medium,Awaiting DM review,2024-02-21,
+Q0062,SITE005,SUBJ0090,Week 4,Concomitant Medications,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Answered,High,Awaiting DM review,2024-06-13,
+Q0063,SITE004,SUBJ0299,Week 4,Lab Results,Sex,Invalid Value,Sex field contains a non-standard value,Open,Medium,Pending site response,2024-04-21,
+Q0064,SITE005,SUBJ0210,Baseline,Demographics,Heart_Rate_bpm,Range Check Failure,Heart rate outside protocol-defined normal range,Answered,Low,Awaiting DM review,2024-04-17,
+Q0065,SITE001,SUBJ0016,Screening,Concomitant Medications,Visit_Date,Logic Check Failure,Visit date entered is in the future,Open,Medium,Pending site response,2024-02-19,
+Q0066,SITE001,SUBJ0111,Baseline,Demographics,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Cancelled,High,No action - Cancelled query,2024-06-24,2024-07-01
+Q0067,SITE002,SUBJ0197,Screening,Lab Results,Investigator_Name,Missing Data,Investigator name not documented,Open,Low,Pending site response,2024-06-09,
+Q0068,SITE001,SUBJ0141,Baseline,Adverse Events,Visit_Date,Missing Data,Visit date field left blank,Closed,Medium,None - Resolved,2024-02-18,2024-02-24
+Q0069,SITE005,SUBJ0005,Screening,Informed Consent,Temperature_C,Range Check Failure,Body temperature outside acceptable clinical range,Closed,Medium,None - Resolved,2024-05-23,2024-06-12
+Q0070,SITE005,SUBJ0010,Week 4,ECG,Investigator_Name,Missing Data,Investigator name not documented,Open,Low,Pending site response,2024-06-15,
+Q0071,SITE001,SUBJ0061,Screening,Lab Results,Investigator_Name,Missing Data,Investigator name not documented,Cancelled,High,No action - Cancelled query,2024-04-17,2024-04-22
+Q0072,SITE001,SUBJ0066,Week 4,Informed Consent,Visit_Date,Missing Data,Visit date field left blank,Open,High,Pending site response,2024-04-08,
+Q0073,SITE004,SUBJ0154,Baseline,Adverse Events,Weight_kg,Missing Data,Weight not recorded at visit,Open,High,Pending site response,2024-06-21,
+Q0074,SITE002,UNKNOWN,Baseline,Lab Results,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Closed,High,None - Resolved,2024-03-25,2024-04-03
+Q0075,SITE001,SUBJ0161,Baseline,Vital Signs,Systolic_BP_mmHg,Range Check Failure,Systolic blood pressure exceeds protocol limit,Answered,Low,Awaiting DM review,2024-06-09,
+Q0076,SITE001,UNKNOWN,Baseline,ECG,Subject_ID,Missing Data,Subject ID field left blank on eCRF,Open,Medium,Pending site response,2024-02-14,
+Q0077,SITE005,SUBJ0105,Screening,Demographics,Age,Missing Data,Age field not entered by site,Open,Medium,Pending site response,2024-04-11,
+Q0078,SITE002,SUBJ0097,Week 4,Demographics,Age,Missing Data,Age field not entered by site,Closed,High,None - Resolved,2024-03-05,2024-03-20
+Q0079,SITE005,SUBJ0015,Week 4,ECG,Age,Missing Data,Age field not entered by site,Closed,Medium,None - Resolved,2024-06-21,2024-06-25
+Q0080,SITE001,SUBJ0171,Week 4,Vital Signs,Visit_Date,Missing Data,Visit date field left blank,Cancelled,Medium,No action - Cancelled query,2024-02-20,2024-02-25
+Q0081,SITE004,SUBJ0059,Baseline,Informed Consent,Informed_Consent_Date,Missing Data,Informed consent date not entered,Open,Medium,Pending site response,2024-06-19,
+Q0082,SITE002,SUBJ0295,Screening,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Open,High,Pending site response,2024-06-21,
+Q0083,SITE003,SUBJ0037,Screening,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Answered,Low,Awaiting DM review,2024-04-19,
+Q0084,SITE001,SUBJ0009,Baseline,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Closed,High,None - Resolved,2024-02-11,2024-02-19
+Q0085,SITE001,SUBJ0198,Week 4,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Answered,Medium,Awaiting DM review,2024-02-27,
+Q0086,SITE002,SUBJ0021,Screening,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Cancelled,Medium,No action - Cancelled query,2024-05-15,2024-05-23
+Q0087,SITE002,SUBJ0274,Baseline,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Cancelled,Low,No action - Cancelled query,2024-03-13,2024-03-27
+Q0088,SITE003,SUBJ0252,Week 4,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Open,Low,Pending site response,2024-02-07,
+Q0089,SITE002,SUBJ0189,Week 4,Demographics,Subject_ID,Duplicate Record,Subject ID appears to be duplicated across records,Closed,Low,None - Resolved,2024-05-16,2024-05-24
