@@ -1,0 +1,9 @@
+Metric,Value
+Total Records,906.0
+Total Queries,89.0
+Open Queries,35.0
+Closed Queries,24.0
+Error Rate (%),9.82
+Missing Values,779.0
+Protocol Deviations,28.0
+Overall Completeness (%),95.91
