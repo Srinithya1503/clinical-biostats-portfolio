@@ -83,7 +83,11 @@ clinical-data-portfolio/
 * **Objective:** Improve clinical trial document compliance, inspection readiness, and operational oversight by analyzing Trial Master File (TMF) tracking data across global investigator sites.
 * **Core Toolkit:** Excel Data Validation, Clinical Data Management Principles, ICH-GCP Compliance Framework.
 * **Key Deliverable:** Developed a TMF reconciliation and site performance analytics workflow for **ONCO-2023-001 multi-national oncology trial data**, auditing document tracking manifests across **5 global regions (India, Germany, USA, Japan, UK)** against standardized ICH-GCP quality requirements.
-  
+
+### [05. Pharma Pipeline Benchmarking and Clinical Trial Analysis](./projects/05_pharma_clinical_trial_analysis) 
+* **Objective:**  To evaluate whether a drug, therapy, or company stands against competitors across clinical development stages (Phase 1–3), therapeutic areas, target indications, and mechanism of action (MoA) by benchmarking analysis.
+* **Core Toolkit:** ClinicaTrials.gov, Python (requests,Pandas, NumPY), SAS
+* **Key Deliverable:** Automated **clinical trial data cleaning and benchmarking analysis** (phase distribution, sponsor trends, enrollment/duration metrics) across **2,000 records using Python and SAS**. 
 ---
 
 ## 📖 Continuous Learning Dashboard (`/daily_practice`)
