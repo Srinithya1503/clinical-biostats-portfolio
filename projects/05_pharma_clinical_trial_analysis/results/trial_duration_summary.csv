@@ -1,0 +1,7 @@
+phase,avg_duration_days,median_duration_days,min_duration_days,max_duration_days,trial_count
+EARLY_PHASE1,1447.1,1189.0,128.0,6399.0,33
+N/A,1460.8,1034.5,0.0,14610.0,792
+PHASE1,1538.4,1259.0,0.0,6022.0,385
+PHASE2,1759.1,1461.0,0.0,7190.0,528
+PHASE3,2056.6,1903.5,126.0,5849.0,150
+PHASE4,1203.8,1171.5,120.0,2892.0,34
