@@ -2,19 +2,6 @@
    sas_analysis_basic.sas
 
    Clinical Trial Benchmarking Analysis - Basic SAS Version
-
-   This script uses only simple, everyday SAS commands:
-     - PROC IMPORT   (read the CSV file)
-     - DATA step     (clean the data, with plain IF/THEN logic)
-     - PROC SORT     (remove duplicates, sort results)
-     - PROC FREQ     (count trials by phase / by sponsor)
-     - PROC MEANS    (median enrollment, duration statistics)
-     - PROC PRINT    (show results in the output window)
-     - PROC EXPORT   (save results back to CSV)
-
-   No macros (%let / %macro), no PROC SQL, and no custom functions
-   are used, so every step can be read top to bottom.
-
    BEFORE YOU RUN THIS:
      1. Change the file path on the line below (raw_trials.csv) to
         wherever your file is saved.
